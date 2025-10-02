@@ -1,13 +1,33 @@
 import pandas as pd
 from pathlib import Path
 
-team = "Geelong"    # change as needed
+   # change as needed
 min_tog = 60         # threshold
+teams =[
+    "Western Bulldogs",
+    "Geelong",
+    "Greater Western Sydney",
+    "Gold Coast",
+    "Hawthorn",
+    "Brisbane",
+    "Collingwood",
+    "Adelaide",
+    "Fremantle",
+    "Carlton",
+    "Melbourne",
+    "Sydney",
+    "St Kilda",
+    "North Melbourne",
+    "Essendon",
+    "Port Adelaide",
+    "Richmond",
+    "West Coast"
+]
 
 FINAL_COLS = [
     "Round", "Player", "Team",
     "Disposals", "Kicks", "Handballs", "K%", "H%",
-    "Marks", "Goals", "Tackles",
+    "Marks", "Goals", "Tackles", "Position"
 ]
 
 def clean_team_stats(team_name: str, min_tog: float):
@@ -56,4 +76,5 @@ def clean_team_stats(team_name: str, min_tog: float):
     print(f"Filtered out {before - after} low-TOG rows (< {min_tog}). Kept {after}.")
 
 if __name__ == "__main__":
-    clean_team_stats(team, min_tog)
+    for team in teams:
+        clean_team_stats(team, min_tog)

@@ -1,0 +1,530 @@
+Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
+1,Archer Reid,West Coast,6.0,1.0,5.0,0.17,0.83,0.0,0.0,3.0,Key Forward
+1,Brady Hough,West Coast,16.0,8.0,8.0,0.5,0.5,4.0,0.0,2.0,Midfielder
+1,Elijah Hewett,West Coast,11.0,6.0,5.0,0.55,0.45,1.0,0.0,4.0,Midfielder
+1,Harley Reid,West Coast,12.0,6.0,6.0,0.5,0.5,1.0,1.0,1.0,Midfielder
+1,Harry Edwards,West Coast,3.0,2.0,1.0,0.67,0.33,1.0,0.0,2.0,Key Defender
+1,Jack Graham,West Coast,23.0,11.0,12.0,0.48,0.52,3.0,0.0,10.0,Mid-Forward
+1,Jack Hutchinson,West Coast,12.0,7.0,5.0,0.58,0.42,5.0,0.0,7.0,Midfielder
+1,Jake Waterman,West Coast,,,,,,,,,Key Forward
+1,Jamie Cripps,West Coast,14.0,11.0,3.0,0.79,0.21,4.0,0.0,0.0,Gen. Forward
+1,Jayden Hunt,West Coast,8.0,3.0,5.0,0.38,0.62,1.0,0.0,1.0,Midfielder
+1,Jeremy McGovern,West Coast,19.0,14.0,5.0,0.74,0.26,1.0,0.0,2.0,Key Defender
+1,Liam Baker,West Coast,21.0,14.0,7.0,0.67,0.33,3.0,0.0,1.0,Gen. Defender
+1,Liam Duggan,West Coast,20.0,11.0,9.0,0.55,0.45,4.0,0.0,3.0,Gen. Defender
+1,Matt Flynn,West Coast,13.0,7.0,6.0,0.54,0.46,4.0,1.0,3.0,Ruck
+1,Matthew Owies,West Coast,11.0,5.0,6.0,0.45,0.55,5.0,1.0,3.0,Gen. Forward
+1,Noah Long,West Coast,6.0,2.0,4.0,0.33,0.67,1.0,0.0,0.0,Gen. Forward
+1,Oscar Allen,West Coast,8.0,6.0,2.0,0.75,0.25,5.0,2.0,3.0,Key Forward
+1,Reuben Ginbey,West Coast,16.0,10.0,6.0,0.62,0.38,3.0,0.0,4.0,Gen. Defender
+1,Ryan Maric,West Coast,,,,,,,,,Gen. Defender
+1,Tim Kelly,West Coast,14.0,7.0,7.0,0.5,0.5,2.0,0.0,6.0,Mid-Forward
+1,Tom Cole,West Coast,19.0,10.0,9.0,0.53,0.47,8.0,0.0,4.0,Gen. Defender
+1,Tyler Brockman,West Coast,15.0,3.0,12.0,0.2,0.8,1.0,0.0,3.0,Gen. Forward
+1,Tyrell Dewar,West Coast,15.0,12.0,3.0,0.8,0.2,2.0,0.0,1.0,Midfielder
+2,Archer Reid,West Coast,7.0,5.0,2.0,0.71,0.29,1.0,0.0,0.0,Key Forward
+2,Bailey J. Williams,West Coast,,,,,,,,,Ruck
+2,Brady Hough,West Coast,14.0,10.0,4.0,0.71,0.29,4.0,0.0,5.0,Midfielder
+2,Clay Hall,West Coast,15.0,4.0,11.0,0.27,0.73,0.0,1.0,3.0,Midfielder
+2,Elijah Hewett,West Coast,13.0,8.0,5.0,0.62,0.38,2.0,0.0,2.0,Midfielder
+2,Harley Reid,West Coast,15.0,8.0,7.0,0.53,0.47,3.0,0.0,7.0,Midfielder
+2,Harry Edwards,West Coast,7.0,6.0,1.0,0.86,0.14,3.0,0.0,0.0,Key Defender
+2,Jack Petruccelle,West Coast,,,,,,,,,Gen. Forward
+2,Jamie Cripps,West Coast,12.0,8.0,4.0,0.67,0.33,2.0,1.0,2.0,Gen. Forward
+2,Jayden Hunt,West Coast,18.0,9.0,9.0,0.5,0.5,5.0,0.0,1.0,Midfielder
+2,Jeremy McGovern,West Coast,20.0,11.0,9.0,0.55,0.45,3.0,0.0,1.0,Key Defender
+2,Liam Baker,West Coast,24.0,15.0,9.0,0.62,0.38,3.0,0.0,7.0,Gen. Defender
+2,Liam Duggan,West Coast,19.0,9.0,10.0,0.47,0.53,5.0,0.0,2.0,Gen. Defender
+2,Liam Ryan,West Coast,16.0,10.0,6.0,0.62,0.38,4.0,3.0,1.0,Gen. Forward
+2,Matthew Owies,West Coast,13.0,4.0,9.0,0.31,0.69,2.0,0.0,8.0,Gen. Forward
+2,Noah Long,West Coast,7.0,3.0,4.0,0.43,0.57,0.0,0.0,3.0,Gen. Forward
+2,Oscar Allen,West Coast,8.0,7.0,1.0,0.88,0.12,4.0,1.0,0.0,Key Forward
+2,Reuben Ginbey,West Coast,11.0,8.0,3.0,0.73,0.27,5.0,0.0,3.0,Gen. Defender
+2,Ryan Maric,West Coast,26.0,18.0,8.0,0.69,0.31,1.0,0.0,1.0,Gen. Defender
+2,Tim Kelly,West Coast,29.0,15.0,14.0,0.52,0.48,5.0,0.0,4.0,Mid-Forward
+2,Tom Cole,West Coast,13.0,4.0,9.0,0.31,0.69,2.0,0.0,4.0,Gen. Defender
+2,Tyler Brockman,West Coast,9.0,6.0,3.0,0.67,0.33,3.0,2.0,0.0,Gen. Forward
+2,Tyrell Dewar,West Coast,20.0,15.0,5.0,0.75,0.25,7.0,2.0,1.0,Midfielder
+3,Archer Reid,West Coast,8.0,7.0,1.0,0.88,0.12,5.0,2.0,1.0,Key Forward
+3,Bailey J. Williams,West Coast,13.0,7.0,6.0,0.54,0.46,1.0,0.0,4.0,Ruck
+3,Brady Hough,West Coast,13.0,7.0,6.0,0.54,0.46,5.0,0.0,0.0,Midfielder
+3,Elijah Hewett,West Coast,,,,,,,,,Midfielder
+3,Harley Reid,West Coast,15.0,11.0,4.0,0.73,0.27,3.0,1.0,3.0,Midfielder
+3,Harry Edwards,West Coast,7.0,5.0,2.0,0.71,0.29,5.0,0.0,0.0,Key Defender
+3,Jack Graham,West Coast,17.0,9.0,8.0,0.53,0.47,0.0,0.0,7.0,Mid-Forward
+3,Jack Williams,West Coast,8.0,4.0,4.0,0.5,0.5,4.0,1.0,5.0,Key Forward
+3,Jamie Cripps,West Coast,13.0,8.0,5.0,0.62,0.38,3.0,2.0,3.0,Gen. Forward
+3,Jayden Hunt,West Coast,14.0,11.0,3.0,0.79,0.21,3.0,1.0,0.0,Midfielder
+3,Jeremy McGovern,West Coast,,,,,,,,,Key Defender
+3,Liam Baker,West Coast,23.0,12.0,11.0,0.52,0.48,3.0,0.0,3.0,Gen. Defender
+3,Liam Duggan,West Coast,13.0,12.0,1.0,0.92,0.08,5.0,0.0,1.0,Gen. Defender
+3,Liam Ryan,West Coast,10.0,8.0,2.0,0.8,0.2,3.0,1.0,0.0,Gen. Forward
+3,Matthew Owies,West Coast,6.0,2.0,4.0,0.33,0.67,1.0,1.0,3.0,Gen. Forward
+3,Noah Long,West Coast,11.0,4.0,7.0,0.36,0.64,4.0,0.0,0.0,Gen. Forward
+3,Oscar Allen,West Coast,4.0,3.0,1.0,0.75,0.25,1.0,0.0,4.0,Key Forward
+3,Reuben Ginbey,West Coast,11.0,7.0,4.0,0.64,0.36,3.0,0.0,3.0,Gen. Defender
+3,Ryan Maric,West Coast,28.0,24.0,4.0,0.86,0.14,8.0,0.0,0.0,Gen. Defender
+3,Tim Kelly,West Coast,18.0,12.0,6.0,0.67,0.33,3.0,0.0,2.0,Mid-Forward
+3,Tom Cole,West Coast,13.0,6.0,7.0,0.46,0.54,4.0,0.0,2.0,Gen. Defender
+3,Tyler Brockman,West Coast,6.0,3.0,3.0,0.5,0.5,2.0,1.0,2.0,Gen. Forward
+3,Tyrell Dewar,West Coast,19.0,10.0,9.0,0.53,0.47,4.0,0.0,0.0,Midfielder
+4,Archer Reid,West Coast,10.0,5.0,5.0,0.5,0.5,4.0,1.0,0.0,Key Forward
+4,Bailey J. Williams,West Coast,11.0,5.0,6.0,0.45,0.55,1.0,0.0,4.0,Ruck
+4,Brady Hough,West Coast,9.0,6.0,3.0,0.67,0.33,3.0,0.0,1.0,Midfielder
+4,Clay Hall,West Coast,18.0,3.0,15.0,0.17,0.83,1.0,0.0,1.0,Midfielder
+4,Hamish Davis,West Coast,,,,,,,,,Mid-Forward
+4,Harley Reid,West Coast,25.0,11.0,14.0,0.44,0.56,1.0,0.0,0.0,Midfielder
+4,Jack Graham,West Coast,19.0,7.0,12.0,0.37,0.63,1.0,0.0,5.0,Mid-Forward
+4,Jack Williams,West Coast,11.0,9.0,2.0,0.82,0.18,4.0,2.0,2.0,Key Forward
+4,Jamie Cripps,West Coast,7.0,6.0,1.0,0.86,0.14,1.0,2.0,4.0,Gen. Forward
+4,Jayden Hunt,West Coast,12.0,5.0,7.0,0.42,0.58,2.0,0.0,3.0,Midfielder
+4,Liam Baker,West Coast,24.0,14.0,10.0,0.58,0.42,3.0,0.0,4.0,Gen. Defender
+4,Liam Duggan,West Coast,21.0,18.0,3.0,0.86,0.14,5.0,0.0,1.0,Gen. Defender
+4,Matthew Owies,West Coast,6.0,5.0,1.0,0.83,0.17,3.0,0.0,3.0,Gen. Forward
+4,Noah Long,West Coast,,,,,,,,,Gen. Forward
+4,Oscar Allen,West Coast,8.0,6.0,2.0,0.75,0.25,4.0,0.0,4.0,Key Forward
+4,Reuben Ginbey,West Coast,17.0,14.0,3.0,0.82,0.18,5.0,0.0,1.0,Gen. Defender
+4,Ryan Maric,West Coast,22.0,15.0,7.0,0.68,0.32,3.0,0.0,1.0,Gen. Defender
+4,Sandy Brock,West Coast,12.0,11.0,1.0,0.92,0.08,5.0,0.0,1.0,Key Defender
+4,Tim Kelly,West Coast,14.0,3.0,11.0,0.21,0.79,1.0,0.0,1.0,Mid-Forward
+4,Tom Cole,West Coast,11.0,5.0,6.0,0.45,0.55,4.0,0.0,0.0,Gen. Defender
+4,Tom Gross,West Coast,17.0,9.0,8.0,0.53,0.47,4.0,1.0,1.0,Mid-Forward
+4,Tyler Brockman,West Coast,7.0,3.0,4.0,0.43,0.57,0.0,0.0,2.0,Gen. Forward
+4,Tyrell Dewar,West Coast,14.0,11.0,3.0,0.79,0.21,2.0,1.0,0.0,Midfielder
+5,Archer Reid,West Coast,5.0,3.0,2.0,0.6,0.4,3.0,1.0,1.0,Key Forward
+5,Bailey J. Williams,West Coast,7.0,1.0,6.0,0.14,0.86,1.0,0.0,1.0,Ruck
+5,Brady Hough,West Coast,12.0,6.0,6.0,0.5,0.5,5.0,0.0,0.0,Midfielder
+5,Clay Hall,West Coast,12.0,4.0,8.0,0.33,0.67,1.0,0.0,3.0,Midfielder
+5,Hamish Davis,West Coast,,,,,,,,,Mid-Forward
+5,Harley Reid,West Coast,16.0,11.0,5.0,0.69,0.31,2.0,0.0,3.0,Midfielder
+5,Harry Edwards,West Coast,9.0,7.0,2.0,0.78,0.22,5.0,0.0,1.0,Key Defender
+5,Jack Graham,West Coast,20.0,12.0,8.0,0.6,0.4,5.0,0.0,9.0,Mid-Forward
+5,Jack Hutchinson,West Coast,12.0,5.0,7.0,0.42,0.58,1.0,0.0,4.0,Midfielder
+5,Jack Williams,West Coast,,,,,,,,,Key Forward
+5,Jake Waterman,West Coast,12.0,10.0,2.0,0.83,0.17,12.0,0.0,0.0,Key Forward
+5,Jamie Cripps,West Coast,12.0,9.0,3.0,0.75,0.25,7.0,1.0,2.0,Gen. Forward
+5,Jayden Hunt,West Coast,16.0,10.0,6.0,0.62,0.38,3.0,0.0,1.0,Midfielder
+5,Liam Baker,West Coast,23.0,10.0,13.0,0.43,0.57,6.0,0.0,3.0,Gen. Defender
+5,Liam Duggan,West Coast,19.0,16.0,3.0,0.84,0.16,7.0,0.0,4.0,Gen. Defender
+5,Liam Ryan,West Coast,12.0,10.0,2.0,0.83,0.17,3.0,2.0,2.0,Gen. Forward
+5,Matthew Owies,West Coast,10.0,6.0,4.0,0.6,0.4,2.0,1.0,1.0,Gen. Forward
+5,Oscar Allen,West Coast,8.0,6.0,2.0,0.75,0.25,4.0,1.0,2.0,Key Forward
+5,Reuben Ginbey,West Coast,11.0,7.0,4.0,0.64,0.36,3.0,0.0,4.0,Gen. Defender
+5,Ryan Maric,West Coast,21.0,20.0,1.0,0.95,0.05,4.0,0.0,1.0,Gen. Defender
+5,Sandy Brock,West Coast,7.0,4.0,3.0,0.57,0.43,5.0,0.0,1.0,Key Defender
+5,Tom Gross,West Coast,18.0,12.0,6.0,0.67,0.33,4.0,0.0,3.0,Mid-Forward
+5,Tyrell Dewar,West Coast,11.0,4.0,7.0,0.36,0.64,2.0,0.0,0.0,Midfielder
+6,Archer Reid,West Coast,6.0,3.0,3.0,0.5,0.5,1.0,0.0,5.0,Key Forward
+6,Brady Hough,West Coast,14.0,7.0,7.0,0.5,0.5,5.0,0.0,1.0,Midfielder
+6,Elijah Hewett,West Coast,22.0,9.0,13.0,0.41,0.59,3.0,2.0,2.0,Midfielder
+6,Hamish Davis,West Coast,15.0,9.0,6.0,0.6,0.4,2.0,0.0,0.0,Mid-Forward
+6,Harley Reid,West Coast,17.0,11.0,6.0,0.65,0.35,3.0,0.0,4.0,Midfielder
+6,Harry Edwards,West Coast,8.0,5.0,3.0,0.62,0.38,1.0,0.0,1.0,Key Defender
+6,Jack Graham,West Coast,24.0,9.0,15.0,0.38,0.62,2.0,0.0,6.0,Mid-Forward
+6,Jack Hutchinson,West Coast,9.0,3.0,6.0,0.33,0.67,0.0,0.0,6.0,Midfielder
+6,Jack Williams,West Coast,15.0,7.0,8.0,0.47,0.53,5.0,3.0,3.0,Key Forward
+6,Jake Waterman,West Coast,13.0,11.0,2.0,0.85,0.15,10.0,4.0,0.0,Key Forward
+6,Jamie Cripps,West Coast,12.0,9.0,3.0,0.75,0.25,5.0,1.0,5.0,Gen. Forward
+6,Jayden Hunt,West Coast,17.0,9.0,8.0,0.53,0.47,2.0,1.0,2.0,Midfielder
+6,Jeremy McGovern,West Coast,23.0,16.0,7.0,0.7,0.3,7.0,0.0,1.0,Key Defender
+6,Liam Baker,West Coast,22.0,12.0,10.0,0.55,0.45,4.0,0.0,2.0,Gen. Defender
+6,Liam Duggan,West Coast,14.0,6.0,8.0,0.43,0.57,4.0,0.0,2.0,Gen. Defender
+6,Liam Ryan,West Coast,11.0,9.0,2.0,0.82,0.18,5.0,0.0,1.0,Gen. Forward
+6,Matt Flynn,West Coast,19.0,11.0,8.0,0.58,0.42,7.0,0.0,1.0,Ruck
+6,Matthew Owies,West Coast,8.0,7.0,1.0,0.88,0.12,3.0,0.0,3.0,Gen. Forward
+6,Reuben Ginbey,West Coast,8.0,3.0,5.0,0.38,0.62,3.0,0.0,2.0,Gen. Defender
+6,Ryan Maric,West Coast,20.0,15.0,5.0,0.75,0.25,4.0,0.0,1.0,Gen. Defender
+6,Tim Kelly,West Coast,22.0,10.0,12.0,0.45,0.55,2.0,0.0,5.0,Mid-Forward
+6,Tom Gross,West Coast,,,,,,,,,Mid-Forward
+6,Tyrell Dewar,West Coast,5.0,3.0,2.0,0.6,0.4,2.0,0.0,3.0,Midfielder
+7,Archer Reid,West Coast,5.0,4.0,1.0,0.8,0.2,2.0,0.0,1.0,Key Forward
+7,Brady Hough,West Coast,23.0,9.0,14.0,0.39,0.61,3.0,0.0,6.0,Midfielder
+7,Elijah Hewett,West Coast,17.0,4.0,13.0,0.24,0.76,1.0,0.0,1.0,Midfielder
+7,Hamish Davis,West Coast,,,,,,,,,Mid-Forward
+7,Harley Reid,West Coast,19.0,7.0,12.0,0.37,0.63,0.0,2.0,3.0,Midfielder
+7,Jack Graham,West Coast,14.0,8.0,6.0,0.57,0.43,0.0,0.0,9.0,Mid-Forward
+7,Jack Hutchinson,West Coast,19.0,12.0,7.0,0.63,0.37,3.0,0.0,7.0,Midfielder
+7,Jack Williams,West Coast,5.0,1.0,4.0,0.2,0.8,1.0,1.0,4.0,Key Forward
+7,Jake Waterman,West Coast,8.0,4.0,4.0,0.5,0.5,2.0,2.0,1.0,Key Forward
+7,Jamie Cripps,West Coast,10.0,4.0,6.0,0.4,0.6,1.0,1.0,7.0,Gen. Forward
+7,Jayden Hunt,West Coast,17.0,9.0,8.0,0.53,0.47,3.0,0.0,2.0,Midfielder
+7,Jeremy McGovern,West Coast,17.0,11.0,6.0,0.65,0.35,7.0,0.0,0.0,Key Defender
+7,Liam Baker,West Coast,24.0,11.0,13.0,0.46,0.54,7.0,0.0,0.0,Gen. Defender
+7,Liam Duggan,West Coast,17.0,13.0,4.0,0.76,0.24,3.0,0.0,3.0,Gen. Defender
+7,Liam Ryan,West Coast,7.0,5.0,2.0,0.71,0.29,0.0,3.0,6.0,Gen. Forward
+7,Matt Flynn,West Coast,16.0,8.0,8.0,0.5,0.5,4.0,0.0,4.0,Ruck
+7,Matthew Owies,West Coast,10.0,9.0,1.0,0.9,0.1,4.0,1.0,0.0,Gen. Forward
+7,Noah Long,West Coast,,,,,,,,,Gen. Forward
+7,Oscar Allen,West Coast,10.0,9.0,1.0,0.9,0.1,5.0,0.0,2.0,Key Forward
+7,Reuben Ginbey,West Coast,11.0,6.0,5.0,0.55,0.45,3.0,0.0,2.0,Gen. Defender
+7,Ryan Maric,West Coast,25.0,15.0,10.0,0.6,0.4,4.0,0.0,0.0,Gen. Defender
+7,Tom Cole,West Coast,16.0,8.0,8.0,0.5,0.5,6.0,0.0,2.0,Gen. Defender
+7,Tyrell Dewar,West Coast,7.0,6.0,1.0,0.86,0.14,1.0,0.0,1.0,Midfielder
+8,Archer Reid,West Coast,5.0,4.0,1.0,0.8,0.2,3.0,0.0,0.0,Key Forward
+8,Bo Allan,West Coast,7.0,3.0,4.0,0.43,0.57,4.0,0.0,2.0,Gen. Defender
+8,Brady Hough,West Coast,12.0,5.0,7.0,0.42,0.58,2.0,0.0,3.0,Midfielder
+8,Elijah Hewett,West Coast,15.0,7.0,8.0,0.47,0.53,3.0,3.0,4.0,Midfielder
+8,Harley Reid,West Coast,13.0,4.0,9.0,0.31,0.69,1.0,0.0,1.0,Midfielder
+8,Jack Graham,West Coast,15.0,9.0,6.0,0.6,0.4,2.0,0.0,10.0,Mid-Forward
+8,Jack Hutchinson,West Coast,16.0,8.0,8.0,0.5,0.5,6.0,0.0,2.0,Midfielder
+8,Jack Williams,West Coast,13.0,8.0,5.0,0.62,0.38,6.0,1.0,1.0,Key Forward
+8,Jake Waterman,West Coast,11.0,9.0,2.0,0.82,0.18,7.0,3.0,1.0,Key Forward
+8,Jamie Cripps,West Coast,11.0,6.0,5.0,0.55,0.45,2.0,2.0,3.0,Gen. Forward
+8,Jayden Hunt,West Coast,13.0,5.0,8.0,0.38,0.62,3.0,1.0,3.0,Midfielder
+8,Jeremy McGovern,West Coast,,,,,,,,,Key Defender
+8,Liam Baker,West Coast,24.0,11.0,13.0,0.46,0.54,2.0,0.0,1.0,Gen. Defender
+8,Liam Duggan,West Coast,18.0,15.0,3.0,0.83,0.17,7.0,0.0,0.0,Gen. Defender
+8,Liam Ryan,West Coast,10.0,6.0,4.0,0.6,0.4,1.0,0.0,3.0,Gen. Forward
+8,Matt Flynn,West Coast,9.0,4.0,5.0,0.44,0.56,2.0,0.0,5.0,Ruck
+8,Matthew Owies,West Coast,15.0,8.0,7.0,0.53,0.47,3.0,0.0,0.0,Gen. Forward
+8,Oscar Allen,West Coast,15.0,12.0,3.0,0.8,0.2,2.0,0.0,2.0,Key Forward
+8,Reuben Ginbey,West Coast,19.0,13.0,6.0,0.68,0.32,5.0,0.0,5.0,Gen. Defender
+8,Ryan Maric,West Coast,26.0,20.0,6.0,0.77,0.23,7.0,0.0,4.0,Gen. Defender
+8,Tim Kelly,West Coast,14.0,8.0,6.0,0.57,0.43,0.0,0.0,5.0,Mid-Forward
+8,Tom Cole,West Coast,,,,,,,,,Gen. Defender
+8,Tyler Brockman,West Coast,14.0,8.0,6.0,0.57,0.43,2.0,1.0,2.0,Gen. Forward
+9,Archer Reid,West Coast,3.0,2.0,1.0,0.67,0.33,1.0,0.0,3.0,Key Forward
+9,Bailey J. Williams,West Coast,14.0,7.0,7.0,0.5,0.5,3.0,2.0,1.0,Ruck
+9,Brady Hough,West Coast,15.0,3.0,12.0,0.2,0.8,3.0,0.0,8.0,Midfielder
+9,Elijah Hewett,West Coast,13.0,5.0,8.0,0.38,0.62,2.0,0.0,0.0,Midfielder
+9,Harley Reid,West Coast,18.0,10.0,8.0,0.56,0.44,0.0,1.0,2.0,Midfielder
+9,Harry Edwards,West Coast,15.0,8.0,7.0,0.53,0.47,6.0,0.0,0.0,Key Defender
+9,Jack Graham,West Coast,20.0,9.0,11.0,0.45,0.55,2.0,0.0,13.0,Mid-Forward
+9,Jack Hutchinson,West Coast,13.0,6.0,7.0,0.46,0.54,6.0,0.0,3.0,Midfielder
+9,Jake Waterman,West Coast,10.0,6.0,4.0,0.6,0.4,5.0,1.0,1.0,Key Forward
+9,Jamie Cripps,West Coast,15.0,10.0,5.0,0.67,0.33,4.0,3.0,4.0,Gen. Forward
+9,Jayden Hunt,West Coast,15.0,10.0,5.0,0.67,0.33,1.0,1.0,1.0,Midfielder
+9,Liam Baker,West Coast,22.0,12.0,10.0,0.55,0.45,3.0,0.0,6.0,Gen. Defender
+9,Liam Duggan,West Coast,20.0,17.0,3.0,0.85,0.15,4.0,0.0,1.0,Gen. Defender
+9,Liam Ryan,West Coast,17.0,10.0,7.0,0.59,0.41,3.0,0.0,3.0,Gen. Forward
+9,Matt Flynn,West Coast,13.0,6.0,7.0,0.46,0.54,5.0,0.0,3.0,Ruck
+9,Matthew Owies,West Coast,11.0,11.0,0.0,1.0,0.0,4.0,2.0,1.0,Gen. Forward
+9,Reuben Ginbey,West Coast,11.0,4.0,7.0,0.36,0.64,1.0,0.0,4.0,Gen. Defender
+9,Ryan Maric,West Coast,25.0,18.0,7.0,0.72,0.28,4.0,0.0,3.0,Gen. Defender
+9,Sandy Brock,West Coast,10.0,9.0,1.0,0.9,0.1,5.0,0.0,1.0,Key Defender
+9,Tim Kelly,West Coast,12.0,8.0,4.0,0.67,0.33,2.0,0.0,3.0,Mid-Forward
+9,Tom Cole,West Coast,15.0,7.0,8.0,0.47,0.53,6.0,0.0,3.0,Gen. Defender
+9,Tom Gross,West Coast,,,,,,,,,Mid-Forward
+9,Tyler Brockman,West Coast,18.0,8.0,10.0,0.44,0.56,2.0,1.0,4.0,Gen. Forward
+10,Bailey J. Williams,West Coast,8.0,4.0,4.0,0.5,0.5,1.0,2.0,1.0,Ruck
+10,Brady Hough,West Coast,24.0,13.0,11.0,0.54,0.46,6.0,1.0,5.0,Midfielder
+10,Elijah Hewett,West Coast,13.0,5.0,8.0,0.38,0.62,2.0,1.0,6.0,Midfielder
+10,Harley Reid,West Coast,15.0,9.0,6.0,0.6,0.4,3.0,2.0,4.0,Midfielder
+10,Harry Edwards,West Coast,10.0,7.0,3.0,0.7,0.3,4.0,0.0,0.0,Key Defender
+10,Jack Graham,West Coast,17.0,11.0,6.0,0.65,0.35,3.0,1.0,9.0,Mid-Forward
+10,Jack Hutchinson,West Coast,12.0,6.0,6.0,0.5,0.5,4.0,0.0,0.0,Midfielder
+10,Jake Waterman,West Coast,15.0,10.0,5.0,0.67,0.33,6.0,2.0,1.0,Key Forward
+10,Jamie Cripps,West Coast,9.0,6.0,3.0,0.67,0.33,1.0,1.0,3.0,Gen. Forward
+10,Jayden Hunt,West Coast,15.0,7.0,8.0,0.47,0.53,0.0,1.0,2.0,Midfielder
+10,Liam Baker,West Coast,18.0,10.0,8.0,0.56,0.44,3.0,0.0,5.0,Gen. Defender
+10,Liam Duggan,West Coast,21.0,17.0,4.0,0.81,0.19,5.0,0.0,2.0,Gen. Defender
+10,Liam Ryan,West Coast,14.0,10.0,4.0,0.71,0.29,4.0,2.0,5.0,Gen. Forward
+10,Matt Flynn,West Coast,17.0,8.0,9.0,0.47,0.53,5.0,1.0,1.0,Ruck
+10,Matthew Owies,West Coast,,,,,,,,,Gen. Forward
+10,Oscar Allen,West Coast,13.0,11.0,2.0,0.85,0.15,4.0,2.0,1.0,Key Forward
+10,Reuben Ginbey,West Coast,11.0,7.0,4.0,0.64,0.36,1.0,0.0,2.0,Gen. Defender
+10,Ryan Maric,West Coast,22.0,19.0,3.0,0.86,0.14,4.0,0.0,2.0,Gen. Defender
+10,Sandy Brock,West Coast,11.0,5.0,6.0,0.45,0.55,4.0,0.0,2.0,Key Defender
+10,Tim Kelly,West Coast,12.0,7.0,5.0,0.58,0.42,2.0,0.0,3.0,Mid-Forward
+10,Tom Cole,West Coast,15.0,8.0,7.0,0.53,0.47,3.0,0.0,3.0,Gen. Defender
+10,Tom Gross,West Coast,,,,,,,,,Mid-Forward
+10,Tyler Brockman,West Coast,16.0,7.0,9.0,0.44,0.56,3.0,0.0,6.0,Gen. Forward
+11,Bailey J. Williams,West Coast,10.0,6.0,4.0,0.6,0.4,2.0,0.0,3.0,Ruck
+11,Brady Hough,West Coast,9.0,5.0,4.0,0.56,0.44,3.0,1.0,2.0,Midfielder
+11,Elijah Hewett,West Coast,19.0,9.0,10.0,0.47,0.53,0.0,0.0,5.0,Midfielder
+11,Harley Reid,West Coast,17.0,7.0,10.0,0.41,0.59,2.0,1.0,2.0,Midfielder
+11,Harry Edwards,West Coast,6.0,3.0,3.0,0.5,0.5,0.0,0.0,2.0,Key Defender
+11,Jack Graham,West Coast,18.0,8.0,10.0,0.44,0.56,1.0,0.0,8.0,Mid-Forward
+11,Jack Hutchinson,West Coast,8.0,5.0,3.0,0.62,0.38,2.0,0.0,2.0,Midfielder
+11,Jake Waterman,West Coast,7.0,5.0,2.0,0.71,0.29,4.0,3.0,1.0,Key Forward
+11,Jayden Hunt,West Coast,12.0,9.0,3.0,0.75,0.25,2.0,0.0,2.0,Midfielder
+11,Liam Baker,West Coast,18.0,7.0,11.0,0.39,0.61,3.0,0.0,2.0,Gen. Defender
+11,Liam Duggan,West Coast,23.0,17.0,6.0,0.74,0.26,3.0,0.0,0.0,Gen. Defender
+11,Liam Ryan,West Coast,11.0,9.0,2.0,0.82,0.18,6.0,0.0,4.0,Gen. Forward
+11,Matt Flynn,West Coast,8.0,5.0,3.0,0.62,0.38,4.0,0.0,1.0,Ruck
+11,Noah Long,West Coast,9.0,6.0,3.0,0.67,0.33,3.0,0.0,4.0,Gen. Forward
+11,Oscar Allen,West Coast,10.0,7.0,3.0,0.7,0.3,4.0,2.0,4.0,Key Forward
+11,Reuben Ginbey,West Coast,11.0,8.0,3.0,0.73,0.27,2.0,0.0,4.0,Gen. Defender
+11,Ryan Maric,West Coast,20.0,14.0,6.0,0.7,0.3,2.0,0.0,0.0,Gen. Defender
+11,Sandy Brock,West Coast,11.0,6.0,5.0,0.55,0.45,5.0,0.0,0.0,Key Defender
+11,Tim Kelly,West Coast,17.0,8.0,9.0,0.47,0.53,4.0,0.0,3.0,Mid-Forward
+11,Tom Cole,West Coast,17.0,11.0,6.0,0.65,0.35,4.0,0.0,4.0,Gen. Defender
+11,Tom Gross,West Coast,,,,,,,,,Mid-Forward
+11,Tyler Brockman,West Coast,16.0,7.0,9.0,0.44,0.56,2.0,1.0,4.0,Gen. Forward
+11,Tyrell Dewar,West Coast,,,,,,,,,Midfielder
+12,Archer Reid,West Coast,6.0,4.0,2.0,0.67,0.33,2.0,0.0,0.0,Key Forward
+12,Bo Allan,West Coast,,,,,,,,,Gen. Defender
+12,Brady Hough,West Coast,9.0,3.0,6.0,0.33,0.67,1.0,0.0,4.0,Midfielder
+12,Elijah Hewett,West Coast,20.0,11.0,9.0,0.55,0.45,1.0,1.0,4.0,Midfielder
+12,Harley Reid,West Coast,19.0,9.0,10.0,0.47,0.53,3.0,1.0,4.0,Midfielder
+12,Harry Edwards,West Coast,13.0,7.0,6.0,0.54,0.46,4.0,0.0,5.0,Key Defender
+12,Jack Graham,West Coast,19.0,8.0,11.0,0.42,0.58,2.0,0.0,3.0,Mid-Forward
+12,Jack Hutchinson,West Coast,15.0,10.0,5.0,0.67,0.33,7.0,0.0,2.0,Midfielder
+12,Jack Williams,West Coast,8.0,4.0,4.0,0.5,0.5,3.0,2.0,0.0,Key Forward
+12,Jayden Hunt,West Coast,12.0,6.0,6.0,0.5,0.5,2.0,0.0,2.0,Midfielder
+12,Liam Baker,West Coast,29.0,13.0,16.0,0.45,0.55,1.0,0.0,3.0,Gen. Defender
+12,Liam Duggan,West Coast,23.0,21.0,2.0,0.91,0.09,7.0,0.0,1.0,Gen. Defender
+12,Liam Ryan,West Coast,10.0,6.0,4.0,0.6,0.4,2.0,1.0,2.0,Gen. Forward
+12,Matt Flynn,West Coast,15.0,9.0,6.0,0.6,0.4,5.0,0.0,3.0,Ruck
+12,Noah Long,West Coast,9.0,9.0,0.0,1.0,0.0,4.0,1.0,3.0,Gen. Forward
+12,Oscar Allen,West Coast,8.0,5.0,3.0,0.62,0.38,3.0,4.0,2.0,Key Forward
+12,Reuben Ginbey,West Coast,16.0,8.0,8.0,0.5,0.5,1.0,0.0,1.0,Gen. Defender
+12,Ryan Maric,West Coast,15.0,10.0,5.0,0.67,0.33,6.0,0.0,2.0,Gen. Defender
+12,Sandy Brock,West Coast,14.0,6.0,8.0,0.43,0.57,6.0,0.0,0.0,Key Defender
+12,Tim Kelly,West Coast,19.0,8.0,11.0,0.42,0.58,7.0,1.0,2.0,Mid-Forward
+12,Tom Cole,West Coast,24.0,11.0,13.0,0.46,0.54,6.0,0.0,2.0,Gen. Defender
+12,Tyler Brockman,West Coast,16.0,8.0,8.0,0.5,0.5,3.0,0.0,2.0,Gen. Forward
+12,Tyrell Dewar,West Coast,18.0,11.0,7.0,0.61,0.39,2.0,0.0,0.0,Midfielder
+13,Archer Reid,West Coast,4.0,2.0,2.0,0.5,0.5,1.0,0.0,3.0,Key Forward
+13,Bo Allan,West Coast,,,,,,,,,Gen. Defender
+13,Brady Hough,West Coast,17.0,8.0,9.0,0.47,0.53,3.0,0.0,8.0,Midfielder
+13,Elijah Hewett,West Coast,22.0,11.0,11.0,0.5,0.5,2.0,1.0,4.0,Midfielder
+13,Harley Reid,West Coast,19.0,11.0,8.0,0.58,0.42,2.0,0.0,5.0,Midfielder
+13,Harry Edwards,West Coast,12.0,8.0,4.0,0.67,0.33,5.0,0.0,5.0,Key Defender
+13,Jack Graham,West Coast,22.0,12.0,10.0,0.55,0.45,4.0,0.0,5.0,Mid-Forward
+13,Jack Hutchinson,West Coast,12.0,6.0,6.0,0.5,0.5,1.0,0.0,1.0,Midfielder
+13,Jack Williams,West Coast,9.0,7.0,2.0,0.78,0.22,6.0,2.0,1.0,Key Forward
+13,Jamie Cripps,West Coast,12.0,7.0,5.0,0.58,0.42,2.0,0.0,4.0,Gen. Forward
+13,Jayden Hunt,West Coast,12.0,7.0,5.0,0.58,0.42,3.0,0.0,5.0,Midfielder
+13,Liam Baker,West Coast,20.0,11.0,9.0,0.55,0.45,3.0,0.0,5.0,Gen. Defender
+13,Liam Duggan,West Coast,23.0,17.0,6.0,0.74,0.26,4.0,0.0,4.0,Gen. Defender
+13,Liam Ryan,West Coast,9.0,7.0,2.0,0.78,0.22,2.0,1.0,3.0,Gen. Forward
+13,Matt Flynn,West Coast,12.0,7.0,5.0,0.58,0.42,4.0,0.0,6.0,Ruck
+13,Oscar Allen,West Coast,7.0,6.0,1.0,0.86,0.14,2.0,0.0,4.0,Key Forward
+13,Reuben Ginbey,West Coast,11.0,6.0,5.0,0.55,0.45,4.0,0.0,4.0,Gen. Defender
+13,Ryan Maric,West Coast,18.0,11.0,7.0,0.61,0.39,4.0,0.0,2.0,Gen. Defender
+13,Sandy Brock,West Coast,10.0,3.0,7.0,0.3,0.7,1.0,0.0,2.0,Key Defender
+13,Tim Kelly,West Coast,12.0,7.0,5.0,0.58,0.42,3.0,0.0,2.0,Mid-Forward
+13,Tom Cole,West Coast,11.0,6.0,5.0,0.55,0.45,3.0,1.0,1.0,Gen. Defender
+13,Tyler Brockman,West Coast,17.0,5.0,12.0,0.29,0.71,3.0,1.0,6.0,Gen. Forward
+13,Tyrell Dewar,West Coast,21.0,16.0,5.0,0.76,0.24,4.0,0.0,1.0,Midfielder
+14,Bailey J. Williams,West Coast,10.0,9.0,1.0,0.9,0.1,4.0,3.0,1.0,Ruck
+14,Bo Allan,West Coast,14.0,7.0,7.0,0.5,0.5,4.0,0.0,1.0,Gen. Defender
+14,Clay Hall,West Coast,,,,,,,,,Midfielder
+14,Elijah Hewett,West Coast,17.0,10.0,7.0,0.59,0.41,1.0,1.0,7.0,Midfielder
+14,Harley Reid,West Coast,28.0,15.0,13.0,0.54,0.46,6.0,0.0,2.0,Midfielder
+14,Harry Edwards,West Coast,2.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,Key Defender
+14,Jack Graham,West Coast,24.0,12.0,12.0,0.5,0.5,1.0,0.0,7.0,Mid-Forward
+14,Jack Hutchinson,West Coast,7.0,6.0,1.0,0.86,0.14,5.0,0.0,4.0,Midfielder
+14,Jack Williams,West Coast,11.0,8.0,3.0,0.73,0.27,6.0,1.0,2.0,Key Forward
+14,Jamie Cripps,West Coast,9.0,8.0,1.0,0.89,0.11,3.0,1.0,1.0,Gen. Forward
+14,Jayden Hunt,West Coast,,,,,,,,,Midfielder
+14,Liam Baker,West Coast,21.0,11.0,10.0,0.52,0.48,2.0,0.0,1.0,Gen. Defender
+14,Liam Duggan,West Coast,19.0,13.0,6.0,0.68,0.32,7.0,0.0,0.0,Gen. Defender
+14,Liam Ryan,West Coast,13.0,7.0,6.0,0.54,0.46,3.0,0.0,1.0,Gen. Forward
+14,Matt Flynn,West Coast,12.0,5.0,7.0,0.42,0.58,3.0,0.0,3.0,Ruck
+14,Oscar Allen,West Coast,7.0,3.0,4.0,0.43,0.57,2.0,0.0,1.0,Key Forward
+14,Reuben Ginbey,West Coast,16.0,11.0,5.0,0.69,0.31,4.0,0.0,1.0,Gen. Defender
+14,Ryan Maric,West Coast,17.0,11.0,6.0,0.65,0.35,5.0,0.0,0.0,Gen. Defender
+14,Sandy Brock,West Coast,8.0,5.0,3.0,0.62,0.38,2.0,0.0,1.0,Key Defender
+14,Tim Kelly,West Coast,10.0,3.0,7.0,0.3,0.7,0.0,0.0,0.0,Mid-Forward
+14,Tom McCarthy,West Coast,31.0,19.0,12.0,0.61,0.39,6.0,0.0,1.0,Gen. Defender
+14,Tyler Brockman,West Coast,9.0,5.0,4.0,0.56,0.44,1.0,1.0,4.0,Gen. Forward
+14,Tyrell Dewar,West Coast,27.0,24.0,3.0,0.89,0.11,9.0,0.0,2.0,Midfielder
+16,Bailey J. Williams,West Coast,9.0,4.0,5.0,0.44,0.56,2.0,0.0,2.0,Ruck
+16,Bo Allan,West Coast,11.0,3.0,8.0,0.27,0.73,3.0,0.0,2.0,Gen. Defender
+16,Brady Hough,West Coast,27.0,12.0,15.0,0.44,0.56,5.0,1.0,2.0,Midfielder
+16,Clay Hall,West Coast,22.0,10.0,12.0,0.45,0.55,4.0,0.0,4.0,Midfielder
+16,Elijah Hewett,West Coast,16.0,7.0,9.0,0.44,0.56,4.0,0.0,1.0,Midfielder
+16,Harley Reid,West Coast,17.0,5.0,12.0,0.29,0.71,2.0,0.0,4.0,Midfielder
+16,Harry Edwards,West Coast,12.0,6.0,6.0,0.5,0.5,6.0,0.0,2.0,Key Defender
+16,Jack Graham,West Coast,19.0,8.0,11.0,0.42,0.58,1.0,0.0,8.0,Mid-Forward
+16,Jack Hutchinson,West Coast,19.0,11.0,8.0,0.58,0.42,8.0,0.0,4.0,Midfielder
+16,Jack Williams,West Coast,11.0,7.0,4.0,0.64,0.36,5.0,1.0,2.0,Key Forward
+16,Jamie Cripps,West Coast,7.0,2.0,5.0,0.29,0.71,3.0,0.0,5.0,Gen. Forward
+16,Jayden Hunt,West Coast,,,,,,,,,Midfielder
+16,Jobe Shanahan,West Coast,8.0,5.0,3.0,0.62,0.38,3.0,1.0,0.0,Key Forward
+16,Liam Baker,West Coast,35.0,15.0,20.0,0.43,0.57,4.0,0.0,6.0,Gen. Defender
+16,Liam Duggan,West Coast,27.0,22.0,5.0,0.81,0.19,5.0,0.0,3.0,Gen. Defender
+16,Liam Ryan,West Coast,12.0,7.0,5.0,0.58,0.42,3.0,1.0,1.0,Gen. Forward
+16,Matt Flynn,West Coast,15.0,7.0,8.0,0.47,0.53,5.0,1.0,5.0,Ruck
+16,Reuben Ginbey,West Coast,15.0,6.0,9.0,0.4,0.6,1.0,0.0,2.0,Gen. Defender
+16,Ryan Maric,West Coast,21.0,11.0,10.0,0.52,0.48,6.0,0.0,6.0,Gen. Defender
+16,Sandy Brock,West Coast,13.0,7.0,6.0,0.54,0.46,4.0,0.0,0.0,Key Defender
+16,Tim Kelly,West Coast,12.0,6.0,6.0,0.5,0.5,3.0,1.0,1.0,Mid-Forward
+16,Tom McCarthy,West Coast,29.0,22.0,7.0,0.76,0.24,5.0,0.0,0.0,Gen. Defender
+16,Tyler Brockman,West Coast,10.0,8.0,2.0,0.8,0.2,4.0,2.0,3.0,Gen. Forward
+17,Bailey J. Williams,West Coast,6.0,5.0,1.0,0.83,0.17,1.0,1.0,1.0,Ruck
+17,Bo Allan,West Coast,10.0,2.0,8.0,0.2,0.8,1.0,0.0,1.0,Gen. Defender
+17,Brady Hough,West Coast,18.0,7.0,11.0,0.39,0.61,8.0,0.0,4.0,Midfielder
+17,Clay Hall,West Coast,18.0,12.0,6.0,0.67,0.33,3.0,0.0,4.0,Midfielder
+17,Elijah Hewett,West Coast,21.0,10.0,11.0,0.48,0.52,1.0,0.0,3.0,Midfielder
+17,Harley Reid,West Coast,24.0,14.0,10.0,0.58,0.42,5.0,0.0,7.0,Midfielder
+17,Harry Edwards,West Coast,10.0,7.0,3.0,0.7,0.3,2.0,0.0,1.0,Key Defender
+17,Jack Graham,West Coast,16.0,10.0,6.0,0.62,0.38,3.0,1.0,4.0,Mid-Forward
+17,Jack Hutchinson,West Coast,11.0,5.0,6.0,0.45,0.55,1.0,1.0,2.0,Midfielder
+17,Jack Williams,West Coast,,,,,,,,,Key Forward
+17,Jamie Cripps,West Coast,10.0,7.0,3.0,0.7,0.3,4.0,1.0,2.0,Gen. Forward
+17,Jobe Shanahan,West Coast,14.0,8.0,6.0,0.57,0.43,5.0,2.0,4.0,Key Forward
+17,Liam Baker,West Coast,11.0,8.0,3.0,0.73,0.27,4.0,1.0,1.0,Gen. Defender
+17,Liam Duggan,West Coast,28.0,25.0,3.0,0.89,0.11,8.0,0.0,4.0,Gen. Defender
+17,Liam Ryan,West Coast,12.0,9.0,3.0,0.75,0.25,5.0,1.0,3.0,Gen. Forward
+17,Malakai Champion,West Coast,,,,,,,,,Gen. Forward
+17,Matt Flynn,West Coast,15.0,12.0,3.0,0.8,0.2,5.0,0.0,1.0,Ruck
+17,Reuben Ginbey,West Coast,16.0,9.0,7.0,0.56,0.44,5.0,0.0,2.0,Gen. Defender
+17,Ryan Maric,West Coast,20.0,12.0,8.0,0.6,0.4,2.0,0.0,4.0,Gen. Defender
+17,Sandy Brock,West Coast,14.0,10.0,4.0,0.71,0.29,6.0,0.0,0.0,Key Defender
+17,Tim Kelly,West Coast,14.0,9.0,5.0,0.64,0.36,5.0,0.0,1.0,Mid-Forward
+17,Tom McCarthy,West Coast,19.0,14.0,5.0,0.74,0.26,6.0,0.0,2.0,Gen. Defender
+17,Tyler Brockman,West Coast,12.0,5.0,7.0,0.42,0.58,1.0,0.0,4.0,Gen. Forward
+18,Bailey J. Williams,West Coast,6.0,3.0,3.0,0.5,0.5,2.0,1.0,1.0,Ruck
+18,Brady Hough,West Coast,9.0,4.0,5.0,0.44,0.56,3.0,0.0,3.0,Midfielder
+18,Clay Hall,West Coast,21.0,9.0,12.0,0.43,0.57,3.0,0.0,3.0,Midfielder
+18,Elijah Hewett,West Coast,14.0,9.0,5.0,0.64,0.36,0.0,0.0,4.0,Midfielder
+18,Harley Reid,West Coast,27.0,19.0,8.0,0.7,0.3,3.0,1.0,7.0,Midfielder
+18,Harry Edwards,West Coast,17.0,12.0,5.0,0.71,0.29,11.0,0.0,1.0,Key Defender
+18,Jack Hutchinson,West Coast,20.0,16.0,4.0,0.8,0.2,7.0,0.0,3.0,Midfielder
+18,Jack Williams,West Coast,7.0,4.0,3.0,0.57,0.43,3.0,2.0,0.0,Key Forward
+18,Jamie Cripps,West Coast,9.0,8.0,1.0,0.89,0.11,2.0,0.0,0.0,Gen. Forward
+18,Jobe Shanahan,West Coast,11.0,7.0,4.0,0.64,0.36,4.0,1.0,1.0,Key Forward
+18,Liam Baker,West Coast,18.0,10.0,8.0,0.56,0.44,2.0,1.0,5.0,Gen. Defender
+18,Liam Duggan,West Coast,21.0,15.0,6.0,0.71,0.29,7.0,0.0,2.0,Gen. Defender
+18,Malakai Champion,West Coast,,,,,,,,,Gen. Forward
+18,Matt Flynn,West Coast,9.0,5.0,4.0,0.56,0.44,2.0,1.0,5.0,Ruck
+18,Matthew Owies,West Coast,13.0,8.0,5.0,0.62,0.38,4.0,0.0,2.0,Gen. Forward
+18,Noah Long,West Coast,,,,,,,,,Gen. Forward
+18,Reuben Ginbey,West Coast,14.0,13.0,1.0,0.93,0.07,7.0,0.0,4.0,Gen. Defender
+18,Rhett Bazzo,West Coast,7.0,5.0,2.0,0.71,0.29,4.0,0.0,4.0,Key Defender
+18,Ryan Maric,West Coast,16.0,10.0,6.0,0.62,0.38,6.0,0.0,0.0,Gen. Defender
+18,Tom Cole,West Coast,16.0,11.0,5.0,0.69,0.31,7.0,0.0,6.0,Gen. Defender
+18,Tom McCarthy,West Coast,21.0,12.0,9.0,0.57,0.43,2.0,0.0,3.0,Gen. Defender
+18,Tyler Brockman,West Coast,10.0,5.0,5.0,0.5,0.5,2.0,1.0,3.0,Gen. Forward
+18,Tyrell Dewar,West Coast,15.0,9.0,6.0,0.6,0.4,5.0,1.0,2.0,Midfielder
+19,Bailey J. Williams,West Coast,13.0,6.0,7.0,0.46,0.54,3.0,1.0,1.0,Ruck
+19,Brady Hough,West Coast,24.0,8.0,16.0,0.33,0.67,8.0,0.0,6.0,Midfielder
+19,Clay Hall,West Coast,19.0,7.0,12.0,0.37,0.63,1.0,1.0,5.0,Midfielder
+19,Harley Reid,West Coast,27.0,16.0,11.0,0.59,0.41,4.0,2.0,6.0,Midfielder
+19,Harry Edwards,West Coast,13.0,9.0,4.0,0.69,0.31,10.0,0.0,0.0,Key Defender
+19,Jack Hutchinson,West Coast,12.0,9.0,3.0,0.75,0.25,5.0,0.0,1.0,Midfielder
+19,Jack Petruccelle,West Coast,,,,,,,,,Gen. Forward
+19,Jack Williams,West Coast,,,,,,,,,Key Forward
+19,Jamie Cripps,West Coast,15.0,12.0,3.0,0.8,0.2,9.0,1.0,0.0,Gen. Forward
+19,Jobe Shanahan,West Coast,6.0,6.0,0.0,1.0,0.0,5.0,1.0,1.0,Key Forward
+19,Liam Baker,West Coast,25.0,9.0,16.0,0.36,0.64,3.0,0.0,4.0,Gen. Defender
+19,Liam Duggan,West Coast,31.0,18.0,13.0,0.58,0.42,9.0,0.0,2.0,Gen. Defender
+19,Liam Ryan,West Coast,9.0,6.0,3.0,0.67,0.33,1.0,2.0,1.0,Gen. Forward
+19,Matt Flynn,West Coast,11.0,7.0,4.0,0.64,0.36,3.0,0.0,1.0,Ruck
+19,Matthew Owies,West Coast,13.0,8.0,5.0,0.62,0.38,6.0,0.0,4.0,Gen. Forward
+19,Reuben Ginbey,West Coast,13.0,12.0,1.0,0.92,0.08,4.0,0.0,1.0,Gen. Defender
+19,Rhett Bazzo,West Coast,10.0,3.0,7.0,0.3,0.7,4.0,0.0,2.0,Key Defender
+19,Ryan Maric,West Coast,17.0,9.0,8.0,0.53,0.47,4.0,0.0,1.0,Gen. Defender
+19,Tim Kelly,West Coast,15.0,9.0,6.0,0.6,0.4,6.0,0.0,2.0,Mid-Forward
+19,Tom Cole,West Coast,24.0,13.0,11.0,0.54,0.46,6.0,0.0,3.0,Gen. Defender
+19,Tom McCarthy,West Coast,18.0,10.0,8.0,0.56,0.44,5.0,0.0,2.0,Gen. Defender
+19,Tyler Brockman,West Coast,12.0,6.0,6.0,0.5,0.5,3.0,0.0,3.0,Gen. Forward
+19,Tyrell Dewar,West Coast,16.0,11.0,5.0,0.69,0.31,7.0,0.0,0.0,Midfielder
+20,Archer Reid,West Coast,2.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,Key Forward
+20,Bailey J. Williams,West Coast,10.0,4.0,6.0,0.4,0.6,0.0,0.0,2.0,Ruck
+20,Brady Hough,West Coast,13.0,10.0,3.0,0.77,0.23,6.0,0.0,3.0,Midfielder
+20,Clay Hall,West Coast,14.0,10.0,4.0,0.71,0.29,6.0,0.0,1.0,Midfielder
+20,Elijah Hewett,West Coast,14.0,7.0,7.0,0.5,0.5,1.0,1.0,4.0,Midfielder
+20,Harley Reid,West Coast,15.0,10.0,5.0,0.67,0.33,4.0,2.0,1.0,Midfielder
+20,Jack Hutchinson,West Coast,16.0,8.0,8.0,0.5,0.5,5.0,0.0,1.0,Midfielder
+20,Jamie Cripps,West Coast,16.0,9.0,7.0,0.56,0.44,2.0,2.0,4.0,Gen. Forward
+20,Jobe Shanahan,West Coast,5.0,4.0,1.0,0.8,0.2,4.0,0.0,2.0,Key Forward
+20,Liam Baker,West Coast,24.0,11.0,13.0,0.46,0.54,4.0,2.0,10.0,Gen. Defender
+20,Liam Duggan,West Coast,11.0,8.0,3.0,0.73,0.27,4.0,0.0,2.0,Gen. Defender
+20,Liam Ryan,West Coast,11.0,10.0,1.0,0.91,0.09,3.0,1.0,1.0,Gen. Forward
+20,Matt Flynn,West Coast,8.0,3.0,5.0,0.38,0.62,2.0,0.0,2.0,Ruck
+20,Matthew Owies,West Coast,,,,,,,,,Gen. Forward
+20,Reuben Ginbey,West Coast,14.0,11.0,3.0,0.79,0.21,6.0,0.0,1.0,Gen. Defender
+20,Rhett Bazzo,West Coast,10.0,6.0,4.0,0.6,0.4,6.0,0.0,1.0,Key Defender
+20,Ryan Maric,West Coast,21.0,14.0,7.0,0.67,0.33,1.0,0.0,3.0,Gen. Defender
+20,Sandy Brock,West Coast,6.0,5.0,1.0,0.83,0.17,3.0,0.0,1.0,Key Defender
+20,Tim Kelly,West Coast,26.0,11.0,15.0,0.42,0.58,2.0,2.0,1.0,Mid-Forward
+20,Tom Cole,West Coast,17.0,9.0,8.0,0.53,0.47,7.0,0.0,1.0,Gen. Defender
+20,Tom McCarthy,West Coast,21.0,18.0,3.0,0.86,0.14,6.0,0.0,1.0,Gen. Defender
+20,Tyler Brockman,West Coast,10.0,5.0,5.0,0.5,0.5,5.0,1.0,1.0,Gen. Forward
+20,Tyrell Dewar,West Coast,,,,,,,,,Midfielder
+21,Archer Reid,West Coast,8.0,6.0,2.0,0.75,0.25,4.0,1.0,1.0,Key Forward
+21,Bailey J. Williams,West Coast,6.0,2.0,4.0,0.33,0.67,1.0,0.0,2.0,Ruck
+21,Brady Hough,West Coast,11.0,3.0,8.0,0.27,0.73,3.0,0.0,4.0,Midfielder
+21,Campbell Chesser,West Coast,17.0,13.0,4.0,0.76,0.24,4.0,1.0,2.0,Midfielder
+21,Clay Hall,West Coast,15.0,6.0,9.0,0.4,0.6,4.0,0.0,1.0,Midfielder
+21,Elijah Hewett,West Coast,23.0,8.0,15.0,0.35,0.65,3.0,0.0,4.0,Midfielder
+21,Hamish Davis,West Coast,,,,,,,,,Mid-Forward
+21,Harry Edwards,West Coast,6.0,4.0,2.0,0.67,0.33,4.0,0.0,0.0,Key Defender
+21,Jamie Cripps,West Coast,8.0,5.0,3.0,0.62,0.38,4.0,2.0,2.0,Gen. Forward
+21,Jobe Shanahan,West Coast,4.0,3.0,1.0,0.75,0.25,2.0,1.0,1.0,Key Forward
+21,Liam Baker,West Coast,18.0,10.0,8.0,0.56,0.44,4.0,0.0,5.0,Gen. Defender
+21,Liam Duggan,West Coast,21.0,15.0,6.0,0.71,0.29,8.0,0.0,3.0,Gen. Defender
+21,Liam Ryan,West Coast,6.0,5.0,1.0,0.83,0.17,4.0,1.0,0.0,Gen. Forward
+21,Matthew Owies,West Coast,9.0,4.0,5.0,0.44,0.56,4.0,0.0,0.0,Gen. Forward
+21,Reuben Ginbey,West Coast,15.0,9.0,6.0,0.6,0.4,1.0,0.0,4.0,Gen. Defender
+21,Rhett Bazzo,West Coast,10.0,6.0,4.0,0.6,0.4,2.0,0.0,4.0,Key Defender
+21,Ryan Maric,West Coast,29.0,20.0,9.0,0.69,0.31,4.0,1.0,4.0,Gen. Defender
+21,Tim Kelly,West Coast,26.0,13.0,13.0,0.5,0.5,3.0,0.0,5.0,Mid-Forward
+21,Tom Cole,West Coast,24.0,12.0,12.0,0.5,0.5,4.0,0.0,3.0,Gen. Defender
+21,Tom Gross,West Coast,13.0,5.0,8.0,0.38,0.62,6.0,0.0,1.0,Mid-Forward
+21,Tom McCarthy,West Coast,26.0,16.0,10.0,0.62,0.38,7.0,0.0,1.0,Gen. Defender
+21,Tyler Brockman,West Coast,8.0,5.0,3.0,0.62,0.38,3.0,1.0,0.0,Gen. Forward
+21,Tyrell Dewar,West Coast,,,,,,,,,Midfielder
+22,Archer Reid,West Coast,4.0,2.0,2.0,0.5,0.5,1.0,0.0,4.0,Key Forward
+22,Brady Hough,West Coast,18.0,10.0,8.0,0.56,0.44,7.0,0.0,1.0,Midfielder
+22,Campbell Chesser,West Coast,13.0,9.0,4.0,0.69,0.31,3.0,1.0,4.0,Midfielder
+22,Clay Hall,West Coast,16.0,6.0,10.0,0.38,0.62,3.0,0.0,3.0,Midfielder
+22,Elijah Hewett,West Coast,19.0,6.0,13.0,0.32,0.68,1.0,0.0,4.0,Midfielder
+22,Hamish Davis,West Coast,13.0,4.0,9.0,0.31,0.69,1.0,1.0,7.0,Mid-Forward
+22,Jack Graham,West Coast,14.0,8.0,6.0,0.57,0.43,3.0,0.0,9.0,Mid-Forward
+22,Jamie Cripps,West Coast,12.0,10.0,2.0,0.83,0.17,5.0,1.0,3.0,Gen. Forward
+22,Jobe Shanahan,West Coast,6.0,6.0,0.0,1.0,0.0,4.0,3.0,1.0,Key Forward
+22,Liam Baker,West Coast,14.0,8.0,6.0,0.57,0.43,4.0,1.0,5.0,Gen. Defender
+22,Liam Duggan,West Coast,16.0,14.0,2.0,0.88,0.12,10.0,0.0,1.0,Gen. Defender
+22,Liam Ryan,West Coast,12.0,10.0,2.0,0.83,0.17,6.0,3.0,4.0,Gen. Forward
+22,Matt Flynn,West Coast,12.0,7.0,5.0,0.58,0.42,6.0,0.0,0.0,Ruck
+22,Matthew Owies,West Coast,,,,,,,,,Gen. Forward
+22,Reuben Ginbey,West Coast,11.0,8.0,3.0,0.73,0.27,2.0,0.0,4.0,Gen. Defender
+22,Rhett Bazzo,West Coast,8.0,6.0,2.0,0.75,0.25,4.0,0.0,0.0,Key Defender
+22,Ryan Maric,West Coast,16.0,7.0,9.0,0.44,0.56,3.0,0.0,2.0,Gen. Defender
+22,Sandy Brock,West Coast,12.0,9.0,3.0,0.75,0.25,5.0,0.0,1.0,Key Defender
+22,Tim Kelly,West Coast,25.0,14.0,11.0,0.56,0.44,1.0,1.0,5.0,Mid-Forward
+22,Tom Cole,West Coast,14.0,9.0,5.0,0.64,0.36,4.0,0.0,6.0,Gen. Defender
+22,Tom Gross,West Coast,,,,,,,,,Mid-Forward
+22,Tom McCarthy,West Coast,29.0,21.0,8.0,0.72,0.28,3.0,0.0,2.0,Gen. Defender
+22,Tyler Brockman,West Coast,11.0,6.0,5.0,0.55,0.45,4.0,1.0,1.0,Gen. Forward
+23,Bailey J. Williams,West Coast,9.0,6.0,3.0,0.67,0.33,3.0,0.0,3.0,Ruck
+23,Brady Hough,West Coast,13.0,6.0,7.0,0.46,0.54,3.0,0.0,2.0,Midfielder
+23,Campbell Chesser,West Coast,22.0,8.0,14.0,0.36,0.64,5.0,0.0,3.0,Midfielder
+23,Clay Hall,West Coast,15.0,2.0,13.0,0.13,0.87,0.0,0.0,2.0,Midfielder
+23,Elijah Hewett,West Coast,16.0,7.0,9.0,0.44,0.56,2.0,0.0,6.0,Midfielder
+23,Hamish Davis,West Coast,18.0,9.0,9.0,0.5,0.5,4.0,0.0,4.0,Mid-Forward
+23,Jack Graham,West Coast,20.0,14.0,6.0,0.7,0.3,2.0,0.0,10.0,Mid-Forward
+23,Jacob Newton,West Coast,,,,,,,,,Key Forward
+23,Jamie Cripps,West Coast,10.0,6.0,4.0,0.6,0.4,2.0,1.0,2.0,Gen. Forward
+23,Jobe Shanahan,West Coast,9.0,7.0,2.0,0.78,0.22,6.0,0.0,2.0,Key Forward
+23,Liam Baker,West Coast,24.0,14.0,10.0,0.58,0.42,5.0,0.0,4.0,Gen. Defender
+23,Liam Ryan,West Coast,12.0,7.0,5.0,0.58,0.42,4.0,0.0,3.0,Gen. Forward
+23,Matt Flynn,West Coast,11.0,5.0,6.0,0.45,0.55,2.0,1.0,3.0,Ruck
+23,Matthew Owies,West Coast,9.0,7.0,2.0,0.78,0.22,3.0,1.0,4.0,Gen. Forward
+23,Noah Long,West Coast,11.0,4.0,7.0,0.36,0.64,1.0,1.0,4.0,Gen. Forward
+23,Reuben Ginbey,West Coast,22.0,13.0,9.0,0.59,0.41,9.0,0.0,1.0,Gen. Defender
+23,Rhett Bazzo,West Coast,15.0,7.0,8.0,0.47,0.53,8.0,0.0,0.0,Key Defender
+23,Ryan Maric,West Coast,26.0,16.0,10.0,0.62,0.38,2.0,0.0,5.0,Gen. Defender
+23,Sandy Brock,West Coast,13.0,8.0,5.0,0.62,0.38,4.0,0.0,0.0,Key Defender
+23,Tim Kelly,West Coast,17.0,8.0,9.0,0.47,0.53,1.0,0.0,4.0,Mid-Forward
+23,Tom Cole,West Coast,17.0,12.0,5.0,0.71,0.29,8.0,0.0,4.0,Gen. Defender
+23,Tom McCarthy,West Coast,25.0,13.0,12.0,0.52,0.48,2.0,0.0,3.0,Gen. Defender
+23,Tyler Brockman,West Coast,,,,,,,,,Gen. Forward
+24,Bailey J. Williams,West Coast,7.0,6.0,1.0,0.86,0.14,2.0,1.0,1.0,Ruck
+24,Brady Hough,West Coast,20.0,15.0,5.0,0.75,0.25,8.0,0.0,2.0,Midfielder
+24,Campbell Chesser,West Coast,15.0,8.0,7.0,0.53,0.47,1.0,0.0,0.0,Midfielder
+24,Clay Hall,West Coast,17.0,6.0,11.0,0.35,0.65,1.0,0.0,6.0,Midfielder
+24,Elijah Hewett,West Coast,14.0,5.0,9.0,0.36,0.64,3.0,0.0,4.0,Midfielder
+24,Hamish Davis,West Coast,13.0,8.0,5.0,0.62,0.38,4.0,0.0,6.0,Mid-Forward
+24,Jack Graham,West Coast,25.0,13.0,12.0,0.52,0.48,1.0,0.0,9.0,Mid-Forward
+24,Jacob Newton,West Coast,5.0,5.0,0.0,1.0,0.0,2.0,1.0,3.0,Key Forward
+24,Jamie Cripps,West Coast,14.0,10.0,4.0,0.71,0.29,5.0,1.0,2.0,Gen. Forward
+24,Jobe Shanahan,West Coast,6.0,6.0,0.0,1.0,0.0,3.0,3.0,1.0,Key Forward
+24,Liam Baker,West Coast,26.0,11.0,15.0,0.42,0.58,8.0,0.0,1.0,Gen. Defender
+24,Liam Ryan,West Coast,11.0,10.0,1.0,0.91,0.09,7.0,0.0,1.0,Gen. Forward
+24,Lucca Grego,West Coast,14.0,9.0,5.0,0.64,0.36,5.0,0.0,1.0,Midfielder
+24,Matt Flynn,West Coast,14.0,5.0,9.0,0.36,0.64,5.0,1.0,0.0,Ruck
+24,Noah Long,West Coast,12.0,4.0,8.0,0.33,0.67,2.0,0.0,2.0,Gen. Forward
+24,Reuben Ginbey,West Coast,,,,,,,,,Gen. Defender
+24,Rhett Bazzo,West Coast,16.0,7.0,9.0,0.44,0.56,7.0,0.0,1.0,Key Defender
+24,Sandy Brock,West Coast,13.0,7.0,6.0,0.54,0.46,4.0,0.0,1.0,Key Defender
+24,Tim Kelly,West Coast,24.0,9.0,15.0,0.38,0.62,3.0,0.0,2.0,Mid-Forward
+24,Tom Cole,West Coast,20.0,13.0,7.0,0.65,0.35,7.0,0.0,5.0,Gen. Defender
+24,Tom McCarthy,West Coast,17.0,9.0,8.0,0.53,0.47,4.0,0.0,6.0,Gen. Defender
+24,Tyler Brockman,West Coast,6.0,4.0,2.0,0.67,0.33,2.0,0.0,2.0,Gen. Forward
+24,Tyrell Dewar,West Coast,,,,,,,,,Midfielder

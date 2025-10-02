@@ -1,0 +1,530 @@
+Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
+1,Ben Miller,Richmond,13.0,10.0,3.0,0.77,0.23,6.0,0.0,1.0,Key Defender
+1,Harry Armstrong,Richmond,5.0,2.0,3.0,0.4,0.6,1.0,0.0,1.0,Key Forward
+1,Jack Ross,Richmond,28.0,14.0,14.0,0.5,0.5,5.0,2.0,4.0,Mid-Forward
+1,Jacob Bauer,Richmond,9.0,6.0,3.0,0.67,0.33,4.0,1.0,4.0,Key Forward
+1,Jacob Blight,Richmond,,,,,,,,,Key Defender
+1,Jacob Hopper,Richmond,22.0,7.0,15.0,0.32,0.68,2.0,1.0,6.0,Midfielder
+1,James Trezise,Richmond,19.0,8.0,11.0,0.42,0.58,1.0,0.0,2.0,Midfielder
+1,Jayden Short,Richmond,19.0,16.0,3.0,0.84,0.16,5.0,0.0,4.0,Gen. Defender
+1,Kamdyn McIntosh,Richmond,16.0,8.0,8.0,0.5,0.5,3.0,0.0,5.0,Midfielder
+1,Luke Trainor,Richmond,15.0,11.0,4.0,0.73,0.27,5.0,0.0,2.0,Gen. Defender
+1,Nathan Broad,Richmond,11.0,8.0,3.0,0.73,0.27,2.0,0.0,3.0,Gen. Defender
+1,Nick Vlastuin,Richmond,21.0,18.0,3.0,0.86,0.14,8.0,0.0,2.0,Gen. Defender
+1,Rhyan Mansell,Richmond,10.0,5.0,5.0,0.5,0.5,1.0,1.0,2.0,Gen. Forward
+1,Sam Banks,Richmond,21.0,10.0,11.0,0.48,0.52,1.0,0.0,2.0,Gen. Defender
+1,Sam Lalor,Richmond,18.0,6.0,12.0,0.33,0.67,2.0,2.0,2.0,Gen. Forward
+1,Seth Campbell,Richmond,8.0,3.0,5.0,0.38,0.62,0.0,2.0,7.0,Gen. Forward
+1,Steely Green,Richmond,7.0,6.0,1.0,0.86,0.14,2.0,0.0,5.0,Gen. Forward
+1,Thomson Dow,Richmond,22.0,9.0,13.0,0.41,0.59,1.0,0.0,9.0,Midfielder
+1,Tim Taranto,Richmond,30.0,14.0,16.0,0.47,0.53,1.0,0.0,3.0,Midfielder
+1,Toby Nankervis,Richmond,21.0,13.0,8.0,0.62,0.38,4.0,2.0,6.0,Ruck
+1,Tom Brown,Richmond,10.0,7.0,3.0,0.7,0.3,2.0,1.0,4.0,Gen. Defender
+1,Tom Lynch,Richmond,13.0,5.0,8.0,0.38,0.62,4.0,1.0,1.0,Key Forward
+1,Tyler Sonsie,Richmond,,,,,,,,,Mid-Forward
+2,Ben Miller,Richmond,19.0,13.0,6.0,0.68,0.32,6.0,0.0,0.0,Key Defender
+2,Harry Armstrong,Richmond,12.0,7.0,5.0,0.58,0.42,5.0,2.0,0.0,Key Forward
+2,Jack Ross,Richmond,11.0,5.0,6.0,0.45,0.55,3.0,0.0,2.0,Mid-Forward
+2,Jacob Bauer,Richmond,8.0,5.0,3.0,0.62,0.38,3.0,1.0,0.0,Key Forward
+2,Jacob Blight,Richmond,12.0,7.0,5.0,0.58,0.42,5.0,1.0,2.0,Key Defender
+2,Jacob Hopper,Richmond,24.0,9.0,15.0,0.38,0.62,0.0,0.0,0.0,Midfielder
+2,James Trezise,Richmond,9.0,4.0,5.0,0.44,0.56,1.0,0.0,0.0,Midfielder
+2,Jayden Short,Richmond,21.0,17.0,4.0,0.81,0.19,6.0,0.0,2.0,Gen. Defender
+2,Kaleb Smith,Richmond,,,,,,,,,Gen. Defender
+2,Kamdyn McIntosh,Richmond,18.0,10.0,8.0,0.56,0.44,5.0,1.0,6.0,Midfielder
+2,Liam Fawcett,Richmond,5.0,3.0,2.0,0.6,0.4,2.0,1.0,0.0,Key Forward
+2,Luke Trainor,Richmond,10.0,8.0,2.0,0.8,0.2,2.0,0.0,1.0,Gen. Defender
+2,Nathan Broad,Richmond,8.0,8.0,0.0,1.0,0.0,6.0,0.0,1.0,Gen. Defender
+2,Nick Vlastuin,Richmond,14.0,9.0,5.0,0.64,0.36,4.0,0.0,1.0,Gen. Defender
+2,Rhyan Mansell,Richmond,16.0,14.0,2.0,0.88,0.12,3.0,0.0,6.0,Gen. Forward
+2,Sam Banks,Richmond,,,,,,,,,Gen. Defender
+2,Sam Lalor,Richmond,10.0,7.0,3.0,0.7,0.3,4.0,1.0,4.0,Gen. Forward
+2,Seth Campbell,Richmond,13.0,8.0,5.0,0.62,0.38,1.0,2.0,2.0,Gen. Forward
+2,Steely Green,Richmond,13.0,7.0,6.0,0.54,0.46,2.0,0.0,0.0,Gen. Forward
+2,Thomson Dow,Richmond,15.0,6.0,9.0,0.4,0.6,4.0,0.0,2.0,Midfielder
+2,Tim Taranto,Richmond,17.0,4.0,13.0,0.24,0.76,0.0,0.0,8.0,Midfielder
+2,Toby Nankervis,Richmond,13.0,5.0,8.0,0.38,0.62,0.0,0.0,0.0,Ruck
+2,Tom Brown,Richmond,14.0,10.0,4.0,0.71,0.29,5.0,0.0,0.0,Gen. Defender
+3,Ben Miller,Richmond,12.0,10.0,2.0,0.83,0.17,10.0,0.0,2.0,Key Defender
+3,Harry Armstrong,Richmond,,,,,,,,,Key Forward
+3,Jack Ross,Richmond,21.0,11.0,10.0,0.52,0.48,9.0,0.0,3.0,Mid-Forward
+3,Jacob Bauer,Richmond,4.0,2.0,2.0,0.5,0.5,2.0,1.0,0.0,Key Forward
+3,Jacob Blight,Richmond,18.0,13.0,5.0,0.72,0.28,12.0,0.0,0.0,Key Defender
+3,Jacob Hopper,Richmond,25.0,12.0,13.0,0.48,0.52,6.0,0.0,2.0,Midfielder
+3,James Trezise,Richmond,15.0,9.0,6.0,0.6,0.4,5.0,0.0,5.0,Midfielder
+3,Jayden Short,Richmond,26.0,24.0,2.0,0.92,0.08,6.0,0.0,2.0,Gen. Defender
+3,Kaleb Smith,Richmond,,,,,,,,,Gen. Defender
+3,Kamdyn McIntosh,Richmond,20.0,14.0,6.0,0.7,0.3,8.0,1.0,4.0,Midfielder
+3,Luke Trainor,Richmond,18.0,14.0,4.0,0.78,0.22,6.0,0.0,2.0,Gen. Defender
+3,Nathan Broad,Richmond,18.0,15.0,3.0,0.83,0.17,10.0,0.0,0.0,Gen. Defender
+3,Nick Vlastuin,Richmond,13.0,11.0,2.0,0.85,0.15,5.0,0.0,1.0,Gen. Defender
+3,Rhyan Mansell,Richmond,8.0,5.0,3.0,0.62,0.38,2.0,0.0,2.0,Gen. Forward
+3,Sam Lalor,Richmond,9.0,7.0,2.0,0.78,0.22,5.0,0.0,1.0,Gen. Forward
+3,Seth Campbell,Richmond,12.0,7.0,5.0,0.58,0.42,3.0,3.0,2.0,Gen. Forward
+3,Steely Green,Richmond,10.0,5.0,5.0,0.5,0.5,3.0,0.0,2.0,Gen. Forward
+3,Thomson Dow,Richmond,20.0,10.0,10.0,0.5,0.5,4.0,0.0,1.0,Midfielder
+3,Tim Taranto,Richmond,20.0,7.0,13.0,0.35,0.65,1.0,0.0,8.0,Midfielder
+3,Toby Nankervis,Richmond,21.0,13.0,8.0,0.62,0.38,3.0,0.0,0.0,Ruck
+3,Tom Brown,Richmond,14.0,12.0,2.0,0.86,0.14,8.0,1.0,2.0,Gen. Defender
+3,Tom Lynch,Richmond,7.0,6.0,1.0,0.86,0.14,4.0,1.0,1.0,Key Forward
+3,Tyler Sonsie,Richmond,10.0,6.0,4.0,0.6,0.4,4.0,0.0,1.0,Mid-Forward
+4,Ben Miller,Richmond,10.0,8.0,2.0,0.8,0.2,9.0,0.0,4.0,Key Defender
+4,Harry Armstrong,Richmond,11.0,7.0,4.0,0.64,0.36,6.0,2.0,2.0,Key Forward
+4,Jack Ross,Richmond,19.0,10.0,9.0,0.53,0.47,7.0,0.0,4.0,Mid-Forward
+4,Jacob Bauer,Richmond,,,,,,,,,Key Forward
+4,Jacob Blight,Richmond,10.0,5.0,5.0,0.5,0.5,5.0,1.0,0.0,Key Defender
+4,Jacob Hopper,Richmond,32.0,11.0,21.0,0.34,0.66,5.0,0.0,4.0,Midfielder
+4,James Trezise,Richmond,21.0,9.0,12.0,0.43,0.57,4.0,0.0,2.0,Midfielder
+4,Jayden Short,Richmond,25.0,19.0,6.0,0.76,0.24,9.0,0.0,1.0,Gen. Defender
+4,Kaleb Smith,Richmond,11.0,9.0,2.0,0.82,0.18,3.0,0.0,0.0,Gen. Defender
+4,Kamdyn McIntosh,Richmond,8.0,4.0,4.0,0.5,0.5,1.0,0.0,8.0,Midfielder
+4,Luke Trainor,Richmond,19.0,15.0,4.0,0.79,0.21,4.0,0.0,2.0,Gen. Defender
+4,Nathan Broad,Richmond,19.0,12.0,7.0,0.63,0.37,5.0,0.0,1.0,Gen. Defender
+4,Nick Vlastuin,Richmond,16.0,14.0,2.0,0.88,0.12,5.0,0.0,4.0,Gen. Defender
+4,Sam Banks,Richmond,12.0,5.0,7.0,0.42,0.58,3.0,2.0,1.0,Gen. Defender
+4,Sam Lalor,Richmond,24.0,8.0,16.0,0.33,0.67,2.0,2.0,4.0,Gen. Forward
+4,Seth Campbell,Richmond,15.0,6.0,9.0,0.4,0.6,1.0,2.0,1.0,Gen. Forward
+4,Steely Green,Richmond,14.0,10.0,4.0,0.71,0.29,4.0,2.0,0.0,Gen. Forward
+4,Thomson Dow,Richmond,21.0,5.0,16.0,0.24,0.76,4.0,0.0,5.0,Midfielder
+4,Tim Taranto,Richmond,29.0,14.0,15.0,0.48,0.52,2.0,1.0,5.0,Midfielder
+4,Toby Nankervis,Richmond,15.0,8.0,7.0,0.53,0.47,2.0,0.0,2.0,Ruck
+4,Tom Brown,Richmond,12.0,8.0,4.0,0.67,0.33,4.0,0.0,1.0,Gen. Defender
+4,Tom Lynch,Richmond,7.0,5.0,2.0,0.71,0.29,3.0,1.0,1.0,Key Forward
+4,Tyler Sonsie,Richmond,12.0,9.0,3.0,0.75,0.25,3.0,0.0,1.0,Mid-Forward
+5,Ben Miller,Richmond,12.0,11.0,1.0,0.92,0.08,6.0,0.0,0.0,Key Defender
+5,Hugo Ralphsmith,Richmond,16.0,9.0,7.0,0.56,0.44,6.0,0.0,2.0,Midfielder
+5,Jack Ross,Richmond,12.0,8.0,4.0,0.67,0.33,7.0,0.0,2.0,Mid-Forward
+5,Jacob Bauer,Richmond,,,,,,,,,Key Forward
+5,Jacob Blight,Richmond,7.0,2.0,5.0,0.29,0.71,3.0,1.0,3.0,Key Defender
+5,Jacob Hopper,Richmond,33.0,8.0,25.0,0.24,0.76,3.0,0.0,6.0,Midfielder
+5,James Trezise,Richmond,17.0,9.0,8.0,0.53,0.47,5.0,0.0,2.0,Midfielder
+5,Jayden Short,Richmond,25.0,20.0,5.0,0.8,0.2,8.0,0.0,2.0,Gen. Defender
+5,Jonty Faull,Richmond,6.0,5.0,1.0,0.83,0.17,2.0,0.0,0.0,Key Forward
+5,Kamdyn McIntosh,Richmond,19.0,11.0,8.0,0.58,0.42,6.0,1.0,1.0,Midfielder
+5,Luke Trainor,Richmond,22.0,17.0,5.0,0.77,0.23,10.0,0.0,0.0,Gen. Defender
+5,Maurice Rioli,Richmond,6.0,3.0,3.0,0.5,0.5,1.0,2.0,0.0,Gen. Forward
+5,Nathan Broad,Richmond,19.0,15.0,4.0,0.79,0.21,11.0,0.0,2.0,Gen. Defender
+5,Nick Vlastuin,Richmond,20.0,13.0,7.0,0.65,0.35,9.0,0.0,3.0,Gen. Defender
+5,Sam Banks,Richmond,21.0,10.0,11.0,0.48,0.52,3.0,0.0,1.0,Gen. Defender
+5,Seth Campbell,Richmond,9.0,6.0,3.0,0.67,0.33,1.0,0.0,1.0,Gen. Forward
+5,Steely Green,Richmond,9.0,5.0,4.0,0.56,0.44,1.0,1.0,1.0,Gen. Forward
+5,Thomson Dow,Richmond,20.0,5.0,15.0,0.25,0.75,4.0,0.0,2.0,Midfielder
+5,Tim Taranto,Richmond,26.0,11.0,15.0,0.42,0.58,4.0,0.0,7.0,Midfielder
+5,Toby Nankervis,Richmond,17.0,4.0,13.0,0.24,0.76,3.0,0.0,2.0,Ruck
+5,Tom Brown,Richmond,24.0,17.0,7.0,0.71,0.29,5.0,0.0,2.0,Gen. Defender
+5,Tom Lynch,Richmond,5.0,3.0,2.0,0.6,0.4,2.0,1.0,1.0,Key Forward
+5,Tyler Sonsie,Richmond,12.0,7.0,5.0,0.58,0.42,4.0,1.0,2.0,Mid-Forward
+6,Ben Miller,Richmond,7.0,6.0,1.0,0.86,0.14,4.0,0.0,1.0,Key Defender
+6,Hugo Ralphsmith,Richmond,11.0,7.0,4.0,0.64,0.36,5.0,1.0,2.0,Midfielder
+6,Jack Ross,Richmond,17.0,6.0,11.0,0.35,0.65,4.0,1.0,2.0,Mid-Forward
+6,Jacob Hopper,Richmond,27.0,11.0,16.0,0.41,0.59,4.0,0.0,2.0,Midfielder
+6,James Trezise,Richmond,13.0,8.0,5.0,0.62,0.38,2.0,0.0,3.0,Midfielder
+6,Jayden Short,Richmond,16.0,14.0,2.0,0.88,0.12,2.0,1.0,2.0,Gen. Defender
+6,Jonty Faull,Richmond,6.0,4.0,2.0,0.67,0.33,2.0,1.0,1.0,Key Forward
+6,Kamdyn McIntosh,Richmond,17.0,10.0,7.0,0.59,0.41,1.0,0.0,2.0,Midfielder
+6,Luke Trainor,Richmond,,,,,,,,,Gen. Defender
+6,Maurice Rioli,Richmond,10.0,9.0,1.0,0.9,0.1,2.0,1.0,7.0,Gen. Forward
+6,Nathan Broad,Richmond,15.0,12.0,3.0,0.8,0.2,9.0,0.0,1.0,Gen. Defender
+6,Nick Vlastuin,Richmond,27.0,24.0,3.0,0.89,0.11,13.0,0.0,4.0,Gen. Defender
+6,Noah Balta,Richmond,14.0,12.0,2.0,0.86,0.14,5.0,0.0,0.0,Key Defender
+6,Sam Banks,Richmond,20.0,9.0,11.0,0.45,0.55,3.0,0.0,3.0,Gen. Defender
+6,Sam Lalor,Richmond,16.0,4.0,12.0,0.25,0.75,5.0,1.0,1.0,Gen. Forward
+6,Samson Ryan,Richmond,,,,,,,,,Ruck
+6,Seth Campbell,Richmond,15.0,9.0,6.0,0.6,0.4,3.0,2.0,1.0,Gen. Forward
+6,Steely Green,Richmond,11.0,8.0,3.0,0.73,0.27,3.0,0.0,5.0,Gen. Forward
+6,Thomson Dow,Richmond,18.0,8.0,10.0,0.44,0.56,4.0,1.0,0.0,Midfielder
+6,Tim Taranto,Richmond,35.0,14.0,21.0,0.4,0.6,4.0,1.0,6.0,Midfielder
+6,Toby Nankervis,Richmond,10.0,5.0,5.0,0.5,0.5,2.0,0.0,5.0,Ruck
+6,Tom Brown,Richmond,14.0,10.0,4.0,0.71,0.29,4.0,0.0,1.0,Gen. Defender
+6,Tom Lynch,Richmond,14.0,10.0,4.0,0.71,0.29,4.0,2.0,2.0,Key Forward
+7,Ben Miller,Richmond,14.0,8.0,6.0,0.57,0.43,7.0,0.0,3.0,Key Defender
+7,Campbell Gray,Richmond,,,,,,,,,Key Defender
+7,Hugo Ralphsmith,Richmond,11.0,6.0,5.0,0.55,0.45,2.0,0.0,5.0,Midfielder
+7,Jack Ross,Richmond,24.0,11.0,13.0,0.46,0.54,5.0,0.0,1.0,Mid-Forward
+7,Jacob Hopper,Richmond,23.0,11.0,12.0,0.48,0.52,3.0,0.0,4.0,Midfielder
+7,James Trezise,Richmond,15.0,8.0,7.0,0.53,0.47,3.0,0.0,0.0,Midfielder
+7,Jayden Short,Richmond,25.0,21.0,4.0,0.84,0.16,6.0,0.0,1.0,Gen. Defender
+7,Jonty Faull,Richmond,7.0,6.0,1.0,0.86,0.14,4.0,0.0,0.0,Key Forward
+7,Kamdyn McIntosh,Richmond,12.0,7.0,5.0,0.58,0.42,1.0,0.0,6.0,Midfielder
+7,Luke Trainor,Richmond,16.0,13.0,3.0,0.81,0.19,9.0,0.0,1.0,Gen. Defender
+7,Maurice Rioli,Richmond,4.0,2.0,2.0,0.5,0.5,0.0,0.0,2.0,Gen. Forward
+7,Nathan Broad,Richmond,9.0,6.0,3.0,0.67,0.33,6.0,0.0,1.0,Gen. Defender
+7,Nick Vlastuin,Richmond,22.0,15.0,7.0,0.68,0.32,9.0,0.0,0.0,Gen. Defender
+7,Rhyan Mansell,Richmond,7.0,4.0,3.0,0.57,0.43,0.0,1.0,3.0,Gen. Forward
+7,Sam Banks,Richmond,18.0,16.0,2.0,0.89,0.11,5.0,0.0,2.0,Gen. Defender
+7,Sam Lalor,Richmond,10.0,3.0,7.0,0.3,0.7,2.0,1.0,2.0,Gen. Forward
+7,Seth Campbell,Richmond,12.0,4.0,8.0,0.33,0.67,0.0,0.0,2.0,Gen. Forward
+7,Steely Green,Richmond,6.0,4.0,2.0,0.67,0.33,3.0,1.0,2.0,Gen. Forward
+7,Thomson Dow,Richmond,28.0,10.0,18.0,0.36,0.64,7.0,0.0,3.0,Midfielder
+7,Tim Taranto,Richmond,22.0,8.0,14.0,0.36,0.64,3.0,2.0,1.0,Midfielder
+7,Toby Nankervis,Richmond,15.0,11.0,4.0,0.73,0.27,3.0,1.0,2.0,Ruck
+7,Tom Brown,Richmond,,,,,,,,,Gen. Defender
+7,Tom Lynch,Richmond,13.0,13.0,0.0,1.0,0.0,7.0,3.0,1.0,Key Forward
+8,Ben Miller,Richmond,9.0,3.0,6.0,0.33,0.67,1.0,0.0,1.0,Key Defender
+8,Hugo Ralphsmith,Richmond,12.0,8.0,4.0,0.67,0.33,3.0,0.0,1.0,Midfielder
+8,Jack Ross,Richmond,13.0,4.0,9.0,0.31,0.69,1.0,0.0,0.0,Mid-Forward
+8,Jacob Hopper,Richmond,28.0,10.0,18.0,0.36,0.64,3.0,0.0,4.0,Midfielder
+8,James Trezise,Richmond,,,,,,,,,Midfielder
+8,Jayden Short,Richmond,15.0,10.0,5.0,0.67,0.33,9.0,0.0,4.0,Gen. Defender
+8,Jonty Faull,Richmond,7.0,3.0,4.0,0.43,0.57,2.0,1.0,1.0,Key Forward
+8,Kamdyn McIntosh,Richmond,12.0,9.0,3.0,0.75,0.25,4.0,0.0,4.0,Midfielder
+8,Luke Trainor,Richmond,21.0,15.0,6.0,0.71,0.29,8.0,0.0,2.0,Gen. Defender
+8,Maurice Rioli,Richmond,,,,,,,,,Gen. Forward
+8,Nathan Broad,Richmond,13.0,8.0,5.0,0.62,0.38,3.0,0.0,1.0,Gen. Defender
+8,Nick Vlastuin,Richmond,20.0,16.0,4.0,0.8,0.2,5.0,0.0,2.0,Gen. Defender
+8,Noah Balta,Richmond,14.0,11.0,3.0,0.79,0.21,8.0,0.0,1.0,Key Defender
+8,Rhyan Mansell,Richmond,10.0,8.0,2.0,0.8,0.2,6.0,1.0,0.0,Gen. Forward
+8,Sam Banks,Richmond,15.0,8.0,7.0,0.53,0.47,3.0,0.0,2.0,Gen. Defender
+8,Sam Lalor,Richmond,12.0,5.0,7.0,0.42,0.58,3.0,0.0,4.0,Gen. Forward
+8,Seth Campbell,Richmond,11.0,7.0,4.0,0.64,0.36,5.0,1.0,2.0,Gen. Forward
+8,Steely Green,Richmond,8.0,5.0,3.0,0.62,0.38,4.0,1.0,1.0,Gen. Forward
+8,Thomson Dow,Richmond,18.0,7.0,11.0,0.39,0.61,2.0,0.0,0.0,Midfielder
+8,Tim Taranto,Richmond,26.0,12.0,14.0,0.46,0.54,5.0,0.0,8.0,Midfielder
+8,Toby Nankervis,Richmond,14.0,6.0,8.0,0.43,0.57,1.0,0.0,4.0,Ruck
+8,Tom Brown,Richmond,14.0,13.0,1.0,0.93,0.07,9.0,1.0,1.0,Gen. Defender
+8,Tom Lynch,Richmond,7.0,6.0,1.0,0.86,0.14,5.0,0.0,1.0,Key Forward
+9,Ben Miller,Richmond,10.0,7.0,3.0,0.7,0.3,4.0,0.0,0.0,Key Defender
+9,Hugo Ralphsmith,Richmond,10.0,7.0,3.0,0.7,0.3,6.0,1.0,5.0,Midfielder
+9,Jack Ross,Richmond,17.0,5.0,12.0,0.29,0.71,5.0,0.0,1.0,Mid-Forward
+9,Jacob Hopper,Richmond,24.0,9.0,15.0,0.38,0.62,1.0,0.0,1.0,Midfielder
+9,James Trezise,Richmond,,,,,,,,,Midfielder
+9,Jonty Faull,Richmond,12.0,5.0,7.0,0.42,0.58,3.0,0.0,2.0,Key Forward
+9,Kamdyn McIntosh,Richmond,19.0,13.0,6.0,0.68,0.32,4.0,0.0,4.0,Midfielder
+9,Kane McAuliffe,Richmond,12.0,6.0,6.0,0.5,0.5,1.0,0.0,6.0,Midfielder
+9,Luke Trainor,Richmond,18.0,13.0,5.0,0.72,0.28,3.0,0.0,2.0,Gen. Defender
+9,Nathan Broad,Richmond,16.0,8.0,8.0,0.5,0.5,4.0,0.0,1.0,Gen. Defender
+9,Nick Vlastuin,Richmond,18.0,11.0,7.0,0.61,0.39,4.0,0.0,1.0,Gen. Defender
+9,Noah Balta,Richmond,16.0,8.0,8.0,0.5,0.5,2.0,0.0,3.0,Key Defender
+9,Rhyan Mansell,Richmond,13.0,12.0,1.0,0.92,0.08,3.0,2.0,3.0,Gen. Forward
+9,Sam Banks,Richmond,28.0,19.0,9.0,0.68,0.32,6.0,0.0,1.0,Gen. Defender
+9,Sam Lalor,Richmond,15.0,7.0,8.0,0.47,0.53,4.0,0.0,4.0,Gen. Forward
+9,Seth Campbell,Richmond,19.0,9.0,10.0,0.47,0.53,1.0,2.0,6.0,Gen. Forward
+9,Steely Green,Richmond,5.0,4.0,1.0,0.8,0.2,2.0,0.0,2.0,Gen. Forward
+9,Thomas Sims,Richmond,6.0,6.0,0.0,1.0,0.0,2.0,1.0,3.0,Key Forward
+9,Thomson Dow,Richmond,14.0,5.0,9.0,0.36,0.64,2.0,0.0,0.0,Midfielder
+9,Tim Taranto,Richmond,27.0,9.0,18.0,0.33,0.67,3.0,1.0,4.0,Midfielder
+9,Toby Nankervis,Richmond,18.0,9.0,9.0,0.5,0.5,2.0,1.0,4.0,Ruck
+9,Tom Brown,Richmond,16.0,9.0,7.0,0.56,0.44,5.0,1.0,2.0,Gen. Defender
+9,Tom Lynch,Richmond,17.0,10.0,7.0,0.59,0.41,6.0,2.0,1.0,Key Forward
+10,Ben Miller,Richmond,12.0,6.0,6.0,0.5,0.5,5.0,0.0,2.0,Key Defender
+10,Hugo Ralphsmith,Richmond,16.0,6.0,10.0,0.38,0.62,2.0,1.0,2.0,Midfielder
+10,Jack Ross,Richmond,21.0,8.0,13.0,0.38,0.62,2.0,0.0,11.0,Mid-Forward
+10,Jacob Hopper,Richmond,27.0,13.0,14.0,0.48,0.52,2.0,0.0,4.0,Midfielder
+10,Jonty Faull,Richmond,3.0,2.0,1.0,0.67,0.33,1.0,0.0,3.0,Key Forward
+10,Kaleb Smith,Richmond,,,,,,,,,Gen. Defender
+10,Kamdyn McIntosh,Richmond,13.0,7.0,6.0,0.54,0.46,3.0,2.0,2.0,Midfielder
+10,Kane McAuliffe,Richmond,22.0,8.0,14.0,0.36,0.64,4.0,0.0,6.0,Midfielder
+10,Luke Trainor,Richmond,12.0,9.0,3.0,0.75,0.25,4.0,0.0,2.0,Gen. Defender
+10,Nathan Broad,Richmond,12.0,7.0,5.0,0.58,0.42,5.0,0.0,4.0,Gen. Defender
+10,Nick Vlastuin,Richmond,14.0,9.0,5.0,0.64,0.36,5.0,0.0,4.0,Gen. Defender
+10,Noah Balta,Richmond,11.0,10.0,1.0,0.91,0.09,2.0,0.0,4.0,Key Defender
+10,Rhyan Mansell,Richmond,11.0,9.0,2.0,0.82,0.18,4.0,0.0,7.0,Gen. Forward
+10,Sam Banks,Richmond,25.0,16.0,9.0,0.64,0.36,4.0,0.0,2.0,Gen. Defender
+10,Sam Lalor,Richmond,16.0,6.0,10.0,0.38,0.62,5.0,2.0,3.0,Gen. Forward
+10,Seth Campbell,Richmond,15.0,10.0,5.0,0.67,0.33,2.0,3.0,3.0,Gen. Forward
+10,Steely Green,Richmond,8.0,5.0,3.0,0.62,0.38,1.0,0.0,3.0,Gen. Forward
+10,Thomas Sims,Richmond,7.0,4.0,3.0,0.57,0.43,0.0,1.0,3.0,Key Forward
+10,Thomson Dow,Richmond,17.0,5.0,12.0,0.29,0.71,3.0,0.0,7.0,Midfielder
+10,Tim Taranto,Richmond,30.0,9.0,21.0,0.3,0.7,2.0,0.0,4.0,Midfielder
+10,Toby Nankervis,Richmond,15.0,6.0,9.0,0.4,0.6,5.0,0.0,13.0,Ruck
+10,Tom Brown,Richmond,11.0,8.0,3.0,0.73,0.27,4.0,0.0,2.0,Gen. Defender
+10,Tom Lynch,Richmond,13.0,9.0,4.0,0.69,0.31,6.0,2.0,1.0,Key Forward
+11,Ben Miller,Richmond,14.0,11.0,3.0,0.79,0.21,6.0,0.0,3.0,Key Defender
+11,Campbell Gray,Richmond,11.0,6.0,5.0,0.55,0.45,6.0,0.0,2.0,Key Defender
+11,Hugo Ralphsmith,Richmond,17.0,11.0,6.0,0.65,0.35,4.0,2.0,4.0,Midfielder
+11,Jack Ross,Richmond,18.0,9.0,9.0,0.5,0.5,7.0,0.0,4.0,Mid-Forward
+11,Jacob Hopper,Richmond,23.0,15.0,8.0,0.65,0.35,3.0,0.0,5.0,Midfielder
+11,Jonty Faull,Richmond,9.0,5.0,4.0,0.56,0.44,2.0,1.0,0.0,Key Forward
+11,Kaleb Smith,Richmond,20.0,9.0,11.0,0.45,0.55,5.0,0.0,1.0,Gen. Defender
+11,Kamdyn McIntosh,Richmond,14.0,8.0,6.0,0.57,0.43,5.0,0.0,5.0,Midfielder
+11,Kane McAuliffe,Richmond,21.0,9.0,12.0,0.43,0.57,6.0,0.0,6.0,Midfielder
+11,Luke Trainor,Richmond,8.0,4.0,4.0,0.5,0.5,2.0,0.0,0.0,Gen. Defender
+11,Maurice Rioli,Richmond,,,,,,,,,Gen. Forward
+11,Nathan Broad,Richmond,22.0,15.0,7.0,0.68,0.32,8.0,0.0,1.0,Gen. Defender
+11,Nick Vlastuin,Richmond,24.0,17.0,7.0,0.71,0.29,4.0,0.0,2.0,Gen. Defender
+11,Rhyan Mansell,Richmond,11.0,7.0,4.0,0.64,0.36,5.0,1.0,1.0,Gen. Forward
+11,Sam Banks,Richmond,29.0,23.0,6.0,0.79,0.21,8.0,0.0,2.0,Gen. Defender
+11,Sam Lalor,Richmond,2.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,Gen. Forward
+11,Samson Ryan,Richmond,11.0,4.0,7.0,0.36,0.64,2.0,0.0,1.0,Ruck
+11,Seth Campbell,Richmond,11.0,7.0,4.0,0.64,0.36,3.0,0.0,3.0,Gen. Forward
+11,Steely Green,Richmond,9.0,5.0,4.0,0.56,0.44,3.0,0.0,1.0,Gen. Forward
+11,Thomas Sims,Richmond,9.0,2.0,7.0,0.22,0.78,1.0,0.0,3.0,Key Forward
+11,Thomson Dow,Richmond,,,,,,,,,Midfielder
+11,Tim Taranto,Richmond,23.0,12.0,11.0,0.52,0.48,5.0,2.0,4.0,Midfielder
+11,Tom Brown,Richmond,21.0,16.0,5.0,0.76,0.24,4.0,0.0,2.0,Gen. Defender
+12,Ben Miller,Richmond,11.0,9.0,2.0,0.82,0.18,6.0,0.0,2.0,Key Defender
+12,Campbell Gray,Richmond,13.0,9.0,4.0,0.69,0.31,5.0,0.0,0.0,Key Defender
+12,Dion Prestia,Richmond,31.0,15.0,16.0,0.48,0.52,2.0,1.0,5.0,Midfielder
+12,Hugo Ralphsmith,Richmond,23.0,15.0,8.0,0.65,0.35,2.0,0.0,0.0,Midfielder
+12,Jack Ross,Richmond,17.0,11.0,6.0,0.65,0.35,4.0,0.0,2.0,Mid-Forward
+12,Jacob Hopper,Richmond,29.0,15.0,14.0,0.52,0.48,3.0,1.0,2.0,Midfielder
+12,Jonty Faull,Richmond,8.0,7.0,1.0,0.88,0.12,5.0,1.0,0.0,Key Forward
+12,Kaleb Smith,Richmond,13.0,10.0,3.0,0.77,0.23,5.0,0.0,2.0,Gen. Defender
+12,Kamdyn McIntosh,Richmond,,,,,,,,,Midfielder
+12,Kane McAuliffe,Richmond,18.0,5.0,13.0,0.28,0.72,2.0,0.0,2.0,Midfielder
+12,Luke Trainor,Richmond,,,,,,,,,Gen. Defender
+12,Nathan Broad,Richmond,17.0,11.0,6.0,0.65,0.35,7.0,0.0,1.0,Gen. Defender
+12,Nick Vlastuin,Richmond,19.0,13.0,6.0,0.68,0.32,4.0,0.0,1.0,Gen. Defender
+12,Rhyan Mansell,Richmond,11.0,7.0,4.0,0.64,0.36,5.0,0.0,4.0,Gen. Forward
+12,Sam Banks,Richmond,25.0,16.0,9.0,0.64,0.36,7.0,0.0,0.0,Gen. Defender
+12,Seth Campbell,Richmond,13.0,6.0,7.0,0.46,0.54,2.0,0.0,4.0,Gen. Forward
+12,Steely Green,Richmond,7.0,6.0,1.0,0.86,0.14,1.0,2.0,1.0,Gen. Forward
+12,Thomas Sims,Richmond,13.0,9.0,4.0,0.69,0.31,7.0,0.0,1.0,Key Forward
+12,Tim Taranto,Richmond,23.0,11.0,12.0,0.48,0.52,4.0,2.0,2.0,Midfielder
+12,Toby Nankervis,Richmond,15.0,7.0,8.0,0.47,0.53,3.0,0.0,6.0,Ruck
+12,Tom Brown,Richmond,12.0,9.0,3.0,0.75,0.25,2.0,0.0,1.0,Gen. Defender
+12,Tom Lynch,Richmond,10.0,8.0,2.0,0.8,0.2,5.0,2.0,2.0,Key Forward
+12,Tyler Sonsie,Richmond,17.0,9.0,8.0,0.53,0.47,1.0,1.0,3.0,Mid-Forward
+13,Ben Miller,Richmond,14.0,9.0,5.0,0.64,0.36,8.0,0.0,4.0,Key Defender
+13,Dion Prestia,Richmond,21.0,8.0,13.0,0.38,0.62,5.0,1.0,4.0,Midfielder
+13,Hugo Ralphsmith,Richmond,12.0,7.0,5.0,0.58,0.42,4.0,0.0,3.0,Midfielder
+13,Jack Ross,Richmond,6.0,3.0,3.0,0.5,0.5,0.0,0.0,4.0,Mid-Forward
+13,Jacob Hopper,Richmond,22.0,10.0,12.0,0.45,0.55,2.0,0.0,1.0,Midfielder
+13,Jonty Faull,Richmond,6.0,5.0,1.0,0.83,0.17,3.0,0.0,3.0,Key Forward
+13,Kaleb Smith,Richmond,14.0,9.0,5.0,0.64,0.36,6.0,0.0,3.0,Gen. Defender
+13,Kamdyn McIntosh,Richmond,,,,,,,,,Midfielder
+13,Kane McAuliffe,Richmond,19.0,8.0,11.0,0.42,0.58,7.0,0.0,4.0,Midfielder
+13,Luke Trainor,Richmond,19.0,12.0,7.0,0.63,0.37,8.0,0.0,3.0,Gen. Defender
+13,Nathan Broad,Richmond,13.0,9.0,4.0,0.69,0.31,5.0,0.0,2.0,Gen. Defender
+13,Nick Vlastuin,Richmond,15.0,11.0,4.0,0.73,0.27,3.0,0.0,2.0,Gen. Defender
+13,Noah Balta,Richmond,12.0,9.0,3.0,0.75,0.25,5.0,0.0,2.0,Key Defender
+13,Rhyan Mansell,Richmond,,,,,,,,,Gen. Forward
+13,Sam Banks,Richmond,21.0,13.0,8.0,0.62,0.38,4.0,0.0,1.0,Gen. Defender
+13,Seth Campbell,Richmond,13.0,12.0,1.0,0.92,0.08,3.0,2.0,2.0,Gen. Forward
+13,Steely Green,Richmond,5.0,2.0,3.0,0.4,0.6,0.0,0.0,2.0,Gen. Forward
+13,Thomas Sims,Richmond,3.0,2.0,1.0,0.67,0.33,0.0,0.0,0.0,Key Forward
+13,Tim Taranto,Richmond,25.0,10.0,15.0,0.4,0.6,1.0,1.0,4.0,Midfielder
+13,Toby Nankervis,Richmond,17.0,8.0,9.0,0.47,0.53,3.0,0.0,5.0,Ruck
+13,Tom Brown,Richmond,17.0,16.0,1.0,0.94,0.06,9.0,0.0,0.0,Gen. Defender
+13,Tom Lynch,Richmond,8.0,6.0,2.0,0.75,0.25,3.0,0.0,1.0,Key Forward
+13,Tyler Sonsie,Richmond,18.0,9.0,9.0,0.5,0.5,3.0,0.0,4.0,Mid-Forward
+15,Ben Miller,Richmond,11.0,8.0,3.0,0.73,0.27,2.0,0.0,2.0,Key Defender
+15,Dion Prestia,Richmond,19.0,5.0,14.0,0.26,0.74,2.0,0.0,2.0,Midfielder
+15,Hugo Ralphsmith,Richmond,8.0,6.0,2.0,0.75,0.25,2.0,0.0,4.0,Midfielder
+15,Jack Ross,Richmond,19.0,9.0,10.0,0.47,0.53,8.0,1.0,2.0,Mid-Forward
+15,Jacob Hopper,Richmond,19.0,10.0,9.0,0.53,0.47,4.0,1.0,6.0,Midfielder
+15,Jasper Alger,Richmond,,,,,,,,,Gen. Forward
+15,Jonty Faull,Richmond,9.0,6.0,3.0,0.67,0.33,2.0,0.0,4.0,Key Forward
+15,Kaleb Smith,Richmond,14.0,8.0,6.0,0.57,0.43,3.0,0.0,1.0,Gen. Defender
+15,Kamdyn McIntosh,Richmond,20.0,12.0,8.0,0.6,0.4,3.0,1.0,2.0,Midfielder
+15,Luke Trainor,Richmond,15.0,6.0,9.0,0.4,0.6,3.0,0.0,0.0,Gen. Defender
+15,Nathan Broad,Richmond,13.0,7.0,6.0,0.54,0.46,5.0,0.0,0.0,Gen. Defender
+15,Nick Vlastuin,Richmond,28.0,19.0,9.0,0.68,0.32,7.0,0.0,2.0,Gen. Defender
+15,Noah Balta,Richmond,12.0,9.0,3.0,0.75,0.25,4.0,0.0,2.0,Key Defender
+15,Rhyan Mansell,Richmond,10.0,8.0,2.0,0.8,0.2,5.0,0.0,7.0,Gen. Forward
+15,Sam Banks,Richmond,18.0,9.0,9.0,0.5,0.5,1.0,0.0,1.0,Gen. Defender
+15,Seth Campbell,Richmond,15.0,10.0,5.0,0.67,0.33,4.0,1.0,3.0,Gen. Forward
+15,Steely Green,Richmond,7.0,3.0,4.0,0.43,0.57,1.0,1.0,2.0,Gen. Forward
+15,Thomas Sims,Richmond,,,,,,,,,Key Forward
+15,Tim Taranto,Richmond,28.0,11.0,17.0,0.39,0.61,3.0,0.0,6.0,Midfielder
+15,Toby Nankervis,Richmond,9.0,2.0,7.0,0.22,0.78,1.0,0.0,6.0,Ruck
+15,Tom Brown,Richmond,8.0,7.0,1.0,0.88,0.12,3.0,0.0,2.0,Gen. Defender
+15,Tom Lynch,Richmond,8.0,7.0,1.0,0.88,0.12,5.0,3.0,0.0,Key Forward
+15,Tyler Sonsie,Richmond,,,,,,,,,Mid-Forward
+16,Ben Miller,Richmond,11.0,7.0,4.0,0.64,0.36,3.0,0.0,3.0,Key Defender
+16,Dion Prestia,Richmond,29.0,17.0,12.0,0.59,0.41,5.0,0.0,7.0,Midfielder
+16,Hugo Ralphsmith,Richmond,17.0,7.0,10.0,0.41,0.59,4.0,1.0,2.0,Midfielder
+16,Jack Ross,Richmond,23.0,8.0,15.0,0.35,0.65,2.0,0.0,2.0,Mid-Forward
+16,Jacob Blight,Richmond,12.0,8.0,4.0,0.67,0.33,6.0,0.0,0.0,Key Defender
+16,Jacob Hopper,Richmond,28.0,16.0,12.0,0.57,0.43,3.0,0.0,2.0,Midfielder
+16,Jasper Alger,Richmond,11.0,7.0,4.0,0.64,0.36,4.0,2.0,2.0,Gen. Forward
+16,Jonty Faull,Richmond,7.0,5.0,2.0,0.71,0.29,3.0,0.0,2.0,Key Forward
+16,Kamdyn McIntosh,Richmond,,,,,,,,,Midfielder
+16,Luke Trainor,Richmond,9.0,5.0,4.0,0.56,0.44,2.0,1.0,4.0,Gen. Defender
+16,Mykelti Lefau,Richmond,,,,,,,,,Key Forward
+16,Nathan Broad,Richmond,14.0,12.0,2.0,0.86,0.14,7.0,0.0,1.0,Gen. Defender
+16,Nick Vlastuin,Richmond,15.0,12.0,3.0,0.8,0.2,3.0,0.0,2.0,Gen. Defender
+16,Noah Balta,Richmond,14.0,12.0,2.0,0.86,0.14,8.0,0.0,1.0,Key Defender
+16,Rhyan Mansell,Richmond,7.0,6.0,1.0,0.86,0.14,1.0,1.0,6.0,Gen. Forward
+16,Sam Banks,Richmond,25.0,21.0,4.0,0.84,0.16,4.0,1.0,4.0,Gen. Defender
+16,Seth Campbell,Richmond,11.0,6.0,5.0,0.55,0.45,2.0,1.0,2.0,Gen. Forward
+16,Steely Green,Richmond,4.0,1.0,3.0,0.25,0.75,1.0,0.0,0.0,Gen. Forward
+16,Tim Taranto,Richmond,19.0,9.0,10.0,0.47,0.53,4.0,0.0,6.0,Midfielder
+16,Toby Nankervis,Richmond,17.0,7.0,10.0,0.41,0.59,1.0,0.0,1.0,Ruck
+16,Tom Brown,Richmond,11.0,6.0,5.0,0.55,0.45,2.0,0.0,1.0,Gen. Defender
+16,Tom Lynch,Richmond,2.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,Key Forward
+16,Tyler Sonsie,Richmond,12.0,6.0,6.0,0.5,0.5,1.0,0.0,1.0,Mid-Forward
+17,Ben Miller,Richmond,13.0,9.0,4.0,0.69,0.31,7.0,0.0,2.0,Key Defender
+17,Dion Prestia,Richmond,20.0,8.0,12.0,0.4,0.6,3.0,0.0,0.0,Midfielder
+17,Hugo Ralphsmith,Richmond,,,,,,,,,Midfielder
+17,Jack Ross,Richmond,16.0,7.0,9.0,0.44,0.56,3.0,0.0,9.0,Mid-Forward
+17,Jacob Blight,Richmond,17.0,14.0,3.0,0.82,0.18,8.0,0.0,1.0,Key Defender
+17,Jacob Hopper,Richmond,27.0,15.0,12.0,0.56,0.44,4.0,0.0,4.0,Midfielder
+17,Jasper Alger,Richmond,,,,,,,,,Gen. Forward
+17,Jonty Faull,Richmond,9.0,8.0,1.0,0.89,0.11,4.0,1.0,1.0,Key Forward
+17,Kamdyn McIntosh,Richmond,17.0,7.0,10.0,0.41,0.59,3.0,0.0,0.0,Midfielder
+17,Luke Trainor,Richmond,16.0,9.0,7.0,0.56,0.44,2.0,0.0,4.0,Gen. Defender
+17,Maurice Rioli,Richmond,19.0,14.0,5.0,0.74,0.26,9.0,1.0,3.0,Gen. Forward
+17,Nathan Broad,Richmond,17.0,10.0,7.0,0.59,0.41,6.0,0.0,3.0,Gen. Defender
+17,Nick Vlastuin,Richmond,21.0,13.0,8.0,0.62,0.38,4.0,0.0,2.0,Gen. Defender
+17,Noah Balta,Richmond,7.0,6.0,1.0,0.86,0.14,4.0,0.0,3.0,Key Defender
+17,Rhyan Mansell,Richmond,22.0,13.0,9.0,0.59,0.41,8.0,3.0,2.0,Gen. Forward
+17,Sam Banks,Richmond,26.0,18.0,8.0,0.69,0.31,6.0,0.0,6.0,Gen. Defender
+17,Sam Lalor,Richmond,,,,,,,,,Gen. Forward
+17,Seth Campbell,Richmond,19.0,8.0,11.0,0.42,0.58,5.0,0.0,1.0,Gen. Forward
+17,Thomas Sims,Richmond,7.0,5.0,2.0,0.71,0.29,3.0,0.0,2.0,Key Forward
+17,Tim Taranto,Richmond,25.0,8.0,17.0,0.32,0.68,4.0,0.0,4.0,Midfielder
+17,Toby Nankervis,Richmond,18.0,11.0,7.0,0.61,0.39,1.0,1.0,4.0,Ruck
+17,Tom Brown,Richmond,15.0,10.0,5.0,0.67,0.33,4.0,1.0,1.0,Gen. Defender
+17,Tyler Sonsie,Richmond,17.0,6.0,11.0,0.35,0.65,3.0,0.0,3.0,Mid-Forward
+18,Ben Miller,Richmond,14.0,11.0,3.0,0.79,0.21,8.0,0.0,3.0,Key Defender
+18,Dion Prestia,Richmond,28.0,10.0,18.0,0.36,0.64,2.0,0.0,1.0,Midfielder
+18,Jack Ross,Richmond,21.0,7.0,14.0,0.33,0.67,4.0,0.0,8.0,Mid-Forward
+18,Jacob Hopper,Richmond,27.0,13.0,14.0,0.48,0.52,3.0,1.0,2.0,Midfielder
+18,Jacob Koschitzke,Richmond,6.0,2.0,4.0,0.33,0.67,3.0,0.0,0.0,Key Forward
+18,James Trezise,Richmond,,,,,,,,,Midfielder
+18,Jayden Short,Richmond,25.0,19.0,6.0,0.76,0.24,10.0,1.0,1.0,Gen. Defender
+18,Jonty Faull,Richmond,8.0,5.0,3.0,0.62,0.38,5.0,1.0,0.0,Key Forward
+18,Kamdyn McIntosh,Richmond,20.0,11.0,9.0,0.55,0.45,5.0,0.0,1.0,Midfielder
+18,Luke Trainor,Richmond,16.0,11.0,5.0,0.69,0.31,5.0,0.0,5.0,Gen. Defender
+18,Maurice Rioli,Richmond,9.0,7.0,2.0,0.78,0.22,3.0,0.0,2.0,Gen. Forward
+18,Nathan Broad,Richmond,13.0,7.0,6.0,0.54,0.46,4.0,0.0,1.0,Gen. Defender
+18,Nick Vlastuin,Richmond,23.0,15.0,8.0,0.65,0.35,8.0,0.0,4.0,Gen. Defender
+18,Rhyan Mansell,Richmond,5.0,4.0,1.0,0.8,0.2,2.0,0.0,3.0,Gen. Forward
+18,Sam Banks,Richmond,20.0,13.0,7.0,0.65,0.35,8.0,1.0,3.0,Gen. Defender
+18,Seth Campbell,Richmond,13.0,5.0,8.0,0.38,0.62,3.0,0.0,4.0,Gen. Forward
+18,Taj Hotton,Richmond,,,,,,,,,Gen. Forward
+18,Thomas Sims,Richmond,7.0,1.0,6.0,0.14,0.86,2.0,0.0,0.0,Key Forward
+18,Tim Taranto,Richmond,34.0,15.0,19.0,0.44,0.56,7.0,1.0,5.0,Midfielder
+18,Toby Nankervis,Richmond,18.0,10.0,8.0,0.56,0.44,1.0,0.0,1.0,Ruck
+18,Tom Brown,Richmond,23.0,16.0,7.0,0.7,0.3,11.0,0.0,1.0,Gen. Defender
+18,Tylar Young,Richmond,18.0,11.0,7.0,0.61,0.39,8.0,0.0,1.0,Key Defender
+18,Tyler Sonsie,Richmond,,,,,,,,,Mid-Forward
+19,Ben Miller,Richmond,10.0,8.0,2.0,0.8,0.2,8.0,0.0,0.0,Key Defender
+19,Dion Prestia,Richmond,21.0,11.0,10.0,0.52,0.48,6.0,0.0,1.0,Midfielder
+19,Jack Ross,Richmond,25.0,9.0,16.0,0.36,0.64,6.0,0.0,9.0,Mid-Forward
+19,Jacob Hopper,Richmond,33.0,13.0,20.0,0.39,0.61,6.0,2.0,4.0,Midfielder
+19,Jacob Koschitzke,Richmond,9.0,4.0,5.0,0.44,0.56,3.0,0.0,1.0,Key Forward
+19,James Trezise,Richmond,,,,,,,,,Midfielder
+19,Jayden Short,Richmond,14.0,12.0,2.0,0.86,0.14,3.0,1.0,1.0,Gen. Defender
+19,Jonty Faull,Richmond,11.0,7.0,4.0,0.64,0.36,4.0,2.0,1.0,Key Forward
+19,Kamdyn McIntosh,Richmond,18.0,8.0,10.0,0.44,0.56,4.0,0.0,1.0,Midfielder
+19,Luke Trainor,Richmond,,,,,,,,,Gen. Defender
+19,Maurice Rioli,Richmond,13.0,10.0,3.0,0.77,0.23,2.0,0.0,2.0,Gen. Forward
+19,Nathan Broad,Richmond,16.0,10.0,6.0,0.62,0.38,8.0,0.0,2.0,Gen. Defender
+19,Nick Vlastuin,Richmond,25.0,18.0,7.0,0.72,0.28,11.0,0.0,1.0,Gen. Defender
+19,Rhyan Mansell,Richmond,15.0,12.0,3.0,0.8,0.2,2.0,3.0,2.0,Gen. Forward
+19,Sam Banks,Richmond,24.0,16.0,8.0,0.67,0.33,8.0,0.0,1.0,Gen. Defender
+19,Seth Campbell,Richmond,,,,,,,,,Gen. Forward
+19,Taj Hotton,Richmond,16.0,3.0,13.0,0.19,0.81,1.0,0.0,2.0,Gen. Forward
+19,Thomas Sims,Richmond,6.0,4.0,2.0,0.67,0.33,2.0,1.0,3.0,Key Forward
+19,Tim Taranto,Richmond,30.0,15.0,15.0,0.5,0.5,5.0,3.0,4.0,Midfielder
+19,Toby Nankervis,Richmond,17.0,11.0,6.0,0.65,0.35,4.0,1.0,6.0,Ruck
+19,Tom Brown,Richmond,14.0,12.0,2.0,0.86,0.14,4.0,0.0,1.0,Gen. Defender
+19,Tylar Young,Richmond,14.0,12.0,2.0,0.86,0.14,8.0,0.0,0.0,Key Defender
+19,Tyler Sonsie,Richmond,21.0,13.0,8.0,0.62,0.38,4.0,1.0,2.0,Mid-Forward
+20,Ben Miller,Richmond,13.0,10.0,3.0,0.77,0.23,6.0,0.0,1.0,Key Defender
+20,Dion Prestia,Richmond,23.0,11.0,12.0,0.48,0.52,1.0,0.0,0.0,Midfielder
+20,Jack Ross,Richmond,24.0,10.0,14.0,0.42,0.58,3.0,0.0,4.0,Mid-Forward
+20,Jacob Hopper,Richmond,33.0,11.0,22.0,0.33,0.67,6.0,0.0,3.0,Midfielder
+20,James Trezise,Richmond,12.0,4.0,8.0,0.33,0.67,2.0,1.0,3.0,Midfielder
+20,Jasper Alger,Richmond,,,,,,,,,Gen. Forward
+20,Jayden Short,Richmond,25.0,18.0,7.0,0.72,0.28,9.0,0.0,1.0,Gen. Defender
+20,Jonty Faull,Richmond,8.0,5.0,3.0,0.62,0.38,2.0,1.0,1.0,Key Forward
+20,Kamdyn McIntosh,Richmond,15.0,4.0,11.0,0.27,0.73,3.0,0.0,1.0,Midfielder
+20,Luke Trainor,Richmond,19.0,9.0,10.0,0.47,0.53,5.0,0.0,0.0,Gen. Defender
+20,Maurice Rioli,Richmond,8.0,3.0,5.0,0.38,0.62,2.0,0.0,2.0,Gen. Forward
+20,Nathan Broad,Richmond,15.0,9.0,6.0,0.6,0.4,5.0,0.0,0.0,Gen. Defender
+20,Nick Vlastuin,Richmond,25.0,20.0,5.0,0.8,0.2,7.0,0.0,3.0,Gen. Defender
+20,Noah Balta,Richmond,14.0,13.0,1.0,0.93,0.07,9.0,1.0,0.0,Key Defender
+20,Rhyan Mansell,Richmond,12.0,8.0,4.0,0.67,0.33,5.0,0.0,3.0,Gen. Forward
+20,Sam Banks,Richmond,19.0,11.0,8.0,0.58,0.42,4.0,0.0,3.0,Gen. Defender
+20,Steely Green,Richmond,11.0,5.0,6.0,0.45,0.55,1.0,2.0,3.0,Gen. Forward
+20,Taj Hotton,Richmond,11.0,5.0,6.0,0.45,0.55,1.0,2.0,2.0,Gen. Forward
+20,Thomas Sims,Richmond,8.0,4.0,4.0,0.5,0.5,3.0,1.0,4.0,Key Forward
+20,Toby Nankervis,Richmond,18.0,9.0,9.0,0.5,0.5,1.0,0.0,1.0,Ruck
+20,Tom Brown,Richmond,13.0,10.0,3.0,0.77,0.23,3.0,0.0,1.0,Gen. Defender
+20,Tylar Young,Richmond,8.0,6.0,2.0,0.75,0.25,4.0,0.0,0.0,Key Defender
+20,Tyler Sonsie,Richmond,28.0,12.0,16.0,0.43,0.57,10.0,0.0,3.0,Mid-Forward
+21,Ben Miller,Richmond,13.0,8.0,5.0,0.62,0.38,6.0,0.0,0.0,Key Defender
+21,Dion Prestia,Richmond,23.0,9.0,14.0,0.39,0.61,4.0,0.0,6.0,Midfielder
+21,Harry Armstrong,Richmond,4.0,2.0,2.0,0.5,0.5,2.0,1.0,0.0,Key Forward
+21,Jack Ross,Richmond,23.0,6.0,17.0,0.26,0.74,2.0,0.0,3.0,Mid-Forward
+21,Jacob Hopper,Richmond,25.0,10.0,15.0,0.4,0.6,5.0,0.0,2.0,Midfielder
+21,James Trezise,Richmond,19.0,7.0,12.0,0.37,0.63,4.0,0.0,3.0,Midfielder
+21,Jayden Short,Richmond,23.0,14.0,9.0,0.61,0.39,5.0,0.0,0.0,Gen. Defender
+21,Jonty Faull,Richmond,,,,,,,,,Key Forward
+21,Kamdyn McIntosh,Richmond,14.0,8.0,6.0,0.57,0.43,8.0,0.0,0.0,Midfielder
+21,Luke Trainor,Richmond,14.0,10.0,4.0,0.71,0.29,1.0,0.0,3.0,Gen. Defender
+21,Maurice Rioli,Richmond,7.0,5.0,2.0,0.71,0.29,1.0,0.0,2.0,Gen. Forward
+21,Nick Vlastuin,Richmond,20.0,14.0,6.0,0.7,0.3,8.0,0.0,4.0,Gen. Defender
+21,Noah Balta,Richmond,8.0,5.0,3.0,0.62,0.38,4.0,0.0,0.0,Key Defender
+21,Rhyan Mansell,Richmond,11.0,7.0,4.0,0.64,0.36,5.0,1.0,2.0,Gen. Forward
+21,Sam Banks,Richmond,26.0,21.0,5.0,0.81,0.19,5.0,0.0,3.0,Gen. Defender
+21,Seth Campbell,Richmond,11.0,8.0,3.0,0.73,0.27,4.0,0.0,0.0,Gen. Forward
+21,Steely Green,Richmond,4.0,1.0,3.0,0.25,0.75,1.0,0.0,2.0,Gen. Forward
+21,Taj Hotton,Richmond,14.0,3.0,11.0,0.21,0.79,5.0,0.0,2.0,Gen. Forward
+21,Thomas Sims,Richmond,3.0,3.0,0.0,1.0,0.0,3.0,0.0,2.0,Key Forward
+21,Toby Nankervis,Richmond,11.0,6.0,5.0,0.55,0.45,2.0,0.0,6.0,Ruck
+21,Tom Brown,Richmond,14.0,5.0,9.0,0.36,0.64,3.0,0.0,1.0,Gen. Defender
+21,Tylar Young,Richmond,11.0,9.0,2.0,0.82,0.18,5.0,0.0,2.0,Key Defender
+21,Tyler Sonsie,Richmond,13.0,7.0,6.0,0.54,0.46,3.0,0.0,1.0,Mid-Forward
+22,Ben Miller,Richmond,15.0,15.0,0.0,1.0,0.0,8.0,0.0,0.0,Key Defender
+22,Dion Prestia,Richmond,18.0,7.0,11.0,0.39,0.61,3.0,0.0,4.0,Midfielder
+22,Harry Armstrong,Richmond,8.0,5.0,3.0,0.62,0.38,2.0,1.0,0.0,Key Forward
+22,Jack Ross,Richmond,26.0,14.0,12.0,0.54,0.46,6.0,0.0,2.0,Mid-Forward
+22,Jacob Hopper,Richmond,20.0,7.0,13.0,0.35,0.65,1.0,0.0,1.0,Midfielder
+22,James Trezise,Richmond,10.0,3.0,7.0,0.3,0.7,1.0,0.0,2.0,Midfielder
+22,Jayden Short,Richmond,19.0,17.0,2.0,0.89,0.11,11.0,0.0,0.0,Gen. Defender
+22,Kamdyn McIntosh,Richmond,14.0,10.0,4.0,0.71,0.29,4.0,1.0,2.0,Midfielder
+22,Maurice Rioli,Richmond,9.0,5.0,4.0,0.56,0.44,2.0,0.0,5.0,Gen. Forward
+22,Nathan Broad,Richmond,15.0,12.0,3.0,0.8,0.2,7.0,0.0,1.0,Gen. Defender
+22,Nick Vlastuin,Richmond,19.0,15.0,4.0,0.79,0.21,8.0,0.0,2.0,Gen. Defender
+22,Noah Balta,Richmond,12.0,9.0,3.0,0.75,0.25,5.0,1.0,1.0,Key Defender
+22,Rhyan Mansell,Richmond,17.0,7.0,10.0,0.41,0.59,5.0,2.0,7.0,Gen. Forward
+22,Sam Banks,Richmond,19.0,15.0,4.0,0.79,0.21,7.0,0.0,2.0,Gen. Defender
+22,Seth Campbell,Richmond,9.0,4.0,5.0,0.44,0.56,1.0,0.0,1.0,Gen. Forward
+22,Steely Green,Richmond,,,,,,,,,Gen. Forward
+22,Taj Hotton,Richmond,10.0,2.0,8.0,0.2,0.8,3.0,0.0,2.0,Gen. Forward
+22,Tim Taranto,Richmond,23.0,10.0,13.0,0.43,0.57,4.0,1.0,1.0,Midfielder
+22,Toby Nankervis,Richmond,15.0,8.0,7.0,0.53,0.47,1.0,0.0,3.0,Ruck
+22,Tom Brown,Richmond,5.0,5.0,0.0,1.0,0.0,5.0,0.0,2.0,Gen. Defender
+22,Tom Lynch,Richmond,12.0,8.0,4.0,0.67,0.33,3.0,1.0,3.0,Key Forward
+22,Tylar Young,Richmond,17.0,15.0,2.0,0.88,0.12,9.0,0.0,0.0,Key Defender
+22,Tyler Sonsie,Richmond,20.0,11.0,9.0,0.55,0.45,4.0,0.0,0.0,Mid-Forward
+23,Ben Miller,Richmond,13.0,12.0,1.0,0.92,0.08,5.0,0.0,4.0,Key Defender
+23,Dion Prestia,Richmond,14.0,7.0,7.0,0.5,0.5,0.0,0.0,4.0,Midfielder
+23,Harry Armstrong,Richmond,3.0,1.0,2.0,0.33,0.67,1.0,0.0,0.0,Key Forward
+23,Jack Ross,Richmond,19.0,8.0,11.0,0.42,0.58,1.0,0.0,5.0,Mid-Forward
+23,Jacob Hopper,Richmond,27.0,9.0,18.0,0.33,0.67,1.0,0.0,5.0,Midfielder
+23,James Trezise,Richmond,18.0,7.0,11.0,0.39,0.61,2.0,1.0,3.0,Midfielder
+23,Jayden Short,Richmond,14.0,9.0,5.0,0.64,0.36,6.0,0.0,2.0,Gen. Defender
+23,Kamdyn McIntosh,Richmond,17.0,8.0,9.0,0.47,0.53,5.0,1.0,1.0,Midfielder
+23,Maurice Rioli,Richmond,11.0,6.0,5.0,0.55,0.45,1.0,1.0,7.0,Gen. Forward
+23,Nathan Broad,Richmond,8.0,7.0,1.0,0.88,0.12,5.0,0.0,7.0,Gen. Defender
+23,Nick Vlastuin,Richmond,,,,,,,,,Gen. Defender
+23,Noah Balta,Richmond,7.0,5.0,2.0,0.71,0.29,3.0,2.0,3.0,Key Defender
+23,Rhyan Mansell,Richmond,12.0,9.0,3.0,0.75,0.25,3.0,1.0,3.0,Gen. Forward
+23,Sam Banks,Richmond,14.0,10.0,4.0,0.71,0.29,2.0,0.0,3.0,Gen. Defender
+23,Seth Campbell,Richmond,10.0,7.0,3.0,0.7,0.3,2.0,3.0,1.0,Gen. Forward
+23,Steely Green,Richmond,,,,,,,,,Gen. Forward
+23,Taj Hotton,Richmond,16.0,4.0,12.0,0.25,0.75,2.0,0.0,4.0,Gen. Forward
+23,Tim Taranto,Richmond,19.0,8.0,11.0,0.42,0.58,1.0,0.0,8.0,Midfielder
+23,Toby Nankervis,Richmond,21.0,9.0,12.0,0.43,0.57,4.0,0.0,2.0,Ruck
+23,Tom Brown,Richmond,12.0,9.0,3.0,0.75,0.25,1.0,0.0,1.0,Gen. Defender
+23,Tom Lynch,Richmond,13.0,11.0,2.0,0.85,0.15,7.0,3.0,2.0,Key Forward
+23,Tylar Young,Richmond,13.0,11.0,2.0,0.85,0.15,3.0,0.0,1.0,Key Defender
+23,Tyler Sonsie,Richmond,12.0,6.0,6.0,0.5,0.5,2.0,0.0,3.0,Mid-Forward
+24,Ben Miller,Richmond,16.0,12.0,4.0,0.75,0.25,9.0,0.0,2.0,Key Defender
+24,Dion Prestia,Richmond,29.0,11.0,18.0,0.38,0.62,7.0,2.0,2.0,Midfielder
+24,Harry Armstrong,Richmond,8.0,5.0,3.0,0.62,0.38,6.0,0.0,1.0,Key Forward
+24,Jack Ross,Richmond,20.0,5.0,15.0,0.25,0.75,4.0,0.0,5.0,Mid-Forward
+24,Jacob Hopper,Richmond,29.0,12.0,17.0,0.41,0.59,5.0,0.0,1.0,Midfielder
+24,James Trezise,Richmond,13.0,6.0,7.0,0.46,0.54,4.0,0.0,2.0,Midfielder
+24,Jayden Short,Richmond,26.0,22.0,4.0,0.85,0.15,10.0,0.0,1.0,Gen. Defender
+24,Josh Gibcus,Richmond,,,,,,,,,Key Defender
+24,Kamdyn McIntosh,Richmond,15.0,9.0,6.0,0.6,0.4,6.0,0.0,0.0,Midfielder
+24,Luke Trainor,Richmond,,,,,,,,,Gen. Defender
+24,Maurice Rioli,Richmond,5.0,4.0,1.0,0.8,0.2,2.0,0.0,4.0,Gen. Forward
+24,Nathan Broad,Richmond,6.0,3.0,3.0,0.5,0.5,1.0,0.0,0.0,Gen. Defender
+24,Noah Balta,Richmond,13.0,5.0,8.0,0.38,0.62,1.0,0.0,0.0,Key Defender
+24,Rhyan Mansell,Richmond,15.0,9.0,6.0,0.6,0.4,2.0,1.0,3.0,Gen. Forward
+24,Sam Banks,Richmond,30.0,23.0,7.0,0.77,0.23,10.0,0.0,2.0,Gen. Defender
+24,Seth Campbell,Richmond,19.0,10.0,9.0,0.53,0.47,8.0,2.0,3.0,Gen. Forward
+24,Taj Hotton,Richmond,12.0,8.0,4.0,0.67,0.33,7.0,0.0,1.0,Gen. Forward
+24,Tim Taranto,Richmond,27.0,8.0,19.0,0.3,0.7,0.0,0.0,5.0,Midfielder
+24,Toby Nankervis,Richmond,14.0,5.0,9.0,0.36,0.64,0.0,0.0,5.0,Ruck
+24,Tom Brown,Richmond,20.0,14.0,6.0,0.7,0.3,3.0,1.0,1.0,Gen. Defender
+24,Tom Lynch,Richmond,11.0,10.0,1.0,0.91,0.09,2.0,3.0,0.0,Key Forward
+24,Tylar Young,Richmond,17.0,14.0,3.0,0.82,0.18,10.0,0.0,0.0,Key Defender
+24,Tyler Sonsie,Richmond,21.0,11.0,10.0,0.52,0.48,5.0,0.0,2.0,Mid-Forward

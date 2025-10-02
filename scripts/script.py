@@ -1,17 +1,27 @@
-import pandas as pd
+from team_corr_heatmap import build_heatmap
 
-df = pd.read_csv("player_stats.csv")
+teams =[
+    "Western Bulldogs",
+    "Geelong",
+    "Greater Western Sydney",
+    "Gold Coast",
+    "Hawthorn",
+    "Brisbane",
+    "Collingwood",
+    "Adelaide",
+    "Fremantle",
+    "Carlton",
+    "Melbourne",
+    "Sydney",
+    "St Kilda",
+    "North Melbourne",
+    "Essendon",
+    "Port Adelaide",
+    "Richmond",
+    "West Coast"
+]
+for team in teams:
+    build_heatmap(team, "Disposals", method="spearman", mask_lower=True)
 
-# Filter for Hawthorn players
-players = df[df["Team"] == "Geelong"]
 
-# Select only the columns you care about
-player_stats = players[[
-    "Player", "Disposals", "Kicks", "Handballs", "TotalClearances", "Marks"
-]].copy()
 
-# Add ratio columns (decimal form)
-player_stats["%K"] = player_stats["Kicks"] / player_stats["Disposals"]
-player_stats["%H"] = player_stats["Handballs"] / player_stats["Disposals"]
-
-print(player_stats)

@@ -1,0 +1,530 @@
+Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
+1,Alex Sexton,Gold Coast,,,,,,,,,Gen. Forward
+1,Bailey Humphrey,Gold Coast,20.0,8.0,12.0,0.4,0.6,4.0,0.0,2.0,Mid-Forward
+1,Ben Ainsworth,Gold Coast,18.0,9.0,9.0,0.5,0.5,5.0,0.0,2.0,Gen. Forward
+1,Ben King,Gold Coast,11.0,8.0,3.0,0.73,0.27,8.0,6.0,0.0,Key Forward
+1,Ben Long,Gold Coast,12.0,9.0,3.0,0.75,0.25,5.0,4.0,0.0,Gen. Forward
+1,Bodhi Uwland,Gold Coast,15.0,7.0,8.0,0.47,0.53,2.0,0.0,3.0,Gen. Defender
+1,Charlie Ballard,Gold Coast,,,,,,,,,Key Defender
+1,Connor Budarick,Gold Coast,17.0,8.0,9.0,0.47,0.53,4.0,0.0,3.0,Gen. Forward
+1,Daniel Rioli,Gold Coast,21.0,12.0,9.0,0.57,0.43,5.0,2.0,0.0,Gen. Defender
+1,Ethan Read,Gold Coast,10.0,7.0,3.0,0.7,0.3,3.0,2.0,2.0,Key Forward
+1,Jake Rogers,Gold Coast,13.0,6.0,7.0,0.46,0.54,4.0,3.0,1.0,Gen. Forward
+1,Jarrod Witts,Gold Coast,13.0,6.0,7.0,0.46,0.54,2.0,0.0,4.0,Ruck
+1,Joel Jeffrey,Gold Coast,20.0,14.0,6.0,0.7,0.3,4.0,0.0,3.0,Gen. Defender
+1,John Noble,Gold Coast,19.0,14.0,5.0,0.74,0.26,2.0,0.0,2.0,Gen. Defender
+1,Lachie Weller,Gold Coast,21.0,9.0,12.0,0.43,0.57,2.0,0.0,6.0,Midfielder
+1,Matt Rowell,Gold Coast,30.0,17.0,13.0,0.57,0.43,0.0,0.0,8.0,Midfielder
+1,Nick Holman,Gold Coast,14.0,7.0,7.0,0.5,0.5,1.0,0.0,5.0,Mid-Forward
+1,Noah Anderson,Gold Coast,36.0,16.0,20.0,0.44,0.56,3.0,0.0,5.0,Midfielder
+1,Sam Clohesy,Gold Coast,9.0,7.0,2.0,0.78,0.22,1.0,0.0,1.0,Midfielder
+1,Sam Collins,Gold Coast,12.0,8.0,4.0,0.67,0.33,7.0,0.0,2.0,Key Defender
+1,Touk Miller,Gold Coast,26.0,12.0,14.0,0.46,0.54,4.0,2.0,2.0,Midfielder
+1,Wil Powell,Gold Coast,13.0,8.0,5.0,0.62,0.38,5.0,0.0,3.0,Gen. Defender
+1,Will Graham,Gold Coast,9.0,7.0,2.0,0.78,0.22,2.0,1.0,7.0,Gen. Forward
+3,Bailey Humphrey,Gold Coast,23.0,10.0,13.0,0.43,0.57,3.0,1.0,6.0,Mid-Forward
+3,Ben King,Gold Coast,12.0,9.0,3.0,0.75,0.25,4.0,4.0,2.0,Key Forward
+3,Ben Long,Gold Coast,14.0,10.0,4.0,0.71,0.29,5.0,1.0,2.0,Gen. Forward
+3,Bodhi Uwland,Gold Coast,15.0,9.0,6.0,0.6,0.4,3.0,0.0,2.0,Gen. Defender
+3,Connor Budarick,Gold Coast,14.0,8.0,6.0,0.57,0.43,5.0,0.0,4.0,Gen. Forward
+3,Daniel Rioli,Gold Coast,20.0,13.0,7.0,0.65,0.35,3.0,0.0,0.0,Gen. Defender
+3,Ethan Read,Gold Coast,7.0,5.0,2.0,0.71,0.29,3.0,1.0,2.0,Key Forward
+3,Jake Rogers,Gold Coast,,,,,,,,,Gen. Forward
+3,Jarrod Witts,Gold Coast,13.0,4.0,9.0,0.31,0.69,1.0,1.0,4.0,Ruck
+3,Jed Walter,Gold Coast,12.0,4.0,8.0,0.33,0.67,2.0,1.0,0.0,Key Forward
+3,Joel Jeffrey,Gold Coast,16.0,9.0,7.0,0.56,0.44,2.0,0.0,1.0,Gen. Defender
+3,John Noble,Gold Coast,29.0,22.0,7.0,0.76,0.24,8.0,1.0,3.0,Gen. Defender
+3,Lachie Weller,Gold Coast,10.0,4.0,6.0,0.4,0.6,2.0,1.0,2.0,Midfielder
+3,Mac Andrew,Gold Coast,9.0,7.0,2.0,0.78,0.22,3.0,0.0,0.0,Key Defender
+3,Matt Rowell,Gold Coast,36.0,15.0,21.0,0.42,0.58,5.0,0.0,7.0,Midfielder
+3,Nick Holman,Gold Coast,,,,,,,,,Mid-Forward
+3,Noah Anderson,Gold Coast,35.0,14.0,21.0,0.4,0.6,3.0,1.0,4.0,Midfielder
+3,Sam Clohesy,Gold Coast,21.0,14.0,7.0,0.67,0.33,9.0,0.0,4.0,Midfielder
+3,Sam Collins,Gold Coast,10.0,7.0,3.0,0.7,0.3,6.0,0.0,2.0,Key Defender
+3,Sam Flanders,Gold Coast,25.0,13.0,12.0,0.52,0.48,4.0,1.0,1.0,Gen. Forward
+3,Touk Miller,Gold Coast,23.0,14.0,9.0,0.61,0.39,9.0,3.0,3.0,Midfielder
+3,Wil Powell,Gold Coast,11.0,6.0,5.0,0.55,0.45,2.0,0.0,1.0,Gen. Defender
+3,Will Graham,Gold Coast,16.0,8.0,8.0,0.5,0.5,5.0,2.0,1.0,Gen. Forward
+4,Bailey Humphrey,Gold Coast,13.0,7.0,6.0,0.54,0.46,1.0,1.0,4.0,Mid-Forward
+4,Ben Ainsworth,Gold Coast,16.0,10.0,6.0,0.62,0.38,6.0,0.0,2.0,Gen. Forward
+4,Ben King,Gold Coast,9.0,5.0,4.0,0.56,0.44,3.0,2.0,0.0,Key Forward
+4,Ben Long,Gold Coast,9.0,7.0,2.0,0.78,0.22,3.0,2.0,5.0,Gen. Forward
+4,Bodhi Uwland,Gold Coast,13.0,8.0,5.0,0.62,0.38,2.0,0.0,3.0,Gen. Defender
+4,Connor Budarick,Gold Coast,8.0,6.0,2.0,0.75,0.25,1.0,0.0,3.0,Gen. Forward
+4,Daniel Rioli,Gold Coast,26.0,18.0,8.0,0.69,0.31,6.0,0.0,6.0,Gen. Defender
+4,Ethan Read,Gold Coast,3.0,2.0,1.0,0.67,0.33,1.0,1.0,4.0,Key Forward
+4,Jake Rogers,Gold Coast,,,,,,,,,Gen. Forward
+4,Jarrod Witts,Gold Coast,14.0,5.0,9.0,0.36,0.64,2.0,0.0,3.0,Ruck
+4,Jed Walter,Gold Coast,10.0,9.0,1.0,0.9,0.1,5.0,3.0,0.0,Key Forward
+4,Joel Jeffrey,Gold Coast,15.0,9.0,6.0,0.6,0.4,1.0,0.0,6.0,Gen. Defender
+4,John Noble,Gold Coast,20.0,12.0,8.0,0.6,0.4,4.0,0.0,5.0,Gen. Defender
+4,Lachie Weller,Gold Coast,10.0,7.0,3.0,0.7,0.3,2.0,1.0,3.0,Midfielder
+4,Mac Andrew,Gold Coast,14.0,7.0,7.0,0.5,0.5,4.0,0.0,0.0,Key Defender
+4,Matt Rowell,Gold Coast,17.0,12.0,5.0,0.71,0.29,2.0,0.0,8.0,Midfielder
+4,Noah Anderson,Gold Coast,24.0,16.0,8.0,0.67,0.33,3.0,0.0,4.0,Midfielder
+4,Sam Clohesy,Gold Coast,,,,,,,,,Midfielder
+4,Sam Collins,Gold Coast,10.0,5.0,5.0,0.5,0.5,2.0,0.0,0.0,Key Defender
+4,Sam Flanders,Gold Coast,26.0,14.0,12.0,0.54,0.46,8.0,0.0,3.0,Gen. Forward
+4,Touk Miller,Gold Coast,24.0,10.0,14.0,0.42,0.58,3.0,1.0,3.0,Midfielder
+4,Wil Powell,Gold Coast,17.0,7.0,10.0,0.41,0.59,6.0,0.0,2.0,Gen. Defender
+4,Will Graham,Gold Coast,10.0,6.0,4.0,0.6,0.4,1.0,2.0,4.0,Gen. Forward
+5,Bailey Humphrey,Gold Coast,14.0,5.0,9.0,0.36,0.64,3.0,0.0,7.0,Mid-Forward
+5,Ben Ainsworth,Gold Coast,22.0,12.0,10.0,0.55,0.45,3.0,1.0,4.0,Gen. Forward
+5,Ben King,Gold Coast,6.0,5.0,1.0,0.83,0.17,2.0,5.0,0.0,Key Forward
+5,Ben Long,Gold Coast,15.0,11.0,4.0,0.73,0.27,3.0,3.0,3.0,Gen. Forward
+5,Bodhi Uwland,Gold Coast,12.0,7.0,5.0,0.58,0.42,3.0,0.0,0.0,Gen. Defender
+5,Daniel Rioli,Gold Coast,16.0,8.0,8.0,0.5,0.5,3.0,0.0,2.0,Gen. Defender
+5,Ethan Read,Gold Coast,12.0,9.0,3.0,0.75,0.25,1.0,1.0,1.0,Key Forward
+5,Jake Rogers,Gold Coast,14.0,7.0,7.0,0.5,0.5,1.0,1.0,2.0,Gen. Forward
+5,Jarrod Witts,Gold Coast,12.0,5.0,7.0,0.42,0.58,0.0,0.0,4.0,Ruck
+5,Jed Walter,Gold Coast,,,,,,,,,Key Forward
+5,Joel Jeffrey,Gold Coast,20.0,14.0,6.0,0.7,0.3,13.0,1.0,2.0,Gen. Defender
+5,John Noble,Gold Coast,28.0,23.0,5.0,0.82,0.18,6.0,1.0,1.0,Gen. Defender
+5,Lachie Weller,Gold Coast,14.0,6.0,8.0,0.43,0.57,2.0,1.0,0.0,Midfielder
+5,Mac Andrew,Gold Coast,9.0,4.0,5.0,0.44,0.56,2.0,0.0,1.0,Key Defender
+5,Matt Rowell,Gold Coast,26.0,12.0,14.0,0.46,0.54,1.0,1.0,7.0,Midfielder
+5,Nick Holman,Gold Coast,,,,,,,,,Mid-Forward
+5,Noah Anderson,Gold Coast,27.0,16.0,11.0,0.59,0.41,3.0,0.0,4.0,Midfielder
+5,Sam Clohesy,Gold Coast,16.0,11.0,5.0,0.69,0.31,4.0,0.0,1.0,Midfielder
+5,Sam Collins,Gold Coast,9.0,6.0,3.0,0.67,0.33,4.0,0.0,1.0,Key Defender
+5,Sam Flanders,Gold Coast,21.0,9.0,12.0,0.43,0.57,3.0,2.0,2.0,Gen. Forward
+5,Touk Miller,Gold Coast,27.0,10.0,17.0,0.37,0.63,3.0,1.0,4.0,Midfielder
+5,Wil Powell,Gold Coast,15.0,8.0,7.0,0.53,0.47,4.0,0.0,2.0,Gen. Defender
+5,Will Graham,Gold Coast,11.0,5.0,6.0,0.45,0.55,2.0,1.0,3.0,Gen. Forward
+6,Bailey Humphrey,Gold Coast,7.0,4.0,3.0,0.57,0.43,1.0,0.0,3.0,Mid-Forward
+6,Ben Ainsworth,Gold Coast,17.0,8.0,9.0,0.47,0.53,4.0,0.0,0.0,Gen. Forward
+6,Ben King,Gold Coast,4.0,2.0,2.0,0.5,0.5,1.0,1.0,0.0,Key Forward
+6,Ben Long,Gold Coast,13.0,12.0,1.0,0.92,0.08,11.0,3.0,3.0,Gen. Forward
+6,Bodhi Uwland,Gold Coast,16.0,6.0,10.0,0.38,0.62,3.0,0.0,2.0,Gen. Defender
+6,Connor Budarick,Gold Coast,17.0,8.0,9.0,0.47,0.53,3.0,0.0,1.0,Gen. Forward
+6,Daniel Rioli,Gold Coast,11.0,7.0,4.0,0.64,0.36,0.0,0.0,3.0,Gen. Defender
+6,Ethan Read,Gold Coast,,,,,,,,,Key Forward
+6,Jake Rogers,Gold Coast,,,,,,,,,Gen. Forward
+6,Jarrod Witts,Gold Coast,12.0,5.0,7.0,0.42,0.58,1.0,0.0,3.0,Ruck
+6,Jed Walter,Gold Coast,3.0,2.0,1.0,0.67,0.33,1.0,1.0,3.0,Key Forward
+6,Joel Jeffrey,Gold Coast,13.0,10.0,3.0,0.77,0.23,4.0,0.0,5.0,Gen. Defender
+6,John Noble,Gold Coast,27.0,20.0,7.0,0.74,0.26,10.0,0.0,3.0,Gen. Defender
+6,Lachie Weller,Gold Coast,23.0,11.0,12.0,0.48,0.52,4.0,0.0,3.0,Midfielder
+6,Mac Andrew,Gold Coast,15.0,10.0,5.0,0.67,0.33,8.0,0.0,5.0,Key Defender
+6,Matt Rowell,Gold Coast,29.0,13.0,16.0,0.45,0.55,1.0,0.0,5.0,Midfielder
+6,Nick Holman,Gold Coast,,,,,,,,,Mid-Forward
+6,Noah Anderson,Gold Coast,32.0,20.0,12.0,0.62,0.38,5.0,0.0,3.0,Midfielder
+6,Sam Collins,Gold Coast,6.0,2.0,4.0,0.33,0.67,2.0,0.0,2.0,Key Defender
+6,Sam Flanders,Gold Coast,13.0,8.0,5.0,0.62,0.38,2.0,1.0,3.0,Gen. Forward
+6,Touk Miller,Gold Coast,33.0,10.0,23.0,0.3,0.7,3.0,1.0,3.0,Midfielder
+6,Wil Powell,Gold Coast,18.0,13.0,5.0,0.72,0.28,10.0,0.0,4.0,Gen. Defender
+6,Will Graham,Gold Coast,9.0,6.0,3.0,0.67,0.33,3.0,2.0,4.0,Gen. Forward
+7,Bailey Humphrey,Gold Coast,18.0,11.0,7.0,0.61,0.39,4.0,4.0,4.0,Mid-Forward
+7,Ben Ainsworth,Gold Coast,15.0,6.0,9.0,0.4,0.6,6.0,0.0,0.0,Gen. Forward
+7,Ben King,Gold Coast,11.0,6.0,5.0,0.55,0.45,6.0,5.0,0.0,Key Forward
+7,Ben Long,Gold Coast,9.0,7.0,2.0,0.78,0.22,4.0,1.0,2.0,Gen. Forward
+7,Bodhi Uwland,Gold Coast,17.0,8.0,9.0,0.47,0.53,4.0,0.0,2.0,Gen. Defender
+7,Connor Budarick,Gold Coast,,,,,,,,,Gen. Forward
+7,Daniel Rioli,Gold Coast,21.0,12.0,9.0,0.57,0.43,5.0,2.0,3.0,Gen. Defender
+7,Ethan Read,Gold Coast,7.0,4.0,3.0,0.57,0.43,2.0,0.0,2.0,Key Forward
+7,Jake Rogers,Gold Coast,10.0,6.0,4.0,0.6,0.4,1.0,0.0,0.0,Gen. Forward
+7,Jarrod Witts,Gold Coast,18.0,9.0,9.0,0.5,0.5,2.0,0.0,1.0,Ruck
+7,Jed Walter,Gold Coast,6.0,5.0,1.0,0.83,0.17,2.0,3.0,4.0,Key Forward
+7,Joel Jeffrey,Gold Coast,14.0,10.0,4.0,0.71,0.29,6.0,0.0,3.0,Gen. Defender
+7,John Noble,Gold Coast,30.0,21.0,9.0,0.7,0.3,7.0,0.0,2.0,Gen. Defender
+7,Lachie Weller,Gold Coast,20.0,9.0,11.0,0.45,0.55,4.0,0.0,1.0,Midfielder
+7,Mac Andrew,Gold Coast,13.0,9.0,4.0,0.69,0.31,3.0,0.0,0.0,Key Defender
+7,Matt Rowell,Gold Coast,16.0,10.0,6.0,0.62,0.38,0.0,1.0,8.0,Midfielder
+7,Nick Holman,Gold Coast,16.0,8.0,8.0,0.5,0.5,5.0,1.0,3.0,Mid-Forward
+7,Noah Anderson,Gold Coast,21.0,9.0,12.0,0.43,0.57,6.0,0.0,3.0,Midfielder
+7,Sam Collins,Gold Coast,11.0,7.0,4.0,0.64,0.36,8.0,0.0,0.0,Key Defender
+7,Sam Flanders,Gold Coast,21.0,8.0,13.0,0.38,0.62,1.0,0.0,4.0,Gen. Forward
+7,Touk Miller,Gold Coast,24.0,11.0,13.0,0.46,0.54,0.0,0.0,3.0,Midfielder
+7,Wil Powell,Gold Coast,14.0,10.0,4.0,0.71,0.29,5.0,0.0,2.0,Gen. Defender
+7,Will Graham,Gold Coast,7.0,1.0,6.0,0.14,0.86,1.0,0.0,4.0,Gen. Forward
+8,Bailey Humphrey,Gold Coast,20.0,7.0,13.0,0.35,0.65,0.0,0.0,4.0,Mid-Forward
+8,Ben Ainsworth,Gold Coast,12.0,5.0,7.0,0.42,0.58,1.0,1.0,0.0,Gen. Forward
+8,Ben King,Gold Coast,2.0,1.0,1.0,0.5,0.5,1.0,1.0,0.0,Key Forward
+8,Bodhi Uwland,Gold Coast,20.0,11.0,9.0,0.55,0.45,6.0,0.0,1.0,Gen. Defender
+8,Connor Budarick,Gold Coast,9.0,5.0,4.0,0.56,0.44,3.0,0.0,2.0,Gen. Forward
+8,Daniel Rioli,Gold Coast,18.0,8.0,10.0,0.44,0.56,3.0,0.0,3.0,Gen. Defender
+8,David Swallow,Gold Coast,8.0,3.0,5.0,0.38,0.62,2.0,1.0,1.0,Gen. Forward
+8,Ethan Read,Gold Coast,5.0,3.0,2.0,0.6,0.4,1.0,1.0,2.0,Key Forward
+8,Jake Rogers,Gold Coast,7.0,4.0,3.0,0.57,0.43,0.0,0.0,2.0,Gen. Forward
+8,Jarrod Witts,Gold Coast,9.0,2.0,7.0,0.22,0.78,1.0,0.0,2.0,Ruck
+8,Jed Walter,Gold Coast,8.0,2.0,6.0,0.25,0.75,1.0,1.0,1.0,Key Forward
+8,Joel Jeffrey,Gold Coast,20.0,17.0,3.0,0.85,0.15,11.0,0.0,5.0,Gen. Defender
+8,John Noble,Gold Coast,26.0,18.0,8.0,0.69,0.31,5.0,0.0,1.0,Gen. Defender
+8,Lachie Weller,Gold Coast,,,,,,,,,Midfielder
+8,Mac Andrew,Gold Coast,19.0,17.0,2.0,0.89,0.11,10.0,1.0,0.0,Key Defender
+8,Matt Rowell,Gold Coast,16.0,7.0,9.0,0.44,0.56,2.0,0.0,5.0,Midfielder
+8,Nick Holman,Gold Coast,12.0,5.0,7.0,0.42,0.58,1.0,0.0,8.0,Mid-Forward
+8,Noah Anderson,Gold Coast,27.0,13.0,14.0,0.48,0.52,5.0,0.0,1.0,Midfielder
+8,Sam Collins,Gold Coast,15.0,10.0,5.0,0.67,0.33,5.0,0.0,2.0,Key Defender
+8,Sam Flanders,Gold Coast,21.0,10.0,11.0,0.48,0.52,4.0,0.0,4.0,Gen. Forward
+8,Touk Miller,Gold Coast,29.0,13.0,16.0,0.45,0.55,3.0,1.0,5.0,Midfielder
+8,Wil Powell,Gold Coast,13.0,8.0,5.0,0.62,0.38,4.0,0.0,1.0,Gen. Defender
+8,Will Graham,Gold Coast,11.0,7.0,4.0,0.64,0.36,2.0,0.0,2.0,Gen. Forward
+9,Bailey Humphrey,Gold Coast,24.0,13.0,11.0,0.54,0.46,5.0,0.0,4.0,Mid-Forward
+9,Ben Ainsworth,Gold Coast,14.0,9.0,5.0,0.64,0.36,4.0,1.0,2.0,Gen. Forward
+9,Ben King,Gold Coast,10.0,7.0,3.0,0.7,0.3,5.0,3.0,0.0,Key Forward
+9,Ben Long,Gold Coast,15.0,10.0,5.0,0.67,0.33,4.0,1.0,0.0,Gen. Forward
+9,Bodhi Uwland,Gold Coast,18.0,11.0,7.0,0.61,0.39,6.0,0.0,1.0,Gen. Defender
+9,Brayden Fiorini,Gold Coast,19.0,8.0,11.0,0.42,0.58,2.0,0.0,1.0,Midfielder
+9,Daniel Rioli,Gold Coast,24.0,13.0,11.0,0.54,0.46,4.0,1.0,3.0,Gen. Defender
+9,Jake Rogers,Gold Coast,,,,,,,,,Gen. Forward
+9,Jarrod Witts,Gold Coast,11.0,6.0,5.0,0.55,0.45,1.0,0.0,3.0,Ruck
+9,Jed Walter,Gold Coast,5.0,2.0,3.0,0.4,0.6,1.0,0.0,1.0,Key Forward
+9,Joel Jeffrey,Gold Coast,17.0,10.0,7.0,0.59,0.41,5.0,0.0,1.0,Gen. Defender
+9,John Noble,Gold Coast,23.0,18.0,5.0,0.78,0.22,4.0,1.0,1.0,Gen. Defender
+9,Mac Andrew,Gold Coast,13.0,8.0,5.0,0.62,0.38,4.0,0.0,2.0,Key Defender
+9,Malcolm Rosas,Gold Coast,10.0,7.0,3.0,0.7,0.3,3.0,0.0,3.0,Gen. Forward
+9,Matt Rowell,Gold Coast,20.0,8.0,12.0,0.4,0.6,1.0,1.0,2.0,Midfielder
+9,Nick Holman,Gold Coast,10.0,4.0,6.0,0.4,0.6,1.0,2.0,4.0,Mid-Forward
+9,Noah Anderson,Gold Coast,28.0,12.0,16.0,0.43,0.57,3.0,0.0,1.0,Midfielder
+9,Sam Clohesy,Gold Coast,17.0,8.0,9.0,0.47,0.53,5.0,1.0,1.0,Midfielder
+9,Sam Collins,Gold Coast,10.0,6.0,4.0,0.6,0.4,6.0,0.0,2.0,Key Defender
+9,Sam Flanders,Gold Coast,10.0,7.0,3.0,0.7,0.3,1.0,2.0,2.0,Gen. Forward
+9,Touk Miller,Gold Coast,25.0,10.0,15.0,0.4,0.6,3.0,0.0,6.0,Midfielder
+9,Wil Powell,Gold Coast,19.0,10.0,9.0,0.53,0.47,5.0,0.0,0.0,Gen. Defender
+9,Will Graham,Gold Coast,11.0,6.0,5.0,0.55,0.45,1.0,2.0,7.0,Gen. Forward
+10,Bailey Humphrey,Gold Coast,19.0,8.0,11.0,0.42,0.58,0.0,1.0,7.0,Mid-Forward
+10,Ben Ainsworth,Gold Coast,8.0,5.0,3.0,0.62,0.38,1.0,2.0,4.0,Gen. Forward
+10,Ben King,Gold Coast,6.0,4.0,2.0,0.67,0.33,2.0,2.0,0.0,Key Forward
+10,Ben Long,Gold Coast,10.0,9.0,1.0,0.9,0.1,3.0,4.0,0.0,Gen. Forward
+10,Bodhi Uwland,Gold Coast,22.0,14.0,8.0,0.64,0.36,9.0,0.0,1.0,Gen. Defender
+10,Brayden Fiorini,Gold Coast,16.0,9.0,7.0,0.56,0.44,5.0,0.0,4.0,Midfielder
+10,Daniel Rioli,Gold Coast,21.0,11.0,10.0,0.52,0.48,4.0,0.0,5.0,Gen. Defender
+10,David Swallow,Gold Coast,,,,,,,,,Gen. Forward
+10,Jarrod Witts,Gold Coast,15.0,3.0,12.0,0.2,0.8,2.0,0.0,3.0,Ruck
+10,Jed Walter,Gold Coast,4.0,2.0,2.0,0.5,0.5,2.0,0.0,2.0,Key Forward
+10,Joel Jeffrey,Gold Coast,12.0,6.0,6.0,0.5,0.5,5.0,0.0,3.0,Gen. Defender
+10,John Noble,Gold Coast,36.0,27.0,9.0,0.75,0.25,5.0,0.0,2.0,Gen. Defender
+10,Mac Andrew,Gold Coast,9.0,6.0,3.0,0.67,0.33,3.0,0.0,0.0,Key Defender
+10,Malcolm Rosas,Gold Coast,9.0,6.0,3.0,0.67,0.33,1.0,1.0,1.0,Gen. Forward
+10,Matt Rowell,Gold Coast,29.0,11.0,18.0,0.38,0.62,0.0,0.0,9.0,Midfielder
+10,Ned Moyle,Gold Coast,,,,,,,,,Ruck
+10,Nick Holman,Gold Coast,13.0,8.0,5.0,0.62,0.38,2.0,0.0,6.0,Mid-Forward
+10,Noah Anderson,Gold Coast,35.0,16.0,19.0,0.46,0.54,1.0,1.0,5.0,Midfielder
+10,Sam Clohesy,Gold Coast,23.0,11.0,12.0,0.48,0.52,7.0,1.0,1.0,Midfielder
+10,Sam Collins,Gold Coast,15.0,12.0,3.0,0.8,0.2,10.0,0.0,2.0,Key Defender
+10,Sam Flanders,Gold Coast,13.0,3.0,10.0,0.23,0.77,1.0,1.0,2.0,Gen. Forward
+10,Touk Miller,Gold Coast,22.0,11.0,11.0,0.5,0.5,2.0,2.0,7.0,Midfielder
+10,Wil Powell,Gold Coast,18.0,10.0,8.0,0.56,0.44,6.0,0.0,2.0,Gen. Defender
+11,Bailey Humphrey,Gold Coast,11.0,3.0,8.0,0.27,0.73,2.0,0.0,4.0,Mid-Forward
+11,Ben Ainsworth,Gold Coast,15.0,10.0,5.0,0.67,0.33,7.0,2.0,5.0,Gen. Forward
+11,Ben King,Gold Coast,4.0,3.0,1.0,0.75,0.25,2.0,2.0,1.0,Key Forward
+11,Ben Long,Gold Coast,11.0,9.0,2.0,0.82,0.18,7.0,3.0,3.0,Gen. Forward
+11,Bodhi Uwland,Gold Coast,19.0,14.0,5.0,0.74,0.26,9.0,0.0,1.0,Gen. Defender
+11,Brayden Fiorini,Gold Coast,19.0,8.0,11.0,0.42,0.58,2.0,0.0,1.0,Midfielder
+11,Daniel Rioli,Gold Coast,17.0,8.0,9.0,0.47,0.53,5.0,0.0,2.0,Gen. Defender
+11,David Swallow,Gold Coast,7.0,1.0,6.0,0.14,0.86,1.0,0.0,4.0,Gen. Forward
+11,Ethan Read,Gold Coast,,,,,,,,,Key Forward
+11,Jarrod Witts,Gold Coast,12.0,3.0,9.0,0.25,0.75,2.0,0.0,6.0,Ruck
+11,Jed Walter,Gold Coast,9.0,3.0,6.0,0.33,0.67,2.0,1.0,3.0,Key Forward
+11,Joel Jeffrey,Gold Coast,27.0,19.0,8.0,0.7,0.3,9.0,1.0,4.0,Gen. Defender
+11,John Noble,Gold Coast,27.0,19.0,8.0,0.7,0.3,4.0,0.0,1.0,Gen. Defender
+11,Mac Andrew,Gold Coast,13.0,10.0,3.0,0.77,0.23,8.0,0.0,0.0,Key Defender
+11,Malcolm Rosas,Gold Coast,,,,,,,,,Gen. Forward
+11,Matt Rowell,Gold Coast,24.0,13.0,11.0,0.54,0.46,4.0,0.0,15.0,Midfielder
+11,Nick Holman,Gold Coast,7.0,1.0,6.0,0.14,0.86,0.0,1.0,7.0,Mid-Forward
+11,Noah Anderson,Gold Coast,36.0,23.0,13.0,0.64,0.36,5.0,0.0,2.0,Midfielder
+11,Sam Clohesy,Gold Coast,22.0,13.0,9.0,0.59,0.41,3.0,1.0,0.0,Midfielder
+11,Sam Collins,Gold Coast,16.0,13.0,3.0,0.81,0.19,7.0,0.0,1.0,Key Defender
+11,Sam Flanders,Gold Coast,19.0,8.0,11.0,0.42,0.58,4.0,0.0,5.0,Gen. Forward
+11,Touk Miller,Gold Coast,30.0,13.0,17.0,0.43,0.57,6.0,1.0,2.0,Midfielder
+11,Wil Powell,Gold Coast,11.0,8.0,3.0,0.73,0.27,4.0,0.0,3.0,Gen. Defender
+12,Bailey Humphrey,Gold Coast,12.0,4.0,8.0,0.33,0.67,1.0,0.0,9.0,Mid-Forward
+12,Ben Ainsworth,Gold Coast,13.0,7.0,6.0,0.54,0.46,6.0,0.0,1.0,Gen. Forward
+12,Ben King,Gold Coast,7.0,5.0,2.0,0.71,0.29,2.0,1.0,2.0,Key Forward
+12,Ben Long,Gold Coast,11.0,9.0,2.0,0.82,0.18,5.0,1.0,1.0,Gen. Forward
+12,Bodhi Uwland,Gold Coast,15.0,10.0,5.0,0.67,0.33,4.0,1.0,2.0,Gen. Defender
+12,Brayden Fiorini,Gold Coast,19.0,10.0,9.0,0.53,0.47,0.0,0.0,3.0,Midfielder
+12,Daniel Rioli,Gold Coast,27.0,9.0,18.0,0.33,0.67,3.0,0.0,5.0,Gen. Defender
+12,David Swallow,Gold Coast,,,,,,,,,Gen. Forward
+12,Jarrod Witts,Gold Coast,10.0,3.0,7.0,0.3,0.7,1.0,0.0,6.0,Ruck
+12,Jed Walter,Gold Coast,10.0,4.0,6.0,0.4,0.6,2.0,2.0,2.0,Key Forward
+12,Joel Jeffrey,Gold Coast,15.0,12.0,3.0,0.8,0.2,5.0,0.0,4.0,Gen. Defender
+12,John Noble,Gold Coast,22.0,13.0,9.0,0.59,0.41,4.0,0.0,4.0,Gen. Defender
+12,Leonardo Lombard,Gold Coast,,,,,,,,,Gen. Forward
+12,Mac Andrew,Gold Coast,20.0,11.0,9.0,0.55,0.45,6.0,0.0,4.0,Key Defender
+12,Matt Rowell,Gold Coast,27.0,15.0,12.0,0.56,0.44,1.0,0.0,13.0,Midfielder
+12,Ned Moyle,Gold Coast,,,,,,,,,Ruck
+12,Nick Holman,Gold Coast,12.0,3.0,9.0,0.25,0.75,1.0,0.0,7.0,Mid-Forward
+12,Noah Anderson,Gold Coast,39.0,22.0,17.0,0.56,0.44,4.0,0.0,1.0,Midfielder
+12,Sam Clohesy,Gold Coast,18.0,9.0,9.0,0.5,0.5,2.0,0.0,6.0,Midfielder
+12,Sam Collins,Gold Coast,10.0,6.0,4.0,0.6,0.4,3.0,0.0,2.0,Key Defender
+12,Sam Flanders,Gold Coast,16.0,9.0,7.0,0.56,0.44,3.0,3.0,1.0,Gen. Forward
+12,Touk Miller,Gold Coast,24.0,12.0,12.0,0.5,0.5,0.0,0.0,3.0,Midfielder
+12,Wil Powell,Gold Coast,10.0,7.0,3.0,0.7,0.3,3.0,0.0,3.0,Gen. Defender
+13,Bailey Humphrey,Gold Coast,12.0,8.0,4.0,0.67,0.33,3.0,1.0,2.0,Mid-Forward
+13,Ben Ainsworth,Gold Coast,,,,,,,,,Gen. Forward
+13,Ben King,Gold Coast,4.0,4.0,0.0,1.0,0.0,1.0,1.0,1.0,Key Forward
+13,Ben Long,Gold Coast,8.0,6.0,2.0,0.75,0.25,2.0,1.0,2.0,Gen. Forward
+13,Bodhi Uwland,Gold Coast,11.0,9.0,2.0,0.82,0.18,5.0,0.0,2.0,Gen. Defender
+13,Brayden Fiorini,Gold Coast,25.0,13.0,12.0,0.52,0.48,4.0,0.0,3.0,Midfielder
+13,Daniel Rioli,Gold Coast,16.0,8.0,8.0,0.5,0.5,5.0,0.0,3.0,Gen. Defender
+13,David Swallow,Gold Coast,12.0,6.0,6.0,0.5,0.5,3.0,0.0,6.0,Gen. Forward
+13,Jarrod Witts,Gold Coast,10.0,4.0,6.0,0.4,0.6,0.0,0.0,4.0,Ruck
+13,Jed Walter,Gold Coast,7.0,3.0,4.0,0.43,0.57,2.0,1.0,1.0,Key Forward
+13,Joel Jeffrey,Gold Coast,25.0,20.0,5.0,0.8,0.2,5.0,0.0,1.0,Gen. Defender
+13,John Noble,Gold Coast,12.0,6.0,6.0,0.5,0.5,2.0,0.0,4.0,Gen. Defender
+13,Leonardo Lombard,Gold Coast,,,,,,,,,Gen. Forward
+13,Mac Andrew,Gold Coast,11.0,8.0,3.0,0.73,0.27,2.0,0.0,2.0,Key Defender
+13,Matt Rowell,Gold Coast,24.0,16.0,8.0,0.67,0.33,0.0,1.0,11.0,Midfielder
+13,Nick Holman,Gold Coast,8.0,2.0,6.0,0.25,0.75,1.0,0.0,3.0,Mid-Forward
+13,Noah Anderson,Gold Coast,19.0,12.0,7.0,0.63,0.37,0.0,0.0,3.0,Midfielder
+13,Sam Clohesy,Gold Coast,12.0,6.0,6.0,0.5,0.5,4.0,0.0,2.0,Midfielder
+13,Sam Collins,Gold Coast,8.0,7.0,1.0,0.88,0.12,7.0,0.0,2.0,Key Defender
+13,Sam Flanders,Gold Coast,7.0,2.0,5.0,0.29,0.71,2.0,0.0,3.0,Gen. Forward
+13,Sean Lemmens,Gold Coast,10.0,4.0,6.0,0.4,0.6,1.0,0.0,2.0,Gen. Defender
+13,Touk Miller,Gold Coast,20.0,14.0,6.0,0.7,0.3,0.0,0.0,2.0,Midfielder
+13,Wil Powell,Gold Coast,20.0,11.0,9.0,0.55,0.45,5.0,0.0,5.0,Gen. Defender
+15,Bailey Humphrey,Gold Coast,23.0,12.0,11.0,0.52,0.48,5.0,2.0,3.0,Mid-Forward
+15,Ben Ainsworth,Gold Coast,16.0,5.0,11.0,0.31,0.69,1.0,2.0,2.0,Gen. Forward
+15,Ben King,Gold Coast,7.0,3.0,4.0,0.43,0.57,2.0,2.0,0.0,Key Forward
+15,Ben Long,Gold Coast,10.0,7.0,3.0,0.7,0.3,3.0,1.0,4.0,Gen. Forward
+15,Bodhi Uwland,Gold Coast,17.0,11.0,6.0,0.65,0.35,3.0,0.0,0.0,Gen. Defender
+15,Brayden Fiorini,Gold Coast,22.0,12.0,10.0,0.55,0.45,1.0,1.0,5.0,Midfielder
+15,Connor Budarick,Gold Coast,3.0,2.0,1.0,0.67,0.33,0.0,0.0,4.0,Gen. Forward
+15,Daniel Rioli,Gold Coast,19.0,11.0,8.0,0.58,0.42,2.0,1.0,0.0,Gen. Defender
+15,Ethan Read,Gold Coast,,,,,,,,,Key Forward
+15,Jarrod Witts,Gold Coast,20.0,7.0,13.0,0.35,0.65,3.0,1.0,7.0,Ruck
+15,Jed Walter,Gold Coast,,,,,,,,,Key Forward
+15,Joel Jeffrey,Gold Coast,17.0,11.0,6.0,0.65,0.35,6.0,0.0,0.0,Gen. Defender
+15,John Noble,Gold Coast,21.0,17.0,4.0,0.81,0.19,3.0,0.0,1.0,Gen. Defender
+15,Lachie Weller,Gold Coast,14.0,9.0,5.0,0.64,0.36,1.0,0.0,5.0,Midfielder
+15,Mac Andrew,Gold Coast,4.0,2.0,2.0,0.5,0.5,1.0,0.0,0.0,Key Defender
+15,Matt Rowell,Gold Coast,34.0,12.0,22.0,0.35,0.65,0.0,0.0,8.0,Midfielder
+15,Nick Holman,Gold Coast,,,,,,,,,Mid-Forward
+15,Noah Anderson,Gold Coast,42.0,13.0,29.0,0.31,0.69,3.0,2.0,3.0,Midfielder
+15,Sam Clohesy,Gold Coast,16.0,9.0,7.0,0.56,0.44,2.0,0.0,3.0,Midfielder
+15,Sam Collins,Gold Coast,15.0,8.0,7.0,0.53,0.47,5.0,0.0,4.0,Key Defender
+15,Sam Flanders,Gold Coast,29.0,11.0,18.0,0.38,0.62,2.0,0.0,3.0,Gen. Forward
+15,Touk Miller,Gold Coast,37.0,13.0,24.0,0.35,0.65,2.0,2.0,7.0,Midfielder
+15,Wil Powell,Gold Coast,17.0,7.0,10.0,0.41,0.59,6.0,0.0,2.0,Gen. Defender
+16,Alex Sexton,Gold Coast,,,,,,,,,Gen. Forward
+16,Bailey Humphrey,Gold Coast,12.0,10.0,2.0,0.83,0.17,5.0,2.0,4.0,Mid-Forward
+16,Ben Ainsworth,Gold Coast,10.0,10.0,0.0,1.0,0.0,6.0,2.0,1.0,Gen. Forward
+16,Ben King,Gold Coast,9.0,7.0,2.0,0.78,0.22,6.0,3.0,0.0,Key Forward
+16,Ben Long,Gold Coast,10.0,8.0,2.0,0.8,0.2,5.0,2.0,2.0,Gen. Forward
+16,Bodhi Uwland,Gold Coast,13.0,10.0,3.0,0.77,0.23,8.0,0.0,4.0,Gen. Defender
+16,Brayden Fiorini,Gold Coast,17.0,11.0,6.0,0.65,0.35,6.0,0.0,10.0,Midfielder
+16,Connor Budarick,Gold Coast,9.0,3.0,6.0,0.33,0.67,1.0,1.0,1.0,Gen. Forward
+16,Daniel Rioli,Gold Coast,17.0,12.0,5.0,0.71,0.29,6.0,0.0,2.0,Gen. Defender
+16,Ethan Read,Gold Coast,7.0,7.0,0.0,1.0,0.0,6.0,1.0,2.0,Key Forward
+16,Jarrod Witts,Gold Coast,10.0,6.0,4.0,0.6,0.4,2.0,0.0,4.0,Ruck
+16,Jed Walter,Gold Coast,8.0,5.0,3.0,0.62,0.38,4.0,2.0,0.0,Key Forward
+16,Joel Jeffrey,Gold Coast,18.0,14.0,4.0,0.78,0.22,5.0,1.0,0.0,Gen. Defender
+16,John Noble,Gold Coast,29.0,18.0,11.0,0.62,0.38,6.0,0.0,4.0,Gen. Defender
+16,Lachie Weller,Gold Coast,12.0,10.0,2.0,0.83,0.17,4.0,0.0,2.0,Midfielder
+16,Mac Andrew,Gold Coast,8.0,7.0,1.0,0.88,0.12,5.0,0.0,0.0,Key Defender
+16,Matt Rowell,Gold Coast,24.0,12.0,12.0,0.5,0.5,2.0,0.0,11.0,Midfielder
+16,Noah Anderson,Gold Coast,27.0,10.0,17.0,0.37,0.63,5.0,0.0,3.0,Midfielder
+16,Sam Clohesy,Gold Coast,11.0,9.0,2.0,0.82,0.18,5.0,0.0,5.0,Midfielder
+16,Sam Collins,Gold Coast,9.0,5.0,4.0,0.56,0.44,6.0,0.0,1.0,Key Defender
+16,Sam Flanders,Gold Coast,28.0,10.0,18.0,0.36,0.64,5.0,0.0,2.0,Gen. Forward
+16,Touk Miller,Gold Coast,24.0,8.0,16.0,0.33,0.67,2.0,1.0,5.0,Midfielder
+16,Wil Powell,Gold Coast,17.0,14.0,3.0,0.82,0.18,6.0,0.0,2.0,Gen. Defender
+17,Alex Sexton,Gold Coast,,,,,,,,,Gen. Forward
+17,Bailey Humphrey,Gold Coast,18.0,9.0,9.0,0.5,0.5,1.0,2.0,4.0,Mid-Forward
+17,Ben Ainsworth,Gold Coast,14.0,9.0,5.0,0.64,0.36,3.0,1.0,1.0,Gen. Forward
+17,Ben King,Gold Coast,6.0,4.0,2.0,0.67,0.33,2.0,4.0,0.0,Key Forward
+17,Ben Long,Gold Coast,8.0,3.0,5.0,0.38,0.62,3.0,0.0,0.0,Gen. Forward
+17,Bodhi Uwland,Gold Coast,16.0,13.0,3.0,0.81,0.19,9.0,0.0,3.0,Gen. Defender
+17,Brayden Fiorini,Gold Coast,20.0,10.0,10.0,0.5,0.5,3.0,1.0,9.0,Midfielder
+17,Connor Budarick,Gold Coast,12.0,5.0,7.0,0.42,0.58,3.0,1.0,2.0,Gen. Forward
+17,Daniel Rioli,Gold Coast,19.0,12.0,7.0,0.63,0.37,3.0,0.0,5.0,Gen. Defender
+17,Ethan Read,Gold Coast,6.0,5.0,1.0,0.83,0.17,2.0,3.0,0.0,Key Forward
+17,Jed Walter,Gold Coast,10.0,8.0,2.0,0.8,0.2,7.0,1.0,1.0,Key Forward
+17,Joel Jeffrey,Gold Coast,32.0,19.0,13.0,0.59,0.41,10.0,1.0,3.0,Gen. Defender
+17,John Noble,Gold Coast,29.0,20.0,9.0,0.69,0.31,4.0,0.0,5.0,Gen. Defender
+17,Lachie Weller,Gold Coast,17.0,8.0,9.0,0.47,0.53,2.0,0.0,1.0,Midfielder
+17,Mac Andrew,Gold Coast,12.0,11.0,1.0,0.92,0.08,7.0,0.0,1.0,Key Defender
+17,Matt Rowell,Gold Coast,15.0,6.0,9.0,0.4,0.6,0.0,0.0,17.0,Midfielder
+17,Ned Moyle,Gold Coast,9.0,5.0,4.0,0.56,0.44,4.0,1.0,3.0,Ruck
+17,Noah Anderson,Gold Coast,30.0,18.0,12.0,0.6,0.4,8.0,2.0,4.0,Midfielder
+17,Oscar Adams,Gold Coast,9.0,4.0,5.0,0.44,0.56,2.0,0.0,1.0,Key Defender
+17,Sam Clohesy,Gold Coast,15.0,7.0,8.0,0.47,0.53,3.0,0.0,4.0,Midfielder
+17,Sam Flanders,Gold Coast,24.0,4.0,20.0,0.17,0.83,3.0,0.0,3.0,Gen. Forward
+17,Touk Miller,Gold Coast,25.0,8.0,17.0,0.32,0.68,1.0,1.0,7.0,Midfielder
+17,Wil Powell,Gold Coast,20.0,10.0,10.0,0.5,0.5,5.0,0.0,4.0,Gen. Defender
+18,Bailey Humphrey,Gold Coast,14.0,9.0,5.0,0.64,0.36,3.0,1.0,2.0,Mid-Forward
+18,Ben Ainsworth,Gold Coast,11.0,6.0,5.0,0.55,0.45,3.0,0.0,2.0,Gen. Forward
+18,Ben King,Gold Coast,8.0,5.0,3.0,0.62,0.38,3.0,2.0,0.0,Key Forward
+18,Ben Long,Gold Coast,12.0,5.0,7.0,0.42,0.58,2.0,1.0,2.0,Gen. Forward
+18,Bodhi Uwland,Gold Coast,19.0,14.0,5.0,0.74,0.26,5.0,0.0,1.0,Gen. Defender
+18,Brayden Fiorini,Gold Coast,21.0,13.0,8.0,0.62,0.38,1.0,0.0,9.0,Midfielder
+18,Connor Budarick,Gold Coast,7.0,4.0,3.0,0.57,0.43,0.0,0.0,5.0,Gen. Forward
+18,Daniel Rioli,Gold Coast,22.0,14.0,8.0,0.64,0.36,4.0,1.0,4.0,Gen. Defender
+18,David Swallow,Gold Coast,,,,,,,,,Gen. Forward
+18,Ethan Read,Gold Coast,7.0,4.0,3.0,0.57,0.43,1.0,1.0,0.0,Key Forward
+18,Jarrod Witts,Gold Coast,14.0,8.0,6.0,0.57,0.43,2.0,0.0,3.0,Ruck
+18,Jed Walter,Gold Coast,6.0,4.0,2.0,0.67,0.33,3.0,0.0,0.0,Key Forward
+18,Joel Jeffrey,Gold Coast,15.0,11.0,4.0,0.73,0.27,6.0,0.0,2.0,Gen. Defender
+18,John Noble,Gold Coast,30.0,20.0,10.0,0.67,0.33,8.0,0.0,4.0,Gen. Defender
+18,Lachie Weller,Gold Coast,14.0,7.0,7.0,0.5,0.5,1.0,0.0,3.0,Midfielder
+18,Mac Andrew,Gold Coast,13.0,9.0,4.0,0.69,0.31,7.0,0.0,1.0,Key Defender
+18,Matt Rowell,Gold Coast,32.0,16.0,16.0,0.5,0.5,1.0,2.0,13.0,Midfielder
+18,Noah Anderson,Gold Coast,32.0,10.0,22.0,0.31,0.69,3.0,1.0,4.0,Midfielder
+18,Oscar Adams,Gold Coast,3.0,2.0,1.0,0.67,0.33,0.0,0.0,0.0,Key Defender
+18,Sam Clohesy,Gold Coast,13.0,9.0,4.0,0.69,0.31,2.0,1.0,2.0,Midfielder
+18,Sam Flanders,Gold Coast,18.0,10.0,8.0,0.56,0.44,3.0,0.0,2.0,Gen. Forward
+18,Touk Miller,Gold Coast,,,,,,,,,Midfielder
+18,Wil Powell,Gold Coast,7.0,5.0,2.0,0.71,0.29,5.0,0.0,5.0,Gen. Defender
+19,Bailey Humphrey,Gold Coast,12.0,5.0,7.0,0.42,0.58,3.0,0.0,3.0,Mid-Forward
+19,Ben Ainsworth,Gold Coast,12.0,6.0,6.0,0.5,0.5,5.0,1.0,3.0,Gen. Forward
+19,Ben Jepson,Gold Coast,12.0,9.0,3.0,0.75,0.25,2.0,0.0,1.0,Midfielder
+19,Ben King,Gold Coast,4.0,2.0,2.0,0.5,0.5,1.0,1.0,2.0,Key Forward
+19,Ben Long,Gold Coast,8.0,3.0,5.0,0.38,0.62,3.0,0.0,2.0,Gen. Forward
+19,Bodhi Uwland,Gold Coast,10.0,6.0,4.0,0.6,0.4,5.0,0.0,3.0,Gen. Defender
+19,Brayden Fiorini,Gold Coast,28.0,14.0,14.0,0.5,0.5,7.0,0.0,3.0,Midfielder
+19,Connor Budarick,Gold Coast,24.0,18.0,6.0,0.75,0.25,9.0,0.0,1.0,Gen. Forward
+19,Daniel Rioli,Gold Coast,,,,,,,,,Gen. Defender
+19,David Swallow,Gold Coast,,,,,,,,,Gen. Forward
+19,Ethan Read,Gold Coast,9.0,7.0,2.0,0.78,0.22,2.0,1.0,1.0,Key Forward
+19,Jarrod Witts,Gold Coast,11.0,5.0,6.0,0.45,0.55,1.0,0.0,3.0,Ruck
+19,Jed Walter,Gold Coast,4.0,3.0,1.0,0.75,0.25,2.0,1.0,2.0,Key Forward
+19,Joel Jeffrey,Gold Coast,22.0,15.0,7.0,0.68,0.32,4.0,1.0,1.0,Gen. Defender
+19,John Noble,Gold Coast,20.0,14.0,6.0,0.7,0.3,4.0,0.0,1.0,Gen. Defender
+19,Leonardo Lombard,Gold Coast,7.0,5.0,2.0,0.71,0.29,3.0,0.0,3.0,Gen. Forward
+19,Mac Andrew,Gold Coast,14.0,10.0,4.0,0.71,0.29,6.0,0.0,1.0,Key Defender
+19,Matt Rowell,Gold Coast,30.0,19.0,11.0,0.63,0.37,2.0,0.0,9.0,Midfielder
+19,Noah Anderson,Gold Coast,27.0,10.0,17.0,0.37,0.63,4.0,0.0,1.0,Midfielder
+19,Oscar Adams,Gold Coast,7.0,3.0,4.0,0.43,0.57,4.0,0.0,1.0,Key Defender
+19,Sam Clohesy,Gold Coast,11.0,7.0,4.0,0.64,0.36,3.0,0.0,4.0,Midfielder
+19,Sam Flanders,Gold Coast,28.0,11.0,17.0,0.39,0.61,9.0,1.0,1.0,Gen. Forward
+19,Wil Powell,Gold Coast,16.0,10.0,6.0,0.62,0.38,2.0,0.0,8.0,Gen. Defender
+20,Alex Davies,Gold Coast,30.0,10.0,20.0,0.33,0.67,1.0,0.0,10.0,Midfielder
+20,Bailey Humphrey,Gold Coast,19.0,12.0,7.0,0.63,0.37,4.0,3.0,8.0,Mid-Forward
+20,Ben Ainsworth,Gold Coast,27.0,11.0,16.0,0.41,0.59,3.0,3.0,2.0,Gen. Forward
+20,Ben King,Gold Coast,8.0,5.0,3.0,0.62,0.38,1.0,2.0,0.0,Key Forward
+20,Ben Long,Gold Coast,11.0,11.0,0.0,1.0,0.0,7.0,4.0,4.0,Gen. Forward
+20,Bodhi Uwland,Gold Coast,15.0,4.0,11.0,0.27,0.73,3.0,0.0,0.0,Gen. Defender
+20,Brayden Fiorini,Gold Coast,32.0,18.0,14.0,0.56,0.44,6.0,1.0,5.0,Midfielder
+20,Connor Budarick,Gold Coast,22.0,8.0,14.0,0.36,0.64,3.0,1.0,5.0,Gen. Forward
+20,Ethan Read,Gold Coast,8.0,4.0,4.0,0.5,0.5,1.0,1.0,1.0,Key Forward
+20,Jarrod Witts,Gold Coast,13.0,5.0,8.0,0.38,0.62,2.0,0.0,4.0,Ruck
+20,Joel Jeffrey,Gold Coast,32.0,19.0,13.0,0.59,0.41,8.0,0.0,0.0,Gen. Defender
+20,John Noble,Gold Coast,31.0,19.0,12.0,0.61,0.39,7.0,0.0,1.0,Gen. Defender
+20,Jy Farrar,Gold Coast,13.0,5.0,8.0,0.38,0.62,2.0,3.0,4.0,Gen. Forward
+20,Lachie Weller,Gold Coast,19.0,10.0,9.0,0.53,0.47,3.0,0.0,4.0,Midfielder
+20,Leonardo Lombard,Gold Coast,,,,,,,,,Gen. Forward
+20,Mac Andrew,Gold Coast,18.0,9.0,9.0,0.5,0.5,4.0,0.0,1.0,Key Defender
+20,Matt Rowell,Gold Coast,37.0,17.0,20.0,0.46,0.54,4.0,0.0,12.0,Midfielder
+20,Nick Holman,Gold Coast,7.0,2.0,5.0,0.29,0.71,1.0,1.0,1.0,Mid-Forward
+20,Noah Anderson,Gold Coast,33.0,14.0,19.0,0.42,0.58,4.0,1.0,3.0,Midfielder
+20,Oscar Adams,Gold Coast,5.0,3.0,2.0,0.6,0.4,0.0,0.0,2.0,Key Defender
+20,Sam Collins,Gold Coast,10.0,5.0,5.0,0.5,0.5,4.0,0.0,3.0,Key Defender
+20,Sam Flanders,Gold Coast,18.0,6.0,12.0,0.33,0.67,4.0,0.0,2.0,Gen. Forward
+20,Wil Powell,Gold Coast,26.0,13.0,13.0,0.5,0.5,3.0,0.0,4.0,Gen. Defender
+21,Alex Davies,Gold Coast,14.0,3.0,11.0,0.21,0.79,2.0,0.0,7.0,Midfielder
+21,Bailey Humphrey,Gold Coast,10.0,8.0,2.0,0.8,0.2,4.0,3.0,4.0,Mid-Forward
+21,Ben Ainsworth,Gold Coast,11.0,5.0,6.0,0.45,0.55,3.0,1.0,1.0,Gen. Forward
+21,Ben King,Gold Coast,10.0,6.0,4.0,0.6,0.4,5.0,4.0,0.0,Key Forward
+21,Ben Long,Gold Coast,14.0,11.0,3.0,0.79,0.21,8.0,2.0,2.0,Gen. Forward
+21,Bodhi Uwland,Gold Coast,15.0,8.0,7.0,0.53,0.47,6.0,0.0,1.0,Gen. Defender
+21,Brayden Fiorini,Gold Coast,24.0,14.0,10.0,0.58,0.42,7.0,1.0,4.0,Midfielder
+21,Connor Budarick,Gold Coast,14.0,8.0,6.0,0.57,0.43,7.0,0.0,2.0,Gen. Forward
+21,Ethan Read,Gold Coast,13.0,9.0,4.0,0.69,0.31,9.0,2.0,2.0,Key Forward
+21,Jarrod Witts,Gold Coast,11.0,4.0,7.0,0.36,0.64,2.0,0.0,2.0,Ruck
+21,Joel Jeffrey,Gold Coast,26.0,19.0,7.0,0.73,0.27,7.0,0.0,2.0,Gen. Defender
+21,John Noble,Gold Coast,30.0,23.0,7.0,0.77,0.23,5.0,0.0,1.0,Gen. Defender
+21,Jy Farrar,Gold Coast,11.0,8.0,3.0,0.73,0.27,6.0,2.0,6.0,Gen. Forward
+21,Lachie Weller,Gold Coast,13.0,7.0,6.0,0.54,0.46,3.0,0.0,0.0,Midfielder
+21,Mac Andrew,Gold Coast,24.0,14.0,10.0,0.58,0.42,11.0,1.0,0.0,Key Defender
+21,Matt Rowell,Gold Coast,27.0,10.0,17.0,0.37,0.63,3.0,0.0,9.0,Midfielder
+21,Nick Holman,Gold Coast,,,,,,,,,Mid-Forward
+21,Noah Anderson,Gold Coast,38.0,19.0,19.0,0.5,0.5,5.0,0.0,4.0,Midfielder
+21,Oscar Adams,Gold Coast,14.0,8.0,6.0,0.57,0.43,6.0,0.0,1.0,Key Defender
+21,Sam Collins,Gold Coast,18.0,12.0,6.0,0.67,0.33,9.0,0.0,2.0,Key Defender
+21,Sam Flanders,Gold Coast,15.0,7.0,8.0,0.47,0.53,6.0,0.0,1.0,Gen. Forward
+21,Touk Miller,Gold Coast,25.0,11.0,14.0,0.44,0.56,4.0,0.0,5.0,Midfielder
+21,Wil Powell,Gold Coast,17.0,12.0,5.0,0.71,0.29,5.0,0.0,3.0,Gen. Defender
+22,Alex Davies,Gold Coast,18.0,9.0,9.0,0.5,0.5,2.0,0.0,8.0,Midfielder
+22,Bailey Humphrey,Gold Coast,14.0,7.0,7.0,0.5,0.5,3.0,0.0,4.0,Mid-Forward
+22,Ben Ainsworth,Gold Coast,12.0,8.0,4.0,0.67,0.33,3.0,1.0,2.0,Gen. Forward
+22,Ben King,Gold Coast,9.0,9.0,0.0,1.0,0.0,7.0,6.0,3.0,Key Forward
+22,Ben Long,Gold Coast,13.0,9.0,4.0,0.69,0.31,7.0,3.0,0.0,Gen. Forward
+22,Bodhi Uwland,Gold Coast,16.0,9.0,7.0,0.56,0.44,6.0,0.0,3.0,Gen. Defender
+22,Brayden Fiorini,Gold Coast,22.0,13.0,9.0,0.59,0.41,4.0,2.0,1.0,Midfielder
+22,Connor Budarick,Gold Coast,14.0,10.0,4.0,0.71,0.29,5.0,0.0,1.0,Gen. Forward
+22,Ethan Read,Gold Coast,9.0,6.0,3.0,0.67,0.33,4.0,0.0,2.0,Key Forward
+22,Jarrod Witts,Gold Coast,15.0,9.0,6.0,0.6,0.4,3.0,1.0,3.0,Ruck
+22,Joel Jeffrey,Gold Coast,14.0,9.0,5.0,0.64,0.36,3.0,0.0,2.0,Gen. Defender
+22,John Noble,Gold Coast,24.0,18.0,6.0,0.75,0.25,7.0,0.0,1.0,Gen. Defender
+22,Jy Farrar,Gold Coast,9.0,7.0,2.0,0.78,0.22,5.0,0.0,4.0,Gen. Forward
+22,Lachie Weller,Gold Coast,13.0,7.0,6.0,0.54,0.46,3.0,0.0,0.0,Midfielder
+22,Mac Andrew,Gold Coast,16.0,10.0,6.0,0.62,0.38,7.0,0.0,2.0,Key Defender
+22,Malcolm Rosas,Gold Coast,,,,,,,,,Gen. Forward
+22,Matt Rowell,Gold Coast,30.0,13.0,17.0,0.43,0.57,4.0,0.0,8.0,Midfielder
+22,Nick Holman,Gold Coast,4.0,1.0,3.0,0.25,0.75,1.0,0.0,3.0,Mid-Forward
+22,Noah Anderson,Gold Coast,19.0,9.0,10.0,0.47,0.53,1.0,0.0,6.0,Midfielder
+22,Oscar Adams,Gold Coast,5.0,4.0,1.0,0.8,0.2,1.0,0.0,1.0,Key Defender
+22,Sam Collins,Gold Coast,14.0,9.0,5.0,0.64,0.36,4.0,0.0,4.0,Key Defender
+22,Touk Miller,Gold Coast,25.0,14.0,11.0,0.56,0.44,7.0,0.0,7.0,Midfielder
+22,Wil Powell,Gold Coast,11.0,6.0,5.0,0.55,0.45,3.0,0.0,2.0,Gen. Defender
+23,Alex Davies,Gold Coast,,,,,,,,,Midfielder
+23,Alex Sexton,Gold Coast,,,,,,,,,Gen. Forward
+23,Ben Ainsworth,Gold Coast,11.0,4.0,7.0,0.36,0.64,2.0,2.0,0.0,Gen. Forward
+23,Ben King,Gold Coast,6.0,3.0,3.0,0.5,0.5,2.0,2.0,0.0,Key Forward
+23,Ben Long,Gold Coast,8.0,7.0,1.0,0.88,0.12,2.0,2.0,0.0,Gen. Forward
+23,Bodhi Uwland,Gold Coast,18.0,12.0,6.0,0.67,0.33,7.0,0.0,4.0,Gen. Defender
+23,Brayden Fiorini,Gold Coast,15.0,8.0,7.0,0.53,0.47,3.0,0.0,2.0,Midfielder
+23,Connor Budarick,Gold Coast,10.0,5.0,5.0,0.5,0.5,2.0,1.0,1.0,Gen. Forward
+23,Ethan Read,Gold Coast,6.0,4.0,2.0,0.67,0.33,4.0,2.0,1.0,Key Forward
+23,Jarrod Witts,Gold Coast,11.0,5.0,6.0,0.45,0.55,2.0,0.0,2.0,Ruck
+23,Joel Jeffrey,Gold Coast,15.0,9.0,6.0,0.6,0.4,7.0,0.0,1.0,Gen. Defender
+23,John Noble,Gold Coast,18.0,10.0,8.0,0.56,0.44,1.0,0.0,1.0,Gen. Defender
+23,Jy Farrar,Gold Coast,12.0,7.0,5.0,0.58,0.42,6.0,1.0,2.0,Gen. Forward
+23,Lachie Weller,Gold Coast,17.0,6.0,11.0,0.35,0.65,2.0,0.0,2.0,Midfielder
+23,Mac Andrew,Gold Coast,16.0,10.0,6.0,0.62,0.38,4.0,0.0,2.0,Key Defender
+23,Matt Rowell,Gold Coast,25.0,10.0,15.0,0.4,0.6,2.0,1.0,4.0,Midfielder
+23,Nick Holman,Gold Coast,6.0,2.0,4.0,0.33,0.67,0.0,0.0,5.0,Mid-Forward
+23,Noah Anderson,Gold Coast,32.0,16.0,16.0,0.5,0.5,6.0,0.0,5.0,Midfielder
+23,Oscar Adams,Gold Coast,,,,,,,,,Key Defender
+23,Sam Collins,Gold Coast,9.0,6.0,3.0,0.67,0.33,3.0,0.0,2.0,Key Defender
+23,Sam Flanders,Gold Coast,16.0,9.0,7.0,0.56,0.44,4.0,0.0,2.0,Gen. Forward
+23,Touk Miller,Gold Coast,28.0,17.0,11.0,0.61,0.39,2.0,0.0,5.0,Midfielder
+23,Wil Powell,Gold Coast,21.0,16.0,5.0,0.76,0.24,6.0,0.0,5.0,Gen. Defender
+24,Alex Davies,Gold Coast,15.0,8.0,7.0,0.53,0.47,0.0,0.0,4.0,Midfielder
+24,Alex Davies,Gold Coast,17.0,6.0,11.0,0.35,0.65,2.0,1.0,1.0,Midfielder
+24,Alex Sexton,Gold Coast,8.0,4.0,4.0,0.5,0.5,1.0,0.0,1.0,Gen. Forward
+24,Bailey Humphrey,Gold Coast,,,,,,,,,Mid-Forward
+24,Ben Ainsworth,Gold Coast,13.0,10.0,3.0,0.77,0.23,3.0,0.0,1.0,Gen. Forward
+24,Ben Ainsworth,Gold Coast,17.0,9.0,8.0,0.53,0.47,5.0,2.0,3.0,Gen. Forward
+24,Ben King,Gold Coast,5.0,5.0,0.0,1.0,0.0,2.0,3.0,3.0,Key Forward
+24,Ben King,Gold Coast,8.0,8.0,0.0,1.0,0.0,6.0,7.0,0.0,Key Forward
+24,Ben Long,Gold Coast,13.0,10.0,3.0,0.77,0.23,3.0,3.0,6.0,Gen. Forward
+24,Ben Long,Gold Coast,12.0,8.0,4.0,0.67,0.33,6.0,1.0,0.0,Gen. Forward
+24,Bodhi Uwland,Gold Coast,17.0,10.0,7.0,0.59,0.41,7.0,0.0,2.0,Gen. Defender
+24,Bodhi Uwland,Gold Coast,19.0,11.0,8.0,0.58,0.42,6.0,0.0,1.0,Gen. Defender
+24,Brayden Fiorini,Gold Coast,27.0,14.0,13.0,0.52,0.48,7.0,0.0,7.0,Midfielder
+24,Brayden Fiorini,Gold Coast,20.0,5.0,15.0,0.25,0.75,2.0,1.0,2.0,Midfielder
+24,Connor Budarick,Gold Coast,8.0,3.0,5.0,0.38,0.62,2.0,0.0,2.0,Gen. Forward
+24,Connor Budarick,Gold Coast,10.0,5.0,5.0,0.5,0.5,3.0,0.0,3.0,Gen. Forward
+24,Daniel Rioli,Gold Coast,17.0,5.0,12.0,0.29,0.71,2.0,1.0,1.0,Gen. Defender
+24,Ethan Read,Gold Coast,11.0,8.0,3.0,0.73,0.27,2.0,1.0,3.0,Key Forward
+24,Ethan Read,Gold Coast,12.0,6.0,6.0,0.5,0.5,5.0,1.0,1.0,Key Forward
+24,Jake Rogers,Gold Coast,,,,,,,,,Gen. Forward
+24,Jarrod Witts,Gold Coast,10.0,2.0,8.0,0.2,0.8,1.0,0.0,5.0,Ruck
+24,Jarrod Witts,Gold Coast,13.0,3.0,10.0,0.23,0.77,2.0,1.0,1.0,Ruck
+24,Joel Jeffrey,Gold Coast,,,,,,,,,Gen. Defender
+24,Joel Jeffrey,Gold Coast,20.0,14.0,6.0,0.7,0.3,4.0,0.0,0.0,Gen. Defender
+24,John Noble,Gold Coast,27.0,21.0,6.0,0.78,0.22,2.0,0.0,2.0,Gen. Defender
+24,John Noble,Gold Coast,32.0,15.0,17.0,0.47,0.53,2.0,0.0,3.0,Gen. Defender
+24,Jy Farrar,Gold Coast,5.0,5.0,0.0,1.0,0.0,4.0,2.0,1.0,Gen. Forward
+24,Jy Farrar,Gold Coast,8.0,5.0,3.0,0.62,0.38,5.0,1.0,1.0,Gen. Forward
+24,Lachie Weller,Gold Coast,17.0,6.0,11.0,0.35,0.65,1.0,0.0,1.0,Midfielder
+24,Lachie Weller,Gold Coast,26.0,15.0,11.0,0.58,0.42,5.0,0.0,1.0,Midfielder
+24,Lachlan Gulbin,Gold Coast,9.0,6.0,3.0,0.67,0.33,4.0,0.0,5.0,Gen. Forward
+24,Mac Andrew,Gold Coast,20.0,10.0,10.0,0.5,0.5,7.0,0.0,3.0,Key Defender
+24,Mac Andrew,Gold Coast,14.0,7.0,7.0,0.5,0.5,5.0,0.0,0.0,Key Defender
+24,Matt Rowell,Gold Coast,21.0,6.0,15.0,0.29,0.71,2.0,0.0,3.0,Midfielder
+24,Matt Rowell,Gold Coast,31.0,13.0,18.0,0.42,0.58,0.0,2.0,8.0,Midfielder
+24,Noah Anderson,Gold Coast,21.0,9.0,12.0,0.43,0.57,0.0,0.0,1.0,Midfielder
+24,Noah Anderson,Gold Coast,34.0,19.0,15.0,0.56,0.44,3.0,3.0,0.0,Midfielder
+24,Oscar Adams,Gold Coast,9.0,6.0,3.0,0.67,0.33,5.0,0.0,0.0,Key Defender
+24,Sam Collins,Gold Coast,11.0,7.0,4.0,0.64,0.36,4.0,0.0,1.0,Key Defender
+24,Sam Collins,Gold Coast,9.0,5.0,4.0,0.56,0.44,2.0,0.0,1.0,Key Defender
+24,Sam Flanders,Gold Coast,,,,,,,,,Gen. Forward
+24,Sam Flanders,Gold Coast,20.0,10.0,10.0,0.5,0.5,5.0,0.0,1.0,Gen. Forward
+24,Touk Miller,Gold Coast,20.0,10.0,10.0,0.5,0.5,3.0,0.0,7.0,Midfielder
+24,Touk Miller,Gold Coast,21.0,13.0,8.0,0.62,0.38,4.0,0.0,1.0,Midfielder
+24,Wil Powell,Gold Coast,21.0,13.0,8.0,0.62,0.38,5.0,0.0,3.0,Gen. Defender
+24,Wil Powell,Gold Coast,23.0,10.0,13.0,0.43,0.57,7.0,1.0,3.0,Gen. Defender

@@ -1,0 +1,530 @@
+Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
+1,Adam Cerra,Carlton,26.0,14.0,12.0,0.54,0.46,3.0,0.0,6.0,Midfielder
+1,Adam Saad,Carlton,21.0,15.0,6.0,0.71,0.29,3.0,0.0,1.0,Gen. Defender
+1,Blake Acres,Carlton,21.0,12.0,9.0,0.57,0.43,5.0,1.0,4.0,Midfielder
+1,Brodie Kemp,Carlton,8.0,6.0,2.0,0.75,0.25,2.0,1.0,0.0,Key Forward
+1,Cooper Lord,Carlton,,,,,,,,,Midfielder
+1,Francis Evans,Carlton,7.0,5.0,2.0,0.71,0.29,2.0,1.0,1.0,Gen. Forward
+1,George Hewett,Carlton,25.0,12.0,13.0,0.48,0.52,2.0,0.0,8.0,Midfielder
+1,Harry McKay,Carlton,14.0,9.0,5.0,0.64,0.36,7.0,1.0,1.0,Key Forward
+1,Jack Silvagni,Carlton,16.0,14.0,2.0,0.88,0.12,8.0,1.0,4.0,Key Defender
+1,Jacob Weitering,Carlton,21.0,13.0,8.0,0.62,0.38,11.0,0.0,0.0,Key Defender
+1,Jesse Motlop,Carlton,10.0,7.0,3.0,0.7,0.3,2.0,0.0,2.0,Gen. Forward
+1,Lachie Fogarty,Carlton,12.0,4.0,8.0,0.33,0.67,3.0,0.0,3.0,Gen. Forward
+1,Lachlan Cowan,Carlton,18.0,14.0,4.0,0.78,0.22,5.0,1.0,4.0,Gen. Defender
+1,Lucas Camporeale,Carlton,20.0,9.0,11.0,0.45,0.55,3.0,0.0,5.0,Midfielder
+1,Matthew Cottrell,Carlton,11.0,7.0,4.0,0.64,0.36,3.0,1.0,3.0,Mid-Forward
+1,Mitch McGovern,Carlton,14.0,11.0,3.0,0.79,0.21,4.0,0.0,1.0,Gen. Defender
+1,Nick Haynes,Carlton,18.0,13.0,5.0,0.72,0.28,6.0,0.0,0.0,Gen. Defender
+1,Oliver Hollands,Carlton,19.0,14.0,5.0,0.74,0.26,4.0,0.0,2.0,Gen. Defender
+1,Patrick Cripps,Carlton,32.0,10.0,22.0,0.31,0.69,2.0,0.0,5.0,Midfielder
+1,Sam Docherty,Carlton,,,,,,,,,Midfielder
+1,Sam Walsh,Carlton,25.0,7.0,18.0,0.28,0.72,1.0,1.0,5.0,Midfielder
+1,Tom De Koning,Carlton,28.0,13.0,15.0,0.46,0.54,3.0,0.0,5.0,Ruck
+1,Zac Williams,Carlton,10.0,6.0,4.0,0.6,0.4,4.0,1.0,1.0,Gen. Forward
+2,Adam Cerra,Carlton,28.0,17.0,11.0,0.61,0.39,2.0,1.0,5.0,Midfielder
+2,Adam Saad,Carlton,13.0,11.0,2.0,0.85,0.15,2.0,0.0,3.0,Gen. Defender
+2,Blake Acres,Carlton,10.0,7.0,3.0,0.7,0.3,1.0,0.0,1.0,Midfielder
+2,Brodie Kemp,Carlton,6.0,3.0,3.0,0.5,0.5,0.0,1.0,3.0,Key Forward
+2,Charlie Curnow,Carlton,5.0,4.0,1.0,0.8,0.2,2.0,0.0,0.0,Key Forward
+2,Cooper Lord,Carlton,,,,,,,,,Midfielder
+2,George Hewett,Carlton,28.0,14.0,14.0,0.5,0.5,1.0,1.0,11.0,Midfielder
+2,Jack Silvagni,Carlton,10.0,6.0,4.0,0.6,0.4,3.0,1.0,6.0,Key Defender
+2,Jacob Weitering,Carlton,11.0,10.0,1.0,0.91,0.09,7.0,0.0,2.0,Key Defender
+2,Jesse Motlop,Carlton,19.0,12.0,7.0,0.63,0.37,3.0,1.0,6.0,Gen. Forward
+2,Lachie Fogarty,Carlton,8.0,3.0,5.0,0.38,0.62,1.0,0.0,5.0,Gen. Forward
+2,Lachlan Cowan,Carlton,9.0,5.0,4.0,0.56,0.44,1.0,0.0,3.0,Gen. Defender
+2,Lewis Young,Carlton,8.0,6.0,2.0,0.75,0.25,4.0,0.0,1.0,Key Defender
+2,Lucas Camporeale,Carlton,9.0,5.0,4.0,0.56,0.44,2.0,0.0,0.0,Midfielder
+2,Matthew Cottrell,Carlton,20.0,16.0,4.0,0.8,0.2,1.0,1.0,3.0,Mid-Forward
+2,Mitch McGovern,Carlton,13.0,11.0,2.0,0.85,0.15,5.0,0.0,1.0,Gen. Defender
+2,Nick Haynes,Carlton,8.0,6.0,2.0,0.75,0.25,4.0,0.0,0.0,Gen. Defender
+2,Oliver Hollands,Carlton,11.0,7.0,4.0,0.64,0.36,3.0,0.0,4.0,Gen. Defender
+2,Patrick Cripps,Carlton,29.0,12.0,17.0,0.41,0.59,3.0,0.0,4.0,Midfielder
+2,Sam Docherty,Carlton,13.0,10.0,3.0,0.77,0.23,0.0,0.0,9.0,Midfielder
+2,Sam Walsh,Carlton,22.0,10.0,12.0,0.45,0.55,0.0,0.0,12.0,Midfielder
+2,Tom De Koning,Carlton,19.0,10.0,9.0,0.53,0.47,3.0,0.0,3.0,Ruck
+2,Zac Williams,Carlton,11.0,6.0,5.0,0.55,0.45,1.0,2.0,1.0,Gen. Forward
+3,Adam Cerra,Carlton,26.0,16.0,10.0,0.62,0.38,2.0,0.0,4.0,Midfielder
+3,Adam Saad,Carlton,19.0,15.0,4.0,0.79,0.21,5.0,0.0,3.0,Gen. Defender
+3,Blake Acres,Carlton,15.0,11.0,4.0,0.73,0.27,4.0,0.0,4.0,Midfielder
+3,Brodie Kemp,Carlton,12.0,10.0,2.0,0.83,0.17,7.0,5.0,4.0,Key Forward
+3,Charlie Curnow,Carlton,8.0,7.0,1.0,0.88,0.12,3.0,3.0,3.0,Key Forward
+3,Francis Evans,Carlton,7.0,5.0,2.0,0.71,0.29,1.0,0.0,1.0,Gen. Forward
+3,George Hewett,Carlton,27.0,12.0,15.0,0.44,0.56,4.0,0.0,9.0,Midfielder
+3,Jack Silvagni,Carlton,16.0,11.0,5.0,0.69,0.31,9.0,0.0,1.0,Key Defender
+3,Jacob Weitering,Carlton,14.0,10.0,4.0,0.71,0.29,9.0,0.0,1.0,Key Defender
+3,Jesse Motlop,Carlton,9.0,7.0,2.0,0.78,0.22,1.0,1.0,5.0,Gen. Forward
+3,Jordan Boyd,Carlton,,,,,,,,,Gen. Defender
+3,Lachie Fogarty,Carlton,11.0,6.0,5.0,0.55,0.45,1.0,0.0,7.0,Gen. Forward
+3,Lachlan Cowan,Carlton,13.0,8.0,5.0,0.62,0.38,6.0,0.0,3.0,Gen. Defender
+3,Lewis Young,Carlton,8.0,4.0,4.0,0.5,0.5,5.0,2.0,4.0,Key Defender
+3,Matthew Cottrell,Carlton,14.0,8.0,6.0,0.57,0.43,4.0,0.0,1.0,Mid-Forward
+3,Mitch McGovern,Carlton,11.0,10.0,1.0,0.91,0.09,4.0,0.0,1.0,Gen. Defender
+3,Nick Haynes,Carlton,17.0,16.0,1.0,0.94,0.06,10.0,0.0,2.0,Gen. Defender
+3,Oliver Hollands,Carlton,12.0,7.0,5.0,0.58,0.42,6.0,0.0,3.0,Gen. Defender
+3,Patrick Cripps,Carlton,21.0,5.0,16.0,0.24,0.76,2.0,0.0,8.0,Midfielder
+3,Sam Docherty,Carlton,15.0,11.0,4.0,0.73,0.27,5.0,0.0,5.0,Midfielder
+3,Sam Walsh,Carlton,26.0,14.0,12.0,0.54,0.46,1.0,0.0,3.0,Midfielder
+3,Tom De Koning,Carlton,28.0,12.0,16.0,0.43,0.57,8.0,0.0,4.0,Ruck
+3,Zac Williams,Carlton,,,,,,,,,Gen. Forward
+4,Adam Cerra,Carlton,23.0,14.0,9.0,0.61,0.39,9.0,0.0,5.0,Midfielder
+4,Adam Saad,Carlton,24.0,18.0,6.0,0.75,0.25,3.0,0.0,2.0,Gen. Defender
+4,Ashton Moir,Carlton,,,,,,,,,Gen. Forward
+4,Blake Acres,Carlton,30.0,11.0,19.0,0.37,0.63,4.0,0.0,5.0,Midfielder
+4,Brodie Kemp,Carlton,7.0,5.0,2.0,0.71,0.29,4.0,0.0,2.0,Key Forward
+4,Charlie Curnow,Carlton,8.0,7.0,1.0,0.88,0.12,3.0,1.0,0.0,Key Forward
+4,Cooper Lord,Carlton,18.0,9.0,9.0,0.5,0.5,7.0,0.0,2.0,Midfielder
+4,George Hewett,Carlton,29.0,15.0,14.0,0.52,0.48,2.0,2.0,6.0,Midfielder
+4,Jack Silvagni,Carlton,13.0,10.0,3.0,0.77,0.23,4.0,0.0,7.0,Key Defender
+4,Jacob Weitering,Carlton,14.0,9.0,5.0,0.64,0.36,7.0,0.0,2.0,Key Defender
+4,Jesse Motlop,Carlton,11.0,6.0,5.0,0.55,0.45,1.0,0.0,3.0,Gen. Forward
+4,Lachie Fogarty,Carlton,11.0,5.0,6.0,0.45,0.55,0.0,0.0,5.0,Gen. Forward
+4,Lachlan Cowan,Carlton,,,,,,,,,Gen. Defender
+4,Lewis Young,Carlton,10.0,5.0,5.0,0.5,0.5,4.0,0.0,5.0,Key Defender
+4,Mitch McGovern,Carlton,16.0,11.0,5.0,0.69,0.31,6.0,0.0,2.0,Gen. Defender
+4,Nick Haynes,Carlton,12.0,7.0,5.0,0.58,0.42,6.0,0.0,1.0,Gen. Defender
+4,Oliver Hollands,Carlton,21.0,14.0,7.0,0.67,0.33,5.0,2.0,2.0,Gen. Defender
+4,Patrick Cripps,Carlton,16.0,9.0,7.0,0.56,0.44,0.0,1.0,1.0,Midfielder
+4,Sam Docherty,Carlton,27.0,20.0,7.0,0.74,0.26,9.0,0.0,2.0,Midfielder
+4,Sam Walsh,Carlton,31.0,14.0,17.0,0.45,0.55,7.0,0.0,10.0,Midfielder
+4,Tom De Koning,Carlton,19.0,7.0,12.0,0.37,0.63,2.0,0.0,2.0,Ruck
+4,Will White,Carlton,10.0,9.0,1.0,0.9,0.1,5.0,0.0,0.0,Gen. Forward
+4,Zac Williams,Carlton,21.0,14.0,7.0,0.67,0.33,5.0,0.0,3.0,Gen. Forward
+5,Adam Cerra,Carlton,27.0,10.0,17.0,0.37,0.63,5.0,0.0,5.0,Midfielder
+5,Adam Saad,Carlton,25.0,19.0,6.0,0.76,0.24,7.0,0.0,0.0,Gen. Defender
+5,Brodie Kemp,Carlton,10.0,4.0,6.0,0.4,0.6,2.0,0.0,2.0,Key Forward
+5,Charlie Curnow,Carlton,14.0,13.0,1.0,0.93,0.07,9.0,2.0,1.0,Key Forward
+5,Cooper Lord,Carlton,15.0,9.0,6.0,0.6,0.4,5.0,1.0,1.0,Midfielder
+5,Corey Durdin,Carlton,11.0,8.0,3.0,0.73,0.27,5.0,4.0,2.0,Gen. Forward
+5,George Hewett,Carlton,39.0,17.0,22.0,0.44,0.56,8.0,0.0,1.0,Midfielder
+5,Harry McKay,Carlton,,,,,,,,,Key Forward
+5,Jack Silvagni,Carlton,15.0,12.0,3.0,0.8,0.2,7.0,0.0,0.0,Key Defender
+5,Jacob Weitering,Carlton,15.0,12.0,3.0,0.8,0.2,7.0,0.0,0.0,Key Defender
+5,Jesse Motlop,Carlton,17.0,11.0,6.0,0.65,0.35,4.0,0.0,3.0,Gen. Forward
+5,Lachie Fogarty,Carlton,12.0,6.0,6.0,0.5,0.5,3.0,1.0,4.0,Gen. Forward
+5,Matthew Carroll,Carlton,12.0,12.0,0.0,1.0,0.0,8.0,0.0,2.0,Gen. Defender
+5,Matthew Cottrell,Carlton,19.0,17.0,2.0,0.89,0.11,8.0,0.0,0.0,Mid-Forward
+5,Mitch McGovern,Carlton,23.0,20.0,3.0,0.87,0.13,7.0,1.0,2.0,Gen. Defender
+5,Nick Haynes,Carlton,21.0,16.0,5.0,0.76,0.24,10.0,0.0,0.0,Gen. Defender
+5,Oliver Hollands,Carlton,17.0,13.0,4.0,0.76,0.24,10.0,0.0,3.0,Gen. Defender
+5,Patrick Cripps,Carlton,23.0,11.0,12.0,0.48,0.52,3.0,3.0,0.0,Midfielder
+5,Sam Docherty,Carlton,22.0,11.0,11.0,0.5,0.5,6.0,1.0,2.0,Midfielder
+5,Sam Walsh,Carlton,37.0,13.0,24.0,0.35,0.65,6.0,3.0,1.0,Midfielder
+5,Tom De Koning,Carlton,14.0,6.0,8.0,0.43,0.57,3.0,0.0,3.0,Ruck
+5,Will White,Carlton,15.0,9.0,6.0,0.6,0.4,6.0,1.0,2.0,Gen. Forward
+5,Zac Williams,Carlton,14.0,9.0,5.0,0.64,0.36,7.0,0.0,1.0,Gen. Forward
+6,Adam Cerra,Carlton,28.0,16.0,12.0,0.57,0.43,4.0,1.0,4.0,Midfielder
+6,Adam Saad,Carlton,14.0,11.0,3.0,0.79,0.21,2.0,0.0,1.0,Gen. Defender
+6,Blake Acres,Carlton,22.0,12.0,10.0,0.55,0.45,6.0,1.0,2.0,Midfielder
+6,Charlie Curnow,Carlton,15.0,11.0,4.0,0.73,0.27,5.0,4.0,2.0,Key Forward
+6,Cooper Lord,Carlton,,,,,,,,,Midfielder
+6,Corey Durdin,Carlton,11.0,8.0,3.0,0.73,0.27,6.0,2.0,5.0,Gen. Forward
+6,Elijah Hollands,Carlton,10.0,4.0,6.0,0.4,0.6,1.0,0.0,1.0,Gen. Forward
+6,George Hewett,Carlton,34.0,13.0,21.0,0.38,0.62,1.0,1.0,9.0,Midfielder
+6,Jack Silvagni,Carlton,18.0,15.0,3.0,0.83,0.17,7.0,0.0,3.0,Key Defender
+6,Jacob Weitering,Carlton,13.0,12.0,1.0,0.92,0.08,7.0,0.0,1.0,Key Defender
+6,Jesse Motlop,Carlton,13.0,10.0,3.0,0.77,0.23,1.0,3.0,9.0,Gen. Forward
+6,Lachie Fogarty,Carlton,14.0,6.0,8.0,0.43,0.57,6.0,0.0,4.0,Gen. Forward
+6,Lewis Young,Carlton,17.0,9.0,8.0,0.53,0.47,3.0,1.0,3.0,Key Defender
+6,Matthew Carroll,Carlton,14.0,11.0,3.0,0.79,0.21,3.0,0.0,1.0,Gen. Defender
+6,Matthew Cottrell,Carlton,20.0,15.0,5.0,0.75,0.25,4.0,0.0,2.0,Mid-Forward
+6,Mitch McGovern,Carlton,18.0,12.0,6.0,0.67,0.33,8.0,0.0,4.0,Gen. Defender
+6,Nick Haynes,Carlton,12.0,9.0,3.0,0.75,0.25,7.0,0.0,3.0,Gen. Defender
+6,Oliver Hollands,Carlton,14.0,7.0,7.0,0.5,0.5,5.0,0.0,2.0,Gen. Defender
+6,Patrick Cripps,Carlton,17.0,7.0,10.0,0.41,0.59,1.0,1.0,9.0,Midfielder
+6,Sam Walsh,Carlton,22.0,8.0,14.0,0.36,0.64,3.0,0.0,6.0,Midfielder
+6,Tom De Koning,Carlton,11.0,7.0,4.0,0.64,0.36,1.0,1.0,2.0,Ruck
+6,Will White,Carlton,12.0,10.0,2.0,0.83,0.17,1.0,3.0,5.0,Gen. Forward
+6,Zac Williams,Carlton,14.0,10.0,4.0,0.71,0.29,1.0,4.0,4.0,Gen. Forward
+7,Adam Cerra,Carlton,25.0,14.0,11.0,0.56,0.44,4.0,0.0,4.0,Midfielder
+7,Adam Saad,Carlton,21.0,12.0,9.0,0.57,0.43,4.0,0.0,4.0,Gen. Defender
+7,Blake Acres,Carlton,16.0,9.0,7.0,0.56,0.44,3.0,0.0,5.0,Midfielder
+7,Charlie Curnow,Carlton,14.0,12.0,2.0,0.86,0.14,9.0,3.0,0.0,Key Forward
+7,Cooper Lord,Carlton,,,,,,,,,Midfielder
+7,Corey Durdin,Carlton,6.0,5.0,1.0,0.83,0.17,2.0,1.0,4.0,Gen. Forward
+7,Elijah Hollands,Carlton,25.0,16.0,9.0,0.64,0.36,3.0,1.0,4.0,Gen. Forward
+7,George Hewett,Carlton,29.0,9.0,20.0,0.31,0.69,4.0,1.0,8.0,Midfielder
+7,Harry McKay,Carlton,19.0,14.0,5.0,0.74,0.26,12.0,3.0,2.0,Key Forward
+7,Jack Silvagni,Carlton,15.0,12.0,3.0,0.8,0.2,7.0,0.0,2.0,Key Defender
+7,Jacob Weitering,Carlton,15.0,12.0,3.0,0.8,0.2,8.0,0.0,2.0,Key Defender
+7,Jesse Motlop,Carlton,5.0,2.0,3.0,0.4,0.6,1.0,0.0,1.0,Gen. Forward
+7,Lachie Fogarty,Carlton,11.0,7.0,4.0,0.64,0.36,3.0,2.0,4.0,Gen. Forward
+7,Matthew Carroll,Carlton,15.0,13.0,2.0,0.87,0.13,6.0,0.0,1.0,Gen. Defender
+7,Matthew Cottrell,Carlton,15.0,7.0,8.0,0.47,0.53,3.0,0.0,2.0,Mid-Forward
+7,Mitch McGovern,Carlton,20.0,15.0,5.0,0.75,0.25,7.0,0.0,0.0,Gen. Defender
+7,Nick Haynes,Carlton,20.0,12.0,8.0,0.6,0.4,13.0,0.0,1.0,Gen. Defender
+7,Oliver Hollands,Carlton,23.0,12.0,11.0,0.52,0.48,6.0,0.0,7.0,Gen. Defender
+7,Patrick Cripps,Carlton,29.0,12.0,17.0,0.41,0.59,7.0,0.0,9.0,Midfielder
+7,Sam Walsh,Carlton,30.0,10.0,20.0,0.33,0.67,6.0,0.0,2.0,Midfielder
+7,Tom De Koning,Carlton,20.0,12.0,8.0,0.6,0.4,2.0,1.0,3.0,Ruck
+7,Will White,Carlton,9.0,4.0,5.0,0.44,0.56,3.0,1.0,2.0,Gen. Forward
+7,Zac Williams,Carlton,,,,,,,,,Gen. Forward
+8,Adam Cerra,Carlton,22.0,13.0,9.0,0.59,0.41,5.0,0.0,3.0,Midfielder
+8,Adam Saad,Carlton,19.0,11.0,8.0,0.58,0.42,5.0,0.0,3.0,Gen. Defender
+8,Blake Acres,Carlton,11.0,10.0,1.0,0.91,0.09,5.0,0.0,2.0,Midfielder
+8,Charlie Curnow,Carlton,13.0,12.0,1.0,0.92,0.08,10.0,2.0,0.0,Key Forward
+8,Cooper Lord,Carlton,9.0,4.0,5.0,0.44,0.56,2.0,0.0,2.0,Midfielder
+8,Corey Durdin,Carlton,4.0,3.0,1.0,0.75,0.25,2.0,2.0,1.0,Gen. Forward
+8,Elijah Hollands,Carlton,13.0,8.0,5.0,0.62,0.38,4.0,0.0,3.0,Gen. Forward
+8,George Hewett,Carlton,25.0,12.0,13.0,0.48,0.52,4.0,0.0,2.0,Midfielder
+8,Harry McKay,Carlton,8.0,4.0,4.0,0.5,0.5,3.0,0.0,2.0,Key Forward
+8,Jacob Weitering,Carlton,13.0,11.0,2.0,0.85,0.15,4.0,0.0,0.0,Key Defender
+8,Jesse Motlop,Carlton,6.0,4.0,2.0,0.67,0.33,3.0,1.0,1.0,Gen. Forward
+8,Lachie Fogarty,Carlton,,,,,,,,,Gen. Forward
+8,Lachlan Cowan,Carlton,,,,,,,,,Gen. Defender
+8,Lewis Young,Carlton,15.0,11.0,4.0,0.73,0.27,5.0,0.0,3.0,Key Defender
+8,Matthew Carroll,Carlton,7.0,5.0,2.0,0.71,0.29,3.0,0.0,1.0,Gen. Defender
+8,Mitch McGovern,Carlton,16.0,14.0,2.0,0.88,0.12,4.0,0.0,3.0,Gen. Defender
+8,Nick Haynes,Carlton,16.0,13.0,3.0,0.81,0.19,11.0,0.0,1.0,Gen. Defender
+8,Oliver Hollands,Carlton,18.0,12.0,6.0,0.67,0.33,6.0,0.0,6.0,Gen. Defender
+8,Patrick Cripps,Carlton,24.0,8.0,16.0,0.33,0.67,4.0,2.0,5.0,Midfielder
+8,Sam Docherty,Carlton,12.0,9.0,3.0,0.75,0.25,3.0,0.0,0.0,Midfielder
+8,Sam Walsh,Carlton,21.0,10.0,11.0,0.48,0.52,4.0,0.0,3.0,Midfielder
+8,Tom De Koning,Carlton,17.0,9.0,8.0,0.53,0.47,1.0,0.0,1.0,Ruck
+8,Will White,Carlton,9.0,5.0,4.0,0.56,0.44,2.0,0.0,0.0,Gen. Forward
+9,Adam Cerra,Carlton,18.0,12.0,6.0,0.67,0.33,5.0,0.0,2.0,Midfielder
+9,Adam Saad,Carlton,20.0,13.0,7.0,0.65,0.35,2.0,0.0,2.0,Gen. Defender
+9,Blake Acres,Carlton,17.0,13.0,4.0,0.76,0.24,4.0,0.0,3.0,Midfielder
+9,Charlie Curnow,Carlton,12.0,11.0,1.0,0.92,0.08,7.0,3.0,2.0,Key Forward
+9,Cooper Lord,Carlton,,,,,,,,,Midfielder
+9,Corey Durdin,Carlton,7.0,5.0,2.0,0.71,0.29,2.0,0.0,3.0,Gen. Forward
+9,Elijah Hollands,Carlton,17.0,12.0,5.0,0.71,0.29,7.0,0.0,2.0,Gen. Forward
+9,Francis Evans,Carlton,6.0,3.0,3.0,0.5,0.5,0.0,0.0,5.0,Gen. Forward
+9,George Hewett,Carlton,26.0,7.0,19.0,0.27,0.73,3.0,0.0,4.0,Midfielder
+9,Harry McKay,Carlton,19.0,13.0,6.0,0.68,0.32,10.0,3.0,3.0,Key Forward
+9,Jack Silvagni,Carlton,17.0,16.0,1.0,0.94,0.06,11.0,0.0,2.0,Key Defender
+9,Jacob Weitering,Carlton,19.0,16.0,3.0,0.84,0.16,14.0,0.0,1.0,Key Defender
+9,Jaxon Binns,Carlton,22.0,13.0,9.0,0.59,0.41,3.0,1.0,2.0,Midfielder
+9,Jesse Motlop,Carlton,6.0,4.0,2.0,0.67,0.33,0.0,0.0,5.0,Gen. Forward
+9,Lachlan Cowan,Carlton,,,,,,,,,Gen. Defender
+9,Lewis Young,Carlton,7.0,5.0,2.0,0.71,0.29,3.0,2.0,0.0,Key Defender
+9,Mitch McGovern,Carlton,,,,,,,,,Gen. Defender
+9,Nick Haynes,Carlton,17.0,15.0,2.0,0.88,0.12,12.0,0.0,0.0,Gen. Defender
+9,Oliver Hollands,Carlton,15.0,9.0,6.0,0.6,0.4,7.0,0.0,3.0,Gen. Defender
+9,Patrick Cripps,Carlton,26.0,12.0,14.0,0.46,0.54,2.0,0.0,10.0,Midfielder
+9,Sam Walsh,Carlton,21.0,9.0,12.0,0.43,0.57,3.0,0.0,6.0,Midfielder
+9,Tom De Koning,Carlton,21.0,11.0,10.0,0.52,0.48,4.0,0.0,1.0,Ruck
+9,Will White,Carlton,8.0,5.0,3.0,0.62,0.38,1.0,1.0,2.0,Gen. Forward
+10,Adam Cerra,Carlton,34.0,13.0,21.0,0.38,0.62,4.0,0.0,7.0,Midfielder
+10,Adam Saad,Carlton,21.0,14.0,7.0,0.67,0.33,1.0,0.0,3.0,Gen. Defender
+10,Charlie Curnow,Carlton,15.0,14.0,1.0,0.93,0.07,9.0,3.0,1.0,Key Forward
+10,Cooper Lord,Carlton,19.0,12.0,7.0,0.63,0.37,4.0,0.0,3.0,Midfielder
+10,Corey Durdin,Carlton,12.0,6.0,6.0,0.5,0.5,0.0,1.0,1.0,Gen. Forward
+10,Elijah Hollands,Carlton,20.0,11.0,9.0,0.55,0.45,4.0,0.0,4.0,Gen. Forward
+10,Francis Evans,Carlton,12.0,10.0,2.0,0.83,0.17,3.0,0.0,3.0,Gen. Forward
+10,George Hewett,Carlton,27.0,9.0,18.0,0.33,0.67,3.0,0.0,6.0,Midfielder
+10,Harry McKay,Carlton,16.0,11.0,5.0,0.69,0.31,7.0,2.0,4.0,Key Forward
+10,Jack Silvagni,Carlton,,,,,,,,,Key Defender
+10,Jacob Weitering,Carlton,13.0,12.0,1.0,0.92,0.08,4.0,0.0,1.0,Key Defender
+10,Jaxon Binns,Carlton,14.0,14.0,0.0,1.0,0.0,3.0,0.0,1.0,Midfielder
+10,Jesse Motlop,Carlton,7.0,4.0,3.0,0.57,0.43,0.0,0.0,4.0,Gen. Forward
+10,Jordan Boyd,Carlton,,,,,,,,,Gen. Defender
+10,Lewis Young,Carlton,9.0,4.0,5.0,0.44,0.56,1.0,0.0,2.0,Key Defender
+10,Marc Pittonet,Carlton,12.0,9.0,3.0,0.75,0.25,3.0,0.0,7.0,Ruck
+10,Matthew Carroll,Carlton,8.0,6.0,2.0,0.75,0.25,2.0,0.0,3.0,Gen. Defender
+10,Mitch McGovern,Carlton,20.0,14.0,6.0,0.7,0.3,3.0,0.0,1.0,Gen. Defender
+10,Nick Haynes,Carlton,18.0,11.0,7.0,0.61,0.39,6.0,0.0,1.0,Gen. Defender
+10,Oliver Hollands,Carlton,19.0,14.0,5.0,0.74,0.26,5.0,0.0,2.0,Gen. Defender
+10,Patrick Cripps,Carlton,26.0,12.0,14.0,0.46,0.54,1.0,2.0,7.0,Midfielder
+10,Sam Walsh,Carlton,19.0,8.0,11.0,0.42,0.58,2.0,1.0,7.0,Midfielder
+10,Will White,Carlton,6.0,3.0,3.0,0.5,0.5,0.0,0.0,1.0,Gen. Forward
+11,Adam Cerra,Carlton,23.0,14.0,9.0,0.61,0.39,5.0,1.0,6.0,Midfielder
+11,Adam Saad,Carlton,20.0,12.0,8.0,0.6,0.4,2.0,0.0,2.0,Gen. Defender
+11,Blake Acres,Carlton,9.0,5.0,4.0,0.56,0.44,2.0,0.0,4.0,Midfielder
+11,Charlie Curnow,Carlton,12.0,9.0,3.0,0.75,0.25,5.0,3.0,0.0,Key Forward
+11,Cooper Lord,Carlton,21.0,11.0,10.0,0.52,0.48,5.0,1.0,4.0,Midfielder
+11,Corey Durdin,Carlton,6.0,3.0,3.0,0.5,0.5,0.0,0.0,2.0,Gen. Forward
+11,George Hewett,Carlton,17.0,4.0,13.0,0.24,0.76,2.0,0.0,1.0,Midfielder
+11,Harry McKay,Carlton,18.0,9.0,9.0,0.5,0.5,5.0,0.0,1.0,Key Forward
+11,Harry O'Farrell,Carlton,9.0,5.0,4.0,0.56,0.44,3.0,0.0,1.0,Key Defender
+11,Jacob Weitering,Carlton,14.0,11.0,3.0,0.79,0.21,5.0,0.0,1.0,Key Defender
+11,Jaxon Binns,Carlton,,,,,,,,,Midfielder
+11,Jesse Motlop,Carlton,9.0,6.0,3.0,0.67,0.33,1.0,1.0,6.0,Gen. Forward
+11,Lachie Fogarty,Carlton,13.0,8.0,5.0,0.62,0.38,5.0,2.0,3.0,Gen. Forward
+11,Lewis Young,Carlton,7.0,4.0,3.0,0.57,0.43,3.0,0.0,0.0,Key Defender
+11,Matthew Carroll,Carlton,12.0,7.0,5.0,0.58,0.42,2.0,0.0,0.0,Gen. Defender
+11,Mitch McGovern,Carlton,15.0,11.0,4.0,0.73,0.27,3.0,0.0,0.0,Gen. Defender
+11,Nick Haynes,Carlton,20.0,14.0,6.0,0.7,0.3,8.0,0.0,1.0,Gen. Defender
+11,Oliver Hollands,Carlton,17.0,9.0,8.0,0.53,0.47,3.0,1.0,6.0,Gen. Defender
+11,Patrick Cripps,Carlton,25.0,8.0,17.0,0.32,0.68,3.0,1.0,7.0,Midfielder
+11,Sam Docherty,Carlton,30.0,20.0,10.0,0.67,0.33,5.0,1.0,2.0,Midfielder
+11,Sam Walsh,Carlton,26.0,13.0,13.0,0.5,0.5,4.0,0.0,3.0,Midfielder
+11,Tom De Koning,Carlton,17.0,5.0,12.0,0.29,0.71,1.0,0.0,3.0,Ruck
+11,Will White,Carlton,13.0,11.0,2.0,0.85,0.15,4.0,1.0,0.0,Gen. Forward
+13,Adam Cerra,Carlton,24.0,14.0,10.0,0.58,0.42,5.0,0.0,7.0,Midfielder
+13,Adam Saad,Carlton,16.0,13.0,3.0,0.81,0.19,1.0,1.0,4.0,Gen. Defender
+13,Alex Cincotta,Carlton,3.0,0.0,3.0,0.0,1.0,2.0,0.0,3.0,Gen. Forward
+13,Blake Acres,Carlton,29.0,17.0,12.0,0.59,0.41,8.0,1.0,1.0,Midfielder
+13,Charlie Curnow,Carlton,13.0,11.0,2.0,0.85,0.15,7.0,2.0,3.0,Key Forward
+13,Cooper Lord,Carlton,21.0,13.0,8.0,0.62,0.38,4.0,0.0,4.0,Midfielder
+13,George Hewett,Carlton,29.0,14.0,15.0,0.48,0.52,5.0,0.0,9.0,Midfielder
+13,Hudson O'Keeffe,Carlton,7.0,5.0,2.0,0.71,0.29,5.0,0.0,4.0,Key Forward
+13,Jack Silvagni,Carlton,17.0,10.0,7.0,0.59,0.41,6.0,0.0,0.0,Key Defender
+13,Jacob Weitering,Carlton,8.0,8.0,0.0,1.0,0.0,5.0,0.0,1.0,Key Defender
+13,Jesse Motlop,Carlton,12.0,9.0,3.0,0.75,0.25,8.0,2.0,5.0,Gen. Forward
+13,Lachie Fogarty,Carlton,10.0,3.0,7.0,0.3,0.7,2.0,0.0,3.0,Gen. Forward
+13,Matthew Carroll,Carlton,11.0,9.0,2.0,0.82,0.18,5.0,0.0,2.0,Gen. Defender
+13,Mitch McGovern,Carlton,11.0,8.0,3.0,0.73,0.27,5.0,1.0,3.0,Gen. Defender
+13,Nick Haynes,Carlton,17.0,16.0,1.0,0.94,0.06,11.0,0.0,3.0,Gen. Defender
+13,Oliver Hollands,Carlton,23.0,16.0,7.0,0.7,0.3,10.0,0.0,4.0,Gen. Defender
+13,Orazio Fantasia,Carlton,5.0,2.0,3.0,0.4,0.6,0.0,1.0,4.0,Gen. Forward
+13,Patrick Cripps,Carlton,15.0,8.0,7.0,0.53,0.47,0.0,0.0,6.0,Midfielder
+13,Sam Docherty,Carlton,26.0,21.0,5.0,0.81,0.19,13.0,0.0,0.0,Midfielder
+13,Sam Walsh,Carlton,32.0,14.0,18.0,0.44,0.56,5.0,0.0,3.0,Midfielder
+13,Tom De Koning,Carlton,23.0,12.0,11.0,0.52,0.48,5.0,1.0,3.0,Ruck
+13,Will White,Carlton,,,,,,,,,Gen. Forward
+13,Zac Williams,Carlton,15.0,13.0,2.0,0.87,0.13,3.0,2.0,1.0,Gen. Forward
+14,Adam Cerra,Carlton,30.0,16.0,14.0,0.53,0.47,9.0,0.0,5.0,Midfielder
+14,Adam Saad,Carlton,25.0,18.0,7.0,0.72,0.28,6.0,0.0,3.0,Gen. Defender
+14,Alex Cincotta,Carlton,14.0,6.0,8.0,0.43,0.57,1.0,1.0,5.0,Gen. Forward
+14,Blake Acres,Carlton,19.0,11.0,8.0,0.58,0.42,5.0,0.0,1.0,Midfielder
+14,Charlie Curnow,Carlton,,,,,,,,,Key Forward
+14,Cooper Lord,Carlton,14.0,5.0,9.0,0.36,0.64,2.0,0.0,8.0,Midfielder
+14,Corey Durdin,Carlton,,,,,,,,,Gen. Forward
+14,George Hewett,Carlton,35.0,8.0,27.0,0.23,0.77,4.0,0.0,4.0,Midfielder
+14,Hudson O'Keeffe,Carlton,,,,,,,,,Key Forward
+14,Jack Silvagni,Carlton,14.0,13.0,1.0,0.93,0.07,6.0,0.0,0.0,Key Defender
+14,Jacob Weitering,Carlton,23.0,20.0,3.0,0.87,0.13,14.0,0.0,0.0,Key Defender
+14,Jaxon Binns,Carlton,26.0,21.0,5.0,0.81,0.19,4.0,0.0,2.0,Midfielder
+14,Jesse Motlop,Carlton,7.0,5.0,2.0,0.71,0.29,2.0,0.0,5.0,Gen. Forward
+14,Lachie Fogarty,Carlton,17.0,8.0,9.0,0.47,0.53,4.0,3.0,4.0,Gen. Forward
+14,Matthew Carroll,Carlton,16.0,11.0,5.0,0.69,0.31,2.0,0.0,4.0,Gen. Defender
+14,Mitch McGovern,Carlton,13.0,9.0,4.0,0.69,0.31,6.0,3.0,2.0,Gen. Defender
+14,Nick Haynes,Carlton,19.0,16.0,3.0,0.84,0.16,11.0,0.0,2.0,Gen. Defender
+14,Oliver Hollands,Carlton,24.0,14.0,10.0,0.58,0.42,3.0,0.0,1.0,Gen. Defender
+14,Orazio Fantasia,Carlton,14.0,11.0,3.0,0.79,0.21,7.0,0.0,3.0,Gen. Forward
+14,Patrick Cripps,Carlton,21.0,8.0,13.0,0.38,0.62,1.0,0.0,4.0,Midfielder
+14,Sam Docherty,Carlton,20.0,14.0,6.0,0.7,0.3,4.0,0.0,2.0,Midfielder
+14,Tom De Koning,Carlton,21.0,12.0,9.0,0.57,0.43,4.0,1.0,2.0,Ruck
+14,Zac Williams,Carlton,9.0,7.0,2.0,0.78,0.22,5.0,2.0,0.0,Gen. Forward
+15,Adam Cerra,Carlton,25.0,16.0,9.0,0.64,0.36,5.0,0.0,8.0,Midfielder
+15,Adam Saad,Carlton,18.0,10.0,8.0,0.56,0.44,2.0,0.0,4.0,Gen. Defender
+15,Alex Cincotta,Carlton,7.0,0.0,7.0,0.0,1.0,1.0,0.0,4.0,Gen. Forward
+15,Blake Acres,Carlton,21.0,13.0,8.0,0.62,0.38,7.0,1.0,3.0,Midfielder
+15,Charlie Curnow,Carlton,9.0,7.0,2.0,0.78,0.22,3.0,0.0,0.0,Key Forward
+15,Cooper Lord,Carlton,,,,,,,,,Midfielder
+15,Corey Durdin,Carlton,7.0,6.0,1.0,0.86,0.14,3.0,0.0,0.0,Gen. Forward
+15,George Hewett,Carlton,31.0,7.0,24.0,0.23,0.77,2.0,0.0,8.0,Midfielder
+15,Jack Silvagni,Carlton,13.0,10.0,3.0,0.77,0.23,3.0,0.0,3.0,Key Defender
+15,Jacob Weitering,Carlton,20.0,15.0,5.0,0.75,0.25,10.0,0.0,3.0,Key Defender
+15,Jaxon Binns,Carlton,17.0,14.0,3.0,0.82,0.18,7.0,0.0,1.0,Midfielder
+15,Jesse Motlop,Carlton,,,,,,,,,Gen. Forward
+15,Lachie Fogarty,Carlton,18.0,9.0,9.0,0.5,0.5,6.0,1.0,7.0,Gen. Forward
+15,Marc Pittonet,Carlton,14.0,7.0,7.0,0.5,0.5,1.0,0.0,2.0,Ruck
+15,Matthew Carroll,Carlton,14.0,8.0,6.0,0.57,0.43,5.0,0.0,1.0,Gen. Defender
+15,Mitch McGovern,Carlton,16.0,13.0,3.0,0.81,0.19,7.0,4.0,3.0,Gen. Defender
+15,Nick Haynes,Carlton,17.0,14.0,3.0,0.82,0.18,11.0,0.0,3.0,Gen. Defender
+15,Oliver Hollands,Carlton,20.0,11.0,9.0,0.55,0.45,5.0,0.0,3.0,Gen. Defender
+15,Orazio Fantasia,Carlton,14.0,8.0,6.0,0.57,0.43,2.0,2.0,1.0,Gen. Forward
+15,Patrick Cripps,Carlton,24.0,9.0,15.0,0.38,0.62,2.0,0.0,7.0,Midfielder
+15,Sam Docherty,Carlton,29.0,17.0,12.0,0.59,0.41,16.0,0.0,2.0,Midfielder
+15,Tom De Koning,Carlton,14.0,7.0,7.0,0.5,0.5,5.0,0.0,3.0,Ruck
+15,Zac Williams,Carlton,18.0,11.0,7.0,0.61,0.39,7.0,1.0,6.0,Gen. Forward
+16,Adam Cerra,Carlton,17.0,7.0,10.0,0.41,0.59,0.0,0.0,5.0,Midfielder
+16,Adam Saad,Carlton,,,,,,,,,Gen. Defender
+16,Alex Cincotta,Carlton,8.0,7.0,1.0,0.88,0.12,2.0,0.0,2.0,Gen. Forward
+16,Billy Wilson,Carlton,7.0,5.0,2.0,0.71,0.29,0.0,0.0,2.0,Gen. Defender
+16,Blake Acres,Carlton,11.0,6.0,5.0,0.55,0.45,0.0,0.0,4.0,Midfielder
+16,Charlie Curnow,Carlton,12.0,11.0,1.0,0.92,0.08,6.0,0.0,5.0,Key Forward
+16,Cooper Lord,Carlton,16.0,9.0,7.0,0.56,0.44,3.0,0.0,3.0,Midfielder
+16,Flynn Young,Carlton,,,,,,,,,Gen. Forward
+16,George Hewett,Carlton,21.0,6.0,15.0,0.29,0.71,3.0,0.0,9.0,Midfielder
+16,Jack Silvagni,Carlton,10.0,7.0,3.0,0.7,0.3,2.0,0.0,1.0,Key Defender
+16,Jacob Weitering,Carlton,11.0,9.0,2.0,0.82,0.18,6.0,0.0,1.0,Key Defender
+16,Jesse Motlop,Carlton,10.0,4.0,6.0,0.4,0.6,0.0,1.0,7.0,Gen. Forward
+16,Jordan Boyd,Carlton,11.0,9.0,2.0,0.82,0.18,1.0,0.0,0.0,Gen. Defender
+16,Lachie Fogarty,Carlton,16.0,10.0,6.0,0.62,0.38,3.0,0.0,3.0,Gen. Forward
+16,Lewis Young,Carlton,5.0,4.0,1.0,0.8,0.2,4.0,1.0,1.0,Key Defender
+16,Mitch McGovern,Carlton,8.0,7.0,1.0,0.88,0.12,3.0,0.0,0.0,Gen. Defender
+16,Nick Haynes,Carlton,18.0,12.0,6.0,0.67,0.33,8.0,0.0,2.0,Gen. Defender
+16,Oliver Hollands,Carlton,18.0,8.0,10.0,0.44,0.56,2.0,1.0,4.0,Gen. Defender
+16,Orazio Fantasia,Carlton,13.0,7.0,6.0,0.54,0.46,4.0,2.0,0.0,Gen. Forward
+16,Patrick Cripps,Carlton,17.0,7.0,10.0,0.41,0.59,0.0,1.0,4.0,Midfielder
+16,Sam Docherty,Carlton,19.0,13.0,6.0,0.68,0.32,9.0,1.0,3.0,Midfielder
+16,Tom De Koning,Carlton,18.0,9.0,9.0,0.5,0.5,1.0,0.0,1.0,Ruck
+16,Zac Williams,Carlton,18.0,9.0,9.0,0.5,0.5,1.0,1.0,0.0,Gen. Forward
+17,Adam Cerra,Carlton,28.0,15.0,13.0,0.54,0.46,4.0,0.0,3.0,Midfielder
+17,Ashton Moir,Carlton,9.0,6.0,3.0,0.67,0.33,5.0,1.0,1.0,Gen. Forward
+17,Blake Acres,Carlton,20.0,11.0,9.0,0.55,0.45,7.0,0.0,3.0,Midfielder
+17,Charlie Curnow,Carlton,18.0,11.0,7.0,0.61,0.39,9.0,0.0,0.0,Key Forward
+17,Cooper Lord,Carlton,18.0,9.0,9.0,0.5,0.5,2.0,0.0,2.0,Midfielder
+17,Flynn Young,Carlton,,,,,,,,,Gen. Forward
+17,Francis Evans,Carlton,12.0,7.0,5.0,0.58,0.42,7.0,0.0,0.0,Gen. Forward
+17,George Hewett,Carlton,18.0,3.0,15.0,0.17,0.83,1.0,0.0,7.0,Midfielder
+17,Harry O'Farrell,Carlton,8.0,5.0,3.0,0.62,0.38,3.0,0.0,2.0,Key Defender
+17,Jacob Weitering,Carlton,14.0,10.0,4.0,0.71,0.29,7.0,0.0,0.0,Key Defender
+17,Jesse Motlop,Carlton,8.0,7.0,1.0,0.88,0.12,2.0,2.0,2.0,Gen. Forward
+17,Lachie Fogarty,Carlton,7.0,3.0,4.0,0.43,0.57,2.0,0.0,3.0,Gen. Forward
+17,Lachlan Cowan,Carlton,20.0,17.0,3.0,0.85,0.15,8.0,0.0,2.0,Gen. Defender
+17,Marc Pittonet,Carlton,17.0,4.0,13.0,0.24,0.76,3.0,0.0,4.0,Ruck
+17,Matthew Carroll,Carlton,11.0,10.0,1.0,0.91,0.09,2.0,0.0,1.0,Gen. Defender
+17,Mitch McGovern,Carlton,15.0,14.0,1.0,0.93,0.07,0.0,1.0,2.0,Gen. Defender
+17,Nick Haynes,Carlton,12.0,8.0,4.0,0.67,0.33,6.0,0.0,0.0,Gen. Defender
+17,Oliver Hollands,Carlton,24.0,10.0,14.0,0.42,0.58,4.0,0.0,6.0,Gen. Defender
+17,Orazio Fantasia,Carlton,8.0,5.0,3.0,0.62,0.38,4.0,1.0,1.0,Gen. Forward
+17,Patrick Cripps,Carlton,25.0,12.0,13.0,0.48,0.52,1.0,0.0,3.0,Midfielder
+17,Sam Docherty,Carlton,22.0,10.0,12.0,0.45,0.55,6.0,0.0,3.0,Midfielder
+17,Tom De Koning,Carlton,11.0,5.0,6.0,0.45,0.55,3.0,0.0,0.0,Ruck
+17,Zac Williams,Carlton,19.0,15.0,4.0,0.79,0.21,2.0,3.0,1.0,Gen. Forward
+18,Adam Cerra,Carlton,25.0,14.0,11.0,0.56,0.44,2.0,0.0,5.0,Midfielder
+18,Alex Cincotta,Carlton,7.0,3.0,4.0,0.43,0.57,1.0,0.0,6.0,Gen. Forward
+18,Ashton Moir,Carlton,9.0,6.0,3.0,0.67,0.33,5.0,0.0,2.0,Gen. Forward
+18,Charlie Curnow,Carlton,14.0,10.0,4.0,0.71,0.29,6.0,0.0,1.0,Key Forward
+18,Cooper Lord,Carlton,,,,,,,,,Midfielder
+18,Corey Durdin,Carlton,9.0,3.0,6.0,0.33,0.67,2.0,1.0,2.0,Gen. Forward
+18,Flynn Young,Carlton,10.0,6.0,4.0,0.6,0.4,2.0,0.0,1.0,Gen. Forward
+18,George Hewett,Carlton,33.0,13.0,20.0,0.39,0.61,5.0,1.0,3.0,Midfielder
+18,Harry O'Farrell,Carlton,11.0,7.0,4.0,0.64,0.36,4.0,0.0,2.0,Key Defender
+18,Jacob Weitering,Carlton,9.0,5.0,4.0,0.56,0.44,4.0,0.0,1.0,Key Defender
+18,Jesse Motlop,Carlton,17.0,12.0,5.0,0.71,0.29,6.0,0.0,4.0,Gen. Forward
+18,Lachie Fogarty,Carlton,7.0,2.0,5.0,0.29,0.71,2.0,0.0,3.0,Gen. Forward
+18,Lachlan Cowan,Carlton,22.0,17.0,5.0,0.77,0.23,5.0,0.0,1.0,Gen. Defender
+18,Marc Pittonet,Carlton,7.0,3.0,4.0,0.43,0.57,1.0,2.0,2.0,Ruck
+18,Matthew Carroll,Carlton,14.0,4.0,10.0,0.29,0.71,1.0,0.0,2.0,Gen. Defender
+18,Mitch McGovern,Carlton,12.0,8.0,4.0,0.67,0.33,2.0,1.0,0.0,Gen. Defender
+18,Nick Haynes,Carlton,23.0,13.0,10.0,0.57,0.43,6.0,0.0,2.0,Gen. Defender
+18,Oliver Hollands,Carlton,21.0,13.0,8.0,0.62,0.38,5.0,0.0,0.0,Gen. Defender
+18,Orazio Fantasia,Carlton,,,,,,,,,Gen. Forward
+18,Patrick Cripps,Carlton,26.0,10.0,16.0,0.38,0.62,2.0,1.0,6.0,Midfielder
+18,Sam Docherty,Carlton,21.0,13.0,8.0,0.62,0.38,2.0,0.0,2.0,Midfielder
+18,Tom De Koning,Carlton,14.0,8.0,6.0,0.57,0.43,3.0,1.0,4.0,Ruck
+18,Zac Williams,Carlton,14.0,8.0,6.0,0.57,0.43,2.0,1.0,3.0,Gen. Forward
+19,Adam Cerra,Carlton,20.0,11.0,9.0,0.55,0.45,3.0,1.0,2.0,Midfielder
+19,Adam Saad,Carlton,17.0,11.0,6.0,0.65,0.35,1.0,0.0,1.0,Gen. Defender
+19,Ashton Moir,Carlton,11.0,9.0,2.0,0.82,0.18,4.0,4.0,0.0,Gen. Forward
+19,Charlie Curnow,Carlton,15.0,15.0,0.0,1.0,0.0,8.0,3.0,1.0,Key Forward
+19,Cooper Lord,Carlton,16.0,12.0,4.0,0.75,0.25,6.0,0.0,4.0,Midfielder
+19,Corey Durdin,Carlton,,,,,,,,,Gen. Forward
+19,Flynn Young,Carlton,8.0,8.0,0.0,1.0,0.0,3.0,1.0,4.0,Gen. Forward
+19,Francis Evans,Carlton,,,,,,,,,Gen. Forward
+19,George Hewett,Carlton,19.0,9.0,10.0,0.47,0.53,2.0,0.0,0.0,Midfielder
+19,Harry O'Farrell,Carlton,10.0,9.0,1.0,0.9,0.1,4.0,0.0,1.0,Key Defender
+19,Jacob Weitering,Carlton,11.0,10.0,1.0,0.91,0.09,8.0,0.0,2.0,Key Defender
+19,Jesse Motlop,Carlton,10.0,5.0,5.0,0.5,0.5,3.0,0.0,1.0,Gen. Forward
+19,Lachie Fogarty,Carlton,11.0,8.0,3.0,0.73,0.27,1.0,0.0,3.0,Gen. Forward
+19,Lachlan Cowan,Carlton,16.0,12.0,4.0,0.75,0.25,6.0,0.0,2.0,Gen. Defender
+19,Marc Pittonet,Carlton,8.0,2.0,6.0,0.25,0.75,0.0,0.0,4.0,Ruck
+19,Matthew Carroll,Carlton,15.0,15.0,0.0,1.0,0.0,5.0,1.0,2.0,Gen. Defender
+19,Nick Haynes,Carlton,13.0,8.0,5.0,0.62,0.38,3.0,0.0,2.0,Gen. Defender
+19,Oliver Hollands,Carlton,14.0,9.0,5.0,0.64,0.36,5.0,0.0,3.0,Gen. Defender
+19,Patrick Cripps,Carlton,29.0,17.0,12.0,0.59,0.41,2.0,0.0,5.0,Midfielder
+19,Sam Docherty,Carlton,18.0,8.0,10.0,0.44,0.56,4.0,1.0,3.0,Midfielder
+19,Tom De Koning,Carlton,12.0,6.0,6.0,0.5,0.5,4.0,0.0,0.0,Ruck
+19,Will White,Carlton,5.0,4.0,1.0,0.8,0.2,2.0,0.0,1.0,Gen. Forward
+19,Zac Williams,Carlton,16.0,9.0,7.0,0.56,0.44,1.0,0.0,3.0,Gen. Forward
+20,Adam Cerra,Carlton,19.0,13.0,6.0,0.68,0.32,5.0,1.0,3.0,Midfielder
+20,Adam Saad,Carlton,18.0,14.0,4.0,0.78,0.22,4.0,0.0,5.0,Gen. Defender
+20,Ashton Moir,Carlton,8.0,5.0,3.0,0.62,0.38,1.0,0.0,1.0,Gen. Forward
+20,Blake Acres,Carlton,21.0,13.0,8.0,0.62,0.38,7.0,0.0,1.0,Midfielder
+20,Charlie Curnow,Carlton,10.0,9.0,1.0,0.9,0.1,4.0,2.0,2.0,Key Forward
+20,Cooper Lord,Carlton,,,,,,,,,Midfielder
+20,Corey Durdin,Carlton,9.0,7.0,2.0,0.78,0.22,2.0,1.0,2.0,Gen. Forward
+20,George Hewett,Carlton,25.0,15.0,10.0,0.6,0.4,6.0,0.0,8.0,Midfielder
+20,Harry McKay,Carlton,11.0,8.0,3.0,0.73,0.27,4.0,1.0,1.0,Key Forward
+20,Harry O'Farrell,Carlton,19.0,14.0,5.0,0.74,0.26,13.0,0.0,3.0,Key Defender
+20,Jacob Weitering,Carlton,12.0,9.0,3.0,0.75,0.25,4.0,0.0,0.0,Key Defender
+20,Jesse Motlop,Carlton,10.0,3.0,7.0,0.3,0.7,2.0,1.0,0.0,Gen. Forward
+20,Lachie Fogarty,Carlton,10.0,3.0,7.0,0.3,0.7,4.0,0.0,2.0,Gen. Forward
+20,Lachlan Cowan,Carlton,12.0,8.0,4.0,0.67,0.33,4.0,0.0,4.0,Gen. Defender
+20,Marc Pittonet,Carlton,,,,,,,,,Ruck
+20,Matthew Carroll,Carlton,9.0,6.0,3.0,0.67,0.33,2.0,0.0,2.0,Gen. Defender
+20,Nick Haynes,Carlton,19.0,12.0,7.0,0.63,0.37,7.0,0.0,2.0,Gen. Defender
+20,Oliver Hollands,Carlton,20.0,14.0,6.0,0.7,0.3,7.0,0.0,3.0,Gen. Defender
+20,Patrick Cripps,Carlton,18.0,4.0,14.0,0.22,0.78,2.0,0.0,6.0,Midfielder
+20,Sam Docherty,Carlton,16.0,13.0,3.0,0.81,0.19,3.0,1.0,3.0,Midfielder
+20,Tom De Koning,Carlton,15.0,8.0,7.0,0.53,0.47,3.0,0.0,1.0,Ruck
+20,Will White,Carlton,12.0,8.0,4.0,0.67,0.33,5.0,2.0,5.0,Gen. Forward
+20,Zac Williams,Carlton,18.0,13.0,5.0,0.72,0.28,3.0,0.0,1.0,Gen. Forward
+21,Adam Saad,Carlton,16.0,10.0,6.0,0.62,0.38,1.0,0.0,6.0,Gen. Defender
+21,Ashton Moir,Carlton,11.0,6.0,5.0,0.55,0.45,3.0,1.0,3.0,Gen. Forward
+21,Blake Acres,Carlton,16.0,10.0,6.0,0.62,0.38,3.0,1.0,2.0,Midfielder
+21,Cooper Lord,Carlton,22.0,6.0,16.0,0.27,0.73,3.0,0.0,8.0,Midfielder
+21,Corey Durdin,Carlton,,,,,,,,,Gen. Forward
+21,Flynn Young,Carlton,12.0,5.0,7.0,0.42,0.58,1.0,0.0,4.0,Gen. Forward
+21,Francis Evans,Carlton,12.0,7.0,5.0,0.58,0.42,3.0,2.0,5.0,Gen. Forward
+21,George Hewett,Carlton,36.0,21.0,15.0,0.58,0.42,1.0,0.0,6.0,Midfielder
+21,Harry McKay,Carlton,12.0,9.0,3.0,0.75,0.25,4.0,1.0,10.0,Key Forward
+21,Harry O'Farrell,Carlton,,,,,,,,,Key Defender
+21,Jacob Weitering,Carlton,13.0,7.0,6.0,0.54,0.46,4.0,0.0,0.0,Key Defender
+21,Jesse Motlop,Carlton,7.0,5.0,2.0,0.71,0.29,2.0,1.0,5.0,Gen. Forward
+21,Lachie Fogarty,Carlton,17.0,6.0,11.0,0.35,0.65,0.0,1.0,4.0,Gen. Forward
+21,Lachlan Cowan,Carlton,16.0,12.0,4.0,0.75,0.25,6.0,0.0,4.0,Gen. Defender
+21,Lewis Young,Carlton,16.0,7.0,9.0,0.44,0.56,5.0,0.0,1.0,Key Defender
+21,Marc Pittonet,Carlton,15.0,3.0,12.0,0.2,0.8,2.0,0.0,4.0,Ruck
+21,Matthew Carroll,Carlton,8.0,8.0,0.0,1.0,0.0,4.0,0.0,1.0,Gen. Defender
+21,Nick Haynes,Carlton,23.0,14.0,9.0,0.61,0.39,7.0,0.0,2.0,Gen. Defender
+21,Oliver Hollands,Carlton,19.0,9.0,10.0,0.47,0.53,1.0,0.0,3.0,Gen. Defender
+21,Patrick Cripps,Carlton,36.0,18.0,18.0,0.5,0.5,3.0,0.0,9.0,Midfielder
+21,Tom De Koning,Carlton,18.0,8.0,10.0,0.44,0.56,4.0,0.0,3.0,Ruck
+21,Will White,Carlton,8.0,2.0,6.0,0.25,0.75,1.0,0.0,5.0,Gen. Forward
+21,Zac Williams,Carlton,18.0,14.0,4.0,0.78,0.22,4.0,1.0,2.0,Gen. Forward
+22,Adam Saad,Carlton,22.0,15.0,7.0,0.68,0.32,2.0,0.0,3.0,Gen. Defender
+22,Ashton Moir,Carlton,9.0,3.0,6.0,0.33,0.67,3.0,1.0,1.0,Gen. Forward
+22,Billy Wilson,Carlton,9.0,4.0,5.0,0.44,0.56,1.0,0.0,3.0,Gen. Defender
+22,Blake Acres,Carlton,15.0,10.0,5.0,0.67,0.33,3.0,0.0,7.0,Midfielder
+22,Cooper Lord,Carlton,24.0,13.0,11.0,0.54,0.46,1.0,0.0,12.0,Midfielder
+22,Corey Durdin,Carlton,,,,,,,,,Gen. Forward
+22,Flynn Young,Carlton,9.0,6.0,3.0,0.67,0.33,3.0,0.0,0.0,Gen. Forward
+22,Francis Evans,Carlton,16.0,12.0,4.0,0.75,0.25,5.0,4.0,2.0,Gen. Forward
+22,George Hewett,Carlton,23.0,5.0,18.0,0.22,0.78,2.0,0.0,6.0,Midfielder
+22,Harry McKay,Carlton,13.0,7.0,6.0,0.54,0.46,6.0,3.0,3.0,Key Forward
+22,Hudson O'Keeffe,Carlton,4.0,3.0,1.0,0.75,0.25,1.0,1.0,0.0,Key Forward
+22,Jacob Weitering,Carlton,7.0,5.0,2.0,0.71,0.29,1.0,0.0,2.0,Key Defender
+22,Jesse Motlop,Carlton,12.0,9.0,3.0,0.75,0.25,1.0,1.0,3.0,Gen. Forward
+22,Lachie Fogarty,Carlton,10.0,5.0,5.0,0.5,0.5,3.0,1.0,4.0,Gen. Forward
+22,Lachlan Cowan,Carlton,22.0,14.0,8.0,0.64,0.36,5.0,0.0,3.0,Gen. Defender
+22,Lewis Young,Carlton,8.0,5.0,3.0,0.62,0.38,5.0,0.0,1.0,Key Defender
+22,Matthew Carroll,Carlton,12.0,8.0,4.0,0.67,0.33,2.0,0.0,0.0,Gen. Defender
+22,Nick Haynes,Carlton,14.0,10.0,4.0,0.71,0.29,3.0,0.0,3.0,Gen. Defender
+22,Oliver Hollands,Carlton,29.0,16.0,13.0,0.55,0.45,5.0,0.0,4.0,Gen. Defender
+22,Patrick Cripps,Carlton,27.0,3.0,24.0,0.11,0.89,4.0,0.0,8.0,Midfielder
+22,Tom De Koning,Carlton,15.0,8.0,7.0,0.53,0.47,3.0,0.0,2.0,Ruck
+22,Will White,Carlton,,,,,,,,,Gen. Forward
+22,Zac Williams,Carlton,17.0,10.0,7.0,0.59,0.41,1.0,0.0,3.0,Gen. Forward
+23,Adam Saad,Carlton,9.0,5.0,4.0,0.56,0.44,1.0,0.0,0.0,Gen. Defender
+23,Ashton Moir,Carlton,8.0,5.0,3.0,0.62,0.38,3.0,1.0,2.0,Gen. Forward
+23,Billy Wilson,Carlton,13.0,8.0,5.0,0.62,0.38,3.0,0.0,1.0,Gen. Defender
+23,Blake Acres,Carlton,23.0,14.0,9.0,0.61,0.39,5.0,0.0,2.0,Midfielder
+23,Cooper Lord,Carlton,,,,,,,,,Midfielder
+23,Corey Durdin,Carlton,,,,,,,,,Gen. Forward
+23,Flynn Young,Carlton,15.0,10.0,5.0,0.67,0.33,3.0,2.0,3.0,Gen. Forward
+23,Francis Evans,Carlton,15.0,7.0,8.0,0.47,0.53,3.0,2.0,5.0,Gen. Forward
+23,George Hewett,Carlton,35.0,17.0,18.0,0.49,0.51,3.0,0.0,4.0,Midfielder
+23,Harry McKay,Carlton,21.0,11.0,10.0,0.52,0.48,6.0,7.0,2.0,Key Forward
+23,Hudson O'Keeffe,Carlton,10.0,6.0,4.0,0.6,0.4,4.0,1.0,1.0,Key Forward
+23,Jacob Weitering,Carlton,13.0,11.0,2.0,0.85,0.15,7.0,0.0,0.0,Key Defender
+23,Jesse Motlop,Carlton,8.0,5.0,3.0,0.62,0.38,2.0,0.0,4.0,Gen. Forward
+23,Lachie Fogarty,Carlton,14.0,8.0,6.0,0.57,0.43,2.0,0.0,2.0,Gen. Forward
+23,Lachlan Cowan,Carlton,20.0,14.0,6.0,0.7,0.3,10.0,0.0,2.0,Gen. Defender
+23,Lewis Young,Carlton,13.0,9.0,4.0,0.69,0.31,7.0,0.0,0.0,Key Defender
+23,Matthew Carroll,Carlton,12.0,9.0,3.0,0.75,0.25,6.0,0.0,2.0,Gen. Defender
+23,Nick Haynes,Carlton,23.0,17.0,6.0,0.74,0.26,6.0,0.0,1.0,Gen. Defender
+23,Oliver Hollands,Carlton,20.0,12.0,8.0,0.6,0.4,6.0,0.0,1.0,Gen. Defender
+23,Patrick Cripps,Carlton,22.0,10.0,12.0,0.45,0.55,2.0,2.0,4.0,Midfielder
+23,Sam Walsh,Carlton,28.0,11.0,17.0,0.39,0.61,4.0,0.0,0.0,Midfielder
+23,Tom De Koning,Carlton,11.0,8.0,3.0,0.73,0.27,4.0,1.0,2.0,Ruck
+23,Zac Williams,Carlton,20.0,12.0,8.0,0.6,0.4,3.0,2.0,1.0,Gen. Forward
+24,Adam Saad,Carlton,16.0,14.0,2.0,0.88,0.12,7.0,0.0,2.0,Gen. Defender
+24,Ashton Moir,Carlton,8.0,6.0,2.0,0.75,0.25,2.0,2.0,0.0,Gen. Forward
+24,Billy Wilson,Carlton,19.0,12.0,7.0,0.63,0.37,9.0,0.0,2.0,Gen. Defender
+24,Blake Acres,Carlton,29.0,15.0,14.0,0.52,0.48,8.0,0.0,0.0,Midfielder
+24,Corey Durdin,Carlton,15.0,7.0,8.0,0.47,0.53,7.0,0.0,2.0,Gen. Forward
+24,Flynn Young,Carlton,19.0,11.0,8.0,0.58,0.42,8.0,2.0,1.0,Gen. Forward
+24,Francis Evans,Carlton,19.0,11.0,8.0,0.58,0.42,5.0,3.0,5.0,Gen. Forward
+24,George Hewett,Carlton,36.0,12.0,24.0,0.33,0.67,2.0,1.0,2.0,Midfielder
+24,Harry McKay,Carlton,17.0,14.0,3.0,0.82,0.18,11.0,1.0,2.0,Key Forward
+24,Hudson O'Keeffe,Carlton,7.0,2.0,5.0,0.29,0.71,1.0,1.0,1.0,Key Forward
+24,Jacob Weitering,Carlton,13.0,10.0,3.0,0.77,0.23,9.0,0.0,1.0,Key Defender
+24,Jesse Motlop,Carlton,22.0,12.0,10.0,0.55,0.45,3.0,1.0,2.0,Gen. Forward
+24,Lachlan Cowan,Carlton,22.0,15.0,7.0,0.68,0.32,7.0,0.0,2.0,Gen. Defender
+24,Lewis Young,Carlton,6.0,3.0,3.0,0.5,0.5,0.0,0.0,1.0,Key Defender
+24,Lucas Camporeale,Carlton,,,,,,,,,Midfielder
+24,Matthew Carroll,Carlton,15.0,13.0,2.0,0.87,0.13,7.0,0.0,0.0,Gen. Defender
+24,Nick Haynes,Carlton,15.0,10.0,5.0,0.67,0.33,8.0,0.0,1.0,Gen. Defender
+24,Oliver Hollands,Carlton,21.0,10.0,11.0,0.48,0.52,2.0,0.0,3.0,Gen. Defender
+24,Patrick Cripps,Carlton,28.0,8.0,20.0,0.29,0.71,3.0,0.0,5.0,Midfielder
+24,Sam Walsh,Carlton,,,,,,,,,Midfielder
+24,Tom De Koning,Carlton,15.0,11.0,4.0,0.73,0.27,5.0,0.0,3.0,Ruck
+24,Will White,Carlton,4.0,3.0,1.0,0.75,0.25,1.0,1.0,0.0,Gen. Forward
+24,Zac Williams,Carlton,18.0,8.0,10.0,0.44,0.56,3.0,1.0,3.0,Gen. Forward

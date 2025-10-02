@@ -1,0 +1,530 @@
+Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
+1,Alex Pearce,Fremantle,11.0,9.0,2.0,0.82,0.18,4.0,0.0,2.0,Key Defender
+1,Andrew Brayshaw,Fremantle,26.0,8.0,18.0,0.31,0.69,1.0,1.0,6.0,Midfielder
+1,Bailey Banfield,Fremantle,11.0,6.0,5.0,0.55,0.45,0.0,1.0,2.0,Gen. Defender
+1,Brandon Walker,Fremantle,13.0,7.0,6.0,0.54,0.46,1.0,0.0,5.0,Gen. Defender
+1,Brennan Cox,Fremantle,9.0,7.0,2.0,0.78,0.22,3.0,1.0,1.0,Key Defender
+1,Caleb Serong,Fremantle,27.0,14.0,13.0,0.52,0.48,1.0,0.0,3.0,Midfielder
+1,Corey Wagner,Fremantle,24.0,12.0,12.0,0.5,0.5,1.0,0.0,2.0,Midfielder
+1,Heath Chapman,Fremantle,,,,,,,,,Gen. Defender
+1,Jaeger O'Meara,Fremantle,31.0,9.0,22.0,0.29,0.71,6.0,0.0,3.0,Midfielder
+1,Jeremy Sharp,Fremantle,19.0,8.0,11.0,0.42,0.58,3.0,0.0,3.0,Midfielder
+1,Jordan Clark,Fremantle,23.0,11.0,12.0,0.48,0.52,5.0,0.0,2.0,Gen. Defender
+1,Josh Treacy,Fremantle,9.0,5.0,4.0,0.56,0.44,3.0,1.0,1.0,Key Forward
+1,Joshua Draper,Fremantle,9.0,5.0,4.0,0.56,0.44,5.0,0.0,2.0,Key Defender
+1,Jye Amiss,Fremantle,7.0,4.0,3.0,0.57,0.43,2.0,0.0,2.0,Key Forward
+1,Karl Worner,Fremantle,11.0,4.0,7.0,0.36,0.64,0.0,0.0,5.0,Gen. Defender
+1,Liam Reidy,Fremantle,6.0,4.0,2.0,0.67,0.33,1.0,0.0,2.0,Ruck
+1,Luke Jackson,Fremantle,16.0,7.0,9.0,0.44,0.56,2.0,0.0,3.0,Ruck
+1,Luke Ryan,Fremantle,18.0,13.0,5.0,0.72,0.28,4.0,0.0,2.0,Gen. Defender
+1,Matthew Johnson,Fremantle,27.0,12.0,15.0,0.44,0.56,3.0,0.0,4.0,Midfielder
+1,Michael Frederick,Fremantle,13.0,10.0,3.0,0.77,0.23,4.0,2.0,4.0,Gen. Forward
+1,Murphy Reid,Fremantle,13.0,10.0,3.0,0.77,0.23,3.0,4.0,0.0,Gen. Forward
+1,Nathan O'Driscoll,Fremantle,25.0,11.0,14.0,0.44,0.56,2.0,0.0,4.0,Midfielder
+1,Sam Switkowski,Fremantle,,,,,,,,,Gen. Forward
+2,Alex Pearce,Fremantle,11.0,6.0,5.0,0.55,0.45,5.0,0.0,0.0,Key Defender
+2,Andrew Brayshaw,Fremantle,19.0,6.0,13.0,0.32,0.68,2.0,0.0,8.0,Midfielder
+2,Bailey Banfield,Fremantle,10.0,4.0,6.0,0.4,0.6,1.0,1.0,0.0,Gen. Defender
+2,Brandon Walker,Fremantle,,,,,,,,,Gen. Defender
+2,Brennan Cox,Fremantle,12.0,9.0,3.0,0.75,0.25,7.0,0.0,0.0,Key Defender
+2,Caleb Serong,Fremantle,19.0,9.0,10.0,0.47,0.53,2.0,1.0,6.0,Midfielder
+2,Corey Wagner,Fremantle,20.0,13.0,7.0,0.65,0.35,5.0,0.0,3.0,Midfielder
+2,Heath Chapman,Fremantle,12.0,8.0,4.0,0.67,0.33,4.0,0.0,3.0,Gen. Defender
+2,Jaeger O'Meara,Fremantle,32.0,11.0,21.0,0.34,0.66,4.0,0.0,2.0,Midfielder
+2,Jeremy Sharp,Fremantle,18.0,10.0,8.0,0.56,0.44,4.0,0.0,0.0,Midfielder
+2,Jordan Clark,Fremantle,24.0,15.0,9.0,0.62,0.38,5.0,0.0,2.0,Gen. Defender
+2,Josh Treacy,Fremantle,13.0,8.0,5.0,0.62,0.38,7.0,4.0,2.0,Key Forward
+2,Joshua Draper,Fremantle,,,,,,,,,Key Defender
+2,Jye Amiss,Fremantle,8.0,5.0,3.0,0.62,0.38,4.0,1.0,1.0,Key Forward
+2,Luke Jackson,Fremantle,20.0,6.0,14.0,0.3,0.7,3.0,1.0,5.0,Ruck
+2,Luke Ryan,Fremantle,23.0,19.0,4.0,0.83,0.17,7.0,0.0,1.0,Gen. Defender
+2,Matthew Johnson,Fremantle,17.0,11.0,6.0,0.65,0.35,6.0,0.0,2.0,Midfielder
+2,Michael Frederick,Fremantle,12.0,6.0,6.0,0.5,0.5,3.0,0.0,0.0,Gen. Forward
+2,Murphy Reid,Fremantle,14.0,9.0,5.0,0.64,0.36,1.0,0.0,2.0,Gen. Forward
+2,Nathan O'Driscoll,Fremantle,25.0,15.0,10.0,0.6,0.4,3.0,0.0,2.0,Midfielder
+2,Neil Erasmus,Fremantle,14.0,8.0,6.0,0.57,0.43,3.0,0.0,2.0,Midfielder
+2,Patrick Voss,Fremantle,13.0,9.0,4.0,0.69,0.31,6.0,1.0,1.0,Key Forward
+2,Shai Bolton,Fremantle,15.0,9.0,6.0,0.6,0.4,0.0,0.0,4.0,Mid-Forward
+3,Alex Pearce,Fremantle,8.0,7.0,1.0,0.88,0.12,5.0,0.0,0.0,Key Defender
+3,Andrew Brayshaw,Fremantle,29.0,17.0,12.0,0.59,0.41,1.0,0.0,7.0,Midfielder
+3,Bailey Banfield,Fremantle,18.0,9.0,9.0,0.5,0.5,2.0,0.0,2.0,Gen. Defender
+3,Brennan Cox,Fremantle,6.0,5.0,1.0,0.83,0.17,3.0,0.0,0.0,Key Defender
+3,Caleb Serong,Fremantle,35.0,18.0,17.0,0.51,0.49,2.0,0.0,1.0,Midfielder
+3,Heath Chapman,Fremantle,12.0,10.0,2.0,0.83,0.17,5.0,0.0,1.0,Gen. Defender
+3,Isaiah Dudley,Fremantle,10.0,9.0,1.0,0.9,0.1,3.0,2.0,0.0,Gen. Forward
+3,James Aish,Fremantle,,,,,,,,,Gen. Defender
+3,Jeremy Sharp,Fremantle,9.0,5.0,4.0,0.56,0.44,2.0,0.0,1.0,Midfielder
+3,Jordan Clark,Fremantle,18.0,15.0,3.0,0.83,0.17,6.0,1.0,4.0,Gen. Defender
+3,Josh Treacy,Fremantle,13.0,6.0,7.0,0.46,0.54,5.0,3.0,1.0,Key Forward
+3,Joshua Draper,Fremantle,4.0,3.0,1.0,0.75,0.25,2.0,0.0,0.0,Key Defender
+3,Jye Amiss,Fremantle,10.0,7.0,3.0,0.7,0.3,6.0,4.0,1.0,Key Forward
+3,Karl Worner,Fremantle,13.0,9.0,4.0,0.69,0.31,3.0,0.0,0.0,Gen. Defender
+3,Luke Jackson,Fremantle,17.0,7.0,10.0,0.41,0.59,5.0,1.0,2.0,Ruck
+3,Luke Ryan,Fremantle,16.0,14.0,2.0,0.88,0.12,6.0,0.0,1.0,Gen. Defender
+3,Matthew Johnson,Fremantle,17.0,10.0,7.0,0.59,0.41,5.0,1.0,2.0,Midfielder
+3,Michael Frederick,Fremantle,14.0,10.0,4.0,0.71,0.29,7.0,1.0,0.0,Gen. Forward
+3,Murphy Reid,Fremantle,19.0,9.0,10.0,0.47,0.53,2.0,0.0,5.0,Gen. Forward
+3,Nathan O'Driscoll,Fremantle,22.0,15.0,7.0,0.68,0.32,4.0,1.0,6.0,Midfielder
+3,Neil Erasmus,Fremantle,18.0,8.0,10.0,0.44,0.56,5.0,0.0,1.0,Midfielder
+3,Patrick Voss,Fremantle,12.0,9.0,3.0,0.75,0.25,7.0,1.0,1.0,Key Forward
+3,Shai Bolton,Fremantle,21.0,7.0,14.0,0.33,0.67,3.0,0.0,2.0,Mid-Forward
+4,Alex Pearce,Fremantle,13.0,4.0,9.0,0.31,0.69,5.0,0.0,3.0,Key Defender
+4,Andrew Brayshaw,Fremantle,29.0,12.0,17.0,0.41,0.59,2.0,1.0,9.0,Midfielder
+4,Bailey Banfield,Fremantle,13.0,6.0,7.0,0.46,0.54,1.0,1.0,3.0,Gen. Defender
+4,Brennan Cox,Fremantle,16.0,10.0,6.0,0.62,0.38,7.0,0.0,2.0,Key Defender
+4,Caleb Serong,Fremantle,38.0,15.0,23.0,0.39,0.61,0.0,0.0,7.0,Midfielder
+4,Corey Wagner,Fremantle,,,,,,,,,Midfielder
+4,Heath Chapman,Fremantle,15.0,8.0,7.0,0.53,0.47,7.0,0.0,1.0,Gen. Defender
+4,Isaiah Dudley,Fremantle,12.0,5.0,7.0,0.42,0.58,3.0,1.0,3.0,Gen. Forward
+4,Jaeger O'Meara,Fremantle,15.0,4.0,11.0,0.27,0.73,1.0,0.0,4.0,Midfielder
+4,Jeremy Sharp,Fremantle,21.0,10.0,11.0,0.48,0.52,4.0,1.0,0.0,Midfielder
+4,Jordan Clark,Fremantle,26.0,18.0,8.0,0.69,0.31,5.0,0.0,3.0,Gen. Defender
+4,Josh Treacy,Fremantle,15.0,12.0,3.0,0.8,0.2,8.0,3.0,3.0,Key Forward
+4,Joshua Draper,Fremantle,8.0,5.0,3.0,0.62,0.38,2.0,0.0,2.0,Key Defender
+4,Jye Amiss,Fremantle,7.0,4.0,3.0,0.57,0.43,3.0,1.0,2.0,Key Forward
+4,Karl Worner,Fremantle,,,,,,,,,Gen. Defender
+4,Luke Jackson,Fremantle,,,,,,,,,Ruck
+4,Luke Ryan,Fremantle,26.0,23.0,3.0,0.88,0.12,6.0,0.0,4.0,Gen. Defender
+4,Matthew Johnson,Fremantle,13.0,5.0,8.0,0.38,0.62,1.0,0.0,3.0,Midfielder
+4,Michael Frederick,Fremantle,13.0,11.0,2.0,0.85,0.15,5.0,3.0,3.0,Gen. Forward
+4,Murphy Reid,Fremantle,16.0,7.0,9.0,0.44,0.56,3.0,1.0,1.0,Gen. Forward
+4,Nathan O'Driscoll,Fremantle,,,,,,,,,Midfielder
+4,Patrick Voss,Fremantle,9.0,3.0,6.0,0.33,0.67,0.0,0.0,5.0,Key Forward
+4,Shai Bolton,Fremantle,14.0,10.0,4.0,0.71,0.29,4.0,2.0,2.0,Mid-Forward
+5,Alex Pearce,Fremantle,14.0,11.0,3.0,0.79,0.21,7.0,1.0,2.0,Key Defender
+5,Andrew Brayshaw,Fremantle,31.0,12.0,19.0,0.39,0.61,2.0,0.0,10.0,Midfielder
+5,Bailey Banfield,Fremantle,14.0,7.0,7.0,0.5,0.5,3.0,0.0,0.0,Gen. Defender
+5,Brennan Cox,Fremantle,18.0,10.0,8.0,0.56,0.44,8.0,0.0,0.0,Key Defender
+5,Caleb Serong,Fremantle,29.0,17.0,12.0,0.59,0.41,4.0,0.0,4.0,Midfielder
+5,Hayden Young,Fremantle,18.0,13.0,5.0,0.72,0.28,3.0,2.0,5.0,Midfielder
+5,Heath Chapman,Fremantle,26.0,18.0,8.0,0.69,0.31,10.0,0.0,1.0,Gen. Defender
+5,Isaiah Dudley,Fremantle,,,,,,,,,Gen. Forward
+5,Jaeger O'Meara,Fremantle,21.0,8.0,13.0,0.38,0.62,1.0,0.0,3.0,Midfielder
+5,Jeremy Sharp,Fremantle,21.0,11.0,10.0,0.52,0.48,8.0,0.0,0.0,Midfielder
+5,Jordan Clark,Fremantle,23.0,14.0,9.0,0.61,0.39,5.0,0.0,3.0,Gen. Defender
+5,Josh Treacy,Fremantle,11.0,10.0,1.0,0.91,0.09,8.0,6.0,3.0,Key Forward
+5,Joshua Draper,Fremantle,10.0,3.0,7.0,0.3,0.7,2.0,0.0,1.0,Key Defender
+5,Jye Amiss,Fremantle,2.0,1.0,1.0,0.5,0.5,1.0,0.0,1.0,Key Forward
+5,Karl Worner,Fremantle,19.0,13.0,6.0,0.68,0.32,9.0,0.0,2.0,Gen. Defender
+5,Luke Ryan,Fremantle,16.0,10.0,6.0,0.62,0.38,6.0,0.0,0.0,Gen. Defender
+5,Matthew Johnson,Fremantle,17.0,6.0,11.0,0.35,0.65,4.0,0.0,7.0,Midfielder
+5,Michael Frederick,Fremantle,13.0,9.0,4.0,0.69,0.31,5.0,3.0,2.0,Gen. Forward
+5,Murphy Reid,Fremantle,9.0,7.0,2.0,0.78,0.22,1.0,1.0,3.0,Gen. Forward
+5,Patrick Voss,Fremantle,10.0,4.0,6.0,0.4,0.6,1.0,1.0,5.0,Key Forward
+5,Sam Switkowski,Fremantle,6.0,4.0,2.0,0.67,0.33,1.0,0.0,5.0,Gen. Forward
+5,Sean Darcy,Fremantle,9.0,3.0,6.0,0.33,0.67,0.0,0.0,4.0,Ruck
+5,Shai Bolton,Fremantle,19.0,13.0,6.0,0.68,0.32,6.0,2.0,1.0,Mid-Forward
+6,Alex Pearce,Fremantle,12.0,4.0,8.0,0.33,0.67,3.0,0.0,1.0,Key Defender
+6,Andrew Brayshaw,Fremantle,33.0,15.0,18.0,0.45,0.55,3.0,1.0,3.0,Midfielder
+6,Bailey Banfield,Fremantle,,,,,,,,,Gen. Defender
+6,Brennan Cox,Fremantle,7.0,4.0,3.0,0.57,0.43,3.0,0.0,1.0,Key Defender
+6,Caleb Serong,Fremantle,27.0,9.0,18.0,0.33,0.67,0.0,0.0,4.0,Midfielder
+6,Hayden Young,Fremantle,25.0,13.0,12.0,0.52,0.48,5.0,0.0,4.0,Midfielder
+6,Isaiah Dudley,Fremantle,,,,,,,,,Gen. Forward
+6,Jaeger O'Meara,Fremantle,,,,,,,,,Midfielder
+6,James Aish,Fremantle,14.0,9.0,5.0,0.64,0.36,4.0,0.0,0.0,Gen. Defender
+6,Jeremy Sharp,Fremantle,18.0,12.0,6.0,0.67,0.33,4.0,1.0,1.0,Midfielder
+6,Jordan Clark,Fremantle,22.0,14.0,8.0,0.64,0.36,5.0,0.0,3.0,Gen. Defender
+6,Josh Treacy,Fremantle,6.0,5.0,1.0,0.83,0.17,4.0,1.0,2.0,Key Forward
+6,Joshua Draper,Fremantle,10.0,5.0,5.0,0.5,0.5,1.0,0.0,2.0,Key Defender
+6,Jye Amiss,Fremantle,8.0,7.0,1.0,0.88,0.12,2.0,3.0,2.0,Key Forward
+6,Karl Worner,Fremantle,15.0,12.0,3.0,0.8,0.2,8.0,0.0,1.0,Gen. Defender
+6,Luke Ryan,Fremantle,17.0,13.0,4.0,0.76,0.24,3.0,0.0,3.0,Gen. Defender
+6,Matthew Johnson,Fremantle,13.0,2.0,11.0,0.15,0.85,1.0,0.0,1.0,Midfielder
+6,Michael Frederick,Fremantle,8.0,5.0,3.0,0.62,0.38,1.0,0.0,4.0,Gen. Forward
+6,Murphy Reid,Fremantle,17.0,14.0,3.0,0.82,0.18,3.0,1.0,2.0,Gen. Forward
+6,Oscar McDonald,Fremantle,9.0,6.0,3.0,0.67,0.33,5.0,1.0,4.0,Key Defender
+6,Sam Switkowski,Fremantle,16.0,5.0,11.0,0.31,0.69,6.0,0.0,0.0,Gen. Forward
+6,Sean Darcy,Fremantle,4.0,2.0,2.0,0.5,0.5,2.0,2.0,3.0,Ruck
+6,Shai Bolton,Fremantle,20.0,15.0,5.0,0.75,0.25,9.0,3.0,0.0,Mid-Forward
+7,Alex Pearce,Fremantle,10.0,4.0,6.0,0.4,0.6,4.0,0.0,3.0,Key Defender
+7,Andrew Brayshaw,Fremantle,37.0,17.0,20.0,0.46,0.54,4.0,0.0,5.0,Midfielder
+7,Brennan Cox,Fremantle,14.0,10.0,4.0,0.71,0.29,5.0,0.0,1.0,Key Defender
+7,Caleb Serong,Fremantle,32.0,6.0,26.0,0.19,0.81,0.0,0.0,2.0,Midfielder
+7,Corey Wagner,Fremantle,16.0,7.0,9.0,0.44,0.56,2.0,0.0,5.0,Midfielder
+7,Hayden Young,Fremantle,20.0,10.0,10.0,0.5,0.5,3.0,1.0,3.0,Midfielder
+7,Heath Chapman,Fremantle,7.0,5.0,2.0,0.71,0.29,2.0,0.0,1.0,Gen. Defender
+7,Isaiah Dudley,Fremantle,4.0,3.0,1.0,0.75,0.25,0.0,0.0,4.0,Gen. Forward
+7,Jeremy Sharp,Fremantle,5.0,1.0,4.0,0.2,0.8,0.0,0.0,2.0,Midfielder
+7,Jordan Clark,Fremantle,27.0,17.0,10.0,0.63,0.37,6.0,0.0,4.0,Gen. Defender
+7,Josh Treacy,Fremantle,15.0,13.0,2.0,0.87,0.13,7.0,2.0,0.0,Key Forward
+7,Joshua Draper,Fremantle,11.0,6.0,5.0,0.55,0.45,6.0,0.0,0.0,Key Defender
+7,Jye Amiss,Fremantle,6.0,4.0,2.0,0.67,0.33,3.0,2.0,1.0,Key Forward
+7,Karl Worner,Fremantle,17.0,8.0,9.0,0.47,0.53,4.0,0.0,2.0,Gen. Defender
+7,Luke Ryan,Fremantle,23.0,20.0,3.0,0.87,0.13,9.0,0.0,1.0,Gen. Defender
+7,Matthew Johnson,Fremantle,27.0,13.0,14.0,0.48,0.52,8.0,0.0,3.0,Midfielder
+7,Michael Frederick,Fremantle,11.0,8.0,3.0,0.73,0.27,6.0,2.0,1.0,Gen. Forward
+7,Murphy Reid,Fremantle,6.0,3.0,3.0,0.5,0.5,0.0,1.0,4.0,Gen. Forward
+7,Oscar McDonald,Fremantle,9.0,8.0,1.0,0.89,0.11,4.0,2.0,3.0,Key Defender
+7,Quinton Narkle,Fremantle,,,,,,,,,Gen. Forward
+7,Sam Switkowski,Fremantle,10.0,4.0,6.0,0.4,0.6,1.0,1.0,2.0,Gen. Forward
+7,Sean Darcy,Fremantle,8.0,5.0,3.0,0.62,0.38,0.0,0.0,5.0,Ruck
+7,Shai Bolton,Fremantle,22.0,11.0,11.0,0.5,0.5,0.0,1.0,1.0,Mid-Forward
+8,Alex Pearce,Fremantle,18.0,11.0,7.0,0.61,0.39,6.0,0.0,3.0,Key Defender
+8,Andrew Brayshaw,Fremantle,18.0,12.0,6.0,0.67,0.33,4.0,0.0,7.0,Midfielder
+8,Brennan Cox,Fremantle,14.0,11.0,3.0,0.79,0.21,10.0,0.0,0.0,Key Defender
+8,Caleb Serong,Fremantle,15.0,4.0,11.0,0.27,0.73,1.0,0.0,8.0,Midfielder
+8,Corey Wagner,Fremantle,13.0,9.0,4.0,0.69,0.31,0.0,0.0,16.0,Midfielder
+8,Hayden Young,Fremantle,,,,,,,,,Midfielder
+8,Heath Chapman,Fremantle,8.0,8.0,0.0,1.0,0.0,3.0,0.0,3.0,Gen. Defender
+8,Isaiah Dudley,Fremantle,7.0,4.0,3.0,0.57,0.43,1.0,1.0,8.0,Gen. Forward
+8,Jeremy Sharp,Fremantle,17.0,11.0,6.0,0.65,0.35,3.0,0.0,1.0,Midfielder
+8,Jordan Clark,Fremantle,16.0,9.0,7.0,0.56,0.44,2.0,0.0,4.0,Gen. Defender
+8,Josh Treacy,Fremantle,6.0,4.0,2.0,0.67,0.33,4.0,0.0,0.0,Key Forward
+8,Joshua Draper,Fremantle,13.0,6.0,7.0,0.46,0.54,4.0,0.0,5.0,Key Defender
+8,Jye Amiss,Fremantle,8.0,5.0,3.0,0.62,0.38,5.0,2.0,1.0,Key Forward
+8,Karl Worner,Fremantle,15.0,7.0,8.0,0.47,0.53,4.0,0.0,2.0,Gen. Defender
+8,Luke Jackson,Fremantle,11.0,5.0,6.0,0.45,0.55,3.0,0.0,3.0,Ruck
+8,Luke Ryan,Fremantle,24.0,19.0,5.0,0.79,0.21,7.0,0.0,3.0,Gen. Defender
+8,Matthew Johnson,Fremantle,21.0,11.0,10.0,0.52,0.48,10.0,0.0,4.0,Midfielder
+8,Michael Frederick,Fremantle,10.0,5.0,5.0,0.5,0.5,4.0,0.0,4.0,Gen. Forward
+8,Murphy Reid,Fremantle,15.0,4.0,11.0,0.27,0.73,2.0,0.0,0.0,Gen. Forward
+8,Quinton Narkle,Fremantle,,,,,,,,,Gen. Forward
+8,Sam Switkowski,Fremantle,7.0,3.0,4.0,0.43,0.57,3.0,0.0,3.0,Gen. Forward
+8,Sean Darcy,Fremantle,8.0,6.0,2.0,0.75,0.25,2.0,0.0,4.0,Ruck
+8,Shai Bolton,Fremantle,7.0,3.0,4.0,0.43,0.57,1.0,0.0,2.0,Mid-Forward
+9,Alex Pearce,Fremantle,13.0,10.0,3.0,0.77,0.23,7.0,1.0,0.0,Key Defender
+9,Andrew Brayshaw,Fremantle,34.0,9.0,25.0,0.26,0.74,5.0,1.0,5.0,Midfielder
+9,Brennan Cox,Fremantle,13.0,7.0,6.0,0.54,0.46,4.0,0.0,2.0,Key Defender
+9,Caleb Serong,Fremantle,25.0,14.0,11.0,0.56,0.44,3.0,0.0,4.0,Midfielder
+9,Cooper Simpson,Fremantle,18.0,11.0,7.0,0.61,0.39,6.0,0.0,0.0,Gen. Defender
+9,Corey Wagner,Fremantle,14.0,7.0,7.0,0.5,0.5,4.0,0.0,5.0,Midfielder
+9,Heath Chapman,Fremantle,17.0,11.0,6.0,0.65,0.35,6.0,0.0,2.0,Gen. Defender
+9,Isaiah Dudley,Fremantle,7.0,7.0,0.0,1.0,0.0,4.0,1.0,3.0,Gen. Forward
+9,Jeremy Sharp,Fremantle,13.0,7.0,6.0,0.54,0.46,2.0,1.0,0.0,Midfielder
+9,Jordan Clark,Fremantle,33.0,24.0,9.0,0.73,0.27,8.0,0.0,4.0,Gen. Defender
+9,Josh Treacy,Fremantle,11.0,6.0,5.0,0.55,0.45,5.0,2.0,2.0,Key Forward
+9,Jye Amiss,Fremantle,12.0,6.0,6.0,0.5,0.5,4.0,0.0,0.0,Key Forward
+9,Karl Worner,Fremantle,12.0,9.0,3.0,0.75,0.25,6.0,0.0,2.0,Gen. Defender
+9,Luke Jackson,Fremantle,19.0,5.0,14.0,0.26,0.74,5.0,0.0,5.0,Ruck
+9,Luke Ryan,Fremantle,30.0,24.0,6.0,0.8,0.2,12.0,0.0,1.0,Gen. Defender
+9,Matthew Johnson,Fremantle,22.0,10.0,12.0,0.45,0.55,4.0,0.0,3.0,Midfielder
+9,Michael Frederick,Fremantle,13.0,6.0,7.0,0.46,0.54,3.0,1.0,1.0,Gen. Forward
+9,Murphy Reid,Fremantle,6.0,4.0,2.0,0.67,0.33,3.0,1.0,2.0,Gen. Forward
+9,Neil Erasmus,Fremantle,,,,,,,,,Midfielder
+9,Patrick Voss,Fremantle,5.0,5.0,0.0,1.0,0.0,2.0,2.0,0.0,Key Forward
+9,Sam Switkowski,Fremantle,19.0,6.0,13.0,0.32,0.68,4.0,1.0,0.0,Gen. Forward
+9,Sean Darcy,Fremantle,,,,,,,,,Ruck
+9,Shai Bolton,Fremantle,28.0,15.0,13.0,0.54,0.46,3.0,1.0,3.0,Mid-Forward
+10,Alex Pearce,Fremantle,4.0,2.0,2.0,0.5,0.5,2.0,0.0,0.0,Key Defender
+10,Andrew Brayshaw,Fremantle,30.0,9.0,21.0,0.3,0.7,3.0,0.0,6.0,Midfielder
+10,Bailey Banfield,Fremantle,,,,,,,,,Gen. Defender
+10,Brennan Cox,Fremantle,6.0,3.0,3.0,0.5,0.5,3.0,0.0,1.0,Key Defender
+10,Caleb Serong,Fremantle,36.0,17.0,19.0,0.47,0.53,3.0,0.0,3.0,Midfielder
+10,Cooper Simpson,Fremantle,14.0,11.0,3.0,0.79,0.21,2.0,1.0,3.0,Gen. Defender
+10,Corey Wagner,Fremantle,13.0,8.0,5.0,0.62,0.38,2.0,0.0,1.0,Midfielder
+10,Heath Chapman,Fremantle,15.0,10.0,5.0,0.67,0.33,4.0,0.0,1.0,Gen. Defender
+10,Isaiah Dudley,Fremantle,8.0,7.0,1.0,0.88,0.12,4.0,0.0,0.0,Gen. Forward
+10,Jeremy Sharp,Fremantle,3.0,2.0,1.0,0.67,0.33,1.0,0.0,0.0,Midfielder
+10,Jordan Clark,Fremantle,21.0,14.0,7.0,0.67,0.33,6.0,0.0,2.0,Gen. Defender
+10,Josh Treacy,Fremantle,11.0,7.0,4.0,0.64,0.36,2.0,1.0,2.0,Key Forward
+10,Jye Amiss,Fremantle,8.0,4.0,4.0,0.5,0.5,4.0,2.0,0.0,Key Forward
+10,Karl Worner,Fremantle,8.0,5.0,3.0,0.62,0.38,4.0,0.0,0.0,Gen. Defender
+10,Luke Jackson,Fremantle,21.0,11.0,10.0,0.52,0.48,4.0,0.0,1.0,Ruck
+10,Luke Ryan,Fremantle,18.0,16.0,2.0,0.89,0.11,5.0,0.0,4.0,Gen. Defender
+10,Matthew Johnson,Fremantle,14.0,7.0,7.0,0.5,0.5,1.0,0.0,2.0,Midfielder
+10,Michael Frederick,Fremantle,16.0,8.0,8.0,0.5,0.5,5.0,3.0,3.0,Gen. Forward
+10,Murphy Reid,Fremantle,15.0,8.0,7.0,0.53,0.47,1.0,1.0,3.0,Gen. Forward
+10,Neil Erasmus,Fremantle,19.0,10.0,9.0,0.53,0.47,4.0,0.0,2.0,Midfielder
+10,Patrick Voss,Fremantle,11.0,6.0,5.0,0.55,0.45,1.0,1.0,5.0,Key Forward
+10,Sam Switkowski,Fremantle,16.0,7.0,9.0,0.44,0.56,3.0,0.0,5.0,Gen. Forward
+10,Shai Bolton,Fremantle,24.0,16.0,8.0,0.67,0.33,8.0,3.0,3.0,Mid-Forward
+11,Alex Pearce,Fremantle,12.0,7.0,5.0,0.58,0.42,7.0,1.0,1.0,Key Defender
+11,Andrew Brayshaw,Fremantle,21.0,8.0,13.0,0.38,0.62,3.0,0.0,8.0,Midfielder
+11,Bailey Banfield,Fremantle,17.0,16.0,1.0,0.94,0.06,8.0,0.0,3.0,Gen. Defender
+11,Brennan Cox,Fremantle,13.0,6.0,7.0,0.46,0.54,3.0,0.0,1.0,Key Defender
+11,Caleb Serong,Fremantle,29.0,16.0,13.0,0.55,0.45,3.0,0.0,4.0,Midfielder
+11,Cooper Simpson,Fremantle,,,,,,,,,Gen. Defender
+11,Corey Wagner,Fremantle,18.0,14.0,4.0,0.78,0.22,6.0,0.0,4.0,Midfielder
+11,Heath Chapman,Fremantle,21.0,15.0,6.0,0.71,0.29,9.0,0.0,2.0,Gen. Defender
+11,Isaiah Dudley,Fremantle,12.0,9.0,3.0,0.75,0.25,5.0,2.0,2.0,Gen. Forward
+11,Jeremy Sharp,Fremantle,11.0,4.0,7.0,0.36,0.64,1.0,0.0,3.0,Midfielder
+11,Jordan Clark,Fremantle,20.0,13.0,7.0,0.65,0.35,6.0,0.0,1.0,Gen. Defender
+11,Josh Treacy,Fremantle,12.0,6.0,6.0,0.5,0.5,4.0,0.0,0.0,Key Forward
+11,Jye Amiss,Fremantle,9.0,5.0,4.0,0.56,0.44,3.0,1.0,3.0,Key Forward
+11,Karl Worner,Fremantle,18.0,10.0,8.0,0.56,0.44,4.0,0.0,4.0,Gen. Defender
+11,Luke Jackson,Fremantle,21.0,10.0,11.0,0.48,0.52,1.0,1.0,2.0,Ruck
+11,Luke Ryan,Fremantle,22.0,19.0,3.0,0.86,0.14,7.0,0.0,0.0,Gen. Defender
+11,Matthew Johnson,Fremantle,21.0,16.0,5.0,0.76,0.24,6.0,1.0,4.0,Midfielder
+11,Michael Frederick,Fremantle,10.0,6.0,4.0,0.6,0.4,1.0,1.0,6.0,Gen. Forward
+11,Murphy Reid,Fremantle,18.0,9.0,9.0,0.5,0.5,3.0,4.0,4.0,Gen. Forward
+11,Neil Erasmus,Fremantle,17.0,11.0,6.0,0.65,0.35,3.0,0.0,1.0,Midfielder
+11,Patrick Voss,Fremantle,13.0,8.0,5.0,0.62,0.38,6.0,1.0,1.0,Key Forward
+11,Sam Switkowski,Fremantle,11.0,5.0,6.0,0.45,0.55,2.0,2.0,4.0,Gen. Forward
+11,Shai Bolton,Fremantle,18.0,6.0,12.0,0.33,0.67,1.0,1.0,4.0,Mid-Forward
+12,Andrew Brayshaw,Fremantle,30.0,13.0,17.0,0.43,0.57,3.0,1.0,7.0,Midfielder
+12,Bailey Banfield,Fremantle,13.0,6.0,7.0,0.46,0.54,3.0,0.0,0.0,Gen. Defender
+12,Brennan Cox,Fremantle,10.0,3.0,7.0,0.3,0.7,1.0,0.0,1.0,Key Defender
+12,Caleb Serong,Fremantle,27.0,18.0,9.0,0.67,0.33,2.0,0.0,8.0,Midfielder
+12,Corey Wagner,Fremantle,18.0,17.0,1.0,0.94,0.06,4.0,1.0,2.0,Midfielder
+12,Heath Chapman,Fremantle,13.0,7.0,6.0,0.54,0.46,1.0,0.0,6.0,Gen. Defender
+12,Jeremy Sharp,Fremantle,4.0,3.0,1.0,0.75,0.25,1.0,0.0,3.0,Midfielder
+12,Jordan Clark,Fremantle,30.0,24.0,6.0,0.8,0.2,6.0,0.0,4.0,Gen. Defender
+12,Josh Treacy,Fremantle,15.0,8.0,7.0,0.53,0.47,5.0,0.0,2.0,Key Forward
+12,Joshua Draper,Fremantle,3.0,1.0,2.0,0.33,0.67,0.0,0.0,1.0,Key Defender
+12,Jye Amiss,Fremantle,9.0,3.0,6.0,0.33,0.67,3.0,1.0,0.0,Key Forward
+12,Karl Worner,Fremantle,,,,,,,,,Gen. Defender
+12,Luke Jackson,Fremantle,27.0,12.0,15.0,0.44,0.56,2.0,0.0,7.0,Ruck
+12,Luke Ryan,Fremantle,18.0,14.0,4.0,0.78,0.22,4.0,0.0,1.0,Gen. Defender
+12,Matthew Johnson,Fremantle,18.0,5.0,13.0,0.28,0.72,1.0,0.0,5.0,Midfielder
+12,Michael Frederick,Fremantle,7.0,5.0,2.0,0.71,0.29,1.0,1.0,3.0,Gen. Forward
+12,Murphy Reid,Fremantle,14.0,8.0,6.0,0.57,0.43,1.0,0.0,0.0,Gen. Forward
+12,Nat Fyfe,Fremantle,,,,,,,,,Midfielder
+12,Neil Erasmus,Fremantle,19.0,10.0,9.0,0.53,0.47,1.0,0.0,7.0,Midfielder
+12,Patrick Voss,Fremantle,7.0,7.0,0.0,1.0,0.0,3.0,3.0,9.0,Key Forward
+12,Sam Switkowski,Fremantle,17.0,7.0,10.0,0.41,0.59,2.0,1.0,7.0,Gen. Forward
+12,Sean Darcy,Fremantle,,,,,,,,,Ruck
+12,Shai Bolton,Fremantle,20.0,13.0,7.0,0.65,0.35,4.0,3.0,6.0,Mid-Forward
+14,Andrew Brayshaw,Fremantle,31.0,18.0,13.0,0.58,0.42,6.0,0.0,9.0,Midfielder
+14,Bailey Banfield,Fremantle,13.0,12.0,1.0,0.92,0.08,7.0,0.0,1.0,Gen. Defender
+14,Brennan Cox,Fremantle,10.0,6.0,4.0,0.6,0.4,6.0,0.0,2.0,Key Defender
+14,Caleb Serong,Fremantle,36.0,19.0,17.0,0.53,0.47,2.0,1.0,10.0,Midfielder
+14,Corey Wagner,Fremantle,14.0,9.0,5.0,0.64,0.36,1.0,1.0,7.0,Midfielder
+14,Heath Chapman,Fremantle,13.0,5.0,8.0,0.38,0.62,5.0,0.0,2.0,Gen. Defender
+14,Jeremy Sharp,Fremantle,14.0,6.0,8.0,0.43,0.57,1.0,0.0,1.0,Midfielder
+14,Jordan Clark,Fremantle,26.0,19.0,7.0,0.73,0.27,5.0,0.0,3.0,Gen. Defender
+14,Josh Treacy,Fremantle,14.0,12.0,2.0,0.86,0.14,8.0,0.0,2.0,Key Forward
+14,Joshua Draper,Fremantle,3.0,2.0,1.0,0.67,0.33,1.0,0.0,2.0,Key Defender
+14,Jye Amiss,Fremantle,7.0,4.0,3.0,0.57,0.43,3.0,0.0,1.0,Key Forward
+14,Karl Worner,Fremantle,15.0,6.0,9.0,0.4,0.6,1.0,0.0,3.0,Gen. Defender
+14,Luke Jackson,Fremantle,15.0,7.0,8.0,0.47,0.53,3.0,2.0,4.0,Ruck
+14,Luke Ryan,Fremantle,19.0,11.0,8.0,0.58,0.42,3.0,0.0,6.0,Gen. Defender
+14,Matthew Johnson,Fremantle,20.0,11.0,9.0,0.55,0.45,6.0,0.0,4.0,Midfielder
+14,Michael Frederick,Fremantle,8.0,3.0,5.0,0.38,0.62,2.0,0.0,1.0,Gen. Forward
+14,Murphy Reid,Fremantle,16.0,8.0,8.0,0.5,0.5,3.0,1.0,1.0,Gen. Forward
+14,Nat Fyfe,Fremantle,,,,,,,,,Midfielder
+14,Neil Erasmus,Fremantle,,,,,,,,,Midfielder
+14,Patrick Voss,Fremantle,11.0,9.0,2.0,0.82,0.18,2.0,3.0,2.0,Key Forward
+14,Sam Switkowski,Fremantle,14.0,7.0,7.0,0.5,0.5,5.0,1.0,1.0,Gen. Forward
+14,Sean Darcy,Fremantle,7.0,3.0,4.0,0.43,0.57,2.0,0.0,1.0,Ruck
+14,Shai Bolton,Fremantle,21.0,13.0,8.0,0.62,0.38,0.0,1.0,1.0,Mid-Forward
+15,Andrew Brayshaw,Fremantle,29.0,14.0,15.0,0.48,0.52,3.0,1.0,4.0,Midfielder
+15,Bailey Banfield,Fremantle,13.0,7.0,6.0,0.54,0.46,1.0,0.0,3.0,Gen. Defender
+15,Brennan Cox,Fremantle,13.0,7.0,6.0,0.54,0.46,9.0,0.0,1.0,Key Defender
+15,Caleb Serong,Fremantle,35.0,24.0,11.0,0.69,0.31,5.0,2.0,4.0,Midfielder
+15,Corey Wagner,Fremantle,16.0,12.0,4.0,0.75,0.25,4.0,0.0,2.0,Midfielder
+15,Heath Chapman,Fremantle,22.0,15.0,7.0,0.68,0.32,4.0,0.0,2.0,Gen. Defender
+15,James Aish,Fremantle,,,,,,,,,Gen. Defender
+15,Jeremy Sharp,Fremantle,12.0,8.0,4.0,0.67,0.33,6.0,0.0,3.0,Midfielder
+15,Jordan Clark,Fremantle,33.0,23.0,10.0,0.7,0.3,8.0,0.0,5.0,Gen. Defender
+15,Josh Treacy,Fremantle,11.0,6.0,5.0,0.55,0.45,3.0,3.0,2.0,Key Forward
+15,Joshua Draper,Fremantle,8.0,7.0,1.0,0.88,0.12,3.0,0.0,2.0,Key Defender
+15,Jye Amiss,Fremantle,10.0,4.0,6.0,0.4,0.6,4.0,0.0,0.0,Key Forward
+15,Karl Worner,Fremantle,18.0,10.0,8.0,0.56,0.44,7.0,0.0,2.0,Gen. Defender
+15,Luke Jackson,Fremantle,21.0,11.0,10.0,0.52,0.48,4.0,3.0,4.0,Ruck
+15,Luke Ryan,Fremantle,32.0,24.0,8.0,0.75,0.25,12.0,0.0,2.0,Gen. Defender
+15,Matthew Johnson,Fremantle,18.0,5.0,13.0,0.28,0.72,5.0,0.0,1.0,Midfielder
+15,Michael Frederick,Fremantle,5.0,4.0,1.0,0.8,0.2,2.0,2.0,1.0,Gen. Forward
+15,Murphy Reid,Fremantle,13.0,7.0,6.0,0.54,0.46,3.0,1.0,4.0,Gen. Forward
+15,Nat Fyfe,Fremantle,11.0,5.0,6.0,0.45,0.55,3.0,0.0,1.0,Midfielder
+15,Nathan O'Driscoll,Fremantle,17.0,11.0,6.0,0.65,0.35,7.0,1.0,0.0,Midfielder
+15,Neil Erasmus,Fremantle,21.0,7.0,14.0,0.33,0.67,4.0,0.0,1.0,Midfielder
+15,Patrick Voss,Fremantle,13.0,6.0,7.0,0.46,0.54,2.0,1.0,3.0,Key Forward
+15,Shai Bolton,Fremantle,15.0,7.0,8.0,0.47,0.53,0.0,2.0,1.0,Mid-Forward
+16,Andrew Brayshaw,Fremantle,25.0,15.0,10.0,0.6,0.4,4.0,0.0,6.0,Midfielder
+16,Bailey Banfield,Fremantle,12.0,8.0,4.0,0.67,0.33,3.0,0.0,2.0,Gen. Defender
+16,Brennan Cox,Fremantle,12.0,9.0,3.0,0.75,0.25,7.0,0.0,2.0,Key Defender
+16,Caleb Serong,Fremantle,18.0,9.0,9.0,0.5,0.5,2.0,0.0,3.0,Midfielder
+16,Corey Wagner,Fremantle,9.0,5.0,4.0,0.56,0.44,2.0,0.0,7.0,Midfielder
+16,Heath Chapman,Fremantle,9.0,7.0,2.0,0.78,0.22,2.0,0.0,1.0,Gen. Defender
+16,Isaiah Dudley,Fremantle,5.0,4.0,1.0,0.8,0.2,0.0,1.0,2.0,Gen. Forward
+16,Jordan Clark,Fremantle,31.0,19.0,12.0,0.61,0.39,10.0,1.0,2.0,Gen. Defender
+16,Josh Treacy,Fremantle,8.0,7.0,1.0,0.88,0.12,4.0,3.0,2.0,Key Forward
+16,Jye Amiss,Fremantle,4.0,4.0,0.0,1.0,0.0,2.0,0.0,2.0,Key Forward
+16,Karl Worner,Fremantle,12.0,9.0,3.0,0.75,0.25,3.0,0.0,1.0,Gen. Defender
+16,Luke Jackson,Fremantle,15.0,6.0,9.0,0.4,0.6,4.0,2.0,8.0,Ruck
+16,Luke Ryan,Fremantle,18.0,14.0,4.0,0.78,0.22,7.0,0.0,2.0,Gen. Defender
+16,Matthew Johnson,Fremantle,18.0,7.0,11.0,0.39,0.61,5.0,0.0,2.0,Midfielder
+16,Michael Frederick,Fremantle,14.0,6.0,8.0,0.43,0.57,3.0,0.0,1.0,Gen. Forward
+16,Murphy Reid,Fremantle,15.0,9.0,6.0,0.6,0.4,2.0,1.0,1.0,Gen. Forward
+16,Nat Fyfe,Fremantle,,,,,,,,,Midfielder
+16,Nathan O'Driscoll,Fremantle,17.0,13.0,4.0,0.76,0.24,4.0,1.0,3.0,Midfielder
+16,Neil Erasmus,Fremantle,17.0,10.0,7.0,0.59,0.41,6.0,0.0,6.0,Midfielder
+16,Oscar McDonald,Fremantle,13.0,9.0,4.0,0.69,0.31,6.0,0.0,0.0,Key Defender
+16,Patrick Voss,Fremantle,8.0,3.0,5.0,0.38,0.62,2.0,0.0,1.0,Key Forward
+16,Sean Darcy,Fremantle,17.0,10.0,7.0,0.59,0.41,4.0,1.0,0.0,Ruck
+16,Shai Bolton,Fremantle,15.0,10.0,5.0,0.67,0.33,4.0,1.0,3.0,Mid-Forward
+17,Alex Pearce,Fremantle,8.0,3.0,5.0,0.38,0.62,3.0,0.0,2.0,Key Defender
+17,Andrew Brayshaw,Fremantle,24.0,11.0,13.0,0.46,0.54,4.0,0.0,3.0,Midfielder
+17,Bailey Banfield,Fremantle,15.0,11.0,4.0,0.73,0.27,5.0,0.0,5.0,Gen. Defender
+17,Brennan Cox,Fremantle,6.0,3.0,3.0,0.5,0.5,2.0,0.0,0.0,Key Defender
+17,Caleb Serong,Fremantle,11.0,6.0,5.0,0.55,0.45,0.0,1.0,3.0,Midfielder
+17,Corey Wagner,Fremantle,22.0,17.0,5.0,0.77,0.23,5.0,1.0,6.0,Midfielder
+17,Heath Chapman,Fremantle,13.0,8.0,5.0,0.62,0.38,6.0,0.0,3.0,Gen. Defender
+17,Isaiah Dudley,Fremantle,10.0,4.0,6.0,0.4,0.6,3.0,1.0,1.0,Gen. Forward
+17,Jaeger O'Meara,Fremantle,,,,,,,,,Midfielder
+17,Jordan Clark,Fremantle,13.0,8.0,5.0,0.62,0.38,2.0,0.0,3.0,Gen. Defender
+17,Josh Treacy,Fremantle,11.0,4.0,7.0,0.36,0.64,4.0,2.0,0.0,Key Forward
+17,Jye Amiss,Fremantle,7.0,6.0,1.0,0.86,0.14,5.0,1.0,1.0,Key Forward
+17,Karl Worner,Fremantle,16.0,8.0,8.0,0.5,0.5,5.0,0.0,2.0,Gen. Defender
+17,Luke Jackson,Fremantle,13.0,7.0,6.0,0.54,0.46,6.0,2.0,5.0,Ruck
+17,Luke Ryan,Fremantle,21.0,14.0,7.0,0.67,0.33,7.0,0.0,2.0,Gen. Defender
+17,Matthew Johnson,Fremantle,20.0,10.0,10.0,0.5,0.5,3.0,0.0,1.0,Midfielder
+17,Michael Frederick,Fremantle,14.0,13.0,1.0,0.93,0.07,5.0,1.0,3.0,Gen. Forward
+17,Murphy Reid,Fremantle,15.0,10.0,5.0,0.67,0.33,3.0,1.0,0.0,Gen. Forward
+17,Nathan O'Driscoll,Fremantle,26.0,8.0,18.0,0.31,0.69,4.0,0.0,3.0,Midfielder
+17,Neil Erasmus,Fremantle,,,,,,,,,Midfielder
+17,Patrick Voss,Fremantle,,,,,,,,,Key Forward
+17,Sean Darcy,Fremantle,10.0,5.0,5.0,0.5,0.5,1.0,0.0,1.0,Ruck
+17,Shai Bolton,Fremantle,17.0,10.0,7.0,0.59,0.41,2.0,0.0,3.0,Mid-Forward
+18,Andrew Brayshaw,Fremantle,29.0,16.0,13.0,0.55,0.45,4.0,0.0,14.0,Midfielder
+18,Bailey Banfield,Fremantle,,,,,,,,,Gen. Defender
+18,Brennan Cox,Fremantle,8.0,8.0,0.0,1.0,0.0,3.0,0.0,2.0,Key Defender
+18,Caleb Serong,Fremantle,29.0,16.0,13.0,0.55,0.45,3.0,0.0,5.0,Midfielder
+18,Corey Wagner,Fremantle,18.0,12.0,6.0,0.67,0.33,4.0,0.0,7.0,Midfielder
+18,Heath Chapman,Fremantle,12.0,8.0,4.0,0.67,0.33,4.0,0.0,5.0,Gen. Defender
+18,Isaiah Dudley,Fremantle,,,,,,,,,Gen. Forward
+18,Jaeger O'Meara,Fremantle,9.0,4.0,5.0,0.44,0.56,0.0,0.0,8.0,Midfielder
+18,Jordan Clark,Fremantle,31.0,21.0,10.0,0.68,0.32,7.0,0.0,3.0,Gen. Defender
+18,Josh Treacy,Fremantle,13.0,10.0,3.0,0.77,0.23,5.0,1.0,3.0,Key Forward
+18,Jye Amiss,Fremantle,8.0,6.0,2.0,0.75,0.25,4.0,2.0,0.0,Key Forward
+18,Karl Worner,Fremantle,12.0,7.0,5.0,0.58,0.42,2.0,0.0,2.0,Gen. Defender
+18,Luke Jackson,Fremantle,13.0,5.0,8.0,0.38,0.62,1.0,0.0,6.0,Ruck
+18,Luke Ryan,Fremantle,22.0,15.0,7.0,0.68,0.32,5.0,0.0,5.0,Gen. Defender
+18,Matthew Johnson,Fremantle,21.0,12.0,9.0,0.57,0.43,2.0,0.0,9.0,Midfielder
+18,Michael Frederick,Fremantle,13.0,10.0,3.0,0.77,0.23,3.0,2.0,3.0,Gen. Forward
+18,Murphy Reid,Fremantle,13.0,8.0,5.0,0.62,0.38,1.0,0.0,5.0,Gen. Forward
+18,Nathan O'Driscoll,Fremantle,18.0,10.0,8.0,0.56,0.44,5.0,0.0,4.0,Midfielder
+18,Oscar McDonald,Fremantle,7.0,6.0,1.0,0.86,0.14,5.0,0.0,2.0,Key Defender
+18,Patrick Voss,Fremantle,9.0,7.0,2.0,0.78,0.22,3.0,1.0,4.0,Key Forward
+18,Sam Switkowski,Fremantle,16.0,6.0,10.0,0.38,0.62,2.0,3.0,3.0,Gen. Forward
+18,Sean Darcy,Fremantle,12.0,3.0,9.0,0.25,0.75,1.0,1.0,2.0,Ruck
+18,Shai Bolton,Fremantle,19.0,7.0,12.0,0.37,0.63,2.0,2.0,3.0,Mid-Forward
+19,Andrew Brayshaw,Fremantle,21.0,8.0,13.0,0.38,0.62,3.0,0.0,10.0,Midfielder
+19,Bailey Banfield,Fremantle,20.0,11.0,9.0,0.55,0.45,6.0,0.0,0.0,Gen. Defender
+19,Brennan Cox,Fremantle,13.0,10.0,3.0,0.77,0.23,7.0,0.0,0.0,Key Defender
+19,Caleb Serong,Fremantle,37.0,21.0,16.0,0.57,0.43,3.0,1.0,3.0,Midfielder
+19,Corey Wagner,Fremantle,10.0,5.0,5.0,0.5,0.5,1.0,0.0,2.0,Midfielder
+19,Hayden Young,Fremantle,,,,,,,,,Midfielder
+19,Heath Chapman,Fremantle,10.0,7.0,3.0,0.7,0.3,5.0,0.0,4.0,Gen. Defender
+19,Jaeger O'Meara,Fremantle,23.0,9.0,14.0,0.39,0.61,2.0,1.0,4.0,Midfielder
+19,Jordan Clark,Fremantle,24.0,15.0,9.0,0.62,0.38,3.0,0.0,5.0,Gen. Defender
+19,Josh Treacy,Fremantle,9.0,5.0,4.0,0.56,0.44,3.0,0.0,2.0,Key Forward
+19,Jye Amiss,Fremantle,3.0,3.0,0.0,1.0,0.0,2.0,2.0,0.0,Key Forward
+19,Karl Worner,Fremantle,,,,,,,,,Gen. Defender
+19,Luke Jackson,Fremantle,16.0,5.0,11.0,0.31,0.69,4.0,1.0,6.0,Ruck
+19,Luke Ryan,Fremantle,25.0,17.0,8.0,0.68,0.32,6.0,0.0,1.0,Gen. Defender
+19,Matthew Johnson,Fremantle,14.0,7.0,7.0,0.5,0.5,3.0,0.0,2.0,Midfielder
+19,Michael Frederick,Fremantle,8.0,4.0,4.0,0.5,0.5,3.0,0.0,2.0,Gen. Forward
+19,Murphy Reid,Fremantle,14.0,7.0,7.0,0.5,0.5,4.0,0.0,2.0,Gen. Forward
+19,Nathan O'Driscoll,Fremantle,13.0,5.0,8.0,0.38,0.62,2.0,0.0,4.0,Midfielder
+19,Oscar McDonald,Fremantle,11.0,8.0,3.0,0.73,0.27,5.0,0.0,2.0,Key Defender
+19,Patrick Voss,Fremantle,12.0,10.0,2.0,0.83,0.17,5.0,6.0,2.0,Key Forward
+19,Sam Switkowski,Fremantle,14.0,4.0,10.0,0.29,0.71,5.0,0.0,5.0,Gen. Forward
+19,Sean Darcy,Fremantle,15.0,5.0,10.0,0.33,0.67,3.0,1.0,4.0,Ruck
+19,Shai Bolton,Fremantle,14.0,9.0,5.0,0.64,0.36,2.0,0.0,2.0,Mid-Forward
+20,Andrew Brayshaw,Fremantle,32.0,12.0,20.0,0.38,0.62,1.0,0.0,2.0,Midfielder
+20,Bailey Banfield,Fremantle,17.0,10.0,7.0,0.59,0.41,5.0,0.0,1.0,Gen. Defender
+20,Brennan Cox,Fremantle,10.0,3.0,7.0,0.3,0.7,4.0,0.0,2.0,Key Defender
+20,Caleb Serong,Fremantle,20.0,8.0,12.0,0.4,0.6,0.0,0.0,5.0,Midfielder
+20,Hayden Young,Fremantle,,,,,,,,,Midfielder
+20,Heath Chapman,Fremantle,10.0,4.0,6.0,0.4,0.6,3.0,0.0,2.0,Gen. Defender
+20,Isaiah Dudley,Fremantle,10.0,8.0,2.0,0.8,0.2,3.0,1.0,1.0,Gen. Forward
+20,Jaeger O'Meara,Fremantle,16.0,8.0,8.0,0.5,0.5,3.0,0.0,3.0,Midfielder
+20,Jordan Clark,Fremantle,21.0,16.0,5.0,0.76,0.24,3.0,0.0,1.0,Gen. Defender
+20,Josh Treacy,Fremantle,9.0,6.0,3.0,0.67,0.33,2.0,0.0,3.0,Key Forward
+20,Jye Amiss,Fremantle,10.0,8.0,2.0,0.8,0.2,6.0,3.0,1.0,Key Forward
+20,Karl Worner,Fremantle,13.0,6.0,7.0,0.46,0.54,3.0,0.0,3.0,Gen. Defender
+20,Luke Jackson,Fremantle,21.0,7.0,14.0,0.33,0.67,5.0,1.0,4.0,Ruck
+20,Luke Ryan,Fremantle,15.0,10.0,5.0,0.67,0.33,4.0,0.0,0.0,Gen. Defender
+20,Michael Frederick,Fremantle,10.0,8.0,2.0,0.8,0.2,3.0,4.0,3.0,Gen. Forward
+20,Murphy Reid,Fremantle,23.0,11.0,12.0,0.48,0.52,4.0,1.0,3.0,Gen. Forward
+20,Nathan O'Driscoll,Fremantle,8.0,5.0,3.0,0.62,0.38,2.0,0.0,2.0,Midfielder
+20,Neil Erasmus,Fremantle,,,,,,,,,Midfielder
+20,Oscar McDonald,Fremantle,5.0,5.0,0.0,1.0,0.0,3.0,0.0,2.0,Key Defender
+20,Patrick Voss,Fremantle,9.0,8.0,1.0,0.89,0.11,6.0,3.0,0.0,Key Forward
+20,Sam Switkowski,Fremantle,18.0,9.0,9.0,0.5,0.5,2.0,1.0,2.0,Gen. Forward
+20,Sean Darcy,Fremantle,11.0,6.0,5.0,0.55,0.45,1.0,0.0,2.0,Ruck
+20,Shai Bolton,Fremantle,25.0,14.0,11.0,0.56,0.44,4.0,1.0,1.0,Mid-Forward
+21,Andrew Brayshaw,Fremantle,23.0,12.0,11.0,0.52,0.48,4.0,0.0,8.0,Midfielder
+21,Bailey Banfield,Fremantle,16.0,11.0,5.0,0.69,0.31,4.0,0.0,2.0,Gen. Defender
+21,Brennan Cox,Fremantle,9.0,7.0,2.0,0.78,0.22,4.0,0.0,2.0,Key Defender
+21,Caleb Serong,Fremantle,19.0,10.0,9.0,0.53,0.47,0.0,0.0,6.0,Midfielder
+21,Hayden Young,Fremantle,,,,,,,,,Midfielder
+21,Heath Chapman,Fremantle,8.0,6.0,2.0,0.75,0.25,4.0,0.0,3.0,Gen. Defender
+21,Isaiah Dudley,Fremantle,8.0,2.0,6.0,0.25,0.75,0.0,2.0,1.0,Gen. Forward
+21,Jaeger O'Meara,Fremantle,15.0,9.0,6.0,0.6,0.4,2.0,0.0,7.0,Midfielder
+21,Jordan Clark,Fremantle,30.0,21.0,9.0,0.7,0.3,1.0,0.0,4.0,Gen. Defender
+21,Josh Treacy,Fremantle,13.0,10.0,3.0,0.77,0.23,5.0,3.0,1.0,Key Forward
+21,Jye Amiss,Fremantle,8.0,7.0,1.0,0.88,0.12,5.0,3.0,0.0,Key Forward
+21,Karl Worner,Fremantle,15.0,10.0,5.0,0.67,0.33,3.0,0.0,9.0,Gen. Defender
+21,Luke Jackson,Fremantle,27.0,7.0,20.0,0.26,0.74,1.0,1.0,6.0,Ruck
+21,Luke Ryan,Fremantle,17.0,7.0,10.0,0.41,0.59,2.0,0.0,1.0,Gen. Defender
+21,Michael Frederick,Fremantle,10.0,6.0,4.0,0.6,0.4,2.0,0.0,4.0,Gen. Forward
+21,Murphy Reid,Fremantle,10.0,5.0,5.0,0.5,0.5,1.0,1.0,0.0,Gen. Forward
+21,Nathan O'Driscoll,Fremantle,10.0,7.0,3.0,0.7,0.3,1.0,0.0,4.0,Midfielder
+21,Neil Erasmus,Fremantle,,,,,,,,,Midfielder
+21,Oscar McDonald,Fremantle,12.0,7.0,5.0,0.58,0.42,4.0,1.0,4.0,Key Defender
+21,Patrick Voss,Fremantle,10.0,7.0,3.0,0.7,0.3,3.0,3.0,2.0,Key Forward
+21,Sam Switkowski,Fremantle,11.0,7.0,4.0,0.64,0.36,2.0,1.0,6.0,Gen. Forward
+21,Sean Darcy,Fremantle,10.0,7.0,3.0,0.7,0.3,1.0,0.0,6.0,Ruck
+21,Shai Bolton,Fremantle,16.0,7.0,9.0,0.44,0.56,1.0,0.0,3.0,Mid-Forward
+22,Alex Pearce,Fremantle,9.0,5.0,4.0,0.56,0.44,5.0,1.0,1.0,Key Defender
+22,Andrew Brayshaw,Fremantle,23.0,8.0,15.0,0.35,0.65,2.0,0.0,5.0,Midfielder
+22,Bailey Banfield,Fremantle,15.0,9.0,6.0,0.6,0.4,0.0,0.0,1.0,Gen. Defender
+22,Brennan Cox,Fremantle,7.0,5.0,2.0,0.71,0.29,2.0,0.0,2.0,Key Defender
+22,Caleb Serong,Fremantle,28.0,15.0,13.0,0.54,0.46,2.0,1.0,2.0,Midfielder
+22,Heath Chapman,Fremantle,10.0,8.0,2.0,0.8,0.2,4.0,0.0,1.0,Gen. Defender
+22,Isaiah Dudley,Fremantle,,,,,,,,,Gen. Forward
+22,Jaeger O'Meara,Fremantle,26.0,17.0,9.0,0.65,0.35,4.0,0.0,2.0,Midfielder
+22,Jordan Clark,Fremantle,20.0,9.0,11.0,0.45,0.55,0.0,0.0,3.0,Gen. Defender
+22,Josh Treacy,Fremantle,10.0,4.0,6.0,0.4,0.6,2.0,2.0,2.0,Key Forward
+22,Jye Amiss,Fremantle,5.0,3.0,2.0,0.6,0.4,3.0,0.0,0.0,Key Forward
+22,Karl Worner,Fremantle,15.0,8.0,7.0,0.53,0.47,4.0,0.0,0.0,Gen. Defender
+22,Luke Jackson,Fremantle,23.0,12.0,11.0,0.52,0.48,9.0,0.0,3.0,Ruck
+22,Luke Ryan,Fremantle,17.0,14.0,3.0,0.82,0.18,6.0,0.0,3.0,Gen. Defender
+22,Michael Frederick,Fremantle,17.0,13.0,4.0,0.76,0.24,5.0,2.0,2.0,Gen. Forward
+22,Murphy Reid,Fremantle,14.0,6.0,8.0,0.43,0.57,2.0,2.0,0.0,Gen. Forward
+22,Nat Fyfe,Fremantle,,,,,,,,,Midfielder
+22,Nathan O'Driscoll,Fremantle,12.0,6.0,6.0,0.5,0.5,3.0,0.0,2.0,Midfielder
+22,Neil Erasmus,Fremantle,26.0,12.0,14.0,0.46,0.54,6.0,0.0,3.0,Midfielder
+22,Patrick Voss,Fremantle,10.0,7.0,3.0,0.7,0.3,5.0,3.0,1.0,Key Forward
+22,Sam Switkowski,Fremantle,12.0,5.0,7.0,0.42,0.58,2.0,0.0,2.0,Gen. Forward
+22,Sean Darcy,Fremantle,15.0,10.0,5.0,0.67,0.33,4.0,0.0,1.0,Ruck
+22,Shai Bolton,Fremantle,19.0,11.0,8.0,0.58,0.42,6.0,2.0,3.0,Mid-Forward
+23,Alex Pearce,Fremantle,13.0,9.0,4.0,0.69,0.31,7.0,0.0,0.0,Key Defender
+23,Andrew Brayshaw,Fremantle,22.0,14.0,8.0,0.64,0.36,0.0,1.0,6.0,Midfielder
+23,Bailey Banfield,Fremantle,15.0,12.0,3.0,0.8,0.2,5.0,0.0,2.0,Gen. Defender
+23,Brennan Cox,Fremantle,8.0,5.0,3.0,0.62,0.38,5.0,0.0,0.0,Key Defender
+23,Caleb Serong,Fremantle,26.0,11.0,15.0,0.42,0.58,1.0,0.0,5.0,Midfielder
+23,Corey Wagner,Fremantle,,,,,,,,,Midfielder
+23,Heath Chapman,Fremantle,7.0,4.0,3.0,0.57,0.43,4.0,0.0,3.0,Gen. Defender
+23,Jaeger O'Meara,Fremantle,12.0,6.0,6.0,0.5,0.5,2.0,0.0,1.0,Midfielder
+23,Jordan Clark,Fremantle,24.0,17.0,7.0,0.71,0.29,4.0,0.0,3.0,Gen. Defender
+23,Josh Treacy,Fremantle,13.0,9.0,4.0,0.69,0.31,7.0,2.0,3.0,Key Forward
+23,Jye Amiss,Fremantle,3.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,Key Forward
+23,Karl Worner,Fremantle,13.0,6.0,7.0,0.46,0.54,3.0,0.0,2.0,Gen. Defender
+23,Luke Jackson,Fremantle,11.0,6.0,5.0,0.55,0.45,2.0,1.0,1.0,Ruck
+23,Luke Ryan,Fremantle,18.0,16.0,2.0,0.89,0.11,5.0,0.0,1.0,Gen. Defender
+23,Michael Frederick,Fremantle,13.0,9.0,4.0,0.69,0.31,4.0,0.0,2.0,Gen. Forward
+23,Murphy Reid,Fremantle,13.0,6.0,7.0,0.46,0.54,1.0,1.0,1.0,Gen. Forward
+23,Nat Fyfe,Fremantle,,,,,,,,,Midfielder
+23,Nathan O'Driscoll,Fremantle,5.0,3.0,2.0,0.6,0.4,1.0,0.0,1.0,Midfielder
+23,Neil Erasmus,Fremantle,17.0,7.0,10.0,0.41,0.59,1.0,0.0,1.0,Midfielder
+23,Patrick Voss,Fremantle,7.0,3.0,4.0,0.43,0.57,2.0,0.0,0.0,Key Forward
+23,Sam Switkowski,Fremantle,9.0,5.0,4.0,0.56,0.44,1.0,0.0,3.0,Gen. Forward
+23,Sean Darcy,Fremantle,12.0,6.0,6.0,0.5,0.5,2.0,0.0,1.0,Ruck
+23,Shai Bolton,Fremantle,9.0,3.0,6.0,0.33,0.67,1.0,0.0,2.0,Mid-Forward
+24,Alex Pearce,Fremantle,8.0,2.0,6.0,0.25,0.75,1.0,0.0,0.0,Key Defender
+24,Andrew Brayshaw,Fremantle,19.0,11.0,8.0,0.58,0.42,1.0,0.0,7.0,Midfielder
+24,Bailey Banfield,Fremantle,20.0,14.0,6.0,0.7,0.3,8.0,0.0,4.0,Gen. Defender
+24,Brennan Cox,Fremantle,11.0,5.0,6.0,0.45,0.55,5.0,0.0,3.0,Key Defender
+24,Caleb Serong,Fremantle,24.0,15.0,9.0,0.62,0.38,0.0,0.0,5.0,Midfielder
+24,Corey Wagner,Fremantle,,,,,,,,,Midfielder
+24,Hayden Young,Fremantle,16.0,9.0,7.0,0.56,0.44,0.0,0.0,4.0,Midfielder
+24,Heath Chapman,Fremantle,14.0,9.0,5.0,0.64,0.36,3.0,0.0,1.0,Gen. Defender
+24,Jaeger O'Meara,Fremantle,11.0,6.0,5.0,0.55,0.45,2.0,0.0,3.0,Midfielder
+24,Jordan Clark,Fremantle,23.0,14.0,9.0,0.61,0.39,5.0,0.0,0.0,Gen. Defender
+24,Josh Treacy,Fremantle,13.0,11.0,2.0,0.85,0.15,8.0,3.0,3.0,Key Forward
+24,Jye Amiss,Fremantle,10.0,8.0,2.0,0.8,0.2,5.0,3.0,3.0,Key Forward
+24,Karl Worner,Fremantle,12.0,7.0,5.0,0.58,0.42,4.0,0.0,5.0,Gen. Defender
+24,Luke Jackson,Fremantle,12.0,4.0,8.0,0.33,0.67,3.0,2.0,4.0,Ruck
+24,Luke Ryan,Fremantle,20.0,18.0,2.0,0.9,0.1,6.0,0.0,3.0,Gen. Defender
+24,Michael Frederick,Fremantle,13.0,7.0,6.0,0.54,0.46,2.0,2.0,3.0,Gen. Forward
+24,Murphy Reid,Fremantle,19.0,9.0,10.0,0.47,0.53,0.0,1.0,2.0,Gen. Forward
+24,Nat Fyfe,Fremantle,,,,,,,,,Midfielder
+24,Neil Erasmus,Fremantle,20.0,7.0,13.0,0.35,0.65,2.0,1.0,0.0,Midfielder
+24,Patrick Voss,Fremantle,10.0,6.0,4.0,0.6,0.4,3.0,3.0,2.0,Key Forward
+24,Sam Switkowski,Fremantle,17.0,8.0,9.0,0.47,0.53,1.0,0.0,4.0,Gen. Forward
+24,Sean Darcy,Fremantle,7.0,2.0,5.0,0.29,0.71,1.0,0.0,3.0,Ruck
+24,Shai Bolton,Fremantle,19.0,9.0,10.0,0.47,0.53,3.0,2.0,4.0,Mid-Forward

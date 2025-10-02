@@ -1,0 +1,530 @@
+Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
+1,Brandon Starcevich,Brisbane,13.0,6.0,7.0,0.46,0.54,3.0,0.0,2.0,Gen. Defender
+1,Callum Ah Chee,Brisbane,14.0,7.0,7.0,0.5,0.5,3.0,1.0,1.0,Gen. Forward
+1,Cam Rayner,Brisbane,13.0,8.0,5.0,0.62,0.38,2.0,0.0,0.0,Gen. Forward
+1,Conor McKenna,Brisbane,10.0,7.0,3.0,0.7,0.3,1.0,0.0,0.0,Gen. Forward
+1,Darcy Fort,Brisbane,14.0,10.0,4.0,0.71,0.29,4.0,1.0,1.0,Ruck
+1,Darcy Wilmot,Brisbane,25.0,17.0,8.0,0.68,0.32,4.0,0.0,4.0,Gen. Defender
+1,Dayne Zorko,Brisbane,24.0,20.0,4.0,0.83,0.17,6.0,2.0,3.0,Gen. Defender
+1,Eric Hipwood,Brisbane,5.0,4.0,1.0,0.8,0.2,3.0,1.0,1.0,Key Forward
+1,Harris Andrews,Brisbane,7.0,5.0,2.0,0.71,0.29,2.0,0.0,0.0,Key Defender
+1,Hugh McCluggage,Brisbane,21.0,11.0,10.0,0.52,0.48,2.0,0.0,1.0,Midfielder
+1,Jack Payne,Brisbane,8.0,4.0,4.0,0.5,0.5,2.0,0.0,1.0,Key Defender
+1,Jarrod Berry,Brisbane,27.0,16.0,11.0,0.59,0.41,10.0,0.0,1.0,Midfielder
+1,Jaspa Fletcher,Brisbane,12.0,6.0,6.0,0.5,0.5,0.0,0.0,2.0,Gen. Defender
+1,Josh Dunkley,Brisbane,27.0,17.0,10.0,0.63,0.37,5.0,1.0,10.0,Midfielder
+1,Kai Lohmann,Brisbane,,,,,,,,,Gen. Forward
+1,Lachie Neale,Brisbane,10.0,5.0,5.0,0.5,0.5,0.0,0.0,3.0,Midfielder
+1,Levi Ashcroft,Brisbane,25.0,16.0,9.0,0.64,0.36,5.0,0.0,0.0,Midfielder
+1,Logan Morris,Brisbane,5.0,5.0,0.0,1.0,0.0,1.0,1.0,3.0,Key Forward
+1,Noah Answerth,Brisbane,11.0,8.0,3.0,0.73,0.27,3.0,0.0,6.0,Gen. Defender
+1,Oscar McInerney,Brisbane,18.0,12.0,6.0,0.67,0.33,5.0,1.0,1.0,Ruck
+1,Ryan Lester,Brisbane,15.0,10.0,5.0,0.67,0.33,4.0,0.0,2.0,Gen. Defender
+1,Will Ashcroft,Brisbane,21.0,11.0,10.0,0.52,0.48,0.0,0.0,4.0,Midfielder
+1,Zac Bailey,Brisbane,17.0,9.0,8.0,0.53,0.47,1.0,4.0,0.0,Mid-Forward
+2,Bruce Reville,Brisbane,,,,,,,,,Midfielder
+2,Callum Ah Chee,Brisbane,13.0,11.0,2.0,0.85,0.15,8.0,3.0,2.0,Gen. Forward
+2,Cam Rayner,Brisbane,8.0,4.0,4.0,0.5,0.5,2.0,0.0,8.0,Gen. Forward
+2,Conor McKenna,Brisbane,,,,,,,,,Gen. Forward
+2,Darcy Wilmot,Brisbane,23.0,17.0,6.0,0.74,0.26,7.0,0.0,2.0,Gen. Defender
+2,Dayne Zorko,Brisbane,28.0,26.0,2.0,0.93,0.07,11.0,0.0,3.0,Gen. Defender
+2,Eric Hipwood,Brisbane,15.0,12.0,3.0,0.8,0.2,9.0,2.0,0.0,Key Forward
+2,Harris Andrews,Brisbane,20.0,13.0,7.0,0.65,0.35,12.0,0.0,1.0,Key Defender
+2,Hugh McCluggage,Brisbane,22.0,11.0,11.0,0.5,0.5,3.0,0.0,7.0,Midfielder
+2,Jack Payne,Brisbane,9.0,8.0,1.0,0.89,0.11,6.0,0.0,2.0,Key Defender
+2,Jarrod Berry,Brisbane,26.0,18.0,8.0,0.69,0.31,12.0,0.0,4.0,Midfielder
+2,Jaspa Fletcher,Brisbane,18.0,16.0,2.0,0.89,0.11,9.0,1.0,0.0,Gen. Defender
+2,Josh Dunkley,Brisbane,23.0,13.0,10.0,0.57,0.43,6.0,1.0,6.0,Midfielder
+2,Lachie Neale,Brisbane,35.0,21.0,14.0,0.6,0.4,8.0,1.0,1.0,Midfielder
+2,Levi Ashcroft,Brisbane,17.0,11.0,6.0,0.65,0.35,8.0,0.0,2.0,Midfielder
+2,Logan Morris,Brisbane,8.0,6.0,2.0,0.75,0.25,4.0,3.0,2.0,Key Forward
+2,Noah Answerth,Brisbane,16.0,11.0,5.0,0.69,0.31,8.0,0.0,0.0,Gen. Defender
+2,Oscar McInerney,Brisbane,13.0,6.0,7.0,0.46,0.54,1.0,0.0,4.0,Ruck
+2,Ryan Lester,Brisbane,19.0,14.0,5.0,0.74,0.26,9.0,0.0,3.0,Gen. Defender
+2,Sam Day,Brisbane,7.0,3.0,4.0,0.43,0.57,2.0,0.0,3.0,Key Forward
+2,Will Ashcroft,Brisbane,24.0,16.0,8.0,0.67,0.33,7.0,0.0,1.0,Midfielder
+2,Will McLachlan,Brisbane,8.0,5.0,3.0,0.62,0.38,2.0,2.0,2.0,Gen. Forward
+2,Zac Bailey,Brisbane,14.0,10.0,4.0,0.71,0.29,7.0,1.0,2.0,Mid-Forward
+3,Bruce Reville,Brisbane,,,,,,,,,Midfielder
+3,Callum Ah Chee,Brisbane,11.0,5.0,6.0,0.45,0.55,5.0,0.0,2.0,Gen. Forward
+3,Cam Rayner,Brisbane,15.0,10.0,5.0,0.67,0.33,3.0,1.0,1.0,Gen. Forward
+3,Charlie Cameron,Brisbane,7.0,6.0,1.0,0.86,0.14,1.0,1.0,4.0,Gen. Forward
+3,Darcy Fort,Brisbane,10.0,8.0,2.0,0.8,0.2,0.0,0.0,3.0,Ruck
+3,Darcy Wilmot,Brisbane,16.0,9.0,7.0,0.56,0.44,7.0,0.0,2.0,Gen. Defender
+3,Dayne Zorko,Brisbane,28.0,23.0,5.0,0.82,0.18,7.0,1.0,4.0,Gen. Defender
+3,Eric Hipwood,Brisbane,8.0,6.0,2.0,0.75,0.25,4.0,1.0,3.0,Key Forward
+3,Harris Andrews,Brisbane,12.0,9.0,3.0,0.75,0.25,8.0,0.0,3.0,Key Defender
+3,Hugh McCluggage,Brisbane,30.0,17.0,13.0,0.57,0.43,4.0,0.0,8.0,Midfielder
+3,Jack Payne,Brisbane,11.0,11.0,0.0,1.0,0.0,7.0,0.0,1.0,Key Defender
+3,Jarrod Berry,Brisbane,17.0,12.0,5.0,0.71,0.29,4.0,1.0,3.0,Midfielder
+3,Jaspa Fletcher,Brisbane,13.0,8.0,5.0,0.62,0.38,3.0,0.0,1.0,Gen. Defender
+3,Josh Dunkley,Brisbane,26.0,21.0,5.0,0.81,0.19,4.0,0.0,6.0,Midfielder
+3,Kai Lohmann,Brisbane,,,,,,,,,Gen. Forward
+3,Lachie Neale,Brisbane,20.0,15.0,5.0,0.75,0.25,3.0,0.0,6.0,Midfielder
+3,Levi Ashcroft,Brisbane,12.0,9.0,3.0,0.75,0.25,5.0,1.0,1.0,Midfielder
+3,Logan Morris,Brisbane,10.0,4.0,6.0,0.4,0.6,2.0,1.0,5.0,Key Forward
+3,Noah Answerth,Brisbane,17.0,12.0,5.0,0.71,0.29,5.0,0.0,1.0,Gen. Defender
+3,Ryan Lester,Brisbane,15.0,13.0,2.0,0.87,0.13,6.0,0.0,1.0,Gen. Defender
+3,Sam Day,Brisbane,6.0,4.0,2.0,0.67,0.33,3.0,0.0,4.0,Key Forward
+3,Will Ashcroft,Brisbane,33.0,11.0,22.0,0.33,0.67,6.0,1.0,3.0,Midfielder
+3,Zac Bailey,Brisbane,19.0,11.0,8.0,0.58,0.42,3.0,1.0,6.0,Mid-Forward
+4,Bruce Reville,Brisbane,9.0,7.0,2.0,0.78,0.22,5.0,1.0,3.0,Midfielder
+4,Callum Ah Chee,Brisbane,9.0,6.0,3.0,0.67,0.33,7.0,1.0,3.0,Gen. Forward
+4,Cam Rayner,Brisbane,22.0,9.0,13.0,0.41,0.59,4.0,0.0,6.0,Gen. Forward
+4,Charlie Cameron,Brisbane,6.0,5.0,1.0,0.83,0.17,4.0,3.0,1.0,Gen. Forward
+4,Darcy Wilmot,Brisbane,21.0,17.0,4.0,0.81,0.19,4.0,0.0,3.0,Gen. Defender
+4,Dayne Zorko,Brisbane,23.0,17.0,6.0,0.74,0.26,4.0,0.0,1.0,Gen. Defender
+4,Eric Hipwood,Brisbane,8.0,5.0,3.0,0.62,0.38,4.0,1.0,0.0,Key Forward
+4,Harris Andrews,Brisbane,12.0,9.0,3.0,0.75,0.25,7.0,0.0,1.0,Key Defender
+4,Hugh McCluggage,Brisbane,26.0,12.0,14.0,0.46,0.54,6.0,2.0,12.0,Midfielder
+4,Jack Payne,Brisbane,17.0,12.0,5.0,0.71,0.29,8.0,0.0,1.0,Key Defender
+4,Jarrod Berry,Brisbane,19.0,9.0,10.0,0.47,0.53,0.0,1.0,4.0,Midfielder
+4,Jaspa Fletcher,Brisbane,23.0,17.0,6.0,0.74,0.26,10.0,1.0,1.0,Gen. Defender
+4,Josh Dunkley,Brisbane,30.0,9.0,21.0,0.3,0.7,3.0,0.0,10.0,Midfielder
+4,Lachie Neale,Brisbane,42.0,15.0,27.0,0.36,0.64,1.0,0.0,4.0,Midfielder
+4,Levi Ashcroft,Brisbane,22.0,11.0,11.0,0.5,0.5,4.0,1.0,1.0,Midfielder
+4,Logan Morris,Brisbane,11.0,7.0,4.0,0.64,0.36,6.0,2.0,2.0,Key Forward
+4,Noah Answerth,Brisbane,9.0,5.0,4.0,0.56,0.44,4.0,0.0,3.0,Gen. Defender
+4,Oscar McInerney,Brisbane,11.0,5.0,6.0,0.45,0.55,2.0,0.0,4.0,Ruck
+4,Ryan Lester,Brisbane,7.0,4.0,3.0,0.57,0.43,1.0,0.0,2.0,Gen. Defender
+4,Sam Day,Brisbane,9.0,5.0,4.0,0.56,0.44,4.0,0.0,4.0,Key Forward
+4,Will Ashcroft,Brisbane,24.0,16.0,8.0,0.67,0.33,4.0,2.0,4.0,Midfielder
+4,Will McLachlan,Brisbane,,,,,,,,,Gen. Forward
+4,Zac Bailey,Brisbane,13.0,10.0,3.0,0.77,0.23,2.0,3.0,3.0,Mid-Forward
+5,Bruce Reville,Brisbane,,,,,,,,,Midfielder
+5,Callum Ah Chee,Brisbane,22.0,8.0,14.0,0.36,0.64,6.0,2.0,4.0,Gen. Forward
+5,Cam Rayner,Brisbane,14.0,8.0,6.0,0.57,0.43,3.0,2.0,1.0,Gen. Forward
+5,Charlie Cameron,Brisbane,8.0,6.0,2.0,0.75,0.25,4.0,0.0,7.0,Gen. Forward
+5,Darcy Wilmot,Brisbane,16.0,11.0,5.0,0.69,0.31,3.0,1.0,1.0,Gen. Defender
+5,Dayne Zorko,Brisbane,23.0,20.0,3.0,0.87,0.13,6.0,0.0,2.0,Gen. Defender
+5,Eric Hipwood,Brisbane,12.0,11.0,1.0,0.92,0.08,5.0,5.0,2.0,Key Forward
+5,Harris Andrews,Brisbane,14.0,13.0,1.0,0.93,0.07,11.0,0.0,1.0,Key Defender
+5,Hugh McCluggage,Brisbane,32.0,15.0,17.0,0.47,0.53,3.0,0.0,6.0,Midfielder
+5,Jack Payne,Brisbane,16.0,9.0,7.0,0.56,0.44,5.0,0.0,2.0,Key Defender
+5,Jarrod Berry,Brisbane,19.0,12.0,7.0,0.63,0.37,5.0,0.0,5.0,Midfielder
+5,Jaspa Fletcher,Brisbane,25.0,18.0,7.0,0.72,0.28,6.0,0.0,3.0,Gen. Defender
+5,Josh Dunkley,Brisbane,22.0,10.0,12.0,0.45,0.55,4.0,0.0,8.0,Midfielder
+5,Lachie Neale,Brisbane,28.0,14.0,14.0,0.5,0.5,7.0,0.0,2.0,Midfielder
+5,Levi Ashcroft,Brisbane,22.0,16.0,6.0,0.73,0.27,6.0,1.0,2.0,Midfielder
+5,Logan Morris,Brisbane,15.0,9.0,6.0,0.6,0.4,4.0,4.0,1.0,Key Forward
+5,Noah Answerth,Brisbane,12.0,9.0,3.0,0.75,0.25,5.0,0.0,2.0,Gen. Defender
+5,Oscar McInerney,Brisbane,8.0,4.0,4.0,0.5,0.5,0.0,0.0,2.0,Ruck
+5,Ryan Lester,Brisbane,14.0,8.0,6.0,0.57,0.43,3.0,0.0,0.0,Gen. Defender
+5,Sam Day,Brisbane,7.0,6.0,1.0,0.86,0.14,6.0,0.0,3.0,Key Forward
+5,Will Ashcroft,Brisbane,31.0,14.0,17.0,0.45,0.55,1.0,0.0,5.0,Midfielder
+5,Will McLachlan,Brisbane,,,,,,,,,Gen. Forward
+5,Zac Bailey,Brisbane,20.0,16.0,4.0,0.8,0.2,5.0,3.0,2.0,Mid-Forward
+6,Callum Ah Chee,Brisbane,6.0,2.0,4.0,0.33,0.67,3.0,0.0,0.0,Gen. Forward
+6,Cam Rayner,Brisbane,9.0,7.0,2.0,0.78,0.22,3.0,2.0,0.0,Gen. Forward
+6,Charlie Cameron,Brisbane,10.0,9.0,1.0,0.9,0.1,7.0,0.0,1.0,Gen. Forward
+6,Darcy Wilmot,Brisbane,15.0,13.0,2.0,0.87,0.13,7.0,0.0,0.0,Gen. Defender
+6,Dayne Zorko,Brisbane,20.0,19.0,1.0,0.95,0.05,6.0,0.0,1.0,Gen. Defender
+6,Eric Hipwood,Brisbane,13.0,10.0,3.0,0.77,0.23,5.0,2.0,2.0,Key Forward
+6,Harris Andrews,Brisbane,14.0,12.0,2.0,0.86,0.14,10.0,0.0,2.0,Key Defender
+6,Hugh McCluggage,Brisbane,20.0,9.0,11.0,0.45,0.55,4.0,0.0,1.0,Midfielder
+6,Jack Payne,Brisbane,12.0,10.0,2.0,0.83,0.17,5.0,0.0,0.0,Key Defender
+6,James Tunstill,Brisbane,,,,,,,,,Midfielder
+6,Jarrod Berry,Brisbane,18.0,11.0,7.0,0.61,0.39,5.0,0.0,5.0,Midfielder
+6,Jaspa Fletcher,Brisbane,18.0,11.0,7.0,0.61,0.39,6.0,0.0,2.0,Gen. Defender
+6,Josh Dunkley,Brisbane,21.0,14.0,7.0,0.67,0.33,8.0,0.0,4.0,Midfielder
+6,Lachie Neale,Brisbane,25.0,10.0,15.0,0.4,0.6,5.0,0.0,1.0,Midfielder
+6,Levi Ashcroft,Brisbane,19.0,10.0,9.0,0.53,0.47,5.0,0.0,0.0,Midfielder
+6,Logan Morris,Brisbane,10.0,5.0,5.0,0.5,0.5,3.0,0.0,0.0,Key Forward
+6,Noah Answerth,Brisbane,13.0,13.0,0.0,1.0,0.0,7.0,0.0,1.0,Gen. Defender
+6,Oscar McInerney,Brisbane,13.0,10.0,3.0,0.77,0.23,4.0,2.0,0.0,Ruck
+6,Ryan Lester,Brisbane,13.0,9.0,4.0,0.69,0.31,7.0,0.0,1.0,Gen. Defender
+6,Sam Day,Brisbane,14.0,10.0,4.0,0.71,0.29,8.0,1.0,0.0,Key Forward
+6,Sam Marshall,Brisbane,,,,,,,,,Midfielder
+6,Will Ashcroft,Brisbane,13.0,5.0,8.0,0.38,0.62,1.0,0.0,2.0,Midfielder
+6,Zac Bailey,Brisbane,10.0,7.0,3.0,0.7,0.3,2.0,0.0,2.0,Mid-Forward
+7,Callum Ah Chee,Brisbane,10.0,7.0,3.0,0.7,0.3,2.0,1.0,1.0,Gen. Forward
+7,Cam Rayner,Brisbane,19.0,10.0,9.0,0.53,0.47,1.0,0.0,2.0,Gen. Forward
+7,Charlie Cameron,Brisbane,12.0,10.0,2.0,0.83,0.17,6.0,0.0,1.0,Gen. Forward
+7,Darcy Gardiner,Brisbane,14.0,7.0,7.0,0.5,0.5,4.0,0.0,1.0,Key Defender
+7,Darcy Wilmot,Brisbane,30.0,18.0,12.0,0.6,0.4,7.0,0.0,2.0,Gen. Defender
+7,Dayne Zorko,Brisbane,34.0,26.0,8.0,0.76,0.24,9.0,0.0,2.0,Gen. Defender
+7,Eric Hipwood,Brisbane,14.0,10.0,4.0,0.71,0.29,8.0,4.0,1.0,Key Forward
+7,Harris Andrews,Brisbane,9.0,6.0,3.0,0.67,0.33,3.0,0.0,0.0,Key Defender
+7,Hugh McCluggage,Brisbane,21.0,14.0,7.0,0.67,0.33,4.0,1.0,11.0,Midfielder
+7,James Tunstill,Brisbane,,,,,,,,,Midfielder
+7,Jarrod Berry,Brisbane,19.0,10.0,9.0,0.53,0.47,5.0,1.0,3.0,Midfielder
+7,Jaspa Fletcher,Brisbane,20.0,12.0,8.0,0.6,0.4,7.0,0.0,2.0,Gen. Defender
+7,Josh Dunkley,Brisbane,24.0,10.0,14.0,0.42,0.58,6.0,0.0,9.0,Midfielder
+7,Kai Lohmann,Brisbane,,,,,,,,,Gen. Forward
+7,Lachie Neale,Brisbane,31.0,16.0,15.0,0.52,0.48,6.0,3.0,4.0,Midfielder
+7,Levi Ashcroft,Brisbane,23.0,12.0,11.0,0.52,0.48,1.0,0.0,1.0,Midfielder
+7,Logan Morris,Brisbane,6.0,5.0,1.0,0.83,0.17,3.0,2.0,0.0,Key Forward
+7,Noah Answerth,Brisbane,14.0,7.0,7.0,0.5,0.5,6.0,0.0,0.0,Gen. Defender
+7,Oscar McInerney,Brisbane,14.0,11.0,3.0,0.79,0.21,2.0,1.0,6.0,Ruck
+7,Ryan Lester,Brisbane,14.0,6.0,8.0,0.43,0.57,4.0,0.0,1.0,Gen. Defender
+7,Sam Day,Brisbane,13.0,5.0,8.0,0.38,0.62,1.0,1.0,1.0,Key Forward
+7,Will Ashcroft,Brisbane,35.0,16.0,19.0,0.46,0.54,4.0,0.0,2.0,Midfielder
+7,Zac Bailey,Brisbane,24.0,15.0,9.0,0.62,0.38,5.0,3.0,5.0,Mid-Forward
+8,Callum Ah Chee,Brisbane,10.0,8.0,2.0,0.8,0.2,4.0,3.0,2.0,Gen. Forward
+8,Cam Rayner,Brisbane,18.0,11.0,7.0,0.61,0.39,3.0,0.0,3.0,Gen. Forward
+8,Charlie Cameron,Brisbane,13.0,11.0,2.0,0.85,0.15,5.0,3.0,1.0,Gen. Forward
+8,Conor McKenna,Brisbane,9.0,7.0,2.0,0.78,0.22,1.0,1.0,5.0,Gen. Forward
+8,Darcy Gardiner,Brisbane,9.0,6.0,3.0,0.67,0.33,2.0,1.0,3.0,Key Defender
+8,Darcy Wilmot,Brisbane,16.0,12.0,4.0,0.75,0.25,8.0,0.0,1.0,Gen. Defender
+8,Dayne Zorko,Brisbane,23.0,20.0,3.0,0.87,0.13,8.0,0.0,2.0,Gen. Defender
+8,Eric Hipwood,Brisbane,12.0,10.0,2.0,0.83,0.17,4.0,0.0,4.0,Key Forward
+8,Harris Andrews,Brisbane,18.0,14.0,4.0,0.78,0.22,12.0,0.0,1.0,Key Defender
+8,Hugh McCluggage,Brisbane,30.0,19.0,11.0,0.63,0.37,4.0,0.0,3.0,Midfielder
+8,Jack Payne,Brisbane,10.0,8.0,2.0,0.8,0.2,6.0,0.0,3.0,Key Defender
+8,Jarrod Berry,Brisbane,18.0,8.0,10.0,0.44,0.56,6.0,1.0,7.0,Midfielder
+8,Jaspa Fletcher,Brisbane,21.0,16.0,5.0,0.76,0.24,9.0,0.0,5.0,Gen. Defender
+8,Josh Dunkley,Brisbane,26.0,16.0,10.0,0.62,0.38,5.0,0.0,6.0,Midfielder
+8,Lachie Neale,Brisbane,25.0,10.0,15.0,0.4,0.6,3.0,0.0,6.0,Midfielder
+8,Levi Ashcroft,Brisbane,29.0,19.0,10.0,0.66,0.34,7.0,0.0,3.0,Midfielder
+8,Noah Answerth,Brisbane,14.0,10.0,4.0,0.71,0.29,5.0,0.0,4.0,Gen. Defender
+8,Oscar McInerney,Brisbane,5.0,3.0,2.0,0.6,0.4,0.0,0.0,1.0,Ruck
+8,Ryan Lester,Brisbane,11.0,9.0,2.0,0.82,0.18,4.0,0.0,1.0,Gen. Defender
+8,Sam Day,Brisbane,,,,,,,,,Key Forward
+8,Will Ashcroft,Brisbane,34.0,19.0,15.0,0.56,0.44,6.0,0.0,3.0,Midfielder
+8,Will McLachlan,Brisbane,,,,,,,,,Gen. Forward
+8,Zac Bailey,Brisbane,16.0,9.0,7.0,0.56,0.44,3.0,0.0,1.0,Mid-Forward
+9,Callum Ah Chee,Brisbane,10.0,3.0,7.0,0.3,0.7,2.0,1.0,2.0,Gen. Forward
+9,Cam Rayner,Brisbane,14.0,12.0,2.0,0.86,0.14,5.0,3.0,2.0,Gen. Forward
+9,Charlie Cameron,Brisbane,9.0,5.0,4.0,0.56,0.44,4.0,1.0,1.0,Gen. Forward
+9,Darcy Fort,Brisbane,11.0,7.0,4.0,0.64,0.36,1.0,0.0,2.0,Ruck
+9,Darcy Gardiner,Brisbane,,,,,,,,,Key Defender
+9,Darcy Wilmot,Brisbane,20.0,13.0,7.0,0.65,0.35,4.0,0.0,3.0,Gen. Defender
+9,Dayne Zorko,Brisbane,39.0,29.0,10.0,0.74,0.26,8.0,0.0,2.0,Gen. Defender
+9,Eric Hipwood,Brisbane,9.0,9.0,0.0,1.0,0.0,8.0,3.0,1.0,Key Forward
+9,Harris Andrews,Brisbane,14.0,7.0,7.0,0.5,0.5,5.0,0.0,1.0,Key Defender
+9,Hugh McCluggage,Brisbane,27.0,10.0,17.0,0.37,0.63,5.0,0.0,10.0,Midfielder
+9,Jack Payne,Brisbane,13.0,8.0,5.0,0.62,0.38,8.0,0.0,2.0,Key Defender
+9,Jarrod Berry,Brisbane,,,,,,,,,Midfielder
+9,Jaspa Fletcher,Brisbane,25.0,16.0,9.0,0.64,0.36,5.0,0.0,1.0,Gen. Defender
+9,Josh Dunkley,Brisbane,27.0,11.0,16.0,0.41,0.59,5.0,0.0,8.0,Midfielder
+9,Kai Lohmann,Brisbane,8.0,6.0,2.0,0.75,0.25,3.0,0.0,3.0,Gen. Forward
+9,Lachie Neale,Brisbane,17.0,6.0,11.0,0.35,0.65,2.0,0.0,5.0,Midfielder
+9,Levi Ashcroft,Brisbane,20.0,15.0,5.0,0.75,0.25,6.0,1.0,1.0,Midfielder
+9,Logan Morris,Brisbane,3.0,1.0,2.0,0.33,0.67,0.0,0.0,3.0,Key Forward
+9,Noah Answerth,Brisbane,18.0,14.0,4.0,0.78,0.22,4.0,0.0,3.0,Gen. Defender
+9,Oscar McInerney,Brisbane,5.0,2.0,3.0,0.4,0.6,1.0,0.0,6.0,Ruck
+9,Ryan Lester,Brisbane,20.0,12.0,8.0,0.6,0.4,6.0,0.0,5.0,Gen. Defender
+9,Will Ashcroft,Brisbane,26.0,13.0,13.0,0.5,0.5,5.0,0.0,5.0,Midfielder
+9,Zac Bailey,Brisbane,16.0,9.0,7.0,0.56,0.44,5.0,1.0,0.0,Mid-Forward
+10,Callum Ah Chee,Brisbane,5.0,5.0,0.0,1.0,0.0,2.0,1.0,1.0,Gen. Forward
+10,Cam Rayner,Brisbane,15.0,5.0,10.0,0.33,0.67,2.0,0.0,1.0,Gen. Forward
+10,Charlie Cameron,Brisbane,13.0,10.0,3.0,0.77,0.23,4.0,0.0,0.0,Gen. Forward
+10,Conor McKenna,Brisbane,,,,,,,,,Gen. Forward
+10,Darcy Fort,Brisbane,11.0,7.0,4.0,0.64,0.36,2.0,0.0,4.0,Ruck
+10,Darcy Gardiner,Brisbane,13.0,8.0,5.0,0.62,0.38,4.0,4.0,0.0,Key Defender
+10,Darcy Wilmot,Brisbane,20.0,10.0,10.0,0.5,0.5,3.0,0.0,2.0,Gen. Defender
+10,Dayne Zorko,Brisbane,27.0,20.0,7.0,0.74,0.26,8.0,0.0,3.0,Gen. Defender
+10,Eric Hipwood,Brisbane,9.0,6.0,3.0,0.67,0.33,4.0,1.0,1.0,Key Forward
+10,Harris Andrews,Brisbane,10.0,5.0,5.0,0.5,0.5,3.0,0.0,1.0,Key Defender
+10,Hugh McCluggage,Brisbane,28.0,14.0,14.0,0.5,0.5,7.0,1.0,2.0,Midfielder
+10,Jack Payne,Brisbane,10.0,7.0,3.0,0.7,0.3,7.0,0.0,1.0,Key Defender
+10,Jaspa Fletcher,Brisbane,22.0,9.0,13.0,0.41,0.59,2.0,1.0,1.0,Gen. Defender
+10,Josh Dunkley,Brisbane,28.0,10.0,18.0,0.36,0.64,4.0,0.0,4.0,Midfielder
+10,Kai Lohmann,Brisbane,5.0,4.0,1.0,0.8,0.2,2.0,0.0,1.0,Gen. Forward
+10,Keidean Coleman,Brisbane,19.0,13.0,6.0,0.68,0.32,6.0,0.0,1.0,Gen. Defender
+10,Lachie Neale,Brisbane,30.0,14.0,16.0,0.47,0.53,6.0,0.0,3.0,Midfielder
+10,Levi Ashcroft,Brisbane,22.0,15.0,7.0,0.68,0.32,7.0,0.0,0.0,Midfielder
+10,Logan Morris,Brisbane,11.0,9.0,2.0,0.82,0.18,5.0,3.0,2.0,Key Forward
+10,Noah Answerth,Brisbane,11.0,7.0,4.0,0.64,0.36,3.0,0.0,2.0,Gen. Defender
+10,Ryan Lester,Brisbane,16.0,10.0,6.0,0.62,0.38,8.0,0.0,5.0,Gen. Defender
+10,Will Ashcroft,Brisbane,30.0,12.0,18.0,0.4,0.6,4.0,0.0,2.0,Midfielder
+10,Zac Bailey,Brisbane,27.0,14.0,13.0,0.52,0.48,8.0,1.0,2.0,Mid-Forward
+11,Callum Ah Chee,Brisbane,20.0,13.0,7.0,0.65,0.35,10.0,4.0,1.0,Gen. Forward
+11,Cam Rayner,Brisbane,10.0,6.0,4.0,0.6,0.4,2.0,2.0,0.0,Gen. Forward
+11,Charlie Cameron,Brisbane,14.0,11.0,3.0,0.79,0.21,5.0,3.0,3.0,Gen. Forward
+11,Darcy Fort,Brisbane,8.0,3.0,5.0,0.38,0.62,3.0,0.0,4.0,Ruck
+11,Darcy Gardiner,Brisbane,9.0,5.0,4.0,0.56,0.44,4.0,0.0,2.0,Key Defender
+11,Darcy Wilmot,Brisbane,13.0,10.0,3.0,0.77,0.23,6.0,0.0,3.0,Gen. Defender
+11,Dayne Zorko,Brisbane,33.0,29.0,4.0,0.88,0.12,9.0,0.0,2.0,Gen. Defender
+11,Deven Robertson,Brisbane,,,,,,,,,Gen. Forward
+11,Eric Hipwood,Brisbane,9.0,5.0,4.0,0.56,0.44,3.0,0.0,0.0,Key Forward
+11,Harris Andrews,Brisbane,13.0,10.0,3.0,0.77,0.23,6.0,0.0,0.0,Key Defender
+11,Hugh McCluggage,Brisbane,24.0,13.0,11.0,0.54,0.46,1.0,0.0,6.0,Midfielder
+11,Jack Payne,Brisbane,9.0,6.0,3.0,0.67,0.33,5.0,0.0,1.0,Key Defender
+11,Jarrod Berry,Brisbane,20.0,15.0,5.0,0.75,0.25,7.0,0.0,6.0,Midfielder
+11,Jaspa Fletcher,Brisbane,21.0,13.0,8.0,0.62,0.38,5.0,0.0,1.0,Gen. Defender
+11,Josh Dunkley,Brisbane,21.0,10.0,11.0,0.48,0.52,5.0,0.0,6.0,Midfielder
+11,Kai Lohmann,Brisbane,12.0,9.0,3.0,0.75,0.25,5.0,0.0,2.0,Gen. Forward
+11,Lachie Neale,Brisbane,32.0,20.0,12.0,0.62,0.38,5.0,0.0,5.0,Midfielder
+11,Levi Ashcroft,Brisbane,22.0,13.0,9.0,0.59,0.41,5.0,1.0,2.0,Midfielder
+11,Logan Morris,Brisbane,6.0,4.0,2.0,0.67,0.33,3.0,2.0,2.0,Key Forward
+11,Noah Answerth,Brisbane,15.0,13.0,2.0,0.87,0.13,7.0,0.0,2.0,Gen. Defender
+11,Ryan Lester,Brisbane,13.0,11.0,2.0,0.85,0.15,6.0,0.0,6.0,Gen. Defender
+11,Will Ashcroft,Brisbane,26.0,12.0,14.0,0.46,0.54,3.0,1.0,0.0,Midfielder
+11,Zac Bailey,Brisbane,15.0,11.0,4.0,0.73,0.27,5.0,1.0,4.0,Mid-Forward
+12,Callum Ah Chee,Brisbane,13.0,5.0,8.0,0.38,0.62,3.0,1.0,3.0,Gen. Forward
+12,Cam Rayner,Brisbane,14.0,7.0,7.0,0.5,0.5,3.0,1.0,3.0,Gen. Forward
+12,Charlie Cameron,Brisbane,8.0,5.0,3.0,0.62,0.38,3.0,1.0,2.0,Gen. Forward
+12,Darcy Fort,Brisbane,10.0,6.0,4.0,0.6,0.4,3.0,0.0,2.0,Ruck
+12,Darcy Gardiner,Brisbane,9.0,5.0,4.0,0.56,0.44,4.0,1.0,2.0,Key Defender
+12,Darcy Wilmot,Brisbane,14.0,7.0,7.0,0.5,0.5,6.0,1.0,3.0,Gen. Defender
+12,Dayne Zorko,Brisbane,23.0,22.0,1.0,0.96,0.04,6.0,0.0,2.0,Gen. Defender
+12,Deven Robertson,Brisbane,,,,,,,,,Gen. Forward
+12,Eric Hipwood,Brisbane,12.0,7.0,5.0,0.58,0.42,5.0,1.0,2.0,Key Forward
+12,Harris Andrews,Brisbane,16.0,10.0,6.0,0.62,0.38,9.0,0.0,2.0,Key Defender
+12,Hugh McCluggage,Brisbane,41.0,20.0,21.0,0.49,0.51,11.0,0.0,4.0,Midfielder
+12,Jack Payne,Brisbane,17.0,13.0,4.0,0.76,0.24,9.0,0.0,0.0,Key Defender
+12,Jarrod Berry,Brisbane,25.0,17.0,8.0,0.68,0.32,9.0,0.0,3.0,Midfielder
+12,Jaspa Fletcher,Brisbane,21.0,17.0,4.0,0.81,0.19,12.0,1.0,1.0,Gen. Defender
+12,Josh Dunkley,Brisbane,20.0,7.0,13.0,0.35,0.65,3.0,0.0,7.0,Midfielder
+12,Kai Lohmann,Brisbane,15.0,13.0,2.0,0.87,0.13,5.0,3.0,3.0,Gen. Forward
+12,Lachie Neale,Brisbane,26.0,11.0,15.0,0.42,0.58,2.0,0.0,3.0,Midfielder
+12,Levi Ashcroft,Brisbane,15.0,11.0,4.0,0.73,0.27,5.0,0.0,0.0,Midfielder
+12,Logan Morris,Brisbane,11.0,11.0,0.0,1.0,0.0,9.0,2.0,3.0,Key Forward
+12,Noah Answerth,Brisbane,20.0,14.0,6.0,0.7,0.3,6.0,1.0,3.0,Gen. Defender
+12,Ryan Lester,Brisbane,15.0,12.0,3.0,0.8,0.2,7.0,0.0,3.0,Gen. Defender
+12,Will Ashcroft,Brisbane,30.0,17.0,13.0,0.57,0.43,4.0,0.0,2.0,Midfielder
+12,Zac Bailey,Brisbane,20.0,13.0,7.0,0.65,0.35,10.0,0.0,2.0,Mid-Forward
+13,Callum Ah Chee,Brisbane,10.0,5.0,5.0,0.5,0.5,1.0,1.0,4.0,Gen. Forward
+13,Cam Rayner,Brisbane,17.0,10.0,7.0,0.59,0.41,2.0,2.0,1.0,Gen. Forward
+13,Charlie Cameron,Brisbane,7.0,5.0,2.0,0.71,0.29,3.0,2.0,2.0,Gen. Forward
+13,Darcy Fort,Brisbane,12.0,6.0,6.0,0.5,0.5,1.0,0.0,1.0,Ruck
+13,Darcy Wilmot,Brisbane,14.0,9.0,5.0,0.64,0.36,1.0,0.0,3.0,Gen. Defender
+13,Dayne Zorko,Brisbane,21.0,17.0,4.0,0.81,0.19,3.0,0.0,6.0,Gen. Defender
+13,Deven Robertson,Brisbane,,,,,,,,,Gen. Forward
+13,Eric Hipwood,Brisbane,9.0,5.0,4.0,0.56,0.44,1.0,0.0,2.0,Key Forward
+13,Harris Andrews,Brisbane,14.0,12.0,2.0,0.86,0.14,7.0,0.0,2.0,Key Defender
+13,Hugh McCluggage,Brisbane,27.0,25.0,2.0,0.93,0.07,4.0,1.0,2.0,Midfielder
+13,Jack Payne,Brisbane,18.0,12.0,6.0,0.67,0.33,9.0,0.0,3.0,Key Defender
+13,Jarrod Berry,Brisbane,28.0,19.0,9.0,0.68,0.32,8.0,0.0,3.0,Midfielder
+13,Jaspa Fletcher,Brisbane,27.0,19.0,8.0,0.7,0.3,5.0,0.0,0.0,Gen. Defender
+13,Josh Dunkley,Brisbane,20.0,12.0,8.0,0.6,0.4,3.0,0.0,5.0,Midfielder
+13,Kai Lohmann,Brisbane,11.0,7.0,4.0,0.64,0.36,2.0,1.0,3.0,Gen. Forward
+13,Lachie Neale,Brisbane,22.0,9.0,13.0,0.41,0.59,0.0,0.0,4.0,Midfielder
+13,Levi Ashcroft,Brisbane,23.0,12.0,11.0,0.52,0.48,1.0,0.0,0.0,Midfielder
+13,Logan Morris,Brisbane,12.0,8.0,4.0,0.67,0.33,4.0,0.0,3.0,Key Forward
+13,Noah Answerth,Brisbane,12.0,7.0,5.0,0.58,0.42,5.0,0.0,3.0,Gen. Defender
+13,Ryan Lester,Brisbane,9.0,7.0,2.0,0.78,0.22,3.0,0.0,2.0,Gen. Defender
+13,Ty Gallop,Brisbane,,,,,,,,,Key Forward
+13,Will Ashcroft,Brisbane,31.0,13.0,18.0,0.42,0.58,4.0,0.0,7.0,Midfielder
+13,Zac Bailey,Brisbane,21.0,11.0,10.0,0.52,0.48,4.0,1.0,1.0,Mid-Forward
+14,Brandon Starcevich,Brisbane,10.0,6.0,4.0,0.6,0.4,2.0,1.0,2.0,Gen. Defender
+14,Callum Ah Chee,Brisbane,15.0,11.0,4.0,0.73,0.27,9.0,0.0,1.0,Gen. Forward
+14,Cam Rayner,Brisbane,20.0,14.0,6.0,0.7,0.3,8.0,1.0,2.0,Gen. Forward
+14,Charlie Cameron,Brisbane,5.0,2.0,3.0,0.4,0.6,1.0,0.0,0.0,Gen. Forward
+14,Darcy Fort,Brisbane,12.0,7.0,5.0,0.58,0.42,6.0,0.0,2.0,Ruck
+14,Darcy Wilmot,Brisbane,18.0,12.0,6.0,0.67,0.33,6.0,0.0,0.0,Gen. Defender
+14,Dayne Zorko,Brisbane,26.0,21.0,5.0,0.81,0.19,8.0,0.0,4.0,Gen. Defender
+14,Eric Hipwood,Brisbane,13.0,11.0,2.0,0.85,0.15,7.0,0.0,1.0,Key Forward
+14,Harris Andrews,Brisbane,10.0,6.0,4.0,0.6,0.4,5.0,0.0,0.0,Key Defender
+14,Hugh McCluggage,Brisbane,25.0,17.0,8.0,0.68,0.32,6.0,1.0,1.0,Midfielder
+14,Jack Payne,Brisbane,,,,,,,,,Key Defender
+14,Jarrod Berry,Brisbane,20.0,12.0,8.0,0.6,0.4,5.0,0.0,1.0,Midfielder
+14,Jaspa Fletcher,Brisbane,16.0,10.0,6.0,0.62,0.38,6.0,1.0,0.0,Gen. Defender
+14,Josh Dunkley,Brisbane,19.0,8.0,11.0,0.42,0.58,6.0,1.0,2.0,Midfielder
+14,Kai Lohmann,Brisbane,6.0,5.0,1.0,0.83,0.17,2.0,0.0,1.0,Gen. Forward
+14,Lachie Neale,Brisbane,25.0,15.0,10.0,0.6,0.4,2.0,1.0,2.0,Midfielder
+14,Levi Ashcroft,Brisbane,11.0,8.0,3.0,0.73,0.27,3.0,0.0,0.0,Midfielder
+14,Logan Morris,Brisbane,15.0,9.0,6.0,0.6,0.4,7.0,5.0,0.0,Key Forward
+14,Noah Answerth,Brisbane,13.0,8.0,5.0,0.62,0.38,5.0,0.0,3.0,Gen. Defender
+14,Ryan Lester,Brisbane,12.0,7.0,5.0,0.58,0.42,5.0,0.0,0.0,Gen. Defender
+14,Sam Day,Brisbane,12.0,7.0,5.0,0.58,0.42,6.0,1.0,3.0,Key Forward
+14,Will Ashcroft,Brisbane,22.0,8.0,14.0,0.36,0.64,2.0,0.0,0.0,Midfielder
+14,Zac Bailey,Brisbane,13.0,7.0,6.0,0.54,0.46,2.0,1.0,3.0,Mid-Forward
+15,Brandon Starcevich,Brisbane,9.0,7.0,2.0,0.78,0.22,3.0,0.0,1.0,Gen. Defender
+15,Bruce Reville,Brisbane,,,,,,,,,Midfielder
+15,Cam Rayner,Brisbane,19.0,12.0,7.0,0.63,0.37,5.0,3.0,3.0,Gen. Forward
+15,Charlie Cameron,Brisbane,10.0,6.0,4.0,0.6,0.4,3.0,0.0,3.0,Gen. Forward
+15,Darcy Fort,Brisbane,8.0,5.0,3.0,0.62,0.38,1.0,0.0,3.0,Ruck
+15,Darcy Wilmot,Brisbane,16.0,10.0,6.0,0.62,0.38,5.0,1.0,3.0,Gen. Defender
+15,Dayne Zorko,Brisbane,33.0,26.0,7.0,0.79,0.21,7.0,0.0,3.0,Gen. Defender
+15,Eric Hipwood,Brisbane,7.0,4.0,3.0,0.57,0.43,3.0,0.0,1.0,Key Forward
+15,Harris Andrews,Brisbane,16.0,13.0,3.0,0.81,0.19,10.0,0.0,0.0,Key Defender
+15,Hugh McCluggage,Brisbane,22.0,17.0,5.0,0.77,0.23,5.0,1.0,6.0,Midfielder
+15,Jarrod Berry,Brisbane,26.0,17.0,9.0,0.65,0.35,10.0,0.0,3.0,Midfielder
+15,Jaspa Fletcher,Brisbane,23.0,16.0,7.0,0.7,0.3,4.0,0.0,3.0,Gen. Defender
+15,Josh Dunkley,Brisbane,30.0,11.0,19.0,0.37,0.63,4.0,0.0,10.0,Midfielder
+15,Kai Lohmann,Brisbane,13.0,10.0,3.0,0.77,0.23,7.0,2.0,4.0,Gen. Forward
+15,Lachie Neale,Brisbane,17.0,9.0,8.0,0.53,0.47,5.0,0.0,4.0,Midfielder
+15,Levi Ashcroft,Brisbane,23.0,12.0,11.0,0.52,0.48,2.0,1.0,2.0,Midfielder
+15,Logan Morris,Brisbane,13.0,9.0,4.0,0.69,0.31,8.0,5.0,4.0,Key Forward
+15,Noah Answerth,Brisbane,13.0,8.0,5.0,0.62,0.38,4.0,0.0,2.0,Gen. Defender
+15,Ryan Lester,Brisbane,14.0,10.0,4.0,0.71,0.29,6.0,0.0,0.0,Gen. Defender
+15,Sam Day,Brisbane,9.0,5.0,4.0,0.56,0.44,2.0,0.0,0.0,Key Forward
+15,Will Ashcroft,Brisbane,28.0,11.0,17.0,0.39,0.61,5.0,1.0,5.0,Midfielder
+15,Will McLachlan,Brisbane,8.0,5.0,3.0,0.62,0.38,4.0,0.0,0.0,Gen. Forward
+15,Zac Bailey,Brisbane,19.0,12.0,7.0,0.63,0.37,6.0,0.0,1.0,Mid-Forward
+17,Brandon Starcevich,Brisbane,7.0,7.0,0.0,1.0,0.0,3.0,0.0,4.0,Gen. Defender
+17,Callum Ah Chee,Brisbane,12.0,9.0,3.0,0.75,0.25,4.0,1.0,1.0,Gen. Forward
+17,Cam Rayner,Brisbane,22.0,10.0,12.0,0.45,0.55,4.0,0.0,1.0,Gen. Forward
+17,Charlie Cameron,Brisbane,10.0,8.0,2.0,0.8,0.2,5.0,3.0,2.0,Gen. Forward
+17,Darcy Fort,Brisbane,6.0,3.0,3.0,0.5,0.5,3.0,1.0,2.0,Ruck
+17,Darcy Gardiner,Brisbane,,,,,,,,,Key Defender
+17,Darcy Wilmot,Brisbane,18.0,15.0,3.0,0.83,0.17,7.0,0.0,1.0,Gen. Defender
+17,Dayne Zorko,Brisbane,23.0,18.0,5.0,0.78,0.22,5.0,0.0,1.0,Gen. Defender
+17,Eric Hipwood,Brisbane,9.0,7.0,2.0,0.78,0.22,5.0,1.0,0.0,Key Forward
+17,Harris Andrews,Brisbane,15.0,13.0,2.0,0.87,0.13,10.0,0.0,1.0,Key Defender
+17,Hugh McCluggage,Brisbane,29.0,16.0,13.0,0.55,0.45,4.0,1.0,4.0,Midfielder
+17,Jarrod Berry,Brisbane,16.0,11.0,5.0,0.69,0.31,7.0,0.0,2.0,Midfielder
+17,Jaspa Fletcher,Brisbane,19.0,13.0,6.0,0.68,0.32,8.0,0.0,0.0,Gen. Defender
+17,Josh Dunkley,Brisbane,17.0,8.0,9.0,0.47,0.53,4.0,1.0,5.0,Midfielder
+17,Kai Lohmann,Brisbane,14.0,7.0,7.0,0.5,0.5,2.0,1.0,4.0,Gen. Forward
+17,Lachie Neale,Brisbane,29.0,15.0,14.0,0.52,0.48,6.0,1.0,2.0,Midfielder
+17,Levi Ashcroft,Brisbane,19.0,13.0,6.0,0.68,0.32,4.0,1.0,1.0,Midfielder
+17,Logan Morris,Brisbane,8.0,5.0,3.0,0.62,0.38,2.0,1.0,0.0,Key Forward
+17,Noah Answerth,Brisbane,11.0,8.0,3.0,0.73,0.27,7.0,0.0,1.0,Gen. Defender
+17,Ryan Lester,Brisbane,3.0,2.0,1.0,0.67,0.33,1.0,0.0,0.0,Gen. Defender
+17,Sam Day,Brisbane,,,,,,,,,Key Forward
+17,Will Ashcroft,Brisbane,23.0,5.0,18.0,0.22,0.78,2.0,1.0,1.0,Midfielder
+17,Zac Bailey,Brisbane,26.0,16.0,10.0,0.62,0.38,2.0,5.0,1.0,Mid-Forward
+18,Brandon Starcevich,Brisbane,10.0,9.0,1.0,0.9,0.1,5.0,0.0,1.0,Gen. Defender
+18,Callum Ah Chee,Brisbane,16.0,12.0,4.0,0.75,0.25,9.0,0.0,3.0,Gen. Forward
+18,Cam Rayner,Brisbane,22.0,7.0,15.0,0.32,0.68,4.0,2.0,3.0,Gen. Forward
+18,Charlie Cameron,Brisbane,9.0,8.0,1.0,0.89,0.11,4.0,3.0,2.0,Gen. Forward
+18,Darcy Fort,Brisbane,10.0,6.0,4.0,0.6,0.4,1.0,1.0,1.0,Ruck
+18,Darcy Gardiner,Brisbane,,,,,,,,,Key Defender
+18,Darcy Wilmot,Brisbane,31.0,23.0,8.0,0.74,0.26,14.0,0.0,4.0,Gen. Defender
+18,Dayne Zorko,Brisbane,28.0,22.0,6.0,0.79,0.21,7.0,0.0,1.0,Gen. Defender
+18,Eric Hipwood,Brisbane,10.0,8.0,2.0,0.8,0.2,4.0,1.0,0.0,Key Forward
+18,Harris Andrews,Brisbane,9.0,6.0,3.0,0.67,0.33,7.0,0.0,1.0,Key Defender
+18,Hugh McCluggage,Brisbane,18.0,11.0,7.0,0.61,0.39,2.0,1.0,2.0,Midfielder
+18,Jarrod Berry,Brisbane,23.0,15.0,8.0,0.65,0.35,10.0,1.0,5.0,Midfielder
+18,Jaspa Fletcher,Brisbane,22.0,13.0,9.0,0.59,0.41,11.0,0.0,3.0,Gen. Defender
+18,Josh Dunkley,Brisbane,28.0,13.0,15.0,0.46,0.54,6.0,0.0,13.0,Midfielder
+18,Kai Lohmann,Brisbane,10.0,7.0,3.0,0.7,0.3,5.0,1.0,4.0,Gen. Forward
+18,Lachie Neale,Brisbane,31.0,18.0,13.0,0.58,0.42,7.0,0.0,8.0,Midfielder
+18,Levi Ashcroft,Brisbane,14.0,9.0,5.0,0.64,0.36,5.0,1.0,1.0,Midfielder
+18,Logan Morris,Brisbane,11.0,7.0,4.0,0.64,0.36,6.0,2.0,4.0,Key Forward
+18,Noah Answerth,Brisbane,,,,,,,,,Gen. Defender
+18,Oscar McInerney,Brisbane,6.0,2.0,4.0,0.33,0.67,1.0,0.0,4.0,Ruck
+18,Ryan Lester,Brisbane,10.0,3.0,7.0,0.3,0.7,4.0,0.0,1.0,Gen. Defender
+18,Will Ashcroft,Brisbane,29.0,17.0,12.0,0.59,0.41,5.0,1.0,4.0,Midfielder
+18,Zac Bailey,Brisbane,21.0,15.0,6.0,0.71,0.29,6.0,1.0,1.0,Mid-Forward
+19,Brandon Starcevich,Brisbane,12.0,9.0,3.0,0.75,0.25,3.0,0.0,1.0,Gen. Defender
+19,Bruce Reville,Brisbane,11.0,4.0,7.0,0.36,0.64,2.0,0.0,0.0,Midfielder
+19,Callum Ah Chee,Brisbane,19.0,16.0,3.0,0.84,0.16,6.0,0.0,3.0,Gen. Forward
+19,Cam Rayner,Brisbane,12.0,7.0,5.0,0.58,0.42,3.0,1.0,5.0,Gen. Forward
+19,Charlie Cameron,Brisbane,8.0,7.0,1.0,0.88,0.12,2.0,1.0,5.0,Gen. Forward
+19,Darcy Fort,Brisbane,9.0,5.0,4.0,0.56,0.44,1.0,0.0,3.0,Ruck
+19,Darcy Gardiner,Brisbane,12.0,7.0,5.0,0.58,0.42,3.0,0.0,1.0,Key Defender
+19,Darcy Wilmot,Brisbane,17.0,12.0,5.0,0.71,0.29,5.0,0.0,2.0,Gen. Defender
+19,Dayne Zorko,Brisbane,25.0,21.0,4.0,0.84,0.16,8.0,0.0,2.0,Gen. Defender
+19,Eric Hipwood,Brisbane,10.0,8.0,2.0,0.8,0.2,2.0,0.0,3.0,Key Forward
+19,Harris Andrews,Brisbane,13.0,11.0,2.0,0.85,0.15,8.0,0.0,1.0,Key Defender
+19,Hugh McCluggage,Brisbane,27.0,11.0,16.0,0.41,0.59,4.0,0.0,4.0,Midfielder
+19,Jarrod Berry,Brisbane,19.0,12.0,7.0,0.63,0.37,2.0,2.0,1.0,Midfielder
+19,Jaspa Fletcher,Brisbane,24.0,15.0,9.0,0.62,0.38,8.0,0.0,2.0,Gen. Defender
+19,Josh Dunkley,Brisbane,28.0,12.0,16.0,0.43,0.57,2.0,0.0,15.0,Midfielder
+19,Kai Lohmann,Brisbane,10.0,6.0,4.0,0.6,0.4,2.0,2.0,8.0,Gen. Forward
+19,Lachie Neale,Brisbane,24.0,11.0,13.0,0.46,0.54,3.0,0.0,4.0,Midfielder
+19,Levi Ashcroft,Brisbane,18.0,12.0,6.0,0.67,0.33,6.0,2.0,2.0,Midfielder
+19,Logan Morris,Brisbane,13.0,9.0,4.0,0.69,0.31,6.0,1.0,0.0,Key Forward
+19,Oscar McInerney,Brisbane,11.0,7.0,4.0,0.64,0.36,2.0,0.0,3.0,Ruck
+19,Ryan Lester,Brisbane,11.0,8.0,3.0,0.73,0.27,5.0,0.0,3.0,Gen. Defender
+19,Sam Marshall,Brisbane,,,,,,,,,Midfielder
+19,Will Ashcroft,Brisbane,26.0,15.0,11.0,0.58,0.42,2.0,3.0,5.0,Midfielder
+20,Brandon Starcevich,Brisbane,12.0,8.0,4.0,0.67,0.33,2.0,0.0,4.0,Gen. Defender
+20,Callum Ah Chee,Brisbane,18.0,14.0,4.0,0.78,0.22,5.0,1.0,2.0,Gen. Forward
+20,Cam Rayner,Brisbane,19.0,12.0,7.0,0.63,0.37,3.0,3.0,4.0,Gen. Forward
+20,Charlie Cameron,Brisbane,8.0,6.0,2.0,0.75,0.25,1.0,0.0,3.0,Gen. Forward
+20,Conor McKenna,Brisbane,,,,,,,,,Gen. Forward
+20,Darcy Fort,Brisbane,7.0,3.0,4.0,0.43,0.57,0.0,0.0,2.0,Ruck
+20,Darcy Gardiner,Brisbane,14.0,9.0,5.0,0.64,0.36,3.0,0.0,4.0,Key Defender
+20,Darcy Wilmot,Brisbane,20.0,13.0,7.0,0.65,0.35,6.0,0.0,4.0,Gen. Defender
+20,Dayne Zorko,Brisbane,17.0,11.0,6.0,0.65,0.35,3.0,0.0,0.0,Gen. Defender
+20,Eric Hipwood,Brisbane,15.0,10.0,5.0,0.67,0.33,6.0,1.0,1.0,Key Forward
+20,Harris Andrews,Brisbane,11.0,7.0,4.0,0.64,0.36,2.0,0.0,0.0,Key Defender
+20,Hugh McCluggage,Brisbane,28.0,16.0,12.0,0.57,0.43,1.0,1.0,2.0,Midfielder
+20,Jarrod Berry,Brisbane,20.0,8.0,12.0,0.4,0.6,2.0,0.0,8.0,Midfielder
+20,Jaspa Fletcher,Brisbane,20.0,16.0,4.0,0.8,0.2,6.0,0.0,2.0,Gen. Defender
+20,Josh Dunkley,Brisbane,22.0,8.0,14.0,0.36,0.64,2.0,0.0,14.0,Midfielder
+20,Lachie Neale,Brisbane,36.0,16.0,20.0,0.44,0.56,4.0,1.0,5.0,Midfielder
+20,Levi Ashcroft,Brisbane,15.0,7.0,8.0,0.47,0.53,2.0,0.0,1.0,Midfielder
+20,Logan Morris,Brisbane,2.0,2.0,0.0,1.0,0.0,2.0,0.0,3.0,Key Forward
+20,Oscar McInerney,Brisbane,,,,,,,,,Ruck
+20,Ryan Lester,Brisbane,15.0,8.0,7.0,0.53,0.47,4.0,0.0,3.0,Gen. Defender
+20,Sam Marshall,Brisbane,,,,,,,,,Midfielder
+20,Will Ashcroft,Brisbane,25.0,14.0,11.0,0.56,0.44,4.0,0.0,4.0,Midfielder
+20,Zac Bailey,Brisbane,26.0,11.0,15.0,0.42,0.58,3.0,1.0,3.0,Mid-Forward
+21,Brandon Starcevich,Brisbane,9.0,7.0,2.0,0.78,0.22,3.0,0.0,1.0,Gen. Defender
+21,Bruce Reville,Brisbane,,,,,,,,,Midfielder
+21,Callum Ah Chee,Brisbane,5.0,4.0,1.0,0.8,0.2,4.0,0.0,0.0,Gen. Forward
+21,Cam Rayner,Brisbane,15.0,12.0,3.0,0.8,0.2,3.0,2.0,9.0,Gen. Forward
+21,Charlie Cameron,Brisbane,13.0,10.0,3.0,0.77,0.23,3.0,0.0,2.0,Gen. Forward
+21,Darcy Fort,Brisbane,9.0,5.0,4.0,0.56,0.44,1.0,0.0,5.0,Ruck
+21,Darcy Gardiner,Brisbane,7.0,5.0,2.0,0.71,0.29,3.0,0.0,2.0,Key Defender
+21,Darcy Wilmot,Brisbane,19.0,11.0,8.0,0.58,0.42,4.0,1.0,1.0,Gen. Defender
+21,Dayne Zorko,Brisbane,19.0,13.0,6.0,0.68,0.32,3.0,0.0,6.0,Gen. Defender
+21,Eric Hipwood,Brisbane,13.0,7.0,6.0,0.54,0.46,6.0,0.0,3.0,Key Forward
+21,Harris Andrews,Brisbane,9.0,8.0,1.0,0.89,0.11,6.0,0.0,1.0,Key Defender
+21,Henry Smith,Brisbane,5.0,3.0,2.0,0.6,0.4,4.0,3.0,5.0,Key Forward
+21,Hugh McCluggage,Brisbane,34.0,18.0,16.0,0.53,0.47,3.0,0.0,7.0,Midfielder
+21,Jarrod Berry,Brisbane,20.0,10.0,10.0,0.5,0.5,4.0,0.0,3.0,Midfielder
+21,Jaspa Fletcher,Brisbane,22.0,14.0,8.0,0.64,0.36,5.0,0.0,2.0,Gen. Defender
+21,Josh Dunkley,Brisbane,31.0,16.0,15.0,0.52,0.48,3.0,0.0,6.0,Midfielder
+21,Lachie Neale,Brisbane,36.0,16.0,20.0,0.44,0.56,4.0,0.0,3.0,Midfielder
+21,Levi Ashcroft,Brisbane,22.0,14.0,8.0,0.64,0.36,3.0,0.0,1.0,Midfielder
+21,Logan Morris,Brisbane,14.0,11.0,3.0,0.79,0.21,6.0,6.0,0.0,Key Forward
+21,Ryan Lester,Brisbane,,,,,,,,,Gen. Defender
+21,Sam Marshall,Brisbane,12.0,4.0,8.0,0.33,0.67,3.0,0.0,1.0,Midfielder
+21,Will Ashcroft,Brisbane,30.0,17.0,13.0,0.57,0.43,7.0,0.0,3.0,Midfielder
+21,Zac Bailey,Brisbane,21.0,12.0,9.0,0.57,0.43,1.0,2.0,2.0,Mid-Forward
+22,Bruce Reville,Brisbane,7.0,4.0,3.0,0.57,0.43,2.0,0.0,3.0,Midfielder
+22,Callum Ah Chee,Brisbane,15.0,10.0,5.0,0.67,0.33,5.0,1.0,0.0,Gen. Forward
+22,Cam Rayner,Brisbane,18.0,11.0,7.0,0.61,0.39,9.0,0.0,5.0,Gen. Forward
+22,Charlie Cameron,Brisbane,6.0,6.0,0.0,1.0,0.0,3.0,0.0,1.0,Gen. Forward
+22,Darcy Fort,Brisbane,9.0,2.0,7.0,0.22,0.78,1.0,0.0,3.0,Ruck
+22,Darcy Gardiner,Brisbane,12.0,9.0,3.0,0.75,0.25,4.0,0.0,0.0,Key Defender
+22,Darcy Wilmot,Brisbane,27.0,18.0,9.0,0.67,0.33,7.0,2.0,1.0,Gen. Defender
+22,Dayne Zorko,Brisbane,28.0,19.0,9.0,0.68,0.32,9.0,0.0,1.0,Gen. Defender
+22,Deven Robertson,Brisbane,,,,,,,,,Gen. Forward
+22,Eric Hipwood,Brisbane,16.0,11.0,5.0,0.69,0.31,8.0,1.0,2.0,Key Forward
+22,Harris Andrews,Brisbane,20.0,13.0,7.0,0.65,0.35,11.0,0.0,1.0,Key Defender
+22,Henry Smith,Brisbane,2.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,Key Forward
+22,Hugh McCluggage,Brisbane,30.0,21.0,9.0,0.7,0.3,7.0,0.0,3.0,Midfielder
+22,Jarrod Berry,Brisbane,19.0,11.0,8.0,0.58,0.42,6.0,0.0,3.0,Midfielder
+22,Jaspa Fletcher,Brisbane,21.0,10.0,11.0,0.48,0.52,5.0,0.0,2.0,Gen. Defender
+22,Josh Dunkley,Brisbane,31.0,18.0,13.0,0.58,0.42,5.0,1.0,7.0,Midfielder
+22,Levi Ashcroft,Brisbane,27.0,19.0,8.0,0.7,0.3,6.0,1.0,0.0,Midfielder
+22,Logan Morris,Brisbane,6.0,6.0,0.0,1.0,0.0,6.0,3.0,0.0,Key Forward
+22,Sam Marshall,Brisbane,11.0,7.0,4.0,0.64,0.36,3.0,0.0,2.0,Midfielder
+22,Tom Doedee,Brisbane,10.0,8.0,2.0,0.8,0.2,6.0,0.0,0.0,Gen. Defender
+22,Will Ashcroft,Brisbane,31.0,17.0,14.0,0.55,0.45,6.0,0.0,5.0,Midfielder
+22,Will McLachlan,Brisbane,3.0,3.0,0.0,1.0,0.0,2.0,1.0,0.0,Gen. Forward
+22,Zac Bailey,Brisbane,22.0,15.0,7.0,0.68,0.32,7.0,2.0,3.0,Mid-Forward
+23,Brandon Starcevich,Brisbane,13.0,11.0,2.0,0.85,0.15,9.0,0.0,1.0,Gen. Defender
+23,Bruce Reville,Brisbane,13.0,10.0,3.0,0.77,0.23,4.0,0.0,1.0,Midfielder
+23,Callum Ah Chee,Brisbane,14.0,12.0,2.0,0.86,0.14,9.0,1.0,1.0,Gen. Forward
+23,Cam Rayner,Brisbane,13.0,8.0,5.0,0.62,0.38,3.0,2.0,3.0,Gen. Forward
+23,Charlie Cameron,Brisbane,13.0,10.0,3.0,0.77,0.23,4.0,3.0,2.0,Gen. Forward
+23,Darcy Fort,Brisbane,13.0,9.0,4.0,0.69,0.31,4.0,1.0,2.0,Ruck
+23,Darcy Gardiner,Brisbane,13.0,10.0,3.0,0.77,0.23,8.0,0.0,0.0,Key Defender
+23,Darcy Wilmot,Brisbane,21.0,15.0,6.0,0.71,0.29,8.0,0.0,2.0,Gen. Defender
+23,Dayne Zorko,Brisbane,27.0,22.0,5.0,0.81,0.19,12.0,0.0,2.0,Gen. Defender
+23,Eric Hipwood,Brisbane,3.0,3.0,0.0,1.0,0.0,3.0,0.0,2.0,Key Forward
+23,Harris Andrews,Brisbane,17.0,14.0,3.0,0.82,0.18,13.0,0.0,0.0,Key Defender
+23,Hugh McCluggage,Brisbane,28.0,14.0,14.0,0.5,0.5,4.0,1.0,1.0,Midfielder
+23,Jarrod Berry,Brisbane,20.0,12.0,8.0,0.6,0.4,7.0,0.0,2.0,Midfielder
+23,Jaspa Fletcher,Brisbane,32.0,21.0,11.0,0.66,0.34,17.0,0.0,2.0,Gen. Defender
+23,Josh Dunkley,Brisbane,24.0,10.0,14.0,0.42,0.58,5.0,0.0,5.0,Midfielder
+23,Levi Ashcroft,Brisbane,19.0,15.0,4.0,0.79,0.21,5.0,0.0,2.0,Midfielder
+23,Logan Morris,Brisbane,12.0,9.0,3.0,0.75,0.25,3.0,4.0,1.0,Key Forward
+23,Luke Beecken,Brisbane,,,,,,,,,Midfielder
+23,Ryan Lester,Brisbane,17.0,13.0,4.0,0.76,0.24,10.0,1.0,2.0,Gen. Defender
+23,Sam Day,Brisbane,8.0,6.0,2.0,0.75,0.25,5.0,0.0,0.0,Key Forward
+23,Sam Marshall,Brisbane,21.0,14.0,7.0,0.67,0.33,8.0,0.0,3.0,Midfielder
+23,Will Ashcroft,Brisbane,23.0,12.0,11.0,0.52,0.48,7.0,0.0,1.0,Midfielder
+23,Zac Bailey,Brisbane,28.0,17.0,11.0,0.61,0.39,10.0,2.0,2.0,Mid-Forward
+24,Brandon Starcevich,Brisbane,13.0,10.0,3.0,0.77,0.23,4.0,0.0,1.0,Gen. Defender
+24,Bruce Reville,Brisbane,15.0,11.0,4.0,0.73,0.27,5.0,1.0,3.0,Midfielder
+24,Callum Ah Chee,Brisbane,19.0,17.0,2.0,0.89,0.11,8.0,0.0,1.0,Gen. Forward
+24,Cam Rayner,Brisbane,22.0,15.0,7.0,0.68,0.32,5.0,2.0,4.0,Gen. Forward
+24,Charlie Cameron,Brisbane,10.0,8.0,2.0,0.8,0.2,3.0,2.0,2.0,Gen. Forward
+24,Darcy Fort,Brisbane,12.0,5.0,7.0,0.42,0.58,0.0,0.0,5.0,Ruck
+24,Darcy Gardiner,Brisbane,5.0,3.0,2.0,0.6,0.4,2.0,0.0,0.0,Key Defender
+24,Darcy Wilmot,Brisbane,27.0,17.0,10.0,0.63,0.37,7.0,0.0,2.0,Gen. Defender
+24,Dayne Zorko,Brisbane,22.0,18.0,4.0,0.82,0.18,4.0,0.0,1.0,Gen. Defender
+24,Harris Andrews,Brisbane,18.0,14.0,4.0,0.78,0.22,10.0,0.0,6.0,Key Defender
+24,Hugh McCluggage,Brisbane,32.0,16.0,16.0,0.5,0.5,7.0,2.0,4.0,Midfielder
+24,James Tunstill,Brisbane,,,,,,,,,Midfielder
+24,Jaspa Fletcher,Brisbane,22.0,13.0,9.0,0.59,0.41,4.0,1.0,1.0,Gen. Defender
+24,Josh Dunkley,Brisbane,33.0,12.0,21.0,0.36,0.64,9.0,0.0,8.0,Midfielder
+24,Kai Lohmann,Brisbane,10.0,4.0,6.0,0.4,0.6,2.0,2.0,2.0,Gen. Forward
+24,Levi Ashcroft,Brisbane,19.0,11.0,8.0,0.58,0.42,4.0,0.0,2.0,Midfielder
+24,Logan Morris,Brisbane,6.0,4.0,2.0,0.67,0.33,1.0,1.0,0.0,Key Forward
+24,Ryan Lester,Brisbane,17.0,13.0,4.0,0.76,0.24,13.0,0.0,3.0,Gen. Defender
+24,Sam Day,Brisbane,8.0,6.0,2.0,0.75,0.25,2.0,0.0,2.0,Key Forward
+24,Sam Marshall,Brisbane,23.0,13.0,10.0,0.57,0.43,5.0,0.0,0.0,Midfielder
+24,Ty Gallop,Brisbane,5.0,1.0,4.0,0.2,0.8,1.0,0.0,4.0,Key Forward
+24,Will Ashcroft,Brisbane,28.0,13.0,15.0,0.46,0.54,7.0,0.0,3.0,Midfielder
+24,Zac Bailey,Brisbane,25.0,15.0,10.0,0.6,0.4,7.0,0.0,3.0,Mid-Forward
