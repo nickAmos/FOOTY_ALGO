@@ -1,507 +1,507 @@
-Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
-1,Aaron Cadman,Greater Western Sydney,9.0,5.0,4.0,0.56,0.44,4.0,2.0,1.0,Key Forward
-1,Brent Daniels,Greater Western Sydney,,,,,,,,,Gen. Forward
-1,Callan Ward,Greater Western Sydney,16.0,6.0,10.0,0.38,0.62,2.0,0.0,1.0,Midfielder
-1,Callum Brown,Greater Western Sydney,14.0,6.0,8.0,0.43,0.57,0.0,0.0,5.0,Gen. Forward
-1,Connor Idun,Greater Western Sydney,12.0,7.0,5.0,0.58,0.42,4.0,0.0,1.0,Gen. Defender
-1,Conor Stone,Greater Western Sydney,11.0,4.0,7.0,0.36,0.64,2.0,0.0,2.0,Gen. Defender
-1,Darcy Jones,Greater Western Sydney,12.0,6.0,6.0,0.5,0.5,1.0,0.0,4.0,Gen. Forward
-1,Finn Callaghan,Greater Western Sydney,31.0,12.0,19.0,0.39,0.61,1.0,0.0,3.0,Midfielder
-1,Harry Himmelberg,Greater Western Sydney,22.0,15.0,7.0,0.68,0.32,9.0,0.0,2.0,Gen. Defender
-1,Jack Buckley,Greater Western Sydney,10.0,6.0,4.0,0.6,0.4,4.0,0.0,3.0,Key Defender
-1,Jacob Wehr,Greater Western Sydney,16.0,9.0,7.0,0.56,0.44,1.0,1.0,4.0,Midfielder
-1,James Leake,Greater Western Sydney,3.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,Gen. Defender
-1,Josh Kelly,Greater Western Sydney,23.0,11.0,12.0,0.48,0.52,0.0,0.0,10.0,Midfielder
-1,Lachie Ash,Greater Western Sydney,19.0,10.0,9.0,0.53,0.47,6.0,0.0,0.0,Gen. Defender
-1,Lachie Whitfield,Greater Western Sydney,34.0,19.0,15.0,0.56,0.44,5.0,0.0,4.0,Gen. Defender
-1,Lachlan Keeffe,Greater Western Sydney,13.0,10.0,3.0,0.77,0.23,1.0,1.0,6.0,Ruck
-1,Max Gruzewski,Greater Western Sydney,,,,,,,,,Key Forward
-1,Sam Taylor,Greater Western Sydney,15.0,8.0,7.0,0.53,0.47,4.0,0.0,0.0,Key Defender
-1,Stephen Coniglio,Greater Western Sydney,13.0,8.0,5.0,0.62,0.38,2.0,3.0,3.0,Midfielder
-1,Toby Bedford,Greater Western Sydney,8.0,4.0,4.0,0.5,0.5,1.0,0.0,9.0,Mid-Forward
-1,Toby Greene,Greater Western Sydney,23.0,16.0,7.0,0.7,0.3,5.0,3.0,4.0,Gen. Forward
-1,Tom Green,Greater Western Sydney,35.0,14.0,21.0,0.4,0.6,1.0,1.0,4.0,Midfielder
-1,Xavier O'Halloran,Greater Western Sydney,16.0,11.0,5.0,0.69,0.31,2.0,0.0,2.0,Midfielder
-3,Aaron Cadman,Greater Western Sydney,7.0,4.0,3.0,0.57,0.43,1.0,1.0,4.0,Key Forward
-3,Brent Daniels,Greater Western Sydney,15.0,4.0,11.0,0.27,0.73,2.0,0.0,5.0,Gen. Forward
-3,Callan Ward,Greater Western Sydney,4.0,1.0,3.0,0.25,0.75,1.0,0.0,1.0,Midfielder
-3,Connor Idun,Greater Western Sydney,22.0,9.0,13.0,0.41,0.59,8.0,0.0,1.0,Gen. Defender
-3,Conor Stone,Greater Western Sydney,18.0,9.0,9.0,0.5,0.5,7.0,0.0,1.0,Gen. Defender
-3,Darcy Jones,Greater Western Sydney,10.0,5.0,5.0,0.5,0.5,2.0,0.0,2.0,Gen. Forward
-3,Finn Callaghan,Greater Western Sydney,21.0,10.0,11.0,0.48,0.52,2.0,0.0,1.0,Midfielder
-3,Harry Himmelberg,Greater Western Sydney,24.0,18.0,6.0,0.75,0.25,11.0,0.0,2.0,Gen. Defender
-3,Jack Buckley,Greater Western Sydney,14.0,10.0,4.0,0.71,0.29,8.0,0.0,2.0,Key Defender
-3,Jacob Wehr,Greater Western Sydney,,,,,,,,,Midfielder
-3,Jake Stringer,Greater Western Sydney,14.0,8.0,6.0,0.57,0.43,1.0,0.0,3.0,Gen. Forward
-3,Jesse Hogan,Greater Western Sydney,11.0,7.0,4.0,0.64,0.36,4.0,4.0,1.0,Key Forward
-3,Josh Kelly,Greater Western Sydney,23.0,9.0,14.0,0.39,0.61,3.0,0.0,5.0,Midfielder
-3,Kieren Briggs,Greater Western Sydney,15.0,6.0,9.0,0.4,0.6,1.0,0.0,6.0,Ruck
-3,Lachie Ash,Greater Western Sydney,29.0,15.0,14.0,0.52,0.48,9.0,0.0,0.0,Gen. Defender
-3,Lachie Whitfield,Greater Western Sydney,34.0,25.0,9.0,0.74,0.26,7.0,0.0,2.0,Gen. Defender
-3,Lachlan Keeffe,Greater Western Sydney,8.0,3.0,5.0,0.38,0.62,0.0,0.0,2.0,Ruck
-3,Sam Taylor,Greater Western Sydney,16.0,9.0,7.0,0.56,0.44,7.0,0.0,1.0,Key Defender
-3,Stephen Coniglio,Greater Western Sydney,15.0,10.0,5.0,0.67,0.33,1.0,0.0,3.0,Midfielder
-3,Toby Bedford,Greater Western Sydney,13.0,6.0,7.0,0.46,0.54,0.0,2.0,13.0,Mid-Forward
-3,Toby Greene,Greater Western Sydney,19.0,11.0,8.0,0.58,0.42,4.0,2.0,2.0,Gen. Forward
-3,Tom Green,Greater Western Sydney,31.0,9.0,22.0,0.29,0.71,1.0,0.0,4.0,Midfielder
-3,Xavier O'Halloran,Greater Western Sydney,7.0,2.0,5.0,0.29,0.71,1.0,0.0,1.0,Midfielder
-4,Aaron Cadman,Greater Western Sydney,8.0,6.0,2.0,0.75,0.25,5.0,1.0,0.0,Key Forward
-4,Brent Daniels,Greater Western Sydney,,,,,,,,,Gen. Forward
-4,Callan Ward,Greater Western Sydney,16.0,4.0,12.0,0.25,0.75,2.0,1.0,1.0,Midfielder
-4,Callum Brown,Greater Western Sydney,9.0,6.0,3.0,0.67,0.33,3.0,0.0,2.0,Gen. Forward
-4,Connor Idun,Greater Western Sydney,21.0,10.0,11.0,0.48,0.52,9.0,0.0,5.0,Gen. Defender
-4,Conor Stone,Greater Western Sydney,13.0,2.0,11.0,0.15,0.85,1.0,0.0,0.0,Gen. Defender
-4,Darcy Jones,Greater Western Sydney,24.0,16.0,8.0,0.67,0.33,6.0,2.0,7.0,Gen. Forward
-4,Finn Callaghan,Greater Western Sydney,25.0,14.0,11.0,0.56,0.44,2.0,0.0,4.0,Midfielder
-4,Harry Himmelberg,Greater Western Sydney,25.0,12.0,13.0,0.48,0.52,7.0,0.0,4.0,Gen. Defender
-4,Jack Buckley,Greater Western Sydney,8.0,5.0,3.0,0.62,0.38,5.0,0.0,1.0,Key Defender
-4,Jacob Wehr,Greater Western Sydney,17.0,8.0,9.0,0.47,0.53,3.0,0.0,1.0,Midfielder
-4,Jake Riccardi,Greater Western Sydney,16.0,11.0,5.0,0.69,0.31,8.0,1.0,1.0,Key Forward
-4,Jake Stringer,Greater Western Sydney,11.0,6.0,5.0,0.55,0.45,5.0,0.0,0.0,Gen. Forward
-4,Jesse Hogan,Greater Western Sydney,12.0,10.0,2.0,0.83,0.17,10.0,9.0,1.0,Key Forward
-4,Josh Kelly,Greater Western Sydney,29.0,10.0,19.0,0.34,0.66,4.0,0.0,5.0,Midfielder
-4,Kieren Briggs,Greater Western Sydney,15.0,5.0,10.0,0.33,0.67,4.0,0.0,3.0,Ruck
-4,Lachie Ash,Greater Western Sydney,31.0,17.0,14.0,0.55,0.45,5.0,0.0,1.0,Gen. Defender
-4,Lachie Whitfield,Greater Western Sydney,35.0,25.0,10.0,0.71,0.29,10.0,0.0,4.0,Gen. Defender
-4,Sam Taylor,Greater Western Sydney,12.0,5.0,7.0,0.42,0.58,4.0,0.0,0.0,Key Defender
-4,Toby Bedford,Greater Western Sydney,14.0,6.0,8.0,0.43,0.57,4.0,1.0,4.0,Mid-Forward
-4,Toby Greene,Greater Western Sydney,24.0,16.0,8.0,0.67,0.33,7.0,3.0,5.0,Gen. Forward
-4,Tom Green,Greater Western Sydney,37.0,15.0,22.0,0.41,0.59,5.0,2.0,1.0,Midfielder
-4,Xavier O'Halloran,Greater Western Sydney,,,,,,,,,Midfielder
-5,Aaron Cadman,Greater Western Sydney,,,,,,,,,Key Forward
-5,Callan Ward,Greater Western Sydney,27.0,15.0,12.0,0.56,0.44,9.0,1.0,2.0,Midfielder
-5,Callum Brown,Greater Western Sydney,14.0,8.0,6.0,0.57,0.43,5.0,0.0,1.0,Gen. Forward
-5,Connor Idun,Greater Western Sydney,18.0,8.0,10.0,0.44,0.56,6.0,0.0,2.0,Gen. Defender
-5,Conor Stone,Greater Western Sydney,12.0,7.0,5.0,0.58,0.42,4.0,0.0,0.0,Gen. Defender
-5,Darcy Jones,Greater Western Sydney,13.0,7.0,6.0,0.54,0.46,2.0,1.0,4.0,Gen. Forward
-5,Finn Callaghan,Greater Western Sydney,24.0,11.0,13.0,0.46,0.54,3.0,0.0,4.0,Midfielder
-5,Harry Himmelberg,Greater Western Sydney,14.0,9.0,5.0,0.64,0.36,4.0,0.0,2.0,Gen. Defender
-5,Harvey Thomas,Greater Western Sydney,13.0,6.0,7.0,0.46,0.54,2.0,1.0,3.0,Gen. Forward
-5,Jack Buckley,Greater Western Sydney,13.0,7.0,6.0,0.54,0.46,7.0,0.0,3.0,Key Defender
-5,Jacob Wehr,Greater Western Sydney,20.0,14.0,6.0,0.7,0.3,6.0,1.0,5.0,Midfielder
-5,Jake Riccardi,Greater Western Sydney,11.0,6.0,5.0,0.55,0.45,3.0,1.0,2.0,Key Forward
-5,Jake Stringer,Greater Western Sydney,8.0,8.0,0.0,1.0,0.0,2.0,2.0,2.0,Gen. Forward
-5,Jesse Hogan,Greater Western Sydney,7.0,5.0,2.0,0.71,0.29,3.0,2.0,1.0,Key Forward
-5,Josh Kelly,Greater Western Sydney,28.0,14.0,14.0,0.5,0.5,2.0,0.0,5.0,Midfielder
-5,Kieren Briggs,Greater Western Sydney,12.0,7.0,5.0,0.58,0.42,3.0,0.0,4.0,Ruck
-5,Lachie Ash,Greater Western Sydney,33.0,19.0,14.0,0.58,0.42,9.0,0.0,1.0,Gen. Defender
-5,Lachie Whitfield,Greater Western Sydney,24.0,18.0,6.0,0.75,0.25,5.0,0.0,2.0,Gen. Defender
-5,Sam Taylor,Greater Western Sydney,19.0,10.0,9.0,0.53,0.47,8.0,0.0,1.0,Key Defender
-5,Toby Bedford,Greater Western Sydney,8.0,2.0,6.0,0.25,0.75,1.0,0.0,3.0,Mid-Forward
-5,Toby Greene,Greater Western Sydney,17.0,15.0,2.0,0.88,0.12,6.0,5.0,2.0,Gen. Forward
-5,Toby McMullin,Greater Western Sydney,,,,,,,,,Midfielder
-5,Tom Green,Greater Western Sydney,28.0,15.0,13.0,0.54,0.46,5.0,0.0,6.0,Midfielder
-6,Aaron Cadman,Greater Western Sydney,10.0,5.0,5.0,0.5,0.5,2.0,0.0,1.0,Key Forward
-6,Callan Ward,Greater Western Sydney,12.0,7.0,5.0,0.58,0.42,3.0,0.0,1.0,Midfielder
-6,Callum Brown,Greater Western Sydney,,,,,,,,,Gen. Forward
-6,Connor Idun,Greater Western Sydney,26.0,14.0,12.0,0.54,0.46,9.0,0.0,1.0,Gen. Defender
-6,Conor Stone,Greater Western Sydney,15.0,14.0,1.0,0.93,0.07,7.0,0.0,0.0,Gen. Defender
-6,Darcy Jones,Greater Western Sydney,11.0,8.0,3.0,0.73,0.27,1.0,1.0,4.0,Gen. Forward
-6,Finn Callaghan,Greater Western Sydney,27.0,13.0,14.0,0.48,0.52,4.0,0.0,7.0,Midfielder
-6,Harry Himmelberg,Greater Western Sydney,18.0,13.0,5.0,0.72,0.28,8.0,0.0,1.0,Gen. Defender
-6,Harvey Thomas,Greater Western Sydney,10.0,6.0,4.0,0.6,0.4,2.0,1.0,3.0,Gen. Forward
-6,Jack Buckley,Greater Western Sydney,14.0,10.0,4.0,0.71,0.29,8.0,0.0,2.0,Key Defender
-6,Jacob Wehr,Greater Western Sydney,18.0,10.0,8.0,0.56,0.44,3.0,0.0,3.0,Midfielder
-6,Jake Riccardi,Greater Western Sydney,6.0,3.0,3.0,0.5,0.5,0.0,0.0,2.0,Key Forward
-6,Jake Stringer,Greater Western Sydney,13.0,9.0,4.0,0.69,0.31,4.0,1.0,2.0,Gen. Forward
-6,Josh Kelly,Greater Western Sydney,17.0,8.0,9.0,0.47,0.53,3.0,1.0,5.0,Midfielder
-6,Kieren Briggs,Greater Western Sydney,7.0,4.0,3.0,0.57,0.43,0.0,0.0,4.0,Ruck
-6,Lachie Ash,Greater Western Sydney,29.0,22.0,7.0,0.76,0.24,10.0,0.0,2.0,Gen. Defender
-6,Lachie Whitfield,Greater Western Sydney,39.0,27.0,12.0,0.69,0.31,10.0,0.0,2.0,Gen. Defender
-6,Sam Taylor,Greater Western Sydney,20.0,9.0,11.0,0.45,0.55,11.0,0.0,2.0,Key Defender
-6,Toby Bedford,Greater Western Sydney,9.0,5.0,4.0,0.56,0.44,2.0,0.0,7.0,Mid-Forward
-6,Toby Greene,Greater Western Sydney,13.0,8.0,5.0,0.62,0.38,1.0,0.0,4.0,Gen. Forward
-6,Toby McMullin,Greater Western Sydney,15.0,9.0,6.0,0.6,0.4,5.0,0.0,3.0,Midfielder
-6,Tom Green,Greater Western Sydney,36.0,14.0,22.0,0.39,0.61,4.0,0.0,3.0,Midfielder
-6,Xavier O'Halloran,Greater Western Sydney,,,,,,,,,Midfielder
-7,Aaron Cadman,Greater Western Sydney,11.0,8.0,3.0,0.73,0.27,4.0,1.0,1.0,Key Forward
-7,Callan Ward,Greater Western Sydney,,,,,,,,,Midfielder
-7,Connor Idun,Greater Western Sydney,16.0,9.0,7.0,0.56,0.44,5.0,0.0,2.0,Gen. Defender
-7,Conor Stone,Greater Western Sydney,18.0,8.0,10.0,0.44,0.56,4.0,0.0,3.0,Gen. Defender
-7,Darcy Jones,Greater Western Sydney,17.0,11.0,6.0,0.65,0.35,3.0,0.0,2.0,Gen. Forward
-7,Finn Callaghan,Greater Western Sydney,26.0,17.0,9.0,0.65,0.35,6.0,0.0,3.0,Midfielder
-7,Harry Himmelberg,Greater Western Sydney,17.0,10.0,7.0,0.59,0.41,6.0,0.0,1.0,Gen. Defender
-7,Harvey Thomas,Greater Western Sydney,15.0,8.0,7.0,0.53,0.47,2.0,1.0,4.0,Gen. Forward
-7,Jack Buckley,Greater Western Sydney,21.0,16.0,5.0,0.76,0.24,11.0,0.0,2.0,Key Defender
-7,Jacob Wehr,Greater Western Sydney,20.0,10.0,10.0,0.5,0.5,4.0,0.0,1.0,Midfielder
-7,Jake Riccardi,Greater Western Sydney,16.0,8.0,8.0,0.5,0.5,3.0,3.0,4.0,Key Forward
-7,Jake Stringer,Greater Western Sydney,10.0,6.0,4.0,0.6,0.4,2.0,0.0,2.0,Gen. Forward
-7,Jesse Hogan,Greater Western Sydney,14.0,8.0,6.0,0.57,0.43,5.0,2.0,1.0,Key Forward
-7,Josh Kelly,Greater Western Sydney,21.0,14.0,7.0,0.67,0.33,2.0,0.0,4.0,Midfielder
-7,Kieren Briggs,Greater Western Sydney,11.0,5.0,6.0,0.45,0.55,1.0,0.0,2.0,Ruck
-7,Lachie Ash,Greater Western Sydney,31.0,18.0,13.0,0.58,0.42,7.0,0.0,3.0,Gen. Defender
-7,Lachie Whitfield,Greater Western Sydney,30.0,22.0,8.0,0.73,0.27,11.0,0.0,0.0,Gen. Defender
-7,Sam Taylor,Greater Western Sydney,16.0,8.0,8.0,0.5,0.5,7.0,0.0,3.0,Key Defender
-7,Toby Bedford,Greater Western Sydney,9.0,5.0,4.0,0.56,0.44,4.0,2.0,5.0,Mid-Forward
-7,Toby Greene,Greater Western Sydney,15.0,10.0,5.0,0.67,0.33,3.0,2.0,2.0,Gen. Forward
-7,Toby McMullin,Greater Western Sydney,14.0,11.0,3.0,0.79,0.21,2.0,0.0,2.0,Midfielder
-7,Tom Green,Greater Western Sydney,27.0,12.0,15.0,0.44,0.56,3.0,1.0,3.0,Midfielder
-7,Xavier O'Halloran,Greater Western Sydney,,,,,,,,,Midfielder
-8,Aaron Cadman,Greater Western Sydney,12.0,8.0,4.0,0.67,0.33,6.0,2.0,1.0,Key Forward
-8,Callan Ward,Greater Western Sydney,21.0,9.0,12.0,0.43,0.57,6.0,1.0,1.0,Midfielder
-8,Callum Brown,Greater Western Sydney,16.0,9.0,7.0,0.56,0.44,2.0,0.0,3.0,Gen. Forward
-8,Connor Idun,Greater Western Sydney,22.0,9.0,13.0,0.41,0.59,9.0,0.0,1.0,Gen. Defender
-8,Darcy Jones,Greater Western Sydney,10.0,6.0,4.0,0.6,0.4,2.0,1.0,3.0,Gen. Forward
-8,Finn Callaghan,Greater Western Sydney,33.0,16.0,17.0,0.48,0.52,2.0,0.0,8.0,Midfielder
-8,Harry Himmelberg,Greater Western Sydney,17.0,10.0,7.0,0.59,0.41,4.0,0.0,1.0,Gen. Defender
-8,Harvey Thomas,Greater Western Sydney,11.0,6.0,5.0,0.55,0.45,1.0,0.0,2.0,Gen. Forward
-8,Jack Buckley,Greater Western Sydney,6.0,4.0,2.0,0.67,0.33,3.0,0.0,2.0,Key Defender
-8,Jacob Wehr,Greater Western Sydney,17.0,11.0,6.0,0.65,0.35,5.0,1.0,2.0,Midfielder
-8,Jake Stringer,Greater Western Sydney,,,,,,,,,Gen. Forward
-8,Jesse Hogan,Greater Western Sydney,7.0,5.0,2.0,0.71,0.29,3.0,1.0,2.0,Key Forward
-8,Joe Fonti,Greater Western Sydney,17.0,10.0,7.0,0.59,0.41,7.0,0.0,1.0,Gen. Defender
-8,Josaia Delana,Greater Western Sydney,3.0,2.0,1.0,0.67,0.33,0.0,0.0,5.0,Gen. Forward
-8,Kieren Briggs,Greater Western Sydney,12.0,7.0,5.0,0.58,0.42,2.0,0.0,2.0,Ruck
-8,Lachie Ash,Greater Western Sydney,29.0,14.0,15.0,0.48,0.52,5.0,0.0,1.0,Gen. Defender
-8,Lachie Whitfield,Greater Western Sydney,28.0,19.0,9.0,0.68,0.32,6.0,0.0,3.0,Gen. Defender
-8,Sam Taylor,Greater Western Sydney,11.0,5.0,6.0,0.45,0.55,2.0,0.0,2.0,Key Defender
-8,Toby Bedford,Greater Western Sydney,,,,,,,,,Mid-Forward
-8,Toby Greene,Greater Western Sydney,13.0,10.0,3.0,0.77,0.23,2.0,0.0,1.0,Gen. Forward
-8,Toby McMullin,Greater Western Sydney,19.0,10.0,9.0,0.53,0.47,2.0,0.0,2.0,Midfielder
-8,Tom Green,Greater Western Sydney,34.0,17.0,17.0,0.5,0.5,4.0,1.0,1.0,Midfielder
-8,Xavier O'Halloran,Greater Western Sydney,17.0,8.0,9.0,0.47,0.53,4.0,0.0,1.0,Midfielder
-9,Aaron Cadman,Greater Western Sydney,9.0,7.0,2.0,0.78,0.22,3.0,1.0,3.0,Key Forward
-9,Callan Ward,Greater Western Sydney,18.0,12.0,6.0,0.67,0.33,6.0,1.0,1.0,Midfielder
-9,Callum Brown,Greater Western Sydney,13.0,6.0,7.0,0.46,0.54,3.0,0.0,3.0,Gen. Forward
-9,Cody Angove,Greater Western Sydney,13.0,6.0,7.0,0.46,0.54,0.0,0.0,1.0,Gen. Forward
-9,Connor Idun,Greater Western Sydney,17.0,10.0,7.0,0.59,0.41,8.0,0.0,0.0,Gen. Defender
-9,Finn Callaghan,Greater Western Sydney,29.0,12.0,17.0,0.41,0.59,1.0,0.0,7.0,Midfielder
-9,Harry Himmelberg,Greater Western Sydney,21.0,7.0,14.0,0.33,0.67,8.0,0.0,5.0,Gen. Defender
-9,Harvey Thomas,Greater Western Sydney,6.0,6.0,0.0,1.0,0.0,2.0,1.0,6.0,Gen. Forward
-9,Jack Buckley,Greater Western Sydney,12.0,6.0,6.0,0.5,0.5,6.0,0.0,2.0,Key Defender
-9,Jacob Wehr,Greater Western Sydney,9.0,3.0,6.0,0.33,0.67,0.0,0.0,3.0,Midfielder
-9,Jake Riccardi,Greater Western Sydney,17.0,8.0,9.0,0.47,0.53,3.0,1.0,2.0,Key Forward
-9,Jake Stringer,Greater Western Sydney,,,,,,,,,Gen. Forward
-9,Jesse Hogan,Greater Western Sydney,22.0,13.0,9.0,0.59,0.41,9.0,7.0,2.0,Key Forward
-9,Joe Fonti,Greater Western Sydney,7.0,3.0,4.0,0.43,0.57,1.0,0.0,0.0,Gen. Defender
-9,Josaia Delana,Greater Western Sydney,,,,,,,,,Gen. Forward
-9,Kieren Briggs,Greater Western Sydney,10.0,4.0,6.0,0.4,0.6,1.0,0.0,2.0,Ruck
-9,Lachie Ash,Greater Western Sydney,25.0,15.0,10.0,0.6,0.4,5.0,0.0,4.0,Gen. Defender
-9,Lachie Whitfield,Greater Western Sydney,30.0,18.0,12.0,0.6,0.4,4.0,0.0,3.0,Gen. Defender
-9,Sam Taylor,Greater Western Sydney,13.0,9.0,4.0,0.69,0.31,8.0,0.0,3.0,Key Defender
-9,Toby Greene,Greater Western Sydney,18.0,10.0,8.0,0.56,0.44,2.0,1.0,4.0,Gen. Forward
-9,Toby McMullin,Greater Western Sydney,16.0,7.0,9.0,0.44,0.56,1.0,0.0,3.0,Midfielder
-9,Tom Green,Greater Western Sydney,37.0,18.0,19.0,0.49,0.51,7.0,1.0,4.0,Midfielder
-9,Xavier O'Halloran,Greater Western Sydney,15.0,10.0,5.0,0.67,0.33,4.0,1.0,1.0,Midfielder
-10,Aaron Cadman,Greater Western Sydney,5.0,5.0,0.0,1.0,0.0,3.0,1.0,0.0,Key Forward
-10,Callan Ward,Greater Western Sydney,11.0,7.0,4.0,0.64,0.36,4.0,0.0,0.0,Midfielder
-10,Callum Brown,Greater Western Sydney,13.0,8.0,5.0,0.62,0.38,5.0,2.0,3.0,Gen. Forward
-10,Cody Angove,Greater Western Sydney,9.0,5.0,4.0,0.56,0.44,3.0,0.0,2.0,Gen. Forward
-10,Connor Idun,Greater Western Sydney,18.0,11.0,7.0,0.61,0.39,7.0,0.0,4.0,Gen. Defender
-10,Darcy Jones,Greater Western Sydney,17.0,10.0,7.0,0.59,0.41,1.0,2.0,2.0,Gen. Forward
-10,Finn Callaghan,Greater Western Sydney,24.0,11.0,13.0,0.46,0.54,4.0,0.0,8.0,Midfielder
-10,Harry Himmelberg,Greater Western Sydney,13.0,7.0,6.0,0.54,0.46,4.0,0.0,3.0,Gen. Defender
-10,Harvey Thomas,Greater Western Sydney,,,,,,,,,Gen. Forward
-10,Jack Buckley,Greater Western Sydney,16.0,8.0,8.0,0.5,0.5,9.0,0.0,0.0,Key Defender
-10,Jacob Wehr,Greater Western Sydney,12.0,8.0,4.0,0.67,0.33,1.0,0.0,6.0,Midfielder
-10,Jake Riccardi,Greater Western Sydney,11.0,6.0,5.0,0.55,0.45,4.0,0.0,1.0,Key Forward
-10,Jesse Hogan,Greater Western Sydney,11.0,8.0,3.0,0.73,0.27,6.0,1.0,2.0,Key Forward
-10,Joe Fonti,Greater Western Sydney,11.0,6.0,5.0,0.55,0.45,3.0,0.0,8.0,Gen. Defender
-10,Kieren Briggs,Greater Western Sydney,13.0,10.0,3.0,0.77,0.23,3.0,0.0,3.0,Ruck
-10,Lachie Ash,Greater Western Sydney,29.0,21.0,8.0,0.72,0.28,8.0,0.0,3.0,Gen. Defender
-10,Lachie Whitfield,Greater Western Sydney,25.0,16.0,9.0,0.64,0.36,8.0,0.0,2.0,Gen. Defender
-10,Sam Taylor,Greater Western Sydney,14.0,9.0,5.0,0.64,0.36,6.0,0.0,3.0,Key Defender
-10,Toby Bedford,Greater Western Sydney,8.0,4.0,4.0,0.5,0.5,1.0,0.0,6.0,Mid-Forward
-10,Toby Greene,Greater Western Sydney,16.0,11.0,5.0,0.69,0.31,3.0,1.0,2.0,Gen. Forward
-10,Toby McMullin,Greater Western Sydney,,,,,,,,,Midfielder
-10,Tom Green,Greater Western Sydney,25.0,10.0,15.0,0.4,0.6,2.0,1.0,1.0,Midfielder
-10,Xavier O'Halloran,Greater Western Sydney,13.0,8.0,5.0,0.62,0.38,2.0,0.0,3.0,Midfielder
-11,Aaron Cadman,Greater Western Sydney,8.0,6.0,2.0,0.75,0.25,2.0,2.0,1.0,Key Forward
-11,Callan Ward,Greater Western Sydney,19.0,8.0,11.0,0.42,0.58,3.0,1.0,2.0,Midfielder
-11,Callum Brown,Greater Western Sydney,9.0,5.0,4.0,0.56,0.44,3.0,3.0,1.0,Gen. Forward
-11,Cody Angove,Greater Western Sydney,15.0,7.0,8.0,0.47,0.53,3.0,0.0,0.0,Gen. Forward
-11,Connor Idun,Greater Western Sydney,20.0,11.0,9.0,0.55,0.45,5.0,0.0,0.0,Gen. Defender
-11,Darcy Jones,Greater Western Sydney,16.0,8.0,8.0,0.5,0.5,3.0,0.0,7.0,Gen. Forward
-11,Harry Himmelberg,Greater Western Sydney,19.0,10.0,9.0,0.53,0.47,4.0,0.0,3.0,Gen. Defender
-11,Harry Rowston,Greater Western Sydney,,,,,,,,,Midfielder
-11,Harvey Thomas,Greater Western Sydney,20.0,7.0,13.0,0.35,0.65,3.0,0.0,0.0,Gen. Forward
-11,Jack Buckley,Greater Western Sydney,8.0,4.0,4.0,0.5,0.5,3.0,0.0,2.0,Key Defender
-11,Jacob Wehr,Greater Western Sydney,11.0,9.0,2.0,0.82,0.18,4.0,0.0,2.0,Midfielder
-11,Jake Riccardi,Greater Western Sydney,9.0,6.0,3.0,0.67,0.33,5.0,3.0,5.0,Key Forward
-11,Jesse Hogan,Greater Western Sydney,9.0,6.0,3.0,0.67,0.33,4.0,4.0,2.0,Key Forward
-11,Joe Fonti,Greater Western Sydney,11.0,5.0,6.0,0.45,0.55,1.0,0.0,2.0,Gen. Defender
-11,Kieren Briggs,Greater Western Sydney,9.0,7.0,2.0,0.78,0.22,0.0,1.0,1.0,Ruck
-11,Lachie Ash,Greater Western Sydney,28.0,23.0,5.0,0.82,0.18,6.0,0.0,4.0,Gen. Defender
-11,Lachie Whitfield,Greater Western Sydney,27.0,8.0,19.0,0.3,0.7,5.0,0.0,3.0,Gen. Defender
-11,Leek Aleer,Greater Western Sydney,8.0,5.0,3.0,0.62,0.38,5.0,0.0,2.0,Key Defender
-11,Sam Taylor,Greater Western Sydney,14.0,6.0,8.0,0.43,0.57,7.0,0.0,2.0,Key Defender
-11,Toby Bedford,Greater Western Sydney,11.0,7.0,4.0,0.64,0.36,2.0,0.0,9.0,Mid-Forward
-11,Toby Greene,Greater Western Sydney,28.0,19.0,9.0,0.68,0.32,9.0,3.0,4.0,Gen. Forward
-11,Tom Green,Greater Western Sydney,25.0,14.0,11.0,0.56,0.44,1.0,0.0,5.0,Midfielder
-11,Xavier O'Halloran,Greater Western Sydney,19.0,14.0,5.0,0.74,0.26,5.0,0.0,7.0,Midfielder
-12,Aaron Cadman,Greater Western Sydney,10.0,8.0,2.0,0.8,0.2,7.0,2.0,4.0,Key Forward
-12,Callan Ward,Greater Western Sydney,,,,,,,,,Midfielder
-12,Callum Brown,Greater Western Sydney,10.0,9.0,1.0,0.9,0.1,5.0,3.0,2.0,Gen. Forward
-12,Cody Angove,Greater Western Sydney,7.0,2.0,5.0,0.29,0.71,1.0,1.0,5.0,Gen. Forward
-12,Connor Idun,Greater Western Sydney,25.0,13.0,12.0,0.52,0.48,7.0,0.0,0.0,Gen. Defender
-12,Darcy Jones,Greater Western Sydney,17.0,5.0,12.0,0.29,0.71,1.0,0.0,3.0,Gen. Forward
-12,Harry Himmelberg,Greater Western Sydney,21.0,12.0,9.0,0.57,0.43,4.0,0.0,0.0,Gen. Defender
-12,Harvey Thomas,Greater Western Sydney,9.0,5.0,4.0,0.56,0.44,3.0,0.0,3.0,Gen. Forward
-12,Jack Buckley,Greater Western Sydney,17.0,10.0,7.0,0.59,0.41,6.0,0.0,0.0,Key Defender
-12,Jake Riccardi,Greater Western Sydney,17.0,12.0,5.0,0.71,0.29,8.0,2.0,5.0,Key Forward
-12,Jesse Hogan,Greater Western Sydney,8.0,5.0,3.0,0.62,0.38,4.0,0.0,1.0,Key Forward
-12,Joe Fonti,Greater Western Sydney,17.0,10.0,7.0,0.59,0.41,6.0,0.0,6.0,Gen. Defender
-12,Josh Kelly,Greater Western Sydney,20.0,12.0,8.0,0.6,0.4,8.0,0.0,3.0,Midfielder
-12,Kieren Briggs,Greater Western Sydney,9.0,4.0,5.0,0.44,0.56,3.0,1.0,4.0,Ruck
-12,Lachie Ash,Greater Western Sydney,36.0,25.0,11.0,0.69,0.31,6.0,0.0,0.0,Gen. Defender
-12,Lachie Whitfield,Greater Western Sydney,28.0,16.0,12.0,0.57,0.43,9.0,0.0,5.0,Gen. Defender
-12,Leek Aleer,Greater Western Sydney,15.0,5.0,10.0,0.33,0.67,4.0,0.0,0.0,Key Defender
-12,Sam Taylor,Greater Western Sydney,13.0,8.0,5.0,0.62,0.38,8.0,0.0,2.0,Key Defender
-12,Toby Bedford,Greater Western Sydney,12.0,7.0,5.0,0.58,0.42,2.0,0.0,8.0,Mid-Forward
-12,Toby Greene,Greater Western Sydney,12.0,7.0,5.0,0.58,0.42,3.0,1.0,4.0,Gen. Forward
-12,Toby McMullin,Greater Western Sydney,20.0,11.0,9.0,0.55,0.45,5.0,1.0,0.0,Midfielder
-12,Tom Green,Greater Western Sydney,30.0,14.0,16.0,0.47,0.53,3.0,1.0,7.0,Midfielder
-12,Xavier O'Halloran,Greater Western Sydney,19.0,10.0,9.0,0.53,0.47,2.0,0.0,1.0,Midfielder
-13,Aaron Cadman,Greater Western Sydney,10.0,6.0,4.0,0.6,0.4,5.0,1.0,4.0,Key Forward
-13,Brent Daniels,Greater Western Sydney,,,,,,,,,Gen. Forward
-13,Callum Brown,Greater Western Sydney,13.0,9.0,4.0,0.69,0.31,5.0,0.0,5.0,Gen. Forward
-13,Connor Idun,Greater Western Sydney,19.0,10.0,9.0,0.53,0.47,5.0,0.0,1.0,Gen. Defender
-13,Darcy Jones,Greater Western Sydney,9.0,5.0,4.0,0.56,0.44,2.0,1.0,4.0,Gen. Forward
-13,Harry Himmelberg,Greater Western Sydney,16.0,12.0,4.0,0.75,0.25,7.0,0.0,1.0,Gen. Defender
-13,Harvey Thomas,Greater Western Sydney,9.0,4.0,5.0,0.44,0.56,4.0,1.0,3.0,Gen. Forward
-13,Jack Buckley,Greater Western Sydney,24.0,17.0,7.0,0.71,0.29,12.0,0.0,2.0,Key Defender
-13,Jacob Wehr,Greater Western Sydney,14.0,10.0,4.0,0.71,0.29,2.0,0.0,3.0,Midfielder
-13,Jake Riccardi,Greater Western Sydney,16.0,12.0,4.0,0.75,0.25,4.0,2.0,2.0,Key Forward
-13,Jesse Hogan,Greater Western Sydney,9.0,6.0,3.0,0.67,0.33,0.0,2.0,5.0,Key Forward
-13,Joe Fonti,Greater Western Sydney,14.0,8.0,6.0,0.57,0.43,4.0,0.0,6.0,Gen. Defender
-13,Josh Kelly,Greater Western Sydney,17.0,10.0,7.0,0.59,0.41,2.0,0.0,5.0,Midfielder
-13,Lachie Ash,Greater Western Sydney,30.0,23.0,7.0,0.77,0.23,4.0,0.0,2.0,Gen. Defender
-13,Lachie Whitfield,Greater Western Sydney,24.0,14.0,10.0,0.58,0.42,6.0,0.0,2.0,Gen. Defender
-13,Leek Aleer,Greater Western Sydney,,,,,,,,,Key Defender
-13,Nicholas Madden,Greater Western Sydney,15.0,5.0,10.0,0.33,0.67,2.0,0.0,4.0,Ruck
-13,Sam Taylor,Greater Western Sydney,19.0,10.0,9.0,0.53,0.47,9.0,0.0,2.0,Key Defender
-13,Toby Bedford,Greater Western Sydney,13.0,4.0,9.0,0.31,0.69,1.0,0.0,6.0,Mid-Forward
-13,Toby Greene,Greater Western Sydney,,,,,,,,,Gen. Forward
-13,Toby McMullin,Greater Western Sydney,6.0,5.0,1.0,0.83,0.17,1.0,0.0,3.0,Midfielder
-13,Tom Green,Greater Western Sydney,31.0,16.0,15.0,0.52,0.48,5.0,0.0,4.0,Midfielder
-13,Xavier O'Halloran,Greater Western Sydney,14.0,9.0,5.0,0.64,0.36,3.0,0.0,4.0,Midfielder
-14,Aaron Cadman,Greater Western Sydney,19.0,15.0,4.0,0.79,0.21,13.0,5.0,1.0,Key Forward
-14,Brent Daniels,Greater Western Sydney,,,,,,,,,Gen. Forward
-14,Callum Brown,Greater Western Sydney,11.0,8.0,3.0,0.73,0.27,5.0,3.0,3.0,Gen. Forward
-14,Connor Idun,Greater Western Sydney,23.0,12.0,11.0,0.52,0.48,6.0,0.0,1.0,Gen. Defender
-14,Darcy Jones,Greater Western Sydney,20.0,9.0,11.0,0.45,0.55,1.0,1.0,5.0,Gen. Forward
-14,Finn Callaghan,Greater Western Sydney,32.0,15.0,17.0,0.47,0.53,2.0,0.0,2.0,Midfielder
-14,Harry Himmelberg,Greater Western Sydney,11.0,7.0,4.0,0.64,0.36,6.0,1.0,1.0,Gen. Defender
-14,Harry Rowston,Greater Western Sydney,18.0,12.0,6.0,0.67,0.33,2.0,0.0,6.0,Midfielder
-14,Harvey Thomas,Greater Western Sydney,14.0,7.0,7.0,0.5,0.5,4.0,0.0,4.0,Gen. Forward
-14,Jack Buckley,Greater Western Sydney,7.0,3.0,4.0,0.43,0.57,3.0,0.0,0.0,Key Defender
-14,Jake Riccardi,Greater Western Sydney,9.0,6.0,3.0,0.67,0.33,3.0,0.0,3.0,Key Forward
-14,Jesse Hogan,Greater Western Sydney,16.0,13.0,3.0,0.81,0.19,12.0,6.0,0.0,Key Forward
-14,Joe Fonti,Greater Western Sydney,5.0,4.0,1.0,0.8,0.2,2.0,0.0,0.0,Gen. Defender
-14,Josaia Delana,Greater Western Sydney,,,,,,,,,Gen. Forward
-14,Josh Kelly,Greater Western Sydney,23.0,10.0,13.0,0.43,0.57,7.0,0.0,2.0,Midfielder
-14,Lachie Ash,Greater Western Sydney,31.0,21.0,10.0,0.68,0.32,7.0,0.0,4.0,Gen. Defender
-14,Lachie Whitfield,Greater Western Sydney,33.0,25.0,8.0,0.76,0.24,5.0,0.0,2.0,Gen. Defender
-14,Leek Aleer,Greater Western Sydney,9.0,4.0,5.0,0.44,0.56,4.0,0.0,0.0,Key Defender
-14,Nicholas Madden,Greater Western Sydney,7.0,0.0,7.0,0.0,1.0,1.0,0.0,2.0,Ruck
-14,Sam Taylor,Greater Western Sydney,13.0,5.0,8.0,0.38,0.62,3.0,0.0,3.0,Key Defender
-14,Toby Bedford,Greater Western Sydney,10.0,5.0,5.0,0.5,0.5,4.0,0.0,1.0,Mid-Forward
-14,Tom Green,Greater Western Sydney,26.0,16.0,10.0,0.62,0.38,2.0,0.0,1.0,Midfielder
-14,Xavier O'Halloran,Greater Western Sydney,14.0,11.0,3.0,0.79,0.21,1.0,1.0,0.0,Midfielder
-15,Aaron Cadman,Greater Western Sydney,7.0,6.0,1.0,0.86,0.14,3.0,3.0,2.0,Key Forward
-15,Callum Brown,Greater Western Sydney,12.0,10.0,2.0,0.83,0.17,3.0,2.0,2.0,Gen. Forward
-15,Connor Idun,Greater Western Sydney,15.0,9.0,6.0,0.6,0.4,10.0,0.0,1.0,Gen. Defender
-15,Darcy Jones,Greater Western Sydney,9.0,3.0,6.0,0.33,0.67,0.0,0.0,3.0,Gen. Forward
-15,Finn Callaghan,Greater Western Sydney,28.0,16.0,12.0,0.57,0.43,3.0,0.0,8.0,Midfielder
-15,Harry Himmelberg,Greater Western Sydney,15.0,8.0,7.0,0.53,0.47,1.0,0.0,2.0,Gen. Defender
-15,Harry Rowston,Greater Western Sydney,20.0,11.0,9.0,0.55,0.45,4.0,0.0,5.0,Midfielder
-15,Harvey Thomas,Greater Western Sydney,12.0,6.0,6.0,0.5,0.5,2.0,1.0,6.0,Gen. Forward
-15,Jack Buckley,Greater Western Sydney,10.0,6.0,4.0,0.6,0.4,5.0,0.0,2.0,Key Defender
-15,Jake Riccardi,Greater Western Sydney,15.0,12.0,3.0,0.8,0.2,7.0,2.0,6.0,Key Forward
-15,Jake Stringer,Greater Western Sydney,,,,,,,,,Gen. Forward
-15,Jesse Hogan,Greater Western Sydney,11.0,7.0,4.0,0.64,0.36,7.0,2.0,1.0,Key Forward
-15,Joe Fonti,Greater Western Sydney,9.0,4.0,5.0,0.44,0.56,1.0,0.0,5.0,Gen. Defender
-15,Josh Kelly,Greater Western Sydney,18.0,6.0,12.0,0.33,0.67,3.0,0.0,2.0,Midfielder
-15,Lachie Ash,Greater Western Sydney,33.0,20.0,13.0,0.61,0.39,4.0,0.0,1.0,Gen. Defender
-15,Lachie Whitfield,Greater Western Sydney,,,,,,,,,Gen. Defender
-15,Leek Aleer,Greater Western Sydney,6.0,5.0,1.0,0.83,0.17,3.0,0.0,3.0,Key Defender
-15,Nicholas Madden,Greater Western Sydney,11.0,2.0,9.0,0.18,0.82,0.0,0.0,3.0,Ruck
-15,Ryan Angwin,Greater Western Sydney,16.0,8.0,8.0,0.5,0.5,7.0,0.0,3.0,Midfielder
-15,Toby Bedford,Greater Western Sydney,14.0,5.0,9.0,0.36,0.64,2.0,1.0,6.0,Mid-Forward
-15,Toby Greene,Greater Western Sydney,17.0,15.0,2.0,0.88,0.12,4.0,2.0,11.0,Gen. Forward
-15,Tom Green,Greater Western Sydney,31.0,13.0,18.0,0.42,0.58,4.0,1.0,9.0,Midfielder
-15,Xavier O'Halloran,Greater Western Sydney,20.0,6.0,14.0,0.3,0.7,1.0,0.0,4.0,Midfielder
-17,Aaron Cadman,Greater Western Sydney,11.0,10.0,1.0,0.91,0.09,7.0,2.0,1.0,Key Forward
-17,Callum Brown,Greater Western Sydney,16.0,12.0,4.0,0.75,0.25,4.0,1.0,1.0,Gen. Forward
-17,Connor Idun,Greater Western Sydney,20.0,13.0,7.0,0.65,0.35,10.0,0.0,1.0,Gen. Defender
-17,Darcy Jones,Greater Western Sydney,17.0,11.0,6.0,0.65,0.35,3.0,2.0,4.0,Gen. Forward
-17,Finn Callaghan,Greater Western Sydney,37.0,23.0,14.0,0.62,0.38,4.0,1.0,1.0,Midfielder
-17,Harry Himmelberg,Greater Western Sydney,21.0,15.0,6.0,0.71,0.29,9.0,0.0,3.0,Gen. Defender
-17,Harry Rowston,Greater Western Sydney,12.0,10.0,2.0,0.83,0.17,4.0,0.0,2.0,Midfielder
-17,Harvey Thomas,Greater Western Sydney,,,,,,,,,Gen. Forward
-17,Jack Buckley,Greater Western Sydney,,,,,,,,,Key Defender
-17,Jake Riccardi,Greater Western Sydney,12.0,7.0,5.0,0.58,0.42,3.0,1.0,6.0,Key Forward
-17,Jake Stringer,Greater Western Sydney,14.0,9.0,5.0,0.64,0.36,5.0,1.0,1.0,Gen. Forward
-17,James Leake,Greater Western Sydney,10.0,6.0,4.0,0.6,0.4,3.0,0.0,1.0,Gen. Defender
-17,Joe Fonti,Greater Western Sydney,16.0,8.0,8.0,0.5,0.5,4.0,0.0,3.0,Gen. Defender
-17,Josh Kelly,Greater Western Sydney,27.0,12.0,15.0,0.44,0.56,3.0,2.0,5.0,Midfielder
-17,Kieren Briggs,Greater Western Sydney,10.0,7.0,3.0,0.7,0.3,6.0,0.0,5.0,Ruck
-17,Lachie Ash,Greater Western Sydney,29.0,20.0,9.0,0.69,0.31,5.0,0.0,2.0,Gen. Defender
-17,Leek Aleer,Greater Western Sydney,9.0,6.0,3.0,0.67,0.33,3.0,0.0,1.0,Key Defender
-17,Max Gruzewski,Greater Western Sydney,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,Key Forward
-17,Ryan Angwin,Greater Western Sydney,24.0,11.0,13.0,0.46,0.54,4.0,0.0,4.0,Midfielder
-17,Toby Bedford,Greater Western Sydney,14.0,4.0,10.0,0.29,0.71,0.0,1.0,3.0,Mid-Forward
-17,Toby Greene,Greater Western Sydney,18.0,15.0,3.0,0.83,0.17,8.0,3.0,2.0,Gen. Forward
-17,Tom Green,Greater Western Sydney,35.0,17.0,18.0,0.49,0.51,7.0,0.0,0.0,Midfielder
-17,Xavier O'Halloran,Greater Western Sydney,27.0,19.0,8.0,0.7,0.3,1.0,2.0,4.0,Midfielder
-18,Aaron Cadman,Greater Western Sydney,15.0,13.0,2.0,0.87,0.13,8.0,6.0,1.0,Key Forward
-18,Callum Brown,Greater Western Sydney,15.0,11.0,4.0,0.73,0.27,7.0,1.0,1.0,Gen. Forward
-18,Connor Idun,Greater Western Sydney,13.0,9.0,4.0,0.69,0.31,5.0,0.0,0.0,Gen. Defender
-18,Darcy Jones,Greater Western Sydney,15.0,10.0,5.0,0.67,0.33,3.0,1.0,6.0,Gen. Forward
-18,Finn Callaghan,Greater Western Sydney,29.0,17.0,12.0,0.59,0.41,2.0,0.0,2.0,Midfielder
-18,Harry Himmelberg,Greater Western Sydney,15.0,9.0,6.0,0.6,0.4,6.0,0.0,3.0,Gen. Defender
-18,Harry Rowston,Greater Western Sydney,20.0,14.0,6.0,0.7,0.3,1.0,0.0,0.0,Midfielder
-18,Harvey Thomas,Greater Western Sydney,,,,,,,,,Gen. Forward
-18,Jack Buckley,Greater Western Sydney,12.0,8.0,4.0,0.67,0.33,5.0,0.0,2.0,Key Defender
-18,Jake Riccardi,Greater Western Sydney,10.0,7.0,3.0,0.7,0.3,5.0,1.0,4.0,Key Forward
-18,Jake Stringer,Greater Western Sydney,11.0,8.0,3.0,0.73,0.27,2.0,4.0,3.0,Gen. Forward
-18,Jesse Hogan,Greater Western Sydney,4.0,4.0,0.0,1.0,0.0,3.0,1.0,0.0,Key Forward
-18,Joe Fonti,Greater Western Sydney,15.0,9.0,6.0,0.6,0.4,5.0,0.0,0.0,Gen. Defender
-18,Josh Kelly,Greater Western Sydney,15.0,8.0,7.0,0.53,0.47,6.0,0.0,2.0,Midfielder
-18,Kieren Briggs,Greater Western Sydney,14.0,7.0,7.0,0.5,0.5,2.0,0.0,2.0,Ruck
-18,Lachie Ash,Greater Western Sydney,27.0,18.0,9.0,0.67,0.33,7.0,0.0,3.0,Gen. Defender
-18,Lachie Whitfield,Greater Western Sydney,32.0,22.0,10.0,0.69,0.31,11.0,0.0,1.0,Gen. Defender
-18,Leek Aleer,Greater Western Sydney,16.0,11.0,5.0,0.69,0.31,7.0,0.0,0.0,Key Defender
-18,Ryan Angwin,Greater Western Sydney,12.0,7.0,5.0,0.58,0.42,1.0,0.0,5.0,Midfielder
-18,Toby Bedford,Greater Western Sydney,9.0,3.0,6.0,0.33,0.67,0.0,1.0,2.0,Mid-Forward
-18,Toby Greene,Greater Western Sydney,11.0,8.0,3.0,0.73,0.27,2.0,2.0,3.0,Gen. Forward
-18,Tom Green,Greater Western Sydney,24.0,9.0,15.0,0.38,0.62,1.0,0.0,4.0,Midfielder
-18,Xavier O'Halloran,Greater Western Sydney,15.0,10.0,5.0,0.67,0.33,3.0,0.0,3.0,Midfielder
-19,Aaron Cadman,Greater Western Sydney,9.0,8.0,1.0,0.89,0.11,5.0,1.0,1.0,Key Forward
-19,Callum Brown,Greater Western Sydney,12.0,10.0,2.0,0.83,0.17,7.0,2.0,1.0,Gen. Forward
-19,Connor Idun,Greater Western Sydney,21.0,11.0,10.0,0.52,0.48,6.0,0.0,2.0,Gen. Defender
-19,Darcy Jones,Greater Western Sydney,13.0,7.0,6.0,0.54,0.46,1.0,1.0,2.0,Gen. Forward
-19,Finn Callaghan,Greater Western Sydney,33.0,19.0,14.0,0.58,0.42,8.0,0.0,2.0,Midfielder
-19,Harry Himmelberg,Greater Western Sydney,23.0,16.0,7.0,0.7,0.3,11.0,0.0,1.0,Gen. Defender
-19,Harry Rowston,Greater Western Sydney,,,,,,,,,Midfielder
-19,Jack Buckley,Greater Western Sydney,10.0,7.0,3.0,0.7,0.3,3.0,0.0,1.0,Key Defender
-19,Jake Riccardi,Greater Western Sydney,17.0,8.0,9.0,0.47,0.53,6.0,2.0,0.0,Key Forward
-19,Jake Stringer,Greater Western Sydney,18.0,10.0,8.0,0.56,0.44,6.0,3.0,0.0,Gen. Forward
-19,Joe Fonti,Greater Western Sydney,12.0,8.0,4.0,0.67,0.33,6.0,0.0,1.0,Gen. Defender
-19,Kieren Briggs,Greater Western Sydney,,,,,,,,,Ruck
-19,Lachie Ash,Greater Western Sydney,27.0,23.0,4.0,0.85,0.15,7.0,0.0,2.0,Gen. Defender
-19,Lachie Whitfield,Greater Western Sydney,29.0,19.0,10.0,0.66,0.34,9.0,0.0,2.0,Gen. Defender
-19,Leek Aleer,Greater Western Sydney,8.0,3.0,5.0,0.38,0.62,2.0,0.0,2.0,Key Defender
-19,Max Gruzewski,Greater Western Sydney,7.0,3.0,4.0,0.43,0.57,1.0,2.0,0.0,Key Forward
-19,Ryan Angwin,Greater Western Sydney,15.0,10.0,5.0,0.67,0.33,6.0,0.0,4.0,Midfielder
-19,Stephen Coniglio,Greater Western Sydney,18.0,14.0,4.0,0.78,0.22,4.0,0.0,2.0,Midfielder
-19,Toby Bedford,Greater Western Sydney,8.0,5.0,3.0,0.62,0.38,4.0,0.0,6.0,Mid-Forward
-19,Toby Greene,Greater Western Sydney,17.0,11.0,6.0,0.65,0.35,7.0,2.0,2.0,Gen. Forward
-19,Toby McMullin,Greater Western Sydney,15.0,10.0,5.0,0.67,0.33,4.0,0.0,1.0,Midfielder
-19,Tom Green,Greater Western Sydney,30.0,19.0,11.0,0.63,0.37,4.0,1.0,3.0,Midfielder
-19,Xavier O'Halloran,Greater Western Sydney,19.0,13.0,6.0,0.68,0.32,4.0,1.0,3.0,Midfielder
-20,Aaron Cadman,Greater Western Sydney,11.0,8.0,3.0,0.73,0.27,7.0,3.0,2.0,Key Forward
-20,Callum Brown,Greater Western Sydney,11.0,8.0,3.0,0.73,0.27,4.0,0.0,2.0,Gen. Forward
-20,Connor Idun,Greater Western Sydney,17.0,9.0,8.0,0.53,0.47,9.0,0.0,0.0,Gen. Defender
-20,Darcy Jones,Greater Western Sydney,12.0,4.0,8.0,0.33,0.67,2.0,0.0,1.0,Gen. Forward
-20,Finn Callaghan,Greater Western Sydney,21.0,17.0,4.0,0.81,0.19,6.0,1.0,5.0,Midfielder
-20,Harry Himmelberg,Greater Western Sydney,23.0,17.0,6.0,0.74,0.26,11.0,1.0,1.0,Gen. Defender
-20,Jack Buckley,Greater Western Sydney,11.0,7.0,4.0,0.64,0.36,8.0,0.0,1.0,Key Defender
-20,Jake Riccardi,Greater Western Sydney,13.0,7.0,6.0,0.54,0.46,4.0,0.0,5.0,Key Forward
-20,Jake Stringer,Greater Western Sydney,13.0,10.0,3.0,0.77,0.23,3.0,3.0,3.0,Gen. Forward
-20,Jesse Hogan,Greater Western Sydney,10.0,8.0,2.0,0.8,0.2,6.0,2.0,1.0,Key Forward
-20,Joe Fonti,Greater Western Sydney,14.0,4.0,10.0,0.29,0.71,4.0,0.0,1.0,Gen. Defender
-20,Josh Kelly,Greater Western Sydney,7.0,3.0,4.0,0.43,0.57,1.0,0.0,1.0,Midfielder
-20,Kieren Briggs,Greater Western Sydney,11.0,8.0,3.0,0.73,0.27,1.0,0.0,4.0,Ruck
-20,Lachie Ash,Greater Western Sydney,13.0,9.0,4.0,0.69,0.31,4.0,1.0,4.0,Gen. Defender
-20,Lachie Whitfield,Greater Western Sydney,27.0,21.0,6.0,0.78,0.22,8.0,0.0,3.0,Gen. Defender
-20,Ryan Angwin,Greater Western Sydney,25.0,11.0,14.0,0.44,0.56,3.0,0.0,4.0,Midfielder
-20,Sam Taylor,Greater Western Sydney,18.0,9.0,9.0,0.5,0.5,10.0,0.0,2.0,Key Defender
-20,Stephen Coniglio,Greater Western Sydney,19.0,15.0,4.0,0.79,0.21,1.0,0.0,6.0,Midfielder
-20,Toby Bedford,Greater Western Sydney,10.0,6.0,4.0,0.6,0.4,3.0,2.0,2.0,Mid-Forward
-20,Toby Greene,Greater Western Sydney,9.0,8.0,1.0,0.89,0.11,3.0,1.0,1.0,Gen. Forward
-20,Toby McMullin,Greater Western Sydney,,,,,,,,,Midfielder
-20,Tom Green,Greater Western Sydney,16.0,7.0,9.0,0.44,0.56,1.0,1.0,6.0,Midfielder
-20,Xavier O'Halloran,Greater Western Sydney,16.0,11.0,5.0,0.69,0.31,2.0,0.0,2.0,Midfielder
-21,Aaron Cadman,Greater Western Sydney,8.0,7.0,1.0,0.88,0.12,4.0,2.0,1.0,Key Forward
-21,Callum Brown,Greater Western Sydney,8.0,4.0,4.0,0.5,0.5,2.0,0.0,2.0,Gen. Forward
-21,Connor Idun,Greater Western Sydney,23.0,14.0,9.0,0.61,0.39,10.0,0.0,1.0,Gen. Defender
-21,Darcy Jones,Greater Western Sydney,8.0,4.0,4.0,0.5,0.5,2.0,0.0,3.0,Gen. Forward
-21,Finn Callaghan,Greater Western Sydney,23.0,17.0,6.0,0.74,0.26,6.0,0.0,2.0,Midfielder
-21,Harry Himmelberg,Greater Western Sydney,18.0,17.0,1.0,0.94,0.06,11.0,0.0,2.0,Gen. Defender
-21,Harry Rowston,Greater Western Sydney,,,,,,,,,Midfielder
-21,Harvey Thomas,Greater Western Sydney,11.0,7.0,4.0,0.64,0.36,5.0,0.0,3.0,Gen. Forward
-21,Jake Riccardi,Greater Western Sydney,9.0,6.0,3.0,0.67,0.33,1.0,2.0,3.0,Key Forward
-21,Jake Stringer,Greater Western Sydney,8.0,5.0,3.0,0.62,0.38,4.0,1.0,1.0,Gen. Forward
-21,Jesse Hogan,Greater Western Sydney,3.0,1.0,2.0,0.33,0.67,0.0,0.0,0.0,Key Forward
-21,Joe Fonti,Greater Western Sydney,10.0,7.0,3.0,0.7,0.3,4.0,0.0,4.0,Gen. Defender
-21,Kieren Briggs,Greater Western Sydney,8.0,4.0,4.0,0.5,0.5,1.0,0.0,2.0,Ruck
-21,Lachie Ash,Greater Western Sydney,36.0,25.0,11.0,0.69,0.31,12.0,0.0,2.0,Gen. Defender
-21,Lachie Whitfield,Greater Western Sydney,29.0,23.0,6.0,0.79,0.21,13.0,0.0,1.0,Gen. Defender
-21,Leek Aleer,Greater Western Sydney,12.0,4.0,8.0,0.33,0.67,5.0,0.0,3.0,Key Defender
-21,Ryan Angwin,Greater Western Sydney,7.0,4.0,3.0,0.57,0.43,3.0,0.0,3.0,Midfielder
-21,Sam Taylor,Greater Western Sydney,10.0,4.0,6.0,0.4,0.6,4.0,0.0,1.0,Key Defender
-21,Stephen Coniglio,Greater Western Sydney,15.0,9.0,6.0,0.6,0.4,2.0,0.0,3.0,Midfielder
-21,Toby Bedford,Greater Western Sydney,9.0,7.0,2.0,0.78,0.22,3.0,1.0,2.0,Mid-Forward
-21,Toby McMullin,Greater Western Sydney,,,,,,,,,Midfielder
-21,Tom Green,Greater Western Sydney,25.0,10.0,15.0,0.4,0.6,1.0,0.0,3.0,Midfielder
-21,Xavier O'Halloran,Greater Western Sydney,13.0,9.0,4.0,0.69,0.31,5.0,0.0,0.0,Midfielder
-22,Aaron Cadman,Greater Western Sydney,12.0,6.0,6.0,0.5,0.5,7.0,4.0,2.0,Key Forward
-22,Callum Brown,Greater Western Sydney,8.0,7.0,1.0,0.88,0.12,5.0,5.0,2.0,Gen. Forward
-22,Connor Idun,Greater Western Sydney,17.0,11.0,6.0,0.65,0.35,8.0,0.0,5.0,Gen. Defender
-22,Darcy Jones,Greater Western Sydney,18.0,6.0,12.0,0.33,0.67,5.0,0.0,2.0,Gen. Forward
-22,Finn Callaghan,Greater Western Sydney,31.0,13.0,18.0,0.42,0.58,4.0,1.0,8.0,Midfielder
-22,Harry Himmelberg,Greater Western Sydney,24.0,17.0,7.0,0.71,0.29,13.0,0.0,0.0,Gen. Defender
-22,Harry Rowston,Greater Western Sydney,,,,,,,,,Midfielder
-22,Harvey Thomas,Greater Western Sydney,19.0,13.0,6.0,0.68,0.32,6.0,1.0,3.0,Gen. Forward
-22,Jake Riccardi,Greater Western Sydney,8.0,2.0,6.0,0.25,0.75,1.0,0.0,2.0,Key Forward
-22,Jake Stringer,Greater Western Sydney,,,,,,,,,Gen. Forward
-22,Joe Fonti,Greater Western Sydney,9.0,4.0,5.0,0.44,0.56,2.0,0.0,2.0,Gen. Defender
-22,Kieren Briggs,Greater Western Sydney,8.0,3.0,5.0,0.38,0.62,1.0,0.0,6.0,Ruck
-22,Lachie Ash,Greater Western Sydney,13.0,6.0,7.0,0.46,0.54,1.0,0.0,0.0,Gen. Defender
-22,Lachie Whitfield,Greater Western Sydney,27.0,16.0,11.0,0.59,0.41,5.0,0.0,2.0,Gen. Defender
-22,Leek Aleer,Greater Western Sydney,5.0,2.0,3.0,0.4,0.6,2.0,0.0,0.0,Key Defender
-22,Max Gruzewski,Greater Western Sydney,8.0,6.0,2.0,0.75,0.25,5.0,0.0,1.0,Key Forward
-22,Ryan Angwin,Greater Western Sydney,14.0,5.0,9.0,0.36,0.64,3.0,1.0,4.0,Midfielder
-22,Sam Taylor,Greater Western Sydney,13.0,7.0,6.0,0.54,0.46,5.0,0.0,2.0,Key Defender
-22,Stephen Coniglio,Greater Western Sydney,21.0,13.0,8.0,0.62,0.38,2.0,0.0,6.0,Midfielder
-22,Toby Bedford,Greater Western Sydney,15.0,10.0,5.0,0.67,0.33,3.0,1.0,3.0,Mid-Forward
-22,Toby Greene,Greater Western Sydney,23.0,18.0,5.0,0.78,0.22,10.0,3.0,4.0,Gen. Forward
-22,Tom Green,Greater Western Sydney,25.0,12.0,13.0,0.48,0.52,4.0,1.0,4.0,Midfielder
-22,Xavier O'Halloran,Greater Western Sydney,23.0,11.0,12.0,0.48,0.52,4.0,0.0,7.0,Midfielder
-23,Aaron Cadman,Greater Western Sydney,13.0,12.0,1.0,0.92,0.08,4.0,2.0,5.0,Key Forward
-23,Callum Brown,Greater Western Sydney,9.0,5.0,4.0,0.56,0.44,1.0,0.0,3.0,Gen. Forward
-23,Connor Idun,Greater Western Sydney,14.0,10.0,4.0,0.71,0.29,5.0,0.0,0.0,Gen. Defender
-23,Darcy Jones,Greater Western Sydney,18.0,8.0,10.0,0.44,0.56,1.0,1.0,4.0,Gen. Forward
-23,Finn Callaghan,Greater Western Sydney,29.0,18.0,11.0,0.62,0.38,8.0,0.0,6.0,Midfielder
-23,Harry Himmelberg,Greater Western Sydney,15.0,9.0,6.0,0.6,0.4,4.0,0.0,1.0,Gen. Defender
-23,Harry Rowston,Greater Western Sydney,12.0,9.0,3.0,0.75,0.25,6.0,4.0,4.0,Midfielder
-23,Harvey Thomas,Greater Western Sydney,23.0,14.0,9.0,0.61,0.39,8.0,0.0,3.0,Gen. Forward
-23,Jacob Wehr,Greater Western Sydney,,,,,,,,,Midfielder
-23,Jake Riccardi,Greater Western Sydney,16.0,11.0,5.0,0.69,0.31,7.0,1.0,3.0,Key Forward
-23,Joe Fonti,Greater Western Sydney,8.0,4.0,4.0,0.5,0.5,2.0,0.0,3.0,Gen. Defender
-23,Kieren Briggs,Greater Western Sydney,13.0,6.0,7.0,0.46,0.54,1.0,0.0,3.0,Ruck
-23,Lachie Ash,Greater Western Sydney,26.0,19.0,7.0,0.73,0.27,4.0,0.0,1.0,Gen. Defender
-23,Lachie Whitfield,Greater Western Sydney,27.0,20.0,7.0,0.74,0.26,5.0,0.0,3.0,Gen. Defender
-23,Leek Aleer,Greater Western Sydney,7.0,2.0,5.0,0.29,0.71,3.0,0.0,2.0,Key Defender
-23,Max Gruzewski,Greater Western Sydney,9.0,6.0,3.0,0.67,0.33,4.0,3.0,2.0,Key Forward
-23,Ryan Angwin,Greater Western Sydney,19.0,9.0,10.0,0.47,0.53,3.0,0.0,5.0,Midfielder
-23,Sam Taylor,Greater Western Sydney,12.0,8.0,4.0,0.67,0.33,6.0,0.0,1.0,Key Defender
-23,Stephen Coniglio,Greater Western Sydney,19.0,10.0,9.0,0.53,0.47,1.0,1.0,2.0,Midfielder
-23,Toby Bedford,Greater Western Sydney,12.0,6.0,6.0,0.5,0.5,3.0,2.0,6.0,Mid-Forward
-23,Toby Greene,Greater Western Sydney,19.0,10.0,9.0,0.53,0.47,7.0,2.0,3.0,Gen. Forward
-23,Tom Green,Greater Western Sydney,29.0,15.0,14.0,0.52,0.48,2.0,0.0,4.0,Midfielder
-23,Xavier O'Halloran,Greater Western Sydney,13.0,6.0,7.0,0.46,0.54,3.0,1.0,4.0,Midfielder
-24,Aaron Cadman,Greater Western Sydney,6.0,3.0,3.0,0.5,0.5,3.0,0.0,0.0,Key Forward
-24,Callum Brown,Greater Western Sydney,11.0,7.0,4.0,0.64,0.36,3.0,1.0,2.0,Gen. Forward
-24,Connor Idun,Greater Western Sydney,14.0,4.0,10.0,0.29,0.71,2.0,0.0,1.0,Gen. Defender
-24,Darcy Jones,Greater Western Sydney,18.0,6.0,12.0,0.33,0.67,2.0,2.0,3.0,Gen. Forward
-24,Finn Callaghan,Greater Western Sydney,26.0,10.0,16.0,0.38,0.62,2.0,0.0,7.0,Midfielder
-24,Harry Himmelberg,Greater Western Sydney,21.0,12.0,9.0,0.57,0.43,12.0,1.0,0.0,Gen. Defender
-24,Harry Rowston,Greater Western Sydney,12.0,12.0,0.0,1.0,0.0,4.0,1.0,8.0,Midfielder
-24,Harvey Thomas,Greater Western Sydney,13.0,6.0,7.0,0.46,0.54,6.0,1.0,2.0,Gen. Forward
-24,Jacob Wehr,Greater Western Sydney,,,,,,,,,Midfielder
-24,Jake Riccardi,Greater Western Sydney,8.0,3.0,5.0,0.38,0.62,2.0,0.0,4.0,Key Forward
-24,Joe Fonti,Greater Western Sydney,15.0,10.0,5.0,0.67,0.33,8.0,0.0,1.0,Gen. Defender
-24,Kieren Briggs,Greater Western Sydney,17.0,6.0,11.0,0.35,0.65,3.0,0.0,3.0,Ruck
-24,Lachie Ash,Greater Western Sydney,32.0,22.0,10.0,0.69,0.31,5.0,0.0,2.0,Gen. Defender
-24,Lachie Whitfield,Greater Western Sydney,31.0,23.0,8.0,0.74,0.26,7.0,0.0,6.0,Gen. Defender
-24,Leek Aleer,Greater Western Sydney,12.0,4.0,8.0,0.33,0.67,4.0,0.0,2.0,Key Defender
-24,Max Gruzewski,Greater Western Sydney,9.0,8.0,1.0,0.89,0.11,6.0,3.0,1.0,Key Forward
-24,Ryan Angwin,Greater Western Sydney,16.0,8.0,8.0,0.5,0.5,1.0,0.0,4.0,Midfielder
-24,Sam Taylor,Greater Western Sydney,7.0,4.0,3.0,0.57,0.43,3.0,0.0,2.0,Key Defender
-24,Stephen Coniglio,Greater Western Sydney,,,,,,,,,Midfielder
-24,Toby Bedford,Greater Western Sydney,11.0,8.0,3.0,0.73,0.27,3.0,1.0,1.0,Mid-Forward
-24,Toby Greene,Greater Western Sydney,17.0,13.0,4.0,0.76,0.24,5.0,4.0,2.0,Gen. Forward
-24,Tom Green,Greater Western Sydney,33.0,12.0,21.0,0.36,0.64,1.0,1.0,2.0,Midfielder
-24,Xavier O'Halloran,Greater Western Sydney,15.0,4.0,11.0,0.27,0.73,1.0,0.0,7.0,Midfielder
+Round,Player,Team,Position,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,DispDiff,KickDiff,HbDiff,MarkDiff
+1,Aaron Cadman,Greater Western Sydney,Key Forward,9.0,5.0,4.0,0.56,0.44,4.0,2.0,1.0,-0.75,-2.21,1.46,-0.71
+1,Brent Daniels,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+1,Callan Ward,Greater Western Sydney,Midfielder,16.0,6.0,10.0,0.38,0.62,2.0,0.0,1.0,0.92,-1.5,2.42,-1.5
+1,Callum Brown,Greater Western Sydney,Gen. Forward,14.0,6.0,8.0,0.43,0.57,0.0,0.0,5.0,2.54,-1.41,3.96,-3.64
+1,Connor Idun,Greater Western Sydney,Gen. Defender,12.0,7.0,5.0,0.58,0.42,4.0,0.0,1.0,-6.21,-2.96,-3.25,-2.75
+1,Conor Stone,Greater Western Sydney,Gen. Defender,11.0,4.0,7.0,0.36,0.64,2.0,0.0,2.0,-3.0,-3.43,0.43,-2.14
+1,Darcy Jones,Greater Western Sydney,Gen. Forward,12.0,6.0,6.0,0.5,0.5,1.0,0.0,4.0,-2.09,-1.3,-0.78,-1.0
+1,Finn Callaghan,Greater Western Sydney,Midfielder,31.0,12.0,19.0,0.39,0.61,1.0,0.0,3.0,2.62,-2.9,5.52,-2.71
+1,Harry Himmelberg,Greater Western Sydney,Gen. Defender,22.0,15.0,7.0,0.68,0.32,9.0,0.0,2.0,3.54,3.29,0.25,1.92
+1,Jack Buckley,Greater Western Sydney,Key Defender,10.0,6.0,4.0,0.6,0.4,4.0,0.0,3.0,-2.26,-1.58,-0.68,-1.84
+1,Jacob Wehr,Greater Western Sydney,Midfielder,16.0,9.0,7.0,0.56,0.44,1.0,1.0,4.0,2.64,1.0,1.64,-1.43
+1,James Leake,Greater Western Sydney,Gen. Defender,3.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,-5.0,-1.33,-3.67,-1.67
+1,Josh Kelly,Greater Western Sydney,Midfielder,23.0,11.0,12.0,0.48,0.52,0.0,0.0,10.0,1.53,1.2,0.33,-3.47
+1,Lachie Ash,Greater Western Sydney,Gen. Defender,19.0,10.0,9.0,0.53,0.47,6.0,0.0,0.0,-8.88,-8.46,-0.42,-0.21
+1,Lachie Whitfield,Greater Western Sydney,Gen. Defender,34.0,19.0,15.0,0.56,0.44,5.0,0.0,4.0,5.35,-0.13,5.48,-2.09
+1,Lachlan Keeffe,Greater Western Sydney,Ruck,13.0,10.0,3.0,0.77,0.23,1.0,1.0,6.0,3.33,3.67,-0.33,0.67
+1,Max Gruzewski,Greater Western Sydney,Key Forward,,,,,,,,,,,,
+1,Sam Taylor,Greater Western Sydney,Key Defender,15.0,8.0,7.0,0.53,0.47,4.0,0.0,0.0,1.0,0.25,0.75,-2.45
+1,Stephen Coniglio,Greater Western Sydney,Midfielder,13.0,8.0,5.0,0.62,0.38,2.0,3.0,3.0,-2.2,-1.7,-0.5,0.4
+1,Toby Bedford,Greater Western Sydney,Mid-Forward,8.0,4.0,4.0,0.5,0.5,1.0,0.0,9.0,-3.0,-1.43,-1.57,-1.09
+1,Toby Greene,Greater Western Sydney,Gen. Forward,23.0,16.0,7.0,0.7,0.3,5.0,3.0,4.0,6.55,4.46,2.09,0.41
+1,Tom Green,Greater Western Sydney,Midfielder,35.0,14.0,21.0,0.4,0.6,1.0,1.0,4.0,5.26,0.7,4.57,-2.0
+1,Xavier O'Halloran,Greater Western Sydney,Midfielder,16.0,11.0,5.0,0.69,0.31,2.0,0.0,2.0,1.0,2.35,-1.35,-0.3
+3,Aaron Cadman,Greater Western Sydney,Key Forward,7.0,4.0,3.0,0.57,0.43,1.0,1.0,4.0,-2.75,-3.21,0.46,-3.71
+3,Brent Daniels,Greater Western Sydney,Gen. Forward,15.0,4.0,11.0,0.27,0.73,2.0,0.0,5.0,2.5,-1.5,4.0,0.17
+3,Callan Ward,Greater Western Sydney,Midfielder,4.0,1.0,3.0,0.25,0.75,1.0,0.0,1.0,-11.08,-6.5,-4.58,-2.5
+3,Connor Idun,Greater Western Sydney,Gen. Defender,22.0,9.0,13.0,0.41,0.59,8.0,0.0,1.0,3.79,-0.96,4.75,1.25
+3,Conor Stone,Greater Western Sydney,Gen. Defender,18.0,9.0,9.0,0.5,0.5,7.0,0.0,1.0,4.0,1.57,2.43,2.86
+3,Darcy Jones,Greater Western Sydney,Gen. Forward,10.0,5.0,5.0,0.5,0.5,2.0,0.0,2.0,-4.09,-2.3,-1.78,0.0
+3,Finn Callaghan,Greater Western Sydney,Midfielder,21.0,10.0,11.0,0.48,0.52,2.0,0.0,1.0,-7.38,-4.9,-2.48,-1.71
+3,Harry Himmelberg,Greater Western Sydney,Gen. Defender,24.0,18.0,6.0,0.75,0.25,11.0,0.0,2.0,5.54,6.29,-0.75,3.92
+3,Jack Buckley,Greater Western Sydney,Key Defender,14.0,10.0,4.0,0.71,0.29,8.0,0.0,2.0,1.74,2.42,-0.68,2.16
+3,Jacob Wehr,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+3,Jake Stringer,Greater Western Sydney,Gen. Forward,14.0,8.0,6.0,0.57,0.43,1.0,0.0,3.0,3.4,0.8,2.6,-1.67
+3,Jesse Hogan,Greater Western Sydney,Key Forward,11.0,7.0,4.0,0.64,0.36,4.0,4.0,1.0,0.81,0.06,0.75,-1.0
+3,Josh Kelly,Greater Western Sydney,Midfielder,23.0,9.0,14.0,0.39,0.61,3.0,0.0,5.0,1.53,-0.8,2.33,-0.47
+3,Kieren Briggs,Greater Western Sydney,Ruck,15.0,6.0,9.0,0.4,0.6,1.0,0.0,6.0,3.9,0.2,3.7,-0.95
+3,Lachie Ash,Greater Western Sydney,Gen. Defender,29.0,15.0,14.0,0.52,0.48,9.0,0.0,0.0,1.12,-3.46,4.58,2.79
+3,Lachie Whitfield,Greater Western Sydney,Gen. Defender,34.0,25.0,9.0,0.74,0.26,7.0,0.0,2.0,5.35,5.87,-0.52,-0.09
+3,Lachlan Keeffe,Greater Western Sydney,Ruck,8.0,3.0,5.0,0.38,0.62,0.0,0.0,2.0,-1.67,-3.33,1.67,-0.33
+3,Sam Taylor,Greater Western Sydney,Key Defender,16.0,9.0,7.0,0.56,0.44,7.0,0.0,1.0,2.0,1.25,0.75,0.55
+3,Stephen Coniglio,Greater Western Sydney,Midfielder,15.0,10.0,5.0,0.67,0.33,1.0,0.0,3.0,-0.2,0.3,-0.5,-0.6
+3,Toby Bedford,Greater Western Sydney,Mid-Forward,13.0,6.0,7.0,0.46,0.54,0.0,2.0,13.0,2.0,0.57,1.43,-2.09
+3,Toby Greene,Greater Western Sydney,Gen. Forward,19.0,11.0,8.0,0.58,0.42,4.0,2.0,2.0,2.55,-0.54,3.09,-0.59
+3,Tom Green,Greater Western Sydney,Midfielder,31.0,9.0,22.0,0.29,0.71,1.0,0.0,4.0,1.26,-4.3,5.57,-2.0
+3,Xavier O'Halloran,Greater Western Sydney,Midfielder,7.0,2.0,5.0,0.29,0.71,1.0,0.0,1.0,-8.0,-6.65,-1.35,-1.3
+4,Aaron Cadman,Greater Western Sydney,Key Forward,8.0,6.0,2.0,0.75,0.25,5.0,1.0,0.0,-1.75,-1.21,-0.54,0.29
+4,Brent Daniels,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+4,Callan Ward,Greater Western Sydney,Midfielder,16.0,4.0,12.0,0.25,0.75,2.0,1.0,1.0,0.92,-3.5,4.42,-1.5
+4,Callum Brown,Greater Western Sydney,Gen. Forward,9.0,6.0,3.0,0.67,0.33,3.0,0.0,2.0,-2.46,-1.41,-1.04,-0.64
+4,Connor Idun,Greater Western Sydney,Gen. Defender,21.0,10.0,11.0,0.48,0.52,9.0,0.0,5.0,2.79,0.04,2.75,2.25
+4,Conor Stone,Greater Western Sydney,Gen. Defender,13.0,2.0,11.0,0.15,0.85,1.0,0.0,0.0,-1.0,-5.43,4.43,-3.14
+4,Darcy Jones,Greater Western Sydney,Gen. Forward,24.0,16.0,8.0,0.67,0.33,6.0,2.0,7.0,9.91,8.7,1.22,4.0
+4,Finn Callaghan,Greater Western Sydney,Midfielder,25.0,14.0,11.0,0.56,0.44,2.0,0.0,4.0,-3.38,-0.9,-2.48,-1.71
+4,Harry Himmelberg,Greater Western Sydney,Gen. Defender,25.0,12.0,13.0,0.48,0.52,7.0,0.0,4.0,6.54,0.29,6.25,-0.08
+4,Jack Buckley,Greater Western Sydney,Key Defender,8.0,5.0,3.0,0.62,0.38,5.0,0.0,1.0,-4.26,-2.58,-1.68,-0.84
+4,Jacob Wehr,Greater Western Sydney,Midfielder,17.0,8.0,9.0,0.47,0.53,3.0,0.0,1.0,3.64,0.0,3.64,0.57
+4,Jake Riccardi,Greater Western Sydney,Key Forward,16.0,11.0,5.0,0.69,0.31,8.0,1.0,1.0,3.45,3.4,0.05,3.75
+4,Jake Stringer,Greater Western Sydney,Gen. Forward,11.0,6.0,5.0,0.55,0.45,5.0,0.0,0.0,0.4,-1.2,1.6,2.33
+4,Jesse Hogan,Greater Western Sydney,Key Forward,12.0,10.0,2.0,0.83,0.17,10.0,9.0,1.0,1.81,3.06,-1.25,5.0
+4,Josh Kelly,Greater Western Sydney,Midfielder,29.0,10.0,19.0,0.34,0.66,4.0,0.0,5.0,7.53,0.2,7.33,0.53
+4,Kieren Briggs,Greater Western Sydney,Ruck,15.0,5.0,10.0,0.33,0.67,4.0,0.0,3.0,3.9,-0.8,4.7,2.05
+4,Lachie Ash,Greater Western Sydney,Gen. Defender,31.0,17.0,14.0,0.55,0.45,5.0,0.0,1.0,3.12,-1.46,4.58,-1.21
+4,Lachie Whitfield,Greater Western Sydney,Gen. Defender,35.0,25.0,10.0,0.71,0.29,10.0,0.0,4.0,6.35,5.87,0.48,2.91
+4,Sam Taylor,Greater Western Sydney,Key Defender,12.0,5.0,7.0,0.42,0.58,4.0,0.0,0.0,-2.0,-2.75,0.75,-2.45
+4,Toby Bedford,Greater Western Sydney,Mid-Forward,14.0,6.0,8.0,0.43,0.57,4.0,1.0,4.0,3.0,0.57,2.43,1.91
+4,Toby Greene,Greater Western Sydney,Gen. Forward,24.0,16.0,8.0,0.67,0.33,7.0,3.0,5.0,7.55,4.46,3.09,2.41
+4,Tom Green,Greater Western Sydney,Midfielder,37.0,15.0,22.0,0.41,0.59,5.0,2.0,1.0,7.26,1.7,5.57,2.0
+4,Xavier O'Halloran,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+5,Aaron Cadman,Greater Western Sydney,Key Forward,,,,,,,,,,,,
+5,Callan Ward,Greater Western Sydney,Midfielder,27.0,15.0,12.0,0.56,0.44,9.0,1.0,2.0,11.92,7.5,4.42,5.5
+5,Callum Brown,Greater Western Sydney,Gen. Forward,14.0,8.0,6.0,0.57,0.43,5.0,0.0,1.0,2.54,0.59,1.96,1.36
+5,Connor Idun,Greater Western Sydney,Gen. Defender,18.0,8.0,10.0,0.44,0.56,6.0,0.0,2.0,-0.21,-1.96,1.75,-0.75
+5,Conor Stone,Greater Western Sydney,Gen. Defender,12.0,7.0,5.0,0.58,0.42,4.0,0.0,0.0,-2.0,-0.43,-1.57,-0.14
+5,Darcy Jones,Greater Western Sydney,Gen. Forward,13.0,7.0,6.0,0.54,0.46,2.0,1.0,4.0,-1.09,-0.3,-0.78,0.0
+5,Finn Callaghan,Greater Western Sydney,Midfielder,24.0,11.0,13.0,0.46,0.54,3.0,0.0,4.0,-4.38,-3.9,-0.48,-0.71
+5,Harry Himmelberg,Greater Western Sydney,Gen. Defender,14.0,9.0,5.0,0.64,0.36,4.0,0.0,2.0,-4.46,-2.71,-1.75,-3.08
+5,Harvey Thomas,Greater Western Sydney,Gen. Forward,13.0,6.0,7.0,0.46,0.54,2.0,1.0,3.0,1.39,-0.33,1.72,-1.0
+5,Jack Buckley,Greater Western Sydney,Key Defender,13.0,7.0,6.0,0.54,0.46,7.0,0.0,3.0,0.74,-0.58,1.32,1.16
+5,Jacob Wehr,Greater Western Sydney,Midfielder,20.0,14.0,6.0,0.7,0.3,6.0,1.0,5.0,6.64,6.0,0.64,3.57
+5,Jake Riccardi,Greater Western Sydney,Key Forward,11.0,6.0,5.0,0.55,0.45,3.0,1.0,2.0,-1.55,-1.6,0.05,-1.25
+5,Jake Stringer,Greater Western Sydney,Gen. Forward,8.0,8.0,0.0,1.0,0.0,2.0,2.0,2.0,-2.6,0.8,-3.4,-0.67
+5,Jesse Hogan,Greater Western Sydney,Key Forward,7.0,5.0,2.0,0.71,0.29,3.0,2.0,1.0,-3.19,-1.94,-1.25,-2.0
+5,Josh Kelly,Greater Western Sydney,Midfielder,28.0,14.0,14.0,0.5,0.5,2.0,0.0,5.0,6.53,4.2,2.33,-1.47
+5,Kieren Briggs,Greater Western Sydney,Ruck,12.0,7.0,5.0,0.58,0.42,3.0,0.0,4.0,0.9,1.2,-0.3,1.05
+5,Lachie Ash,Greater Western Sydney,Gen. Defender,33.0,19.0,14.0,0.58,0.42,9.0,0.0,1.0,5.12,0.54,4.58,2.79
+5,Lachie Whitfield,Greater Western Sydney,Gen. Defender,24.0,18.0,6.0,0.75,0.25,5.0,0.0,2.0,-4.65,-1.13,-3.52,-2.09
+5,Sam Taylor,Greater Western Sydney,Key Defender,19.0,10.0,9.0,0.53,0.47,8.0,0.0,1.0,5.0,2.25,2.75,1.55
+5,Toby Bedford,Greater Western Sydney,Mid-Forward,8.0,2.0,6.0,0.25,0.75,1.0,0.0,3.0,-3.0,-3.43,0.43,-1.09
+5,Toby Greene,Greater Western Sydney,Gen. Forward,17.0,15.0,2.0,0.88,0.12,6.0,5.0,2.0,0.55,3.46,-2.91,1.41
+5,Toby McMullin,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+5,Tom Green,Greater Western Sydney,Midfielder,28.0,15.0,13.0,0.54,0.46,5.0,0.0,6.0,-1.74,1.7,-3.43,2.0
+6,Aaron Cadman,Greater Western Sydney,Key Forward,10.0,5.0,5.0,0.5,0.5,2.0,0.0,1.0,0.25,-2.21,2.46,-2.71
+6,Callan Ward,Greater Western Sydney,Midfielder,12.0,7.0,5.0,0.58,0.42,3.0,0.0,1.0,-3.08,-0.5,-2.58,-0.5
+6,Callum Brown,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+6,Connor Idun,Greater Western Sydney,Gen. Defender,26.0,14.0,12.0,0.54,0.46,9.0,0.0,1.0,7.79,4.04,3.75,2.25
+6,Conor Stone,Greater Western Sydney,Gen. Defender,15.0,14.0,1.0,0.93,0.07,7.0,0.0,0.0,1.0,6.57,-5.57,2.86
+6,Darcy Jones,Greater Western Sydney,Gen. Forward,11.0,8.0,3.0,0.73,0.27,1.0,1.0,4.0,-3.09,0.7,-3.78,-1.0
+6,Finn Callaghan,Greater Western Sydney,Midfielder,27.0,13.0,14.0,0.48,0.52,4.0,0.0,7.0,-1.38,-1.9,0.52,0.29
+6,Harry Himmelberg,Greater Western Sydney,Gen. Defender,18.0,13.0,5.0,0.72,0.28,8.0,0.0,1.0,-0.46,1.29,-1.75,0.92
+6,Harvey Thomas,Greater Western Sydney,Gen. Forward,10.0,6.0,4.0,0.6,0.4,2.0,1.0,3.0,-1.61,-0.33,-1.28,-1.0
+6,Jack Buckley,Greater Western Sydney,Key Defender,14.0,10.0,4.0,0.71,0.29,8.0,0.0,2.0,1.74,2.42,-0.68,2.16
+6,Jacob Wehr,Greater Western Sydney,Midfielder,18.0,10.0,8.0,0.56,0.44,3.0,0.0,3.0,4.64,2.0,2.64,0.57
+6,Jake Riccardi,Greater Western Sydney,Key Forward,6.0,3.0,3.0,0.5,0.5,0.0,0.0,2.0,-6.55,-4.6,-1.95,-4.25
+6,Jake Stringer,Greater Western Sydney,Gen. Forward,13.0,9.0,4.0,0.69,0.31,4.0,1.0,2.0,2.4,1.8,0.6,1.33
+6,Josh Kelly,Greater Western Sydney,Midfielder,17.0,8.0,9.0,0.47,0.53,3.0,1.0,5.0,-4.47,-1.8,-2.67,-0.47
+6,Kieren Briggs,Greater Western Sydney,Ruck,7.0,4.0,3.0,0.57,0.43,0.0,0.0,4.0,-4.1,-1.8,-2.3,-1.95
+6,Lachie Ash,Greater Western Sydney,Gen. Defender,29.0,22.0,7.0,0.76,0.24,10.0,0.0,2.0,1.12,3.54,-2.42,3.79
+6,Lachie Whitfield,Greater Western Sydney,Gen. Defender,39.0,27.0,12.0,0.69,0.31,10.0,0.0,2.0,10.35,7.87,2.48,2.91
+6,Sam Taylor,Greater Western Sydney,Key Defender,20.0,9.0,11.0,0.45,0.55,11.0,0.0,2.0,6.0,1.25,4.75,4.55
+6,Toby Bedford,Greater Western Sydney,Mid-Forward,9.0,5.0,4.0,0.56,0.44,2.0,0.0,7.0,-2.0,-0.43,-1.57,-0.09
+6,Toby Greene,Greater Western Sydney,Gen. Forward,13.0,8.0,5.0,0.62,0.38,1.0,0.0,4.0,-3.45,-3.54,0.09,-3.59
+6,Toby McMullin,Greater Western Sydney,Midfielder,15.0,9.0,6.0,0.6,0.4,5.0,0.0,3.0,3.46,2.09,1.36,2.73
+6,Tom Green,Greater Western Sydney,Midfielder,36.0,14.0,22.0,0.39,0.61,4.0,0.0,3.0,6.26,0.7,5.57,1.0
+6,Xavier O'Halloran,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+7,Aaron Cadman,Greater Western Sydney,Key Forward,11.0,8.0,3.0,0.73,0.27,4.0,1.0,1.0,1.25,0.79,0.46,-0.71
+7,Callan Ward,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+7,Connor Idun,Greater Western Sydney,Gen. Defender,16.0,9.0,7.0,0.56,0.44,5.0,0.0,2.0,-2.21,-0.96,-1.25,-1.75
+7,Conor Stone,Greater Western Sydney,Gen. Defender,18.0,8.0,10.0,0.44,0.56,4.0,0.0,3.0,4.0,0.57,3.43,-0.14
+7,Darcy Jones,Greater Western Sydney,Gen. Forward,17.0,11.0,6.0,0.65,0.35,3.0,0.0,2.0,2.91,3.7,-0.78,1.0
+7,Finn Callaghan,Greater Western Sydney,Midfielder,26.0,17.0,9.0,0.65,0.35,6.0,0.0,3.0,-2.38,2.1,-4.48,2.29
+7,Harry Himmelberg,Greater Western Sydney,Gen. Defender,17.0,10.0,7.0,0.59,0.41,6.0,0.0,1.0,-1.46,-1.71,0.25,-1.08
+7,Harvey Thomas,Greater Western Sydney,Gen. Forward,15.0,8.0,7.0,0.53,0.47,2.0,1.0,4.0,3.39,1.67,1.72,-1.0
+7,Jack Buckley,Greater Western Sydney,Key Defender,21.0,16.0,5.0,0.76,0.24,11.0,0.0,2.0,8.74,8.42,0.32,5.16
+7,Jacob Wehr,Greater Western Sydney,Midfielder,20.0,10.0,10.0,0.5,0.5,4.0,0.0,1.0,6.64,2.0,4.64,1.57
+7,Jake Riccardi,Greater Western Sydney,Key Forward,16.0,8.0,8.0,0.5,0.5,3.0,3.0,4.0,3.45,0.4,3.05,-1.25
+7,Jake Stringer,Greater Western Sydney,Gen. Forward,10.0,6.0,4.0,0.6,0.4,2.0,0.0,2.0,-0.6,-1.2,0.6,-0.67
+7,Jesse Hogan,Greater Western Sydney,Key Forward,14.0,8.0,6.0,0.57,0.43,5.0,2.0,1.0,3.81,1.06,2.75,0.0
+7,Josh Kelly,Greater Western Sydney,Midfielder,21.0,14.0,7.0,0.67,0.33,2.0,0.0,4.0,-0.47,4.2,-4.67,-1.47
+7,Kieren Briggs,Greater Western Sydney,Ruck,11.0,5.0,6.0,0.45,0.55,1.0,0.0,2.0,-0.1,-0.8,0.7,-0.95
+7,Lachie Ash,Greater Western Sydney,Gen. Defender,31.0,18.0,13.0,0.58,0.42,7.0,0.0,3.0,3.12,-0.46,3.58,0.79
+7,Lachie Whitfield,Greater Western Sydney,Gen. Defender,30.0,22.0,8.0,0.73,0.27,11.0,0.0,0.0,1.35,2.87,-1.52,3.91
+7,Sam Taylor,Greater Western Sydney,Key Defender,16.0,8.0,8.0,0.5,0.5,7.0,0.0,3.0,2.0,0.25,1.75,0.55
+7,Toby Bedford,Greater Western Sydney,Mid-Forward,9.0,5.0,4.0,0.56,0.44,4.0,2.0,5.0,-2.0,-0.43,-1.57,1.91
+7,Toby Greene,Greater Western Sydney,Gen. Forward,15.0,10.0,5.0,0.67,0.33,3.0,2.0,2.0,-1.45,-1.54,0.09,-1.59
+7,Toby McMullin,Greater Western Sydney,Midfielder,14.0,11.0,3.0,0.79,0.21,2.0,0.0,2.0,2.46,4.09,-1.64,-0.27
+7,Tom Green,Greater Western Sydney,Midfielder,27.0,12.0,15.0,0.44,0.56,3.0,1.0,3.0,-2.74,-1.3,-1.43,0.0
+7,Xavier O'Halloran,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+8,Aaron Cadman,Greater Western Sydney,Key Forward,12.0,8.0,4.0,0.67,0.33,6.0,2.0,1.0,2.25,0.79,1.46,1.29
+8,Callan Ward,Greater Western Sydney,Midfielder,21.0,9.0,12.0,0.43,0.57,6.0,1.0,1.0,5.92,1.5,4.42,2.5
+8,Callum Brown,Greater Western Sydney,Gen. Forward,16.0,9.0,7.0,0.56,0.44,2.0,0.0,3.0,4.54,1.59,2.96,-1.64
+8,Connor Idun,Greater Western Sydney,Gen. Defender,22.0,9.0,13.0,0.41,0.59,9.0,0.0,1.0,3.79,-0.96,4.75,2.25
+8,Darcy Jones,Greater Western Sydney,Gen. Forward,10.0,6.0,4.0,0.6,0.4,2.0,1.0,3.0,-4.09,-1.3,-2.78,0.0
+8,Finn Callaghan,Greater Western Sydney,Midfielder,33.0,16.0,17.0,0.48,0.52,2.0,0.0,8.0,4.62,1.1,3.52,-1.71
+8,Harry Himmelberg,Greater Western Sydney,Gen. Defender,17.0,10.0,7.0,0.59,0.41,4.0,0.0,1.0,-1.46,-1.71,0.25,-3.08
+8,Harvey Thomas,Greater Western Sydney,Gen. Forward,11.0,6.0,5.0,0.55,0.45,1.0,0.0,2.0,-0.61,-0.33,-0.28,-2.0
+8,Jack Buckley,Greater Western Sydney,Key Defender,6.0,4.0,2.0,0.67,0.33,3.0,0.0,2.0,-6.26,-3.58,-2.68,-2.84
+8,Jacob Wehr,Greater Western Sydney,Midfielder,17.0,11.0,6.0,0.65,0.35,5.0,1.0,2.0,3.64,3.0,0.64,2.57
+8,Jake Stringer,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+8,Jesse Hogan,Greater Western Sydney,Key Forward,7.0,5.0,2.0,0.71,0.29,3.0,1.0,2.0,-3.19,-1.94,-1.25,-2.0
+8,Joe Fonti,Greater Western Sydney,Gen. Defender,17.0,10.0,7.0,0.59,0.41,7.0,0.0,1.0,5.29,3.65,1.65,3.29
+8,Josaia Delana,Greater Western Sydney,Gen. Forward,3.0,2.0,1.0,0.67,0.33,0.0,0.0,5.0,-2.0,-1.0,-1.0,-1.0
+8,Kieren Briggs,Greater Western Sydney,Ruck,12.0,7.0,5.0,0.58,0.42,2.0,0.0,2.0,0.9,1.2,-0.3,0.05
+8,Lachie Ash,Greater Western Sydney,Gen. Defender,29.0,14.0,15.0,0.48,0.52,5.0,0.0,1.0,1.12,-4.46,5.58,-1.21
+8,Lachie Whitfield,Greater Western Sydney,Gen. Defender,28.0,19.0,9.0,0.68,0.32,6.0,0.0,3.0,-0.65,-0.13,-0.52,-1.09
+8,Sam Taylor,Greater Western Sydney,Key Defender,11.0,5.0,6.0,0.45,0.55,2.0,0.0,2.0,-3.0,-2.75,-0.25,-4.45
+8,Toby Bedford,Greater Western Sydney,Mid-Forward,,,,,,,,,,,,
+8,Toby Greene,Greater Western Sydney,Gen. Forward,13.0,10.0,3.0,0.77,0.23,2.0,0.0,1.0,-3.45,-1.54,-1.91,-2.59
+8,Toby McMullin,Greater Western Sydney,Midfielder,19.0,10.0,9.0,0.53,0.47,2.0,0.0,2.0,7.46,3.09,4.36,-0.27
+8,Tom Green,Greater Western Sydney,Midfielder,34.0,17.0,17.0,0.5,0.5,4.0,1.0,1.0,4.26,3.7,0.57,1.0
+8,Xavier O'Halloran,Greater Western Sydney,Midfielder,17.0,8.0,9.0,0.47,0.53,4.0,0.0,1.0,2.0,-0.65,2.65,1.7
+9,Aaron Cadman,Greater Western Sydney,Key Forward,9.0,7.0,2.0,0.78,0.22,3.0,1.0,3.0,-0.75,-0.21,-0.54,-1.71
+9,Callan Ward,Greater Western Sydney,Midfielder,18.0,12.0,6.0,0.67,0.33,6.0,1.0,1.0,2.92,4.5,-1.58,2.5
+9,Callum Brown,Greater Western Sydney,Gen. Forward,13.0,6.0,7.0,0.46,0.54,3.0,0.0,3.0,1.54,-1.41,2.96,-0.64
+9,Cody Angove,Greater Western Sydney,Gen. Forward,13.0,6.0,7.0,0.46,0.54,0.0,0.0,1.0,2.0,1.0,1.0,-1.75
+9,Connor Idun,Greater Western Sydney,Gen. Defender,17.0,10.0,7.0,0.59,0.41,8.0,0.0,0.0,-1.21,0.04,-1.25,1.25
+9,Finn Callaghan,Greater Western Sydney,Midfielder,29.0,12.0,17.0,0.41,0.59,1.0,0.0,7.0,0.62,-2.9,3.52,-2.71
+9,Harry Himmelberg,Greater Western Sydney,Gen. Defender,21.0,7.0,14.0,0.33,0.67,8.0,0.0,5.0,2.54,-4.71,7.25,0.92
+9,Harvey Thomas,Greater Western Sydney,Gen. Forward,6.0,6.0,0.0,1.0,0.0,2.0,1.0,6.0,-5.61,-0.33,-5.28,-1.0
+9,Jack Buckley,Greater Western Sydney,Key Defender,12.0,6.0,6.0,0.5,0.5,6.0,0.0,2.0,-0.26,-1.58,1.32,0.16
+9,Jacob Wehr,Greater Western Sydney,Midfielder,9.0,3.0,6.0,0.33,0.67,0.0,0.0,3.0,-4.36,-5.0,0.64,-2.43
+9,Jake Riccardi,Greater Western Sydney,Key Forward,17.0,8.0,9.0,0.47,0.53,3.0,1.0,2.0,4.45,0.4,4.05,-1.25
+9,Jake Stringer,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+9,Jesse Hogan,Greater Western Sydney,Key Forward,22.0,13.0,9.0,0.59,0.41,9.0,7.0,2.0,11.81,6.06,5.75,4.0
+9,Joe Fonti,Greater Western Sydney,Gen. Defender,7.0,3.0,4.0,0.43,0.57,1.0,0.0,0.0,-4.71,-3.35,-1.35,-2.71
+9,Josaia Delana,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+9,Kieren Briggs,Greater Western Sydney,Ruck,10.0,4.0,6.0,0.4,0.6,1.0,0.0,2.0,-1.1,-1.8,0.7,-0.95
+9,Lachie Ash,Greater Western Sydney,Gen. Defender,25.0,15.0,10.0,0.6,0.4,5.0,0.0,4.0,-2.88,-3.46,0.58,-1.21
+9,Lachie Whitfield,Greater Western Sydney,Gen. Defender,30.0,18.0,12.0,0.6,0.4,4.0,0.0,3.0,1.35,-1.13,2.48,-3.09
+9,Sam Taylor,Greater Western Sydney,Key Defender,13.0,9.0,4.0,0.69,0.31,8.0,0.0,3.0,-1.0,1.25,-2.25,1.55
+9,Toby Greene,Greater Western Sydney,Gen. Forward,18.0,10.0,8.0,0.56,0.44,2.0,1.0,4.0,1.55,-1.54,3.09,-2.59
+9,Toby McMullin,Greater Western Sydney,Midfielder,16.0,7.0,9.0,0.44,0.56,1.0,0.0,3.0,4.46,0.09,4.36,-1.27
+9,Tom Green,Greater Western Sydney,Midfielder,37.0,18.0,19.0,0.49,0.51,7.0,1.0,4.0,7.26,4.7,2.57,4.0
+9,Xavier O'Halloran,Greater Western Sydney,Midfielder,15.0,10.0,5.0,0.67,0.33,4.0,1.0,1.0,0.0,1.35,-1.35,1.7
+10,Aaron Cadman,Greater Western Sydney,Key Forward,5.0,5.0,0.0,1.0,0.0,3.0,1.0,0.0,-4.75,-2.21,-2.54,-1.71
+10,Callan Ward,Greater Western Sydney,Midfielder,11.0,7.0,4.0,0.64,0.36,4.0,0.0,0.0,-4.08,-0.5,-3.58,0.5
+10,Callum Brown,Greater Western Sydney,Gen. Forward,13.0,8.0,5.0,0.62,0.38,5.0,2.0,3.0,1.54,0.59,0.96,1.36
+10,Cody Angove,Greater Western Sydney,Gen. Forward,9.0,5.0,4.0,0.56,0.44,3.0,0.0,2.0,-2.0,0.0,-2.0,1.25
+10,Connor Idun,Greater Western Sydney,Gen. Defender,18.0,11.0,7.0,0.61,0.39,7.0,0.0,4.0,-0.21,1.04,-1.25,0.25
+10,Darcy Jones,Greater Western Sydney,Gen. Forward,17.0,10.0,7.0,0.59,0.41,1.0,2.0,2.0,2.91,2.7,0.22,-1.0
+10,Finn Callaghan,Greater Western Sydney,Midfielder,24.0,11.0,13.0,0.46,0.54,4.0,0.0,8.0,-4.38,-3.9,-0.48,0.29
+10,Harry Himmelberg,Greater Western Sydney,Gen. Defender,13.0,7.0,6.0,0.54,0.46,4.0,0.0,3.0,-5.46,-4.71,-0.75,-3.08
+10,Harvey Thomas,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+10,Jack Buckley,Greater Western Sydney,Key Defender,16.0,8.0,8.0,0.5,0.5,9.0,0.0,0.0,3.74,0.42,3.32,3.16
+10,Jacob Wehr,Greater Western Sydney,Midfielder,12.0,8.0,4.0,0.67,0.33,1.0,0.0,6.0,-1.36,0.0,-1.36,-1.43
+10,Jake Riccardi,Greater Western Sydney,Key Forward,11.0,6.0,5.0,0.55,0.45,4.0,0.0,1.0,-1.55,-1.6,0.05,-0.25
+10,Jesse Hogan,Greater Western Sydney,Key Forward,11.0,8.0,3.0,0.73,0.27,6.0,1.0,2.0,0.81,1.06,-0.25,1.0
+10,Joe Fonti,Greater Western Sydney,Gen. Defender,11.0,6.0,5.0,0.55,0.45,3.0,0.0,8.0,-0.71,-0.35,-0.35,-0.71
+10,Kieren Briggs,Greater Western Sydney,Ruck,13.0,10.0,3.0,0.77,0.23,3.0,0.0,3.0,1.9,4.2,-2.3,1.05
+10,Lachie Ash,Greater Western Sydney,Gen. Defender,29.0,21.0,8.0,0.72,0.28,8.0,0.0,3.0,1.12,2.54,-1.42,1.79
+10,Lachie Whitfield,Greater Western Sydney,Gen. Defender,25.0,16.0,9.0,0.64,0.36,8.0,0.0,2.0,-3.65,-3.13,-0.52,0.91
+10,Sam Taylor,Greater Western Sydney,Key Defender,14.0,9.0,5.0,0.64,0.36,6.0,0.0,3.0,0.0,1.25,-1.25,-0.45
+10,Toby Bedford,Greater Western Sydney,Mid-Forward,8.0,4.0,4.0,0.5,0.5,1.0,0.0,6.0,-3.0,-1.43,-1.57,-1.09
+10,Toby Greene,Greater Western Sydney,Gen. Forward,16.0,11.0,5.0,0.69,0.31,3.0,1.0,2.0,-0.45,-0.54,0.09,-1.59
+10,Toby McMullin,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+10,Tom Green,Greater Western Sydney,Midfielder,25.0,10.0,15.0,0.4,0.6,2.0,1.0,1.0,-4.74,-3.3,-1.43,-1.0
+10,Xavier O'Halloran,Greater Western Sydney,Midfielder,13.0,8.0,5.0,0.62,0.38,2.0,0.0,3.0,-2.0,-0.65,-1.35,-0.3
+11,Aaron Cadman,Greater Western Sydney,Key Forward,8.0,6.0,2.0,0.75,0.25,2.0,2.0,1.0,-1.75,-1.21,-0.54,-2.71
+11,Callan Ward,Greater Western Sydney,Midfielder,19.0,8.0,11.0,0.42,0.58,3.0,1.0,2.0,3.92,0.5,3.42,-0.5
+11,Callum Brown,Greater Western Sydney,Gen. Forward,9.0,5.0,4.0,0.56,0.44,3.0,3.0,1.0,-2.46,-2.41,-0.04,-0.64
+11,Cody Angove,Greater Western Sydney,Gen. Forward,15.0,7.0,8.0,0.47,0.53,3.0,0.0,0.0,4.0,2.0,2.0,1.25
+11,Connor Idun,Greater Western Sydney,Gen. Defender,20.0,11.0,9.0,0.55,0.45,5.0,0.0,0.0,1.79,1.04,0.75,-1.75
+11,Darcy Jones,Greater Western Sydney,Gen. Forward,16.0,8.0,8.0,0.5,0.5,3.0,0.0,7.0,1.91,0.7,1.22,1.0
+11,Harry Himmelberg,Greater Western Sydney,Gen. Defender,19.0,10.0,9.0,0.53,0.47,4.0,0.0,3.0,0.54,-1.71,2.25,-3.08
+11,Harry Rowston,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+11,Harvey Thomas,Greater Western Sydney,Gen. Forward,20.0,7.0,13.0,0.35,0.65,3.0,0.0,0.0,8.39,0.67,7.72,0.0
+11,Jack Buckley,Greater Western Sydney,Key Defender,8.0,4.0,4.0,0.5,0.5,3.0,0.0,2.0,-4.26,-3.58,-0.68,-2.84
+11,Jacob Wehr,Greater Western Sydney,Midfielder,11.0,9.0,2.0,0.82,0.18,4.0,0.0,2.0,-2.36,1.0,-3.36,1.57
+11,Jake Riccardi,Greater Western Sydney,Key Forward,9.0,6.0,3.0,0.67,0.33,5.0,3.0,5.0,-3.55,-1.6,-1.95,0.75
+11,Jesse Hogan,Greater Western Sydney,Key Forward,9.0,6.0,3.0,0.67,0.33,4.0,4.0,2.0,-1.19,-0.94,-0.25,-1.0
+11,Joe Fonti,Greater Western Sydney,Gen. Defender,11.0,5.0,6.0,0.45,0.55,1.0,0.0,2.0,-0.71,-1.35,0.65,-2.71
+11,Kieren Briggs,Greater Western Sydney,Ruck,9.0,7.0,2.0,0.78,0.22,0.0,1.0,1.0,-2.1,1.2,-3.3,-1.95
+11,Lachie Ash,Greater Western Sydney,Gen. Defender,28.0,23.0,5.0,0.82,0.18,6.0,0.0,4.0,0.12,4.54,-4.42,-0.21
+11,Lachie Whitfield,Greater Western Sydney,Gen. Defender,27.0,8.0,19.0,0.3,0.7,5.0,0.0,3.0,-1.65,-11.13,9.48,-2.09
+11,Leek Aleer,Greater Western Sydney,Key Defender,8.0,5.0,3.0,0.62,0.38,5.0,0.0,2.0,-1.46,0.46,-1.92,1.31
+11,Sam Taylor,Greater Western Sydney,Key Defender,14.0,6.0,8.0,0.43,0.57,7.0,0.0,2.0,0.0,-1.75,1.75,0.55
+11,Toby Bedford,Greater Western Sydney,Mid-Forward,11.0,7.0,4.0,0.64,0.36,2.0,0.0,9.0,0.0,1.57,-1.57,-0.09
+11,Toby Greene,Greater Western Sydney,Gen. Forward,28.0,19.0,9.0,0.68,0.32,9.0,3.0,4.0,11.55,7.46,4.09,4.41
+11,Tom Green,Greater Western Sydney,Midfielder,25.0,14.0,11.0,0.56,0.44,1.0,0.0,5.0,-4.74,0.7,-5.43,-2.0
+11,Xavier O'Halloran,Greater Western Sydney,Midfielder,19.0,14.0,5.0,0.74,0.26,5.0,0.0,7.0,4.0,5.35,-1.35,2.7
+12,Aaron Cadman,Greater Western Sydney,Key Forward,10.0,8.0,2.0,0.8,0.2,7.0,2.0,4.0,0.25,0.79,-0.54,2.29
+12,Callan Ward,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+12,Callum Brown,Greater Western Sydney,Gen. Forward,10.0,9.0,1.0,0.9,0.1,5.0,3.0,2.0,-1.46,1.59,-3.04,1.36
+12,Cody Angove,Greater Western Sydney,Gen. Forward,7.0,2.0,5.0,0.29,0.71,1.0,1.0,5.0,-4.0,-3.0,-1.0,-0.75
+12,Connor Idun,Greater Western Sydney,Gen. Defender,25.0,13.0,12.0,0.52,0.48,7.0,0.0,0.0,6.79,3.04,3.75,0.25
+12,Darcy Jones,Greater Western Sydney,Gen. Forward,17.0,5.0,12.0,0.29,0.71,1.0,0.0,3.0,2.91,-2.3,5.22,-1.0
+12,Harry Himmelberg,Greater Western Sydney,Gen. Defender,21.0,12.0,9.0,0.57,0.43,4.0,0.0,0.0,2.54,0.29,2.25,-3.08
+12,Harvey Thomas,Greater Western Sydney,Gen. Forward,9.0,5.0,4.0,0.56,0.44,3.0,0.0,3.0,-2.61,-1.33,-1.28,0.0
+12,Jack Buckley,Greater Western Sydney,Key Defender,17.0,10.0,7.0,0.59,0.41,6.0,0.0,0.0,4.74,2.42,2.32,0.16
+12,Jake Riccardi,Greater Western Sydney,Key Forward,17.0,12.0,5.0,0.71,0.29,8.0,2.0,5.0,4.45,4.4,0.05,3.75
+12,Jesse Hogan,Greater Western Sydney,Key Forward,8.0,5.0,3.0,0.62,0.38,4.0,0.0,1.0,-2.19,-1.94,-0.25,-1.0
+12,Joe Fonti,Greater Western Sydney,Gen. Defender,17.0,10.0,7.0,0.59,0.41,6.0,0.0,6.0,5.29,3.65,1.65,2.29
+12,Josh Kelly,Greater Western Sydney,Midfielder,20.0,12.0,8.0,0.6,0.4,8.0,0.0,3.0,-1.47,2.2,-3.67,4.53
+12,Kieren Briggs,Greater Western Sydney,Ruck,9.0,4.0,5.0,0.44,0.56,3.0,1.0,4.0,-2.1,-1.8,-0.3,1.05
+12,Lachie Ash,Greater Western Sydney,Gen. Defender,36.0,25.0,11.0,0.69,0.31,6.0,0.0,0.0,8.12,6.54,1.58,-0.21
+12,Lachie Whitfield,Greater Western Sydney,Gen. Defender,28.0,16.0,12.0,0.57,0.43,9.0,0.0,5.0,-0.65,-3.13,2.48,1.91
+12,Leek Aleer,Greater Western Sydney,Key Defender,15.0,5.0,10.0,0.33,0.67,4.0,0.0,0.0,5.54,0.46,5.08,0.31
+12,Sam Taylor,Greater Western Sydney,Key Defender,13.0,8.0,5.0,0.62,0.38,8.0,0.0,2.0,-1.0,0.25,-1.25,1.55
+12,Toby Bedford,Greater Western Sydney,Mid-Forward,12.0,7.0,5.0,0.58,0.42,2.0,0.0,8.0,1.0,1.57,-0.57,-0.09
+12,Toby Greene,Greater Western Sydney,Gen. Forward,12.0,7.0,5.0,0.58,0.42,3.0,1.0,4.0,-4.45,-4.54,0.09,-1.59
+12,Toby McMullin,Greater Western Sydney,Midfielder,20.0,11.0,9.0,0.55,0.45,5.0,1.0,0.0,8.46,4.09,4.36,2.73
+12,Tom Green,Greater Western Sydney,Midfielder,30.0,14.0,16.0,0.47,0.53,3.0,1.0,7.0,0.26,0.7,-0.43,0.0
+12,Xavier O'Halloran,Greater Western Sydney,Midfielder,19.0,10.0,9.0,0.53,0.47,2.0,0.0,1.0,4.0,1.35,2.65,-0.3
+13,Aaron Cadman,Greater Western Sydney,Key Forward,10.0,6.0,4.0,0.6,0.4,5.0,1.0,4.0,0.25,-1.21,1.46,0.29
+13,Brent Daniels,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+13,Callum Brown,Greater Western Sydney,Gen. Forward,13.0,9.0,4.0,0.69,0.31,5.0,0.0,5.0,1.54,1.59,-0.04,1.36
+13,Connor Idun,Greater Western Sydney,Gen. Defender,19.0,10.0,9.0,0.53,0.47,5.0,0.0,1.0,0.79,0.04,0.75,-1.75
+13,Darcy Jones,Greater Western Sydney,Gen. Forward,9.0,5.0,4.0,0.56,0.44,2.0,1.0,4.0,-5.09,-2.3,-2.78,0.0
+13,Harry Himmelberg,Greater Western Sydney,Gen. Defender,16.0,12.0,4.0,0.75,0.25,7.0,0.0,1.0,-2.46,0.29,-2.75,-0.08
+13,Harvey Thomas,Greater Western Sydney,Gen. Forward,9.0,4.0,5.0,0.44,0.56,4.0,1.0,3.0,-2.61,-2.33,-0.28,1.0
+13,Jack Buckley,Greater Western Sydney,Key Defender,24.0,17.0,7.0,0.71,0.29,12.0,0.0,2.0,11.74,9.42,2.32,6.16
+13,Jacob Wehr,Greater Western Sydney,Midfielder,14.0,10.0,4.0,0.71,0.29,2.0,0.0,3.0,0.64,2.0,-1.36,-0.43
+13,Jake Riccardi,Greater Western Sydney,Key Forward,16.0,12.0,4.0,0.75,0.25,4.0,2.0,2.0,3.45,4.4,-0.95,-0.25
+13,Jesse Hogan,Greater Western Sydney,Key Forward,9.0,6.0,3.0,0.67,0.33,0.0,2.0,5.0,-1.19,-0.94,-0.25,-5.0
+13,Joe Fonti,Greater Western Sydney,Gen. Defender,14.0,8.0,6.0,0.57,0.43,4.0,0.0,6.0,2.29,1.65,0.65,0.29
+13,Josh Kelly,Greater Western Sydney,Midfielder,17.0,10.0,7.0,0.59,0.41,2.0,0.0,5.0,-4.47,0.2,-4.67,-1.47
+13,Lachie Ash,Greater Western Sydney,Gen. Defender,30.0,23.0,7.0,0.77,0.23,4.0,0.0,2.0,2.12,4.54,-2.42,-2.21
+13,Lachie Whitfield,Greater Western Sydney,Gen. Defender,24.0,14.0,10.0,0.58,0.42,6.0,0.0,2.0,-4.65,-5.13,0.48,-1.09
+13,Leek Aleer,Greater Western Sydney,Key Defender,,,,,,,,,,,,
+13,Nicholas Madden,Greater Western Sydney,Ruck,15.0,5.0,10.0,0.33,0.67,2.0,0.0,4.0,4.0,2.67,1.33,1.0
+13,Sam Taylor,Greater Western Sydney,Key Defender,19.0,10.0,9.0,0.53,0.47,9.0,0.0,2.0,5.0,2.25,2.75,2.55
+13,Toby Bedford,Greater Western Sydney,Mid-Forward,13.0,4.0,9.0,0.31,0.69,1.0,0.0,6.0,2.0,-1.43,3.43,-1.09
+13,Toby Greene,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+13,Toby McMullin,Greater Western Sydney,Midfielder,6.0,5.0,1.0,0.83,0.17,1.0,0.0,3.0,-5.54,-1.91,-3.64,-1.27
+13,Tom Green,Greater Western Sydney,Midfielder,31.0,16.0,15.0,0.52,0.48,5.0,0.0,4.0,1.26,2.7,-1.43,2.0
+13,Xavier O'Halloran,Greater Western Sydney,Midfielder,14.0,9.0,5.0,0.64,0.36,3.0,0.0,4.0,-1.0,0.35,-1.35,0.7
+14,Aaron Cadman,Greater Western Sydney,Key Forward,19.0,15.0,4.0,0.79,0.21,13.0,5.0,1.0,9.25,7.79,1.46,8.29
+14,Brent Daniels,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+14,Callum Brown,Greater Western Sydney,Gen. Forward,11.0,8.0,3.0,0.73,0.27,5.0,3.0,3.0,-0.46,0.59,-1.04,1.36
+14,Connor Idun,Greater Western Sydney,Gen. Defender,23.0,12.0,11.0,0.52,0.48,6.0,0.0,1.0,4.79,2.04,2.75,-0.75
+14,Darcy Jones,Greater Western Sydney,Gen. Forward,20.0,9.0,11.0,0.45,0.55,1.0,1.0,5.0,5.91,1.7,4.22,-1.0
+14,Finn Callaghan,Greater Western Sydney,Midfielder,32.0,15.0,17.0,0.47,0.53,2.0,0.0,2.0,3.62,0.1,3.52,-1.71
+14,Harry Himmelberg,Greater Western Sydney,Gen. Defender,11.0,7.0,4.0,0.64,0.36,6.0,1.0,1.0,-7.46,-4.71,-2.75,-1.08
+14,Harry Rowston,Greater Western Sydney,Midfielder,18.0,12.0,6.0,0.67,0.33,2.0,0.0,6.0,6.6,3.8,2.8,-1.0
+14,Harvey Thomas,Greater Western Sydney,Gen. Forward,14.0,7.0,7.0,0.5,0.5,4.0,0.0,4.0,2.39,0.67,1.72,1.0
+14,Jack Buckley,Greater Western Sydney,Key Defender,7.0,3.0,4.0,0.43,0.57,3.0,0.0,0.0,-5.26,-4.58,-0.68,-2.84
+14,Jake Riccardi,Greater Western Sydney,Key Forward,9.0,6.0,3.0,0.67,0.33,3.0,0.0,3.0,-3.55,-1.6,-1.95,-1.25
+14,Jesse Hogan,Greater Western Sydney,Key Forward,16.0,13.0,3.0,0.81,0.19,12.0,6.0,0.0,5.81,6.06,-0.25,7.0
+14,Joe Fonti,Greater Western Sydney,Gen. Defender,5.0,4.0,1.0,0.8,0.2,2.0,0.0,0.0,-6.71,-2.35,-4.35,-1.71
+14,Josaia Delana,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+14,Josh Kelly,Greater Western Sydney,Midfielder,23.0,10.0,13.0,0.43,0.57,7.0,0.0,2.0,1.53,0.2,1.33,3.53
+14,Lachie Ash,Greater Western Sydney,Gen. Defender,31.0,21.0,10.0,0.68,0.32,7.0,0.0,4.0,3.12,2.54,0.58,0.79
+14,Lachie Whitfield,Greater Western Sydney,Gen. Defender,33.0,25.0,8.0,0.76,0.24,5.0,0.0,2.0,4.35,5.87,-1.52,-2.09
+14,Leek Aleer,Greater Western Sydney,Key Defender,9.0,4.0,5.0,0.44,0.56,4.0,0.0,0.0,-0.46,-0.54,0.08,0.31
+14,Nicholas Madden,Greater Western Sydney,Ruck,7.0,0.0,7.0,0.0,1.0,1.0,0.0,2.0,-4.0,-2.33,-1.67,0.0
+14,Sam Taylor,Greater Western Sydney,Key Defender,13.0,5.0,8.0,0.38,0.62,3.0,0.0,3.0,-1.0,-2.75,1.75,-3.45
+14,Toby Bedford,Greater Western Sydney,Mid-Forward,10.0,5.0,5.0,0.5,0.5,4.0,0.0,1.0,-1.0,-0.43,-0.57,1.91
+14,Tom Green,Greater Western Sydney,Midfielder,26.0,16.0,10.0,0.62,0.38,2.0,0.0,1.0,-3.74,2.7,-6.43,-1.0
+14,Xavier O'Halloran,Greater Western Sydney,Midfielder,14.0,11.0,3.0,0.79,0.21,1.0,1.0,0.0,-1.0,2.35,-3.35,-1.3
+15,Aaron Cadman,Greater Western Sydney,Key Forward,7.0,6.0,1.0,0.86,0.14,3.0,3.0,2.0,-2.75,-1.21,-1.54,-1.71
+15,Callum Brown,Greater Western Sydney,Gen. Forward,12.0,10.0,2.0,0.83,0.17,3.0,2.0,2.0,0.54,2.59,-2.04,-0.64
+15,Connor Idun,Greater Western Sydney,Gen. Defender,15.0,9.0,6.0,0.6,0.4,10.0,0.0,1.0,-3.21,-0.96,-2.25,3.25
+15,Darcy Jones,Greater Western Sydney,Gen. Forward,9.0,3.0,6.0,0.33,0.67,0.0,0.0,3.0,-5.09,-4.3,-0.78,-2.0
+15,Finn Callaghan,Greater Western Sydney,Midfielder,28.0,16.0,12.0,0.57,0.43,3.0,0.0,8.0,-0.38,1.1,-1.48,-0.71
+15,Harry Himmelberg,Greater Western Sydney,Gen. Defender,15.0,8.0,7.0,0.53,0.47,1.0,0.0,2.0,-3.46,-3.71,0.25,-6.08
+15,Harry Rowston,Greater Western Sydney,Midfielder,20.0,11.0,9.0,0.55,0.45,4.0,0.0,5.0,8.6,2.8,5.8,1.0
+15,Harvey Thomas,Greater Western Sydney,Gen. Forward,12.0,6.0,6.0,0.5,0.5,2.0,1.0,6.0,0.39,-0.33,0.72,-1.0
+15,Jack Buckley,Greater Western Sydney,Key Defender,10.0,6.0,4.0,0.6,0.4,5.0,0.0,2.0,-2.26,-1.58,-0.68,-0.84
+15,Jake Riccardi,Greater Western Sydney,Key Forward,15.0,12.0,3.0,0.8,0.2,7.0,2.0,6.0,2.45,4.4,-1.95,2.75
+15,Jake Stringer,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+15,Jesse Hogan,Greater Western Sydney,Key Forward,11.0,7.0,4.0,0.64,0.36,7.0,2.0,1.0,0.81,0.06,0.75,2.0
+15,Joe Fonti,Greater Western Sydney,Gen. Defender,9.0,4.0,5.0,0.44,0.56,1.0,0.0,5.0,-2.71,-2.35,-0.35,-2.71
+15,Josh Kelly,Greater Western Sydney,Midfielder,18.0,6.0,12.0,0.33,0.67,3.0,0.0,2.0,-3.47,-3.8,0.33,-0.47
+15,Lachie Ash,Greater Western Sydney,Gen. Defender,33.0,20.0,13.0,0.61,0.39,4.0,0.0,1.0,5.12,1.54,3.58,-2.21
+15,Lachie Whitfield,Greater Western Sydney,Gen. Defender,,,,,,,,,,,,
+15,Leek Aleer,Greater Western Sydney,Key Defender,6.0,5.0,1.0,0.83,0.17,3.0,0.0,3.0,-3.46,0.46,-3.92,-0.69
+15,Nicholas Madden,Greater Western Sydney,Ruck,11.0,2.0,9.0,0.18,0.82,0.0,0.0,3.0,0.0,-0.33,0.33,-1.0
+15,Ryan Angwin,Greater Western Sydney,Midfielder,16.0,8.0,8.0,0.5,0.5,7.0,0.0,3.0,-0.6,-0.3,-0.3,3.4
+15,Toby Bedford,Greater Western Sydney,Mid-Forward,14.0,5.0,9.0,0.36,0.64,2.0,1.0,6.0,3.0,-0.43,3.43,-0.09
+15,Toby Greene,Greater Western Sydney,Gen. Forward,17.0,15.0,2.0,0.88,0.12,4.0,2.0,11.0,0.55,3.46,-2.91,-0.59
+15,Tom Green,Greater Western Sydney,Midfielder,31.0,13.0,18.0,0.42,0.58,4.0,1.0,9.0,1.26,-0.3,1.57,1.0
+15,Xavier O'Halloran,Greater Western Sydney,Midfielder,20.0,6.0,14.0,0.3,0.7,1.0,0.0,4.0,5.0,-2.65,7.65,-1.3
+17,Aaron Cadman,Greater Western Sydney,Key Forward,11.0,10.0,1.0,0.91,0.09,7.0,2.0,1.0,1.25,2.79,-1.54,2.29
+17,Callum Brown,Greater Western Sydney,Gen. Forward,16.0,12.0,4.0,0.75,0.25,4.0,1.0,1.0,4.54,4.59,-0.04,0.36
+17,Connor Idun,Greater Western Sydney,Gen. Defender,20.0,13.0,7.0,0.65,0.35,10.0,0.0,1.0,1.79,3.04,-1.25,3.25
+17,Darcy Jones,Greater Western Sydney,Gen. Forward,17.0,11.0,6.0,0.65,0.35,3.0,2.0,4.0,2.91,3.7,-0.78,1.0
+17,Finn Callaghan,Greater Western Sydney,Midfielder,37.0,23.0,14.0,0.62,0.38,4.0,1.0,1.0,8.62,8.1,0.52,0.29
+17,Harry Himmelberg,Greater Western Sydney,Gen. Defender,21.0,15.0,6.0,0.71,0.29,9.0,0.0,3.0,2.54,3.29,-0.75,1.92
+17,Harry Rowston,Greater Western Sydney,Midfielder,12.0,10.0,2.0,0.83,0.17,4.0,0.0,2.0,0.6,1.8,-1.2,1.0
+17,Harvey Thomas,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+17,Jack Buckley,Greater Western Sydney,Key Defender,,,,,,,,,,,,
+17,Jake Riccardi,Greater Western Sydney,Key Forward,12.0,7.0,5.0,0.58,0.42,3.0,1.0,6.0,-0.55,-0.6,0.05,-1.25
+17,Jake Stringer,Greater Western Sydney,Gen. Forward,14.0,9.0,5.0,0.64,0.36,5.0,1.0,1.0,3.4,1.8,1.6,2.33
+17,James Leake,Greater Western Sydney,Gen. Defender,10.0,6.0,4.0,0.6,0.4,3.0,0.0,1.0,2.0,1.67,0.33,1.33
+17,Joe Fonti,Greater Western Sydney,Gen. Defender,16.0,8.0,8.0,0.5,0.5,4.0,0.0,3.0,4.29,1.65,2.65,0.29
+17,Josh Kelly,Greater Western Sydney,Midfielder,27.0,12.0,15.0,0.44,0.56,3.0,2.0,5.0,5.53,2.2,3.33,-0.47
+17,Kieren Briggs,Greater Western Sydney,Ruck,10.0,7.0,3.0,0.7,0.3,6.0,0.0,5.0,-1.1,1.2,-2.3,4.05
+17,Lachie Ash,Greater Western Sydney,Gen. Defender,29.0,20.0,9.0,0.69,0.31,5.0,0.0,2.0,1.12,1.54,-0.42,-1.21
+17,Leek Aleer,Greater Western Sydney,Key Defender,9.0,6.0,3.0,0.67,0.33,3.0,0.0,1.0,-0.46,1.46,-1.92,-0.69
+17,Max Gruzewski,Greater Western Sydney,Key Forward,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,-4.29,-3.86,-0.43,-2.71
+17,Ryan Angwin,Greater Western Sydney,Midfielder,24.0,11.0,13.0,0.46,0.54,4.0,0.0,4.0,7.4,2.7,4.7,0.4
+17,Toby Bedford,Greater Western Sydney,Mid-Forward,14.0,4.0,10.0,0.29,0.71,0.0,1.0,3.0,3.0,-1.43,4.43,-2.09
+17,Toby Greene,Greater Western Sydney,Gen. Forward,18.0,15.0,3.0,0.83,0.17,8.0,3.0,2.0,1.55,3.46,-1.91,3.41
+17,Tom Green,Greater Western Sydney,Midfielder,35.0,17.0,18.0,0.49,0.51,7.0,0.0,0.0,5.26,3.7,1.57,4.0
+17,Xavier O'Halloran,Greater Western Sydney,Midfielder,27.0,19.0,8.0,0.7,0.3,1.0,2.0,4.0,12.0,10.35,1.65,-1.3
+18,Aaron Cadman,Greater Western Sydney,Key Forward,15.0,13.0,2.0,0.87,0.13,8.0,6.0,1.0,5.25,5.79,-0.54,3.29
+18,Callum Brown,Greater Western Sydney,Gen. Forward,15.0,11.0,4.0,0.73,0.27,7.0,1.0,1.0,3.54,3.59,-0.04,3.36
+18,Connor Idun,Greater Western Sydney,Gen. Defender,13.0,9.0,4.0,0.69,0.31,5.0,0.0,0.0,-5.21,-0.96,-4.25,-1.75
+18,Darcy Jones,Greater Western Sydney,Gen. Forward,15.0,10.0,5.0,0.67,0.33,3.0,1.0,6.0,0.91,2.7,-1.78,1.0
+18,Finn Callaghan,Greater Western Sydney,Midfielder,29.0,17.0,12.0,0.59,0.41,2.0,0.0,2.0,0.62,2.1,-1.48,-1.71
+18,Harry Himmelberg,Greater Western Sydney,Gen. Defender,15.0,9.0,6.0,0.6,0.4,6.0,0.0,3.0,-3.46,-2.71,-0.75,-1.08
+18,Harry Rowston,Greater Western Sydney,Midfielder,20.0,14.0,6.0,0.7,0.3,1.0,0.0,0.0,8.6,5.8,2.8,-2.0
+18,Harvey Thomas,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+18,Jack Buckley,Greater Western Sydney,Key Defender,12.0,8.0,4.0,0.67,0.33,5.0,0.0,2.0,-0.26,0.42,-0.68,-0.84
+18,Jake Riccardi,Greater Western Sydney,Key Forward,10.0,7.0,3.0,0.7,0.3,5.0,1.0,4.0,-2.55,-0.6,-1.95,0.75
+18,Jake Stringer,Greater Western Sydney,Gen. Forward,11.0,8.0,3.0,0.73,0.27,2.0,4.0,3.0,0.4,0.8,-0.4,-0.67
+18,Jesse Hogan,Greater Western Sydney,Key Forward,4.0,4.0,0.0,1.0,0.0,3.0,1.0,0.0,-6.19,-2.94,-3.25,-2.0
+18,Joe Fonti,Greater Western Sydney,Gen. Defender,15.0,9.0,6.0,0.6,0.4,5.0,0.0,0.0,3.29,2.65,0.65,1.29
+18,Josh Kelly,Greater Western Sydney,Midfielder,15.0,8.0,7.0,0.53,0.47,6.0,0.0,2.0,-6.47,-1.8,-4.67,2.53
+18,Kieren Briggs,Greater Western Sydney,Ruck,14.0,7.0,7.0,0.5,0.5,2.0,0.0,2.0,2.9,1.2,1.7,0.05
+18,Lachie Ash,Greater Western Sydney,Gen. Defender,27.0,18.0,9.0,0.67,0.33,7.0,0.0,3.0,-0.88,-0.46,-0.42,0.79
+18,Lachie Whitfield,Greater Western Sydney,Gen. Defender,32.0,22.0,10.0,0.69,0.31,11.0,0.0,1.0,3.35,2.87,0.48,3.91
+18,Leek Aleer,Greater Western Sydney,Key Defender,16.0,11.0,5.0,0.69,0.31,7.0,0.0,0.0,6.54,6.46,0.08,3.31
+18,Ryan Angwin,Greater Western Sydney,Midfielder,12.0,7.0,5.0,0.58,0.42,1.0,0.0,5.0,-4.6,-1.3,-3.3,-2.6
+18,Toby Bedford,Greater Western Sydney,Mid-Forward,9.0,3.0,6.0,0.33,0.67,0.0,1.0,2.0,-2.0,-2.43,0.43,-2.09
+18,Toby Greene,Greater Western Sydney,Gen. Forward,11.0,8.0,3.0,0.73,0.27,2.0,2.0,3.0,-5.45,-3.54,-1.91,-2.59
+18,Tom Green,Greater Western Sydney,Midfielder,24.0,9.0,15.0,0.38,0.62,1.0,0.0,4.0,-5.74,-4.3,-1.43,-2.0
+18,Xavier O'Halloran,Greater Western Sydney,Midfielder,15.0,10.0,5.0,0.67,0.33,3.0,0.0,3.0,0.0,1.35,-1.35,0.7
+19,Aaron Cadman,Greater Western Sydney,Key Forward,9.0,8.0,1.0,0.89,0.11,5.0,1.0,1.0,-0.75,0.79,-1.54,0.29
+19,Callum Brown,Greater Western Sydney,Gen. Forward,12.0,10.0,2.0,0.83,0.17,7.0,2.0,1.0,0.54,2.59,-2.04,3.36
+19,Connor Idun,Greater Western Sydney,Gen. Defender,21.0,11.0,10.0,0.52,0.48,6.0,0.0,2.0,2.79,1.04,1.75,-0.75
+19,Darcy Jones,Greater Western Sydney,Gen. Forward,13.0,7.0,6.0,0.54,0.46,1.0,1.0,2.0,-1.09,-0.3,-0.78,-1.0
+19,Finn Callaghan,Greater Western Sydney,Midfielder,33.0,19.0,14.0,0.58,0.42,8.0,0.0,2.0,4.62,4.1,0.52,4.29
+19,Harry Himmelberg,Greater Western Sydney,Gen. Defender,23.0,16.0,7.0,0.7,0.3,11.0,0.0,1.0,4.54,4.29,0.25,3.92
+19,Harry Rowston,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+19,Jack Buckley,Greater Western Sydney,Key Defender,10.0,7.0,3.0,0.7,0.3,3.0,0.0,1.0,-2.26,-0.58,-1.68,-2.84
+19,Jake Riccardi,Greater Western Sydney,Key Forward,17.0,8.0,9.0,0.47,0.53,6.0,2.0,0.0,4.45,0.4,4.05,1.75
+19,Jake Stringer,Greater Western Sydney,Gen. Forward,18.0,10.0,8.0,0.56,0.44,6.0,3.0,0.0,7.4,2.8,4.6,3.33
+19,Joe Fonti,Greater Western Sydney,Gen. Defender,12.0,8.0,4.0,0.67,0.33,6.0,0.0,1.0,0.29,1.65,-1.35,2.29
+19,Kieren Briggs,Greater Western Sydney,Ruck,,,,,,,,,,,,
+19,Lachie Ash,Greater Western Sydney,Gen. Defender,27.0,23.0,4.0,0.85,0.15,7.0,0.0,2.0,-0.88,4.54,-5.42,0.79
+19,Lachie Whitfield,Greater Western Sydney,Gen. Defender,29.0,19.0,10.0,0.66,0.34,9.0,0.0,2.0,0.35,-0.13,0.48,1.91
+19,Leek Aleer,Greater Western Sydney,Key Defender,8.0,3.0,5.0,0.38,0.62,2.0,0.0,2.0,-1.46,-1.54,0.08,-1.69
+19,Max Gruzewski,Greater Western Sydney,Key Forward,7.0,3.0,4.0,0.43,0.57,1.0,2.0,0.0,0.71,-0.86,1.57,-1.71
+19,Ryan Angwin,Greater Western Sydney,Midfielder,15.0,10.0,5.0,0.67,0.33,6.0,0.0,4.0,-1.6,1.7,-3.3,2.4
+19,Stephen Coniglio,Greater Western Sydney,Midfielder,18.0,14.0,4.0,0.78,0.22,4.0,0.0,2.0,2.8,4.3,-1.5,2.4
+19,Toby Bedford,Greater Western Sydney,Mid-Forward,8.0,5.0,3.0,0.62,0.38,4.0,0.0,6.0,-3.0,-0.43,-2.57,1.91
+19,Toby Greene,Greater Western Sydney,Gen. Forward,17.0,11.0,6.0,0.65,0.35,7.0,2.0,2.0,0.55,-0.54,1.09,2.41
+19,Toby McMullin,Greater Western Sydney,Midfielder,15.0,10.0,5.0,0.67,0.33,4.0,0.0,1.0,3.46,3.09,0.36,1.73
+19,Tom Green,Greater Western Sydney,Midfielder,30.0,19.0,11.0,0.63,0.37,4.0,1.0,3.0,0.26,5.7,-5.43,1.0
+19,Xavier O'Halloran,Greater Western Sydney,Midfielder,19.0,13.0,6.0,0.68,0.32,4.0,1.0,3.0,4.0,4.35,-0.35,1.7
+20,Aaron Cadman,Greater Western Sydney,Key Forward,11.0,8.0,3.0,0.73,0.27,7.0,3.0,2.0,1.25,0.79,0.46,2.29
+20,Callum Brown,Greater Western Sydney,Gen. Forward,11.0,8.0,3.0,0.73,0.27,4.0,0.0,2.0,-0.46,0.59,-1.04,0.36
+20,Connor Idun,Greater Western Sydney,Gen. Defender,17.0,9.0,8.0,0.53,0.47,9.0,0.0,0.0,-1.21,-0.96,-0.25,2.25
+20,Darcy Jones,Greater Western Sydney,Gen. Forward,12.0,4.0,8.0,0.33,0.67,2.0,0.0,1.0,-2.09,-3.3,1.22,0.0
+20,Finn Callaghan,Greater Western Sydney,Midfielder,21.0,17.0,4.0,0.81,0.19,6.0,1.0,5.0,-7.38,2.1,-9.48,2.29
+20,Harry Himmelberg,Greater Western Sydney,Gen. Defender,23.0,17.0,6.0,0.74,0.26,11.0,1.0,1.0,4.54,5.29,-0.75,3.92
+20,Jack Buckley,Greater Western Sydney,Key Defender,11.0,7.0,4.0,0.64,0.36,8.0,0.0,1.0,-1.26,-0.58,-0.68,2.16
+20,Jake Riccardi,Greater Western Sydney,Key Forward,13.0,7.0,6.0,0.54,0.46,4.0,0.0,5.0,0.45,-0.6,1.05,-0.25
+20,Jake Stringer,Greater Western Sydney,Gen. Forward,13.0,10.0,3.0,0.77,0.23,3.0,3.0,3.0,2.4,2.8,-0.4,0.33
+20,Jesse Hogan,Greater Western Sydney,Key Forward,10.0,8.0,2.0,0.8,0.2,6.0,2.0,1.0,-0.19,1.06,-1.25,1.0
+20,Joe Fonti,Greater Western Sydney,Gen. Defender,14.0,4.0,10.0,0.29,0.71,4.0,0.0,1.0,2.29,-2.35,4.65,0.29
+20,Josh Kelly,Greater Western Sydney,Midfielder,7.0,3.0,4.0,0.43,0.57,1.0,0.0,1.0,-14.47,-6.8,-7.67,-2.47
+20,Kieren Briggs,Greater Western Sydney,Ruck,11.0,8.0,3.0,0.73,0.27,1.0,0.0,4.0,-0.1,2.2,-2.3,-0.95
+20,Lachie Ash,Greater Western Sydney,Gen. Defender,13.0,9.0,4.0,0.69,0.31,4.0,1.0,4.0,-14.88,-9.46,-5.42,-2.21
+20,Lachie Whitfield,Greater Western Sydney,Gen. Defender,27.0,21.0,6.0,0.78,0.22,8.0,0.0,3.0,-1.65,1.87,-3.52,0.91
+20,Ryan Angwin,Greater Western Sydney,Midfielder,25.0,11.0,14.0,0.44,0.56,3.0,0.0,4.0,8.4,2.7,5.7,-0.6
+20,Sam Taylor,Greater Western Sydney,Key Defender,18.0,9.0,9.0,0.5,0.5,10.0,0.0,2.0,4.0,1.25,2.75,3.55
+20,Stephen Coniglio,Greater Western Sydney,Midfielder,19.0,15.0,4.0,0.79,0.21,1.0,0.0,6.0,3.8,5.3,-1.5,-0.6
+20,Toby Bedford,Greater Western Sydney,Mid-Forward,10.0,6.0,4.0,0.6,0.4,3.0,2.0,2.0,-1.0,0.57,-1.57,0.91
+20,Toby Greene,Greater Western Sydney,Gen. Forward,9.0,8.0,1.0,0.89,0.11,3.0,1.0,1.0,-7.45,-3.54,-3.91,-1.59
+20,Toby McMullin,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+20,Tom Green,Greater Western Sydney,Midfielder,16.0,7.0,9.0,0.44,0.56,1.0,1.0,6.0,-13.74,-6.3,-7.43,-2.0
+20,Xavier O'Halloran,Greater Western Sydney,Midfielder,16.0,11.0,5.0,0.69,0.31,2.0,0.0,2.0,1.0,2.35,-1.35,-0.3
+21,Aaron Cadman,Greater Western Sydney,Key Forward,8.0,7.0,1.0,0.88,0.12,4.0,2.0,1.0,-1.75,-0.21,-1.54,-0.71
+21,Callum Brown,Greater Western Sydney,Gen. Forward,8.0,4.0,4.0,0.5,0.5,2.0,0.0,2.0,-3.46,-3.41,-0.04,-1.64
+21,Connor Idun,Greater Western Sydney,Gen. Defender,23.0,14.0,9.0,0.61,0.39,10.0,0.0,1.0,4.79,4.04,0.75,3.25
+21,Darcy Jones,Greater Western Sydney,Gen. Forward,8.0,4.0,4.0,0.5,0.5,2.0,0.0,3.0,-6.09,-3.3,-2.78,0.0
+21,Finn Callaghan,Greater Western Sydney,Midfielder,23.0,17.0,6.0,0.74,0.26,6.0,0.0,2.0,-5.38,2.1,-7.48,2.29
+21,Harry Himmelberg,Greater Western Sydney,Gen. Defender,18.0,17.0,1.0,0.94,0.06,11.0,0.0,2.0,-0.46,5.29,-5.75,3.92
+21,Harry Rowston,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+21,Harvey Thomas,Greater Western Sydney,Gen. Forward,11.0,7.0,4.0,0.64,0.36,5.0,0.0,3.0,-0.61,0.67,-1.28,2.0
+21,Jake Riccardi,Greater Western Sydney,Key Forward,9.0,6.0,3.0,0.67,0.33,1.0,2.0,3.0,-3.55,-1.6,-1.95,-3.25
+21,Jake Stringer,Greater Western Sydney,Gen. Forward,8.0,5.0,3.0,0.62,0.38,4.0,1.0,1.0,-2.6,-2.2,-0.4,1.33
+21,Jesse Hogan,Greater Western Sydney,Key Forward,3.0,1.0,2.0,0.33,0.67,0.0,0.0,0.0,-7.19,-5.94,-1.25,-5.0
+21,Joe Fonti,Greater Western Sydney,Gen. Defender,10.0,7.0,3.0,0.7,0.3,4.0,0.0,4.0,-1.71,0.65,-2.35,0.29
+21,Kieren Briggs,Greater Western Sydney,Ruck,8.0,4.0,4.0,0.5,0.5,1.0,0.0,2.0,-3.1,-1.8,-1.3,-0.95
+21,Lachie Ash,Greater Western Sydney,Gen. Defender,36.0,25.0,11.0,0.69,0.31,12.0,0.0,2.0,8.12,6.54,1.58,5.79
+21,Lachie Whitfield,Greater Western Sydney,Gen. Defender,29.0,23.0,6.0,0.79,0.21,13.0,0.0,1.0,0.35,3.87,-3.52,5.91
+21,Leek Aleer,Greater Western Sydney,Key Defender,12.0,4.0,8.0,0.33,0.67,5.0,0.0,3.0,2.54,-0.54,3.08,1.31
+21,Ryan Angwin,Greater Western Sydney,Midfielder,7.0,4.0,3.0,0.57,0.43,3.0,0.0,3.0,-9.6,-4.3,-5.3,-0.6
+21,Sam Taylor,Greater Western Sydney,Key Defender,10.0,4.0,6.0,0.4,0.6,4.0,0.0,1.0,-4.0,-3.75,-0.25,-2.45
+21,Stephen Coniglio,Greater Western Sydney,Midfielder,15.0,9.0,6.0,0.6,0.4,2.0,0.0,3.0,-0.2,-0.7,0.5,0.4
+21,Toby Bedford,Greater Western Sydney,Mid-Forward,9.0,7.0,2.0,0.78,0.22,3.0,1.0,2.0,-2.0,1.57,-3.57,0.91
+21,Toby McMullin,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+21,Tom Green,Greater Western Sydney,Midfielder,25.0,10.0,15.0,0.4,0.6,1.0,0.0,3.0,-4.74,-3.3,-1.43,-2.0
+21,Xavier O'Halloran,Greater Western Sydney,Midfielder,13.0,9.0,4.0,0.69,0.31,5.0,0.0,0.0,-2.0,0.35,-2.35,2.7
+22,Aaron Cadman,Greater Western Sydney,Key Forward,12.0,6.0,6.0,0.5,0.5,7.0,4.0,2.0,2.25,-1.21,3.46,2.29
+22,Callum Brown,Greater Western Sydney,Gen. Forward,8.0,7.0,1.0,0.88,0.12,5.0,5.0,2.0,-3.46,-0.41,-3.04,1.36
+22,Connor Idun,Greater Western Sydney,Gen. Defender,17.0,11.0,6.0,0.65,0.35,8.0,0.0,5.0,-1.21,1.04,-2.25,1.25
+22,Darcy Jones,Greater Western Sydney,Gen. Forward,18.0,6.0,12.0,0.33,0.67,5.0,0.0,2.0,3.91,-1.3,5.22,3.0
+22,Finn Callaghan,Greater Western Sydney,Midfielder,31.0,13.0,18.0,0.42,0.58,4.0,1.0,8.0,2.62,-1.9,4.52,0.29
+22,Harry Himmelberg,Greater Western Sydney,Gen. Defender,24.0,17.0,7.0,0.71,0.29,13.0,0.0,0.0,5.54,5.29,0.25,5.92
+22,Harry Rowston,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+22,Harvey Thomas,Greater Western Sydney,Gen. Forward,19.0,13.0,6.0,0.68,0.32,6.0,1.0,3.0,7.39,6.67,0.72,3.0
+22,Jake Riccardi,Greater Western Sydney,Key Forward,8.0,2.0,6.0,0.25,0.75,1.0,0.0,2.0,-4.55,-5.6,1.05,-3.25
+22,Jake Stringer,Greater Western Sydney,Gen. Forward,,,,,,,,,,,,
+22,Joe Fonti,Greater Western Sydney,Gen. Defender,9.0,4.0,5.0,0.44,0.56,2.0,0.0,2.0,-2.71,-2.35,-0.35,-1.71
+22,Kieren Briggs,Greater Western Sydney,Ruck,8.0,3.0,5.0,0.38,0.62,1.0,0.0,6.0,-3.1,-2.8,-0.3,-0.95
+22,Lachie Ash,Greater Western Sydney,Gen. Defender,13.0,6.0,7.0,0.46,0.54,1.0,0.0,0.0,-14.88,-12.46,-2.42,-5.21
+22,Lachie Whitfield,Greater Western Sydney,Gen. Defender,27.0,16.0,11.0,0.59,0.41,5.0,0.0,2.0,-1.65,-3.13,1.48,-2.09
+22,Leek Aleer,Greater Western Sydney,Key Defender,5.0,2.0,3.0,0.4,0.6,2.0,0.0,0.0,-4.46,-2.54,-1.92,-1.69
+22,Max Gruzewski,Greater Western Sydney,Key Forward,8.0,6.0,2.0,0.75,0.25,5.0,0.0,1.0,1.71,2.14,-0.43,2.29
+22,Ryan Angwin,Greater Western Sydney,Midfielder,14.0,5.0,9.0,0.36,0.64,3.0,1.0,4.0,-2.6,-3.3,0.7,-0.6
+22,Sam Taylor,Greater Western Sydney,Key Defender,13.0,7.0,6.0,0.54,0.46,5.0,0.0,2.0,-1.0,-0.75,-0.25,-1.45
+22,Stephen Coniglio,Greater Western Sydney,Midfielder,21.0,13.0,8.0,0.62,0.38,2.0,0.0,6.0,5.8,3.3,2.5,0.4
+22,Toby Bedford,Greater Western Sydney,Mid-Forward,15.0,10.0,5.0,0.67,0.33,3.0,1.0,3.0,4.0,4.57,-0.57,0.91
+22,Toby Greene,Greater Western Sydney,Gen. Forward,23.0,18.0,5.0,0.78,0.22,10.0,3.0,4.0,6.55,6.46,0.09,5.41
+22,Tom Green,Greater Western Sydney,Midfielder,25.0,12.0,13.0,0.48,0.52,4.0,1.0,4.0,-4.74,-1.3,-3.43,1.0
+22,Xavier O'Halloran,Greater Western Sydney,Midfielder,23.0,11.0,12.0,0.48,0.52,4.0,0.0,7.0,8.0,2.35,5.65,1.7
+23,Aaron Cadman,Greater Western Sydney,Key Forward,13.0,12.0,1.0,0.92,0.08,4.0,2.0,5.0,3.25,4.79,-1.54,-0.71
+23,Callum Brown,Greater Western Sydney,Gen. Forward,9.0,5.0,4.0,0.56,0.44,1.0,0.0,3.0,-2.46,-2.41,-0.04,-2.64
+23,Connor Idun,Greater Western Sydney,Gen. Defender,14.0,10.0,4.0,0.71,0.29,5.0,0.0,0.0,-4.21,0.04,-4.25,-1.75
+23,Darcy Jones,Greater Western Sydney,Gen. Forward,18.0,8.0,10.0,0.44,0.56,1.0,1.0,4.0,3.91,0.7,3.22,-1.0
+23,Finn Callaghan,Greater Western Sydney,Midfielder,29.0,18.0,11.0,0.62,0.38,8.0,0.0,6.0,0.62,3.1,-2.48,4.29
+23,Harry Himmelberg,Greater Western Sydney,Gen. Defender,15.0,9.0,6.0,0.6,0.4,4.0,0.0,1.0,-3.46,-2.71,-0.75,-3.08
+23,Harry Rowston,Greater Western Sydney,Midfielder,12.0,9.0,3.0,0.75,0.25,6.0,4.0,4.0,0.6,0.8,-0.2,3.0
+23,Harvey Thomas,Greater Western Sydney,Gen. Forward,23.0,14.0,9.0,0.61,0.39,8.0,0.0,3.0,11.39,7.67,3.72,5.0
+23,Jacob Wehr,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+23,Jake Riccardi,Greater Western Sydney,Key Forward,16.0,11.0,5.0,0.69,0.31,7.0,1.0,3.0,3.45,3.4,0.05,2.75
+23,Joe Fonti,Greater Western Sydney,Gen. Defender,8.0,4.0,4.0,0.5,0.5,2.0,0.0,3.0,-3.71,-2.35,-1.35,-1.71
+23,Kieren Briggs,Greater Western Sydney,Ruck,13.0,6.0,7.0,0.46,0.54,1.0,0.0,3.0,1.9,0.2,1.7,-0.95
+23,Lachie Ash,Greater Western Sydney,Gen. Defender,26.0,19.0,7.0,0.73,0.27,4.0,0.0,1.0,-1.88,0.54,-2.42,-2.21
+23,Lachie Whitfield,Greater Western Sydney,Gen. Defender,27.0,20.0,7.0,0.74,0.26,5.0,0.0,3.0,-1.65,0.87,-2.52,-2.09
+23,Leek Aleer,Greater Western Sydney,Key Defender,7.0,2.0,5.0,0.29,0.71,3.0,0.0,2.0,-2.46,-2.54,0.08,-0.69
+23,Max Gruzewski,Greater Western Sydney,Key Forward,9.0,6.0,3.0,0.67,0.33,4.0,3.0,2.0,2.71,2.14,0.57,1.29
+23,Ryan Angwin,Greater Western Sydney,Midfielder,19.0,9.0,10.0,0.47,0.53,3.0,0.0,5.0,2.4,0.7,1.7,-0.6
+23,Sam Taylor,Greater Western Sydney,Key Defender,12.0,8.0,4.0,0.67,0.33,6.0,0.0,1.0,-2.0,0.25,-2.25,-0.45
+23,Stephen Coniglio,Greater Western Sydney,Midfielder,19.0,10.0,9.0,0.53,0.47,1.0,1.0,2.0,3.8,0.3,3.5,-0.6
+23,Toby Bedford,Greater Western Sydney,Mid-Forward,12.0,6.0,6.0,0.5,0.5,3.0,2.0,6.0,1.0,0.57,0.43,0.91
+23,Toby Greene,Greater Western Sydney,Gen. Forward,19.0,10.0,9.0,0.53,0.47,7.0,2.0,3.0,2.55,-1.54,4.09,2.41
+23,Tom Green,Greater Western Sydney,Midfielder,29.0,15.0,14.0,0.52,0.48,2.0,0.0,4.0,-0.74,1.7,-2.43,-1.0
+23,Xavier O'Halloran,Greater Western Sydney,Midfielder,13.0,6.0,7.0,0.46,0.54,3.0,1.0,4.0,-2.0,-2.65,0.65,0.7
+24,Aaron Cadman,Greater Western Sydney,Key Forward,6.0,3.0,3.0,0.5,0.5,3.0,0.0,0.0,-3.75,-4.21,0.46,-1.71
+24,Callum Brown,Greater Western Sydney,Gen. Forward,11.0,7.0,4.0,0.64,0.36,3.0,1.0,2.0,-0.46,-0.41,-0.04,-0.64
+24,Connor Idun,Greater Western Sydney,Gen. Defender,14.0,4.0,10.0,0.29,0.71,2.0,0.0,1.0,-4.21,-5.96,1.75,-4.75
+24,Darcy Jones,Greater Western Sydney,Gen. Forward,18.0,6.0,12.0,0.33,0.67,2.0,2.0,3.0,3.91,-1.3,5.22,0.0
+24,Finn Callaghan,Greater Western Sydney,Midfielder,26.0,10.0,16.0,0.38,0.62,2.0,0.0,7.0,-2.38,-4.9,2.52,-1.71
+24,Harry Himmelberg,Greater Western Sydney,Gen. Defender,21.0,12.0,9.0,0.57,0.43,12.0,1.0,0.0,2.54,0.29,2.25,4.92
+24,Harry Rowston,Greater Western Sydney,Midfielder,12.0,12.0,0.0,1.0,0.0,4.0,1.0,8.0,0.6,3.8,-3.2,1.0
+24,Harvey Thomas,Greater Western Sydney,Gen. Forward,13.0,6.0,7.0,0.46,0.54,6.0,1.0,2.0,1.39,-0.33,1.72,3.0
+24,Jacob Wehr,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+24,Jake Riccardi,Greater Western Sydney,Key Forward,8.0,3.0,5.0,0.38,0.62,2.0,0.0,4.0,-4.55,-4.6,0.05,-2.25
+24,Joe Fonti,Greater Western Sydney,Gen. Defender,15.0,10.0,5.0,0.67,0.33,8.0,0.0,1.0,3.29,3.65,-0.35,4.29
+24,Kieren Briggs,Greater Western Sydney,Ruck,17.0,6.0,11.0,0.35,0.65,3.0,0.0,3.0,5.9,0.2,5.7,1.05
+24,Lachie Ash,Greater Western Sydney,Gen. Defender,32.0,22.0,10.0,0.69,0.31,5.0,0.0,2.0,4.12,3.54,0.58,-1.21
+24,Lachie Whitfield,Greater Western Sydney,Gen. Defender,31.0,23.0,8.0,0.74,0.26,7.0,0.0,6.0,2.35,3.87,-1.52,-0.09
+24,Leek Aleer,Greater Western Sydney,Key Defender,12.0,4.0,8.0,0.33,0.67,4.0,0.0,2.0,2.54,-0.54,3.08,0.31
+24,Max Gruzewski,Greater Western Sydney,Key Forward,9.0,8.0,1.0,0.89,0.11,6.0,3.0,1.0,2.71,4.14,-1.43,3.29
+24,Ryan Angwin,Greater Western Sydney,Midfielder,16.0,8.0,8.0,0.5,0.5,1.0,0.0,4.0,-0.6,-0.3,-0.3,-2.6
+24,Sam Taylor,Greater Western Sydney,Key Defender,7.0,4.0,3.0,0.57,0.43,3.0,0.0,2.0,-7.0,-3.75,-3.25,-3.45
+24,Stephen Coniglio,Greater Western Sydney,Midfielder,,,,,,,,,,,,
+24,Toby Bedford,Greater Western Sydney,Mid-Forward,11.0,8.0,3.0,0.73,0.27,3.0,1.0,1.0,0.0,2.57,-2.57,0.91
+24,Toby Greene,Greater Western Sydney,Gen. Forward,17.0,13.0,4.0,0.76,0.24,5.0,4.0,2.0,0.55,1.46,-0.91,0.41
+24,Tom Green,Greater Western Sydney,Midfielder,33.0,12.0,21.0,0.36,0.64,1.0,1.0,2.0,3.26,-1.3,4.57,-2.0
+24,Xavier O'Halloran,Greater Western Sydney,Midfielder,15.0,4.0,11.0,0.27,0.73,1.0,0.0,7.0,0.0,-4.65,4.65,-1.3

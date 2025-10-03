@@ -1,530 +1,530 @@
-Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
-1,Aidan Corr,North Melbourne,18.0,13.0,5.0,0.72,0.28,4.0,0.0,5.0,Key Defender
-1,Bailey Scott,North Melbourne,18.0,10.0,8.0,0.56,0.44,2.0,1.0,5.0,Midfielder
-1,Caleb Daniel,North Melbourne,24.0,13.0,11.0,0.54,0.46,3.0,0.0,6.0,Gen. Defender
-1,Cameron Zurhaar,North Melbourne,20.0,14.0,6.0,0.7,0.3,10.0,1.0,2.0,Gen. Forward
-1,Charlie Comben,North Melbourne,8.0,4.0,4.0,0.5,0.5,2.0,0.0,1.0,Key Defender
-1,Colby McKercher,North Melbourne,17.0,9.0,8.0,0.53,0.47,3.0,0.0,5.0,Gen. Defender
-1,Darcy Tucker,North Melbourne,,,,,,,,,Gen. Defender
-1,Finn O'Sullivan,North Melbourne,16.0,10.0,6.0,0.62,0.38,3.0,0.0,0.0,Gen. Defender
-1,Griffin Logue,North Melbourne,6.0,4.0,2.0,0.67,0.33,1.0,0.0,0.0,Key Defender
-1,Harry Sheezel,North Melbourne,31.0,15.0,16.0,0.48,0.52,6.0,0.0,4.0,Mid-Forward
-1,Jack Darling,North Melbourne,15.0,9.0,6.0,0.6,0.4,5.0,1.0,2.0,Key Forward
-1,Jackson Archer,North Melbourne,11.0,7.0,4.0,0.64,0.36,3.0,0.0,1.0,Gen. Defender
-1,Jacob Konstanty,North Melbourne,10.0,6.0,4.0,0.6,0.4,1.0,0.0,6.0,Gen. Forward
-1,Jy Simpkin,North Melbourne,30.0,19.0,11.0,0.63,0.37,4.0,1.0,7.0,Mid-Forward
-1,Luke Davies-Uniacke,North Melbourne,20.0,12.0,8.0,0.6,0.4,4.0,2.0,2.0,Midfielder
-1,Luke McDonald,North Melbourne,20.0,11.0,9.0,0.55,0.45,5.0,0.0,2.0,Gen. Defender
-1,Luke Parker,North Melbourne,21.0,10.0,11.0,0.48,0.52,5.0,0.0,4.0,Midfielder
-1,Nick Larkey,North Melbourne,8.0,7.0,1.0,0.88,0.12,3.0,5.0,1.0,Key Forward
-1,Paul Curtis,North Melbourne,13.0,8.0,5.0,0.62,0.38,4.0,3.0,4.0,Gen. Forward
-1,Robert Hansen Jr,North Melbourne,15.0,6.0,9.0,0.4,0.6,1.0,0.0,0.0,Mid-Forward
-1,Tom Powell,North Melbourne,27.0,13.0,14.0,0.48,0.52,7.0,0.0,8.0,Midfielder
-1,Tristan Xerri,North Melbourne,17.0,4.0,13.0,0.24,0.76,4.0,0.0,7.0,Ruck
-1,Will Phillips,North Melbourne,,,,,,,,,Midfielder
-2,Aidan Corr,North Melbourne,17.0,14.0,3.0,0.82,0.18,7.0,0.0,0.0,Key Defender
-2,Bailey Scott,North Melbourne,17.0,11.0,6.0,0.65,0.35,8.0,1.0,2.0,Midfielder
-2,Caleb Daniel,North Melbourne,31.0,25.0,6.0,0.81,0.19,6.0,0.0,3.0,Gen. Defender
-2,Cameron Zurhaar,North Melbourne,17.0,12.0,5.0,0.71,0.29,3.0,4.0,1.0,Gen. Forward
-2,Charlie Comben,North Melbourne,16.0,13.0,3.0,0.81,0.19,12.0,0.0,1.0,Key Defender
-2,Colby McKercher,North Melbourne,17.0,11.0,6.0,0.65,0.35,1.0,1.0,2.0,Gen. Defender
-2,Darcy Tucker,North Melbourne,16.0,9.0,7.0,0.56,0.44,4.0,0.0,2.0,Gen. Defender
-2,Dylan Stephens,North Melbourne,,,,,,,,,Midfielder
-2,Finn O'Sullivan,North Melbourne,12.0,9.0,3.0,0.75,0.25,2.0,0.0,0.0,Gen. Defender
-2,Harry Sheezel,North Melbourne,28.0,15.0,13.0,0.54,0.46,7.0,0.0,2.0,Mid-Forward
-2,Jack Darling,North Melbourne,14.0,8.0,6.0,0.57,0.43,4.0,2.0,3.0,Key Forward
-2,Jacob Konstanty,North Melbourne,,,,,,,,,Gen. Forward
-2,Jy Simpkin,North Melbourne,24.0,9.0,15.0,0.38,0.62,6.0,1.0,2.0,Mid-Forward
-2,Luke Davies-Uniacke,North Melbourne,23.0,9.0,14.0,0.39,0.61,2.0,0.0,7.0,Midfielder
-2,Luke McDonald,North Melbourne,15.0,9.0,6.0,0.6,0.4,6.0,0.0,0.0,Gen. Defender
-2,Luke Parker,North Melbourne,22.0,10.0,12.0,0.45,0.55,3.0,1.0,2.0,Midfielder
-2,Nick Larkey,North Melbourne,10.0,6.0,4.0,0.6,0.4,3.0,3.0,2.0,Key Forward
-2,Paul Curtis,North Melbourne,22.0,13.0,9.0,0.59,0.41,6.0,3.0,4.0,Gen. Forward
-2,Robert Hansen Jr,North Melbourne,15.0,7.0,8.0,0.47,0.53,3.0,0.0,1.0,Mid-Forward
-2,Toby Pink,North Melbourne,12.0,10.0,2.0,0.83,0.17,9.0,0.0,3.0,Key Defender
-2,Tom Powell,North Melbourne,31.0,15.0,16.0,0.48,0.52,2.0,1.0,2.0,Midfielder
-2,Tristan Xerri,North Melbourne,20.0,5.0,15.0,0.25,0.75,2.0,1.0,2.0,Ruck
-2,Will Phillips,North Melbourne,,,,,,,,,Midfielder
-3,Aidan Corr,North Melbourne,14.0,12.0,2.0,0.86,0.14,4.0,0.0,1.0,Key Defender
-3,Bailey Scott,North Melbourne,12.0,8.0,4.0,0.67,0.33,7.0,0.0,0.0,Midfielder
-3,Caleb Daniel,North Melbourne,33.0,22.0,11.0,0.67,0.33,9.0,0.0,0.0,Gen. Defender
-3,Cameron Zurhaar,North Melbourne,8.0,5.0,3.0,0.62,0.38,2.0,1.0,5.0,Gen. Forward
-3,Charlie Comben,North Melbourne,13.0,12.0,1.0,0.92,0.08,7.0,0.0,2.0,Key Defender
-3,Colby McKercher,North Melbourne,19.0,14.0,5.0,0.74,0.26,8.0,0.0,0.0,Gen. Defender
-3,Darcy Tucker,North Melbourne,19.0,12.0,7.0,0.63,0.37,4.0,0.0,3.0,Gen. Defender
-3,Dylan Stephens,North Melbourne,,,,,,,,,Midfielder
-3,Finn O'Sullivan,North Melbourne,16.0,8.0,8.0,0.5,0.5,5.0,0.0,0.0,Gen. Defender
-3,Harry Sheezel,North Melbourne,26.0,11.0,15.0,0.42,0.58,2.0,0.0,5.0,Mid-Forward
-3,Jack Darling,North Melbourne,11.0,8.0,3.0,0.73,0.27,4.0,1.0,2.0,Key Forward
-3,Jacob Konstanty,North Melbourne,7.0,3.0,4.0,0.43,0.57,3.0,2.0,1.0,Gen. Forward
-3,Jy Simpkin,North Melbourne,31.0,22.0,9.0,0.71,0.29,7.0,1.0,1.0,Mid-Forward
-3,Luke Davies-Uniacke,North Melbourne,19.0,11.0,8.0,0.58,0.42,5.0,0.0,2.0,Midfielder
-3,Luke McDonald,North Melbourne,15.0,8.0,7.0,0.53,0.47,4.0,0.0,4.0,Gen. Defender
-3,Luke Parker,North Melbourne,21.0,10.0,11.0,0.48,0.52,3.0,0.0,6.0,Midfielder
-3,Nick Larkey,North Melbourne,11.0,9.0,2.0,0.82,0.18,5.0,4.0,0.0,Key Forward
-3,Paul Curtis,North Melbourne,9.0,5.0,4.0,0.56,0.44,3.0,2.0,4.0,Gen. Forward
-3,Robert Hansen Jr,North Melbourne,,,,,,,,,Mid-Forward
-3,Toby Pink,North Melbourne,13.0,11.0,2.0,0.85,0.15,6.0,0.0,1.0,Key Defender
-3,Tom Powell,North Melbourne,21.0,8.0,13.0,0.38,0.62,4.0,0.0,3.0,Midfielder
-3,Tristan Xerri,North Melbourne,17.0,4.0,13.0,0.24,0.76,1.0,0.0,4.0,Ruck
-3,Will Phillips,North Melbourne,12.0,4.0,8.0,0.33,0.67,2.0,0.0,2.0,Midfielder
-4,Aidan Corr,North Melbourne,18.0,12.0,6.0,0.67,0.33,5.0,0.0,3.0,Key Defender
-4,Bailey Scott,North Melbourne,12.0,7.0,5.0,0.58,0.42,4.0,0.0,0.0,Midfielder
-4,Caleb Daniel,North Melbourne,25.0,15.0,10.0,0.6,0.4,5.0,0.0,2.0,Gen. Defender
-4,Cameron Zurhaar,North Melbourne,12.0,9.0,3.0,0.75,0.25,8.0,1.0,0.0,Gen. Forward
-4,Charlie Comben,North Melbourne,15.0,5.0,10.0,0.33,0.67,3.0,0.0,1.0,Key Defender
-4,Colby McKercher,North Melbourne,22.0,13.0,9.0,0.59,0.41,4.0,1.0,1.0,Gen. Defender
-4,Darcy Tucker,North Melbourne,20.0,13.0,7.0,0.65,0.35,8.0,0.0,1.0,Gen. Defender
-4,Dylan Stephens,North Melbourne,18.0,8.0,10.0,0.44,0.56,7.0,0.0,1.0,Midfielder
-4,Griffin Logue,North Melbourne,13.0,9.0,4.0,0.69,0.31,7.0,0.0,2.0,Key Defender
-4,Harry Sheezel,North Melbourne,34.0,19.0,15.0,0.56,0.44,9.0,0.0,3.0,Mid-Forward
-4,Jack Darling,North Melbourne,6.0,3.0,3.0,0.5,0.5,3.0,0.0,1.0,Key Forward
-4,Jacob Konstanty,North Melbourne,16.0,8.0,8.0,0.5,0.5,4.0,0.0,1.0,Gen. Forward
-4,Jy Simpkin,North Melbourne,22.0,13.0,9.0,0.59,0.41,4.0,0.0,4.0,Mid-Forward
-4,Luke Davies-Uniacke,North Melbourne,25.0,14.0,11.0,0.56,0.44,6.0,0.0,5.0,Midfielder
-4,Luke McDonald,North Melbourne,18.0,10.0,8.0,0.56,0.44,7.0,0.0,1.0,Gen. Defender
-4,Luke Parker,North Melbourne,27.0,11.0,16.0,0.41,0.59,3.0,2.0,8.0,Midfielder
-4,Matt Whitlock,North Melbourne,,,,,,,,,Key Defender
-4,Nick Larkey,North Melbourne,9.0,4.0,5.0,0.44,0.56,3.0,2.0,0.0,Key Forward
-4,Paul Curtis,North Melbourne,14.0,9.0,5.0,0.64,0.36,6.0,2.0,5.0,Gen. Forward
-4,Riley Hardeman,North Melbourne,,,,,,,,,Gen. Defender
-4,Robert Hansen Jr,North Melbourne,7.0,6.0,1.0,0.86,0.14,5.0,0.0,0.0,Mid-Forward
-4,Tom Powell,North Melbourne,22.0,10.0,12.0,0.45,0.55,6.0,0.0,5.0,Midfielder
-4,Tristan Xerri,North Melbourne,18.0,6.0,12.0,0.33,0.67,2.0,0.0,3.0,Ruck
-5,Aidan Corr,North Melbourne,14.0,10.0,4.0,0.71,0.29,2.0,0.0,1.0,Key Defender
-5,Caleb Daniel,North Melbourne,32.0,16.0,16.0,0.5,0.5,3.0,0.0,2.0,Gen. Defender
-5,Cameron Zurhaar,North Melbourne,9.0,5.0,4.0,0.56,0.44,2.0,1.0,4.0,Gen. Forward
-5,Charlie Comben,North Melbourne,10.0,7.0,3.0,0.7,0.3,6.0,0.0,1.0,Key Defender
-5,Colby McKercher,North Melbourne,8.0,4.0,4.0,0.5,0.5,3.0,0.0,0.0,Gen. Defender
-5,Darcy Tucker,North Melbourne,21.0,11.0,10.0,0.52,0.48,4.0,0.0,0.0,Gen. Defender
-5,Dylan Stephens,North Melbourne,21.0,13.0,8.0,0.62,0.38,7.0,0.0,3.0,Midfielder
-5,Finn O'Sullivan,North Melbourne,15.0,8.0,7.0,0.53,0.47,1.0,0.0,3.0,Gen. Defender
-5,Griffin Logue,North Melbourne,11.0,5.0,6.0,0.45,0.55,4.0,0.0,3.0,Key Defender
-5,Harry Sheezel,North Melbourne,27.0,12.0,15.0,0.44,0.56,4.0,1.0,4.0,Mid-Forward
-5,Jack Darling,North Melbourne,16.0,9.0,7.0,0.56,0.44,5.0,2.0,4.0,Key Forward
-5,Jacob Konstanty,North Melbourne,,,,,,,,,Gen. Forward
-5,Jy Simpkin,North Melbourne,24.0,13.0,11.0,0.54,0.46,6.0,2.0,4.0,Mid-Forward
-5,Luke Davies-Uniacke,North Melbourne,26.0,17.0,9.0,0.65,0.35,7.0,0.0,4.0,Midfielder
-5,Luke McDonald,North Melbourne,12.0,6.0,6.0,0.5,0.5,2.0,0.0,3.0,Gen. Defender
-5,Luke Parker,North Melbourne,24.0,9.0,15.0,0.38,0.62,2.0,0.0,3.0,Midfielder
-5,Nick Larkey,North Melbourne,12.0,8.0,4.0,0.67,0.33,3.0,2.0,1.0,Key Forward
-5,Paul Curtis,North Melbourne,14.0,8.0,6.0,0.57,0.43,3.0,2.0,4.0,Gen. Forward
-5,Riley Hardeman,North Melbourne,,,,,,,,,Gen. Defender
-5,Tom Powell,North Melbourne,20.0,9.0,11.0,0.45,0.55,2.0,0.0,7.0,Midfielder
-5,Tristan Xerri,North Melbourne,9.0,3.0,6.0,0.33,0.67,1.0,0.0,6.0,Ruck
-5,Zac Fisher,North Melbourne,27.0,12.0,15.0,0.44,0.56,0.0,0.0,0.0,Gen. Forward
-5,Zane Duursma,North Melbourne,,,,,,,,,Gen. Forward
-6,Aidan Corr,North Melbourne,18.0,12.0,6.0,0.67,0.33,7.0,0.0,1.0,Key Defender
-6,Caleb Daniel,North Melbourne,24.0,15.0,9.0,0.62,0.38,2.0,0.0,4.0,Gen. Defender
-6,Cameron Zurhaar,North Melbourne,11.0,8.0,3.0,0.73,0.27,2.0,1.0,0.0,Gen. Forward
-6,Charlie Comben,North Melbourne,15.0,10.0,5.0,0.67,0.33,8.0,0.0,1.0,Key Defender
-6,Colby McKercher,North Melbourne,16.0,9.0,7.0,0.56,0.44,4.0,0.0,1.0,Gen. Defender
-6,Darcy Tucker,North Melbourne,15.0,4.0,11.0,0.27,0.73,4.0,0.0,1.0,Gen. Defender
-6,Dylan Stephens,North Melbourne,21.0,11.0,10.0,0.52,0.48,6.0,0.0,1.0,Midfielder
-6,Finn O'Sullivan,North Melbourne,10.0,2.0,8.0,0.2,0.8,3.0,0.0,0.0,Gen. Defender
-6,George Wardlaw,North Melbourne,,,,,,,,,Midfielder
-6,Griffin Logue,North Melbourne,9.0,3.0,6.0,0.33,0.67,1.0,0.0,0.0,Key Defender
-6,Harry Sheezel,North Melbourne,32.0,9.0,23.0,0.28,0.72,0.0,0.0,6.0,Mid-Forward
-6,Jack Darling,North Melbourne,6.0,4.0,2.0,0.67,0.33,0.0,0.0,3.0,Key Forward
-6,Jacob Konstanty,North Melbourne,4.0,1.0,3.0,0.25,0.75,0.0,1.0,3.0,Gen. Forward
-6,Jy Simpkin,North Melbourne,20.0,9.0,11.0,0.45,0.55,3.0,0.0,6.0,Mid-Forward
-6,Luke Davies-Uniacke,North Melbourne,25.0,11.0,14.0,0.44,0.56,1.0,0.0,3.0,Midfielder
-6,Luke McDonald,North Melbourne,13.0,10.0,3.0,0.77,0.23,4.0,0.0,2.0,Gen. Defender
-6,Luke Parker,North Melbourne,23.0,12.0,11.0,0.52,0.48,1.0,2.0,1.0,Midfielder
-6,Nick Larkey,North Melbourne,7.0,4.0,3.0,0.57,0.43,2.0,1.0,2.0,Key Forward
-6,Paul Curtis,North Melbourne,12.0,11.0,1.0,0.92,0.08,5.0,3.0,2.0,Gen. Forward
-6,Tom Powell,North Melbourne,19.0,5.0,14.0,0.26,0.74,3.0,1.0,5.0,Midfielder
-6,Tristan Xerri,North Melbourne,14.0,2.0,12.0,0.14,0.86,1.0,0.0,11.0,Ruck
-6,Zac Fisher,North Melbourne,,,,,,,,,Gen. Forward
-6,Zane Duursma,North Melbourne,,,,,,,,,Gen. Forward
-7,Caleb Daniel,North Melbourne,22.0,17.0,5.0,0.77,0.23,2.0,0.0,2.0,Gen. Defender
-7,Cameron Zurhaar,North Melbourne,11.0,8.0,3.0,0.73,0.27,4.0,2.0,3.0,Gen. Forward
-7,Charlie Comben,North Melbourne,7.0,2.0,5.0,0.29,0.71,0.0,0.0,0.0,Key Defender
-7,Colby McKercher,North Melbourne,19.0,11.0,8.0,0.58,0.42,1.0,1.0,1.0,Gen. Defender
-7,Darcy Tucker,North Melbourne,0.0,0.0,0.0,,,0.0,0.0,3.0,Gen. Defender
-7,Dylan Stephens,North Melbourne,15.0,7.0,8.0,0.47,0.53,3.0,0.0,2.0,Midfielder
-7,Finn O'Sullivan,North Melbourne,12.0,4.0,8.0,0.33,0.67,2.0,0.0,2.0,Gen. Defender
-7,George Wardlaw,North Melbourne,20.0,11.0,9.0,0.55,0.45,1.0,1.0,6.0,Midfielder
-7,Harry Sheezel,North Melbourne,30.0,20.0,10.0,0.67,0.33,4.0,0.0,1.0,Mid-Forward
-7,Jack Darling,North Melbourne,9.0,5.0,4.0,0.56,0.44,3.0,1.0,3.0,Key Forward
-7,Jackson Archer,North Melbourne,12.0,5.0,7.0,0.42,0.58,0.0,0.0,2.0,Gen. Defender
-7,Jacob Konstanty,North Melbourne,6.0,4.0,2.0,0.67,0.33,1.0,0.0,2.0,Gen. Forward
-7,Jy Simpkin,North Melbourne,19.0,11.0,8.0,0.58,0.42,1.0,0.0,1.0,Mid-Forward
-7,Kallan Dawson,North Melbourne,7.0,5.0,2.0,0.71,0.29,2.0,0.0,0.0,Key Defender
-7,Luke Davies-Uniacke,North Melbourne,25.0,8.0,17.0,0.32,0.68,2.0,1.0,4.0,Midfielder
-7,Luke McDonald,North Melbourne,13.0,8.0,5.0,0.62,0.38,0.0,0.0,3.0,Gen. Defender
-7,Luke Parker,North Melbourne,27.0,13.0,14.0,0.48,0.52,4.0,1.0,4.0,Midfielder
-7,Nick Larkey,North Melbourne,12.0,7.0,5.0,0.58,0.42,7.0,1.0,1.0,Key Forward
-7,Paul Curtis,North Melbourne,16.0,12.0,4.0,0.75,0.25,3.0,3.0,5.0,Gen. Forward
-7,Riley Hardeman,North Melbourne,12.0,9.0,3.0,0.75,0.25,1.0,0.0,2.0,Gen. Defender
-7,Tom Powell,North Melbourne,19.0,11.0,8.0,0.58,0.42,3.0,1.0,3.0,Midfielder
-7,Tristan Xerri,North Melbourne,23.0,10.0,13.0,0.43,0.57,2.0,1.0,3.0,Ruck
-7,Zane Duursma,North Melbourne,,,,,,,,,Gen. Forward
-8,Bailey Scott,North Melbourne,,,,,,,,,Midfielder
-8,Caleb Daniel,North Melbourne,23.0,16.0,7.0,0.7,0.3,6.0,0.0,0.0,Gen. Defender
-8,Cameron Zurhaar,North Melbourne,9.0,7.0,2.0,0.78,0.22,3.0,2.0,1.0,Gen. Forward
-8,Charlie Comben,North Melbourne,12.0,7.0,5.0,0.58,0.42,3.0,0.0,0.0,Key Defender
-8,Colby McKercher,North Melbourne,11.0,6.0,5.0,0.55,0.45,3.0,1.0,2.0,Gen. Defender
-8,Dylan Stephens,North Melbourne,25.0,15.0,10.0,0.6,0.4,8.0,0.0,1.0,Midfielder
-8,Finn O'Sullivan,North Melbourne,11.0,8.0,3.0,0.73,0.27,2.0,0.0,4.0,Gen. Defender
-8,Finnbar Maley,North Melbourne,8.0,5.0,3.0,0.62,0.38,3.0,1.0,2.0,Key Forward
-8,Harry Sheezel,North Melbourne,32.0,21.0,11.0,0.66,0.34,9.0,0.0,5.0,Mid-Forward
-8,Jack Darling,North Melbourne,5.0,2.0,3.0,0.4,0.6,1.0,0.0,0.0,Key Forward
-8,Jackson Archer,North Melbourne,,,,,,,,,Gen. Defender
-8,Jacob Konstanty,North Melbourne,5.0,4.0,1.0,0.8,0.2,1.0,0.0,2.0,Gen. Forward
-8,Jy Simpkin,North Melbourne,21.0,13.0,8.0,0.62,0.38,4.0,2.0,4.0,Mid-Forward
-8,Kallan Dawson,North Melbourne,8.0,3.0,5.0,0.38,0.62,4.0,0.0,2.0,Key Defender
-8,Luke Davies-Uniacke,North Melbourne,28.0,9.0,19.0,0.32,0.68,3.0,0.0,6.0,Midfielder
-8,Luke McDonald,North Melbourne,14.0,5.0,9.0,0.36,0.64,3.0,0.0,1.0,Gen. Defender
-8,Luke Parker,North Melbourne,20.0,9.0,11.0,0.45,0.55,4.0,0.0,6.0,Midfielder
-8,Nick Larkey,North Melbourne,10.0,6.0,4.0,0.6,0.4,5.0,2.0,0.0,Key Forward
-8,Riley Hardeman,North Melbourne,15.0,12.0,3.0,0.8,0.2,7.0,0.0,2.0,Gen. Defender
-8,Tom Powell,North Melbourne,28.0,14.0,14.0,0.5,0.5,2.0,0.0,9.0,Midfielder
-8,Tristan Xerri,North Melbourne,25.0,11.0,14.0,0.44,0.56,2.0,0.0,4.0,Ruck
-8,Will Phillips,North Melbourne,15.0,5.0,10.0,0.33,0.67,1.0,0.0,9.0,Midfielder
-8,Zane Duursma,North Melbourne,9.0,5.0,4.0,0.56,0.44,2.0,1.0,0.0,Gen. Forward
-9,Aidan Corr,North Melbourne,12.0,7.0,5.0,0.58,0.42,4.0,0.0,1.0,Key Defender
-9,Bailey Scott,North Melbourne,,,,,,,,,Midfielder
-9,Caleb Daniel,North Melbourne,18.0,11.0,7.0,0.61,0.39,3.0,0.0,1.0,Gen. Defender
-9,Cameron Zurhaar,North Melbourne,15.0,9.0,6.0,0.6,0.4,5.0,2.0,2.0,Gen. Forward
-9,Charlie Comben,North Melbourne,21.0,12.0,9.0,0.57,0.43,9.0,0.0,1.0,Key Defender
-9,Colby McKercher,North Melbourne,13.0,9.0,4.0,0.69,0.31,1.0,1.0,0.0,Gen. Defender
-9,Dylan Stephens,North Melbourne,22.0,10.0,12.0,0.45,0.55,5.0,1.0,1.0,Midfielder
-9,Finn O'Sullivan,North Melbourne,8.0,5.0,3.0,0.62,0.38,1.0,0.0,1.0,Gen. Defender
-9,Finnbar Maley,North Melbourne,,,,,,,,,Key Forward
-9,George Wardlaw,North Melbourne,19.0,15.0,4.0,0.79,0.21,0.0,1.0,5.0,Midfielder
-9,Harry Sheezel,North Melbourne,29.0,18.0,11.0,0.62,0.38,7.0,0.0,3.0,Mid-Forward
-9,Jack Darling,North Melbourne,9.0,6.0,3.0,0.67,0.33,3.0,2.0,1.0,Key Forward
-9,Jacob Konstanty,North Melbourne,12.0,6.0,6.0,0.5,0.5,4.0,1.0,5.0,Gen. Forward
-9,Jy Simpkin,North Melbourne,17.0,11.0,6.0,0.65,0.35,3.0,0.0,3.0,Mid-Forward
-9,Luke Davies-Uniacke,North Melbourne,32.0,17.0,15.0,0.53,0.47,3.0,0.0,2.0,Midfielder
-9,Luke McDonald,North Melbourne,9.0,3.0,6.0,0.33,0.67,1.0,0.0,1.0,Gen. Defender
-9,Luke Parker,North Melbourne,23.0,13.0,10.0,0.57,0.43,4.0,1.0,8.0,Midfielder
-9,Nick Larkey,North Melbourne,7.0,6.0,1.0,0.86,0.14,5.0,1.0,1.0,Key Forward
-9,Riley Hardeman,North Melbourne,15.0,10.0,5.0,0.67,0.33,4.0,0.0,3.0,Gen. Defender
-9,Toby Pink,North Melbourne,6.0,4.0,2.0,0.67,0.33,1.0,0.0,2.0,Key Defender
-9,Tom Powell,North Melbourne,16.0,6.0,10.0,0.38,0.62,1.0,0.0,4.0,Midfielder
-9,Tristan Xerri,North Melbourne,19.0,10.0,9.0,0.53,0.47,2.0,0.0,8.0,Ruck
-9,Zane Duursma,North Melbourne,7.0,4.0,3.0,0.57,0.43,3.0,0.0,1.0,Gen. Forward
-10,Aidan Corr,North Melbourne,8.0,6.0,2.0,0.75,0.25,3.0,0.0,3.0,Key Defender
-10,Bailey Scott,North Melbourne,5.0,1.0,4.0,0.2,0.8,3.0,0.0,5.0,Midfielder
-10,Caleb Daniel,North Melbourne,25.0,16.0,9.0,0.64,0.36,1.0,0.0,2.0,Gen. Defender
-10,Cameron Zurhaar,North Melbourne,9.0,7.0,2.0,0.78,0.22,4.0,4.0,2.0,Gen. Forward
-10,Charlie Comben,North Melbourne,10.0,7.0,3.0,0.7,0.3,4.0,0.0,2.0,Key Defender
-10,Colby McKercher,North Melbourne,22.0,9.0,13.0,0.41,0.59,4.0,1.0,10.0,Gen. Defender
-10,Dylan Stephens,North Melbourne,18.0,12.0,6.0,0.67,0.33,3.0,0.0,2.0,Midfielder
-10,Finn O'Sullivan,North Melbourne,10.0,6.0,4.0,0.6,0.4,2.0,0.0,4.0,Gen. Defender
-10,Finnbar Maley,North Melbourne,,,,,,,,,Key Forward
-10,George Wardlaw,North Melbourne,14.0,8.0,6.0,0.57,0.43,2.0,0.0,10.0,Midfielder
-10,Harry Sheezel,North Melbourne,20.0,14.0,6.0,0.7,0.3,2.0,0.0,10.0,Mid-Forward
-10,Jack Darling,North Melbourne,17.0,13.0,4.0,0.76,0.24,5.0,2.0,2.0,Key Forward
-10,Jacob Konstanty,North Melbourne,,,,,,,,,Gen. Forward
-10,Jy Simpkin,North Melbourne,20.0,11.0,9.0,0.55,0.45,3.0,0.0,6.0,Mid-Forward
-10,Luke Davies-Uniacke,North Melbourne,27.0,11.0,16.0,0.41,0.59,3.0,1.0,5.0,Midfielder
-10,Luke McDonald,North Melbourne,8.0,8.0,0.0,1.0,0.0,3.0,0.0,2.0,Gen. Defender
-10,Luke Parker,North Melbourne,15.0,7.0,8.0,0.47,0.53,0.0,0.0,1.0,Midfielder
-10,Nick Larkey,North Melbourne,10.0,6.0,4.0,0.6,0.4,5.0,2.0,1.0,Key Forward
-10,Riley Hardeman,North Melbourne,12.0,10.0,2.0,0.83,0.17,3.0,0.0,0.0,Gen. Defender
-10,Toby Pink,North Melbourne,12.0,9.0,3.0,0.75,0.25,6.0,0.0,3.0,Key Defender
-10,Tom Powell,North Melbourne,24.0,12.0,12.0,0.5,0.5,4.0,0.0,6.0,Midfielder
-10,Tristan Xerri,North Melbourne,19.0,14.0,5.0,0.74,0.26,1.0,0.0,12.0,Ruck
-10,Zane Duursma,North Melbourne,,,,,,,,,Gen. Forward
-11,Aidan Corr,North Melbourne,14.0,12.0,2.0,0.86,0.14,7.0,0.0,1.0,Key Defender
-11,Caleb Daniel,North Melbourne,30.0,21.0,9.0,0.7,0.3,4.0,0.0,1.0,Gen. Defender
-11,Cameron Zurhaar,North Melbourne,7.0,7.0,0.0,1.0,0.0,4.0,3.0,4.0,Gen. Forward
-11,Charlie Comben,North Melbourne,18.0,15.0,3.0,0.83,0.17,10.0,0.0,0.0,Key Defender
-11,Colby McKercher,North Melbourne,13.0,8.0,5.0,0.62,0.38,3.0,0.0,0.0,Gen. Defender
-11,Dylan Stephens,North Melbourne,23.0,16.0,7.0,0.7,0.3,12.0,0.0,3.0,Midfielder
-11,Finn O'Sullivan,North Melbourne,13.0,13.0,0.0,1.0,0.0,4.0,0.0,1.0,Gen. Defender
-11,Finnbar Maley,North Melbourne,,,,,,,,,Key Forward
-11,George Wardlaw,North Melbourne,11.0,8.0,3.0,0.73,0.27,1.0,0.0,4.0,Midfielder
-11,Harry Sheezel,North Melbourne,20.0,12.0,8.0,0.6,0.4,8.0,0.0,1.0,Mid-Forward
-11,Jack Darling,North Melbourne,9.0,6.0,3.0,0.67,0.33,5.0,0.0,1.0,Key Forward
-11,Jacob Konstanty,North Melbourne,8.0,7.0,1.0,0.88,0.12,3.0,1.0,6.0,Gen. Forward
-11,Jy Simpkin,North Melbourne,23.0,9.0,14.0,0.39,0.61,2.0,1.0,4.0,Mid-Forward
-11,Luke Davies-Uniacke,North Melbourne,26.0,14.0,12.0,0.54,0.46,6.0,0.0,4.0,Midfielder
-11,Luke McDonald,North Melbourne,18.0,11.0,7.0,0.61,0.39,7.0,0.0,2.0,Gen. Defender
-11,Luke Parker,North Melbourne,16.0,8.0,8.0,0.5,0.5,2.0,0.0,2.0,Midfielder
-11,Nick Larkey,North Melbourne,9.0,7.0,2.0,0.78,0.22,4.0,1.0,0.0,Key Forward
-11,Paul Curtis,North Melbourne,12.0,9.0,3.0,0.75,0.25,5.0,1.0,5.0,Gen. Forward
-11,Riley Hardeman,North Melbourne,28.0,20.0,8.0,0.71,0.29,10.0,0.0,0.0,Gen. Defender
-11,Toby Pink,North Melbourne,13.0,7.0,6.0,0.54,0.46,7.0,0.0,2.0,Key Defender
-11,Tom Powell,North Melbourne,28.0,18.0,10.0,0.64,0.36,5.0,1.0,3.0,Midfielder
-11,Tristan Xerri,North Melbourne,17.0,5.0,12.0,0.29,0.71,1.0,1.0,3.0,Ruck
-11,Zac Fisher,North Melbourne,,,,,,,,,Gen. Forward
-13,Caleb Daniel,North Melbourne,29.0,22.0,7.0,0.76,0.24,4.0,0.0,1.0,Gen. Defender
-13,Cameron Zurhaar,North Melbourne,10.0,7.0,3.0,0.7,0.3,6.0,2.0,2.0,Gen. Forward
-13,Charlie Comben,North Melbourne,,,,,,,,,Key Defender
-13,Colby McKercher,North Melbourne,35.0,20.0,15.0,0.57,0.43,1.0,0.0,1.0,Gen. Defender
-13,Dylan Stephens,North Melbourne,19.0,11.0,8.0,0.58,0.42,3.0,0.0,2.0,Midfielder
-13,Finn O'Sullivan,North Melbourne,17.0,13.0,4.0,0.76,0.24,5.0,1.0,3.0,Gen. Defender
-13,George Wardlaw,North Melbourne,9.0,6.0,3.0,0.67,0.33,0.0,0.0,7.0,Midfielder
-13,Griffin Logue,North Melbourne,9.0,5.0,4.0,0.56,0.44,5.0,0.0,1.0,Key Defender
-13,Harry Sheezel,North Melbourne,28.0,13.0,15.0,0.46,0.54,7.0,0.0,7.0,Mid-Forward
-13,Jack Darling,North Melbourne,10.0,4.0,6.0,0.4,0.6,4.0,0.0,3.0,Key Forward
-13,Jacob Konstanty,North Melbourne,10.0,4.0,6.0,0.4,0.6,0.0,0.0,4.0,Gen. Forward
-13,Jy Simpkin,North Melbourne,23.0,12.0,11.0,0.52,0.48,4.0,2.0,2.0,Mid-Forward
-13,Luke Davies-Uniacke,North Melbourne,18.0,5.0,13.0,0.28,0.72,1.0,0.0,6.0,Midfielder
-13,Luke McDonald,North Melbourne,23.0,12.0,11.0,0.52,0.48,3.0,0.0,3.0,Gen. Defender
-13,Luke Parker,North Melbourne,22.0,8.0,14.0,0.36,0.64,6.0,1.0,7.0,Midfielder
-13,Nick Larkey,North Melbourne,11.0,5.0,6.0,0.45,0.55,6.0,0.0,1.0,Key Forward
-13,Paul Curtis,North Melbourne,8.0,6.0,2.0,0.75,0.25,2.0,3.0,3.0,Gen. Forward
-13,Riley Hardeman,North Melbourne,10.0,6.0,4.0,0.6,0.4,1.0,0.0,1.0,Gen. Defender
-13,Robert Hansen Jr,North Melbourne,,,,,,,,,Mid-Forward
-13,Toby Pink,North Melbourne,10.0,8.0,2.0,0.8,0.2,2.0,0.0,0.0,Key Defender
-13,Tom Powell,North Melbourne,30.0,14.0,16.0,0.47,0.53,7.0,0.0,4.0,Midfielder
-13,Tristan Xerri,North Melbourne,22.0,8.0,14.0,0.36,0.64,0.0,0.0,6.0,Ruck
-13,Zac Fisher,North Melbourne,14.0,5.0,9.0,0.36,0.64,0.0,0.0,2.0,Gen. Forward
-14,Caleb Daniel,North Melbourne,23.0,15.0,8.0,0.65,0.35,4.0,0.0,1.0,Gen. Defender
-14,Cameron Zurhaar,North Melbourne,8.0,6.0,2.0,0.75,0.25,1.0,0.0,3.0,Gen. Forward
-14,Colby McKercher,North Melbourne,27.0,24.0,3.0,0.89,0.11,2.0,0.0,1.0,Gen. Defender
-14,Dylan Stephens,North Melbourne,27.0,12.0,15.0,0.44,0.56,2.0,0.0,3.0,Midfielder
-14,Finn O'Sullivan,North Melbourne,14.0,11.0,3.0,0.79,0.21,6.0,0.0,1.0,Gen. Defender
-14,George Wardlaw,North Melbourne,17.0,14.0,3.0,0.82,0.18,3.0,0.0,6.0,Midfielder
-14,Griffin Logue,North Melbourne,10.0,4.0,6.0,0.4,0.6,3.0,0.0,3.0,Key Defender
-14,Harry Sheezel,North Melbourne,32.0,15.0,17.0,0.47,0.53,9.0,1.0,6.0,Mid-Forward
-14,Jack Darling,North Melbourne,9.0,6.0,3.0,0.67,0.33,5.0,1.0,2.0,Key Forward
-14,Jacob Konstanty,North Melbourne,12.0,7.0,5.0,0.58,0.42,0.0,1.0,5.0,Gen. Forward
-14,Jy Simpkin,North Melbourne,11.0,5.0,6.0,0.45,0.55,1.0,0.0,4.0,Mid-Forward
-14,Kallan Dawson,North Melbourne,,,,,,,,,Key Defender
-14,Luke Davies-Uniacke,North Melbourne,27.0,11.0,16.0,0.41,0.59,0.0,1.0,5.0,Midfielder
-14,Luke McDonald,North Melbourne,27.0,19.0,8.0,0.7,0.3,8.0,0.0,1.0,Gen. Defender
-14,Luke Parker,North Melbourne,20.0,17.0,3.0,0.85,0.15,4.0,2.0,3.0,Midfielder
-14,Nick Larkey,North Melbourne,12.0,6.0,6.0,0.5,0.5,3.0,3.0,2.0,Key Forward
-14,Paul Curtis,North Melbourne,12.0,7.0,5.0,0.58,0.42,3.0,0.0,9.0,Gen. Forward
-14,Riley Hardeman,North Melbourne,11.0,7.0,4.0,0.64,0.36,1.0,0.0,2.0,Gen. Defender
-14,Robert Hansen Jr,North Melbourne,,,,,,,,,Mid-Forward
-14,Toby Pink,North Melbourne,10.0,7.0,3.0,0.7,0.3,6.0,0.0,1.0,Key Defender
-14,Tom Powell,North Melbourne,23.0,11.0,12.0,0.48,0.52,2.0,0.0,3.0,Midfielder
-14,Tristan Xerri,North Melbourne,13.0,3.0,10.0,0.23,0.77,2.0,0.0,7.0,Ruck
-14,Zac Fisher,North Melbourne,13.0,6.0,7.0,0.46,0.54,1.0,1.0,6.0,Gen. Forward
-15,Caleb Daniel,North Melbourne,24.0,14.0,10.0,0.58,0.42,3.0,0.0,2.0,Gen. Defender
-15,Cameron Zurhaar,North Melbourne,11.0,6.0,5.0,0.55,0.45,3.0,3.0,2.0,Gen. Forward
-15,Charlie Comben,North Melbourne,14.0,7.0,7.0,0.5,0.5,4.0,0.0,1.0,Key Defender
-15,Colby McKercher,North Melbourne,29.0,20.0,9.0,0.69,0.31,1.0,2.0,3.0,Gen. Defender
-15,Dylan Stephens,North Melbourne,13.0,8.0,5.0,0.62,0.38,6.0,1.0,0.0,Midfielder
-15,Finn O'Sullivan,North Melbourne,18.0,9.0,9.0,0.5,0.5,3.0,0.0,2.0,Gen. Defender
-15,George Wardlaw,North Melbourne,,,,,,,,,Midfielder
-15,Griffin Logue,North Melbourne,8.0,3.0,5.0,0.38,0.62,3.0,0.0,1.0,Key Defender
-15,Harry Sheezel,North Melbourne,30.0,16.0,14.0,0.53,0.47,9.0,1.0,3.0,Mid-Forward
-15,Jack Darling,North Melbourne,6.0,4.0,2.0,0.67,0.33,2.0,1.0,2.0,Key Forward
-15,Jacob Konstanty,North Melbourne,9.0,7.0,2.0,0.78,0.22,3.0,0.0,5.0,Gen. Forward
-15,Jy Simpkin,North Melbourne,18.0,6.0,12.0,0.33,0.67,3.0,0.0,3.0,Mid-Forward
-15,Luke Davies-Uniacke,North Melbourne,30.0,11.0,19.0,0.37,0.63,4.0,0.0,4.0,Midfielder
-15,Luke McDonald,North Melbourne,18.0,14.0,4.0,0.78,0.22,8.0,0.0,3.0,Gen. Defender
-15,Luke Parker,North Melbourne,28.0,10.0,18.0,0.36,0.64,5.0,0.0,8.0,Midfielder
-15,Nick Larkey,North Melbourne,7.0,4.0,3.0,0.57,0.43,3.0,1.0,5.0,Key Forward
-15,Paul Curtis,North Melbourne,10.0,8.0,2.0,0.8,0.2,4.0,2.0,5.0,Gen. Forward
-15,Riley Hardeman,North Melbourne,15.0,10.0,5.0,0.67,0.33,3.0,0.0,2.0,Gen. Defender
-15,Robert Hansen Jr,North Melbourne,9.0,6.0,3.0,0.67,0.33,4.0,1.0,0.0,Mid-Forward
-15,Toby Pink,North Melbourne,13.0,11.0,2.0,0.85,0.15,9.0,0.0,1.0,Key Defender
-15,Tom Powell,North Melbourne,34.0,16.0,18.0,0.47,0.53,3.0,0.0,5.0,Midfielder
-15,Tristan Xerri,North Melbourne,12.0,3.0,9.0,0.25,0.75,1.0,1.0,5.0,Ruck
-15,Zac Fisher,North Melbourne,,,,,,,,,Gen. Forward
-16,Caleb Daniel,North Melbourne,26.0,18.0,8.0,0.69,0.31,3.0,0.0,0.0,Gen. Defender
-16,Cameron Zurhaar,North Melbourne,8.0,4.0,4.0,0.5,0.5,2.0,0.0,3.0,Gen. Forward
-16,Colby McKercher,North Melbourne,34.0,19.0,15.0,0.56,0.44,4.0,0.0,1.0,Gen. Defender
-16,Dylan Stephens,North Melbourne,11.0,2.0,9.0,0.18,0.82,1.0,0.0,0.0,Midfielder
-16,Finn O'Sullivan,North Melbourne,10.0,6.0,4.0,0.6,0.4,3.0,0.0,1.0,Gen. Defender
-16,George Wardlaw,North Melbourne,,,,,,,,,Midfielder
-16,Griffin Logue,North Melbourne,10.0,2.0,8.0,0.2,0.8,2.0,0.0,2.0,Key Defender
-16,Harry Sheezel,North Melbourne,20.0,8.0,12.0,0.4,0.6,3.0,0.0,2.0,Mid-Forward
-16,Jack Darling,North Melbourne,7.0,2.0,5.0,0.29,0.71,1.0,0.0,2.0,Key Forward
-16,Jacob Konstanty,North Melbourne,11.0,9.0,2.0,0.82,0.18,2.0,1.0,3.0,Gen. Forward
-16,Jy Simpkin,North Melbourne,16.0,8.0,8.0,0.5,0.5,2.0,0.0,2.0,Mid-Forward
-16,Luke Davies-Uniacke,North Melbourne,28.0,17.0,11.0,0.61,0.39,5.0,0.0,1.0,Midfielder
-16,Luke McDonald,North Melbourne,9.0,5.0,4.0,0.56,0.44,6.0,0.0,2.0,Gen. Defender
-16,Luke Parker,North Melbourne,29.0,17.0,12.0,0.59,0.41,4.0,0.0,1.0,Midfielder
-16,Nick Larkey,North Melbourne,14.0,10.0,4.0,0.71,0.29,7.0,5.0,1.0,Key Forward
-16,Paul Curtis,North Melbourne,11.0,8.0,3.0,0.73,0.27,3.0,1.0,3.0,Gen. Forward
-16,Riley Hardeman,North Melbourne,5.0,4.0,1.0,0.8,0.2,1.0,0.0,1.0,Gen. Defender
-16,Robert Hansen Jr,North Melbourne,,,,,,,,,Mid-Forward
-16,Toby Pink,North Melbourne,7.0,4.0,3.0,0.57,0.43,4.0,0.0,1.0,Key Defender
-16,Tom Powell,North Melbourne,14.0,5.0,9.0,0.36,0.64,1.0,0.0,5.0,Midfielder
-16,Tristan Xerri,North Melbourne,18.0,6.0,12.0,0.33,0.67,5.0,0.0,3.0,Ruck
-16,Wil Dawson,North Melbourne,9.0,6.0,3.0,0.67,0.33,5.0,0.0,2.0,Key Defender
-16,Zac Fisher,North Melbourne,9.0,5.0,4.0,0.56,0.44,2.0,1.0,0.0,Gen. Forward
-17,Bailey Scott,North Melbourne,18.0,9.0,9.0,0.5,0.5,6.0,0.0,0.0,Midfielder
-17,Caleb Daniel,North Melbourne,25.0,15.0,10.0,0.6,0.4,5.0,0.0,4.0,Gen. Defender
-17,Cameron Zurhaar,North Melbourne,10.0,8.0,2.0,0.8,0.2,4.0,2.0,3.0,Gen. Forward
-17,Colby McKercher,North Melbourne,32.0,23.0,9.0,0.72,0.28,9.0,1.0,1.0,Gen. Defender
-17,Cooper Harvey,North Melbourne,15.0,10.0,5.0,0.67,0.33,4.0,1.0,2.0,Gen. Forward
-17,Dylan Stephens,North Melbourne,16.0,11.0,5.0,0.69,0.31,4.0,0.0,1.0,Midfielder
-17,Finn O'Sullivan,North Melbourne,11.0,4.0,7.0,0.36,0.64,3.0,0.0,0.0,Gen. Defender
-17,Finnbar Maley,North Melbourne,8.0,2.0,6.0,0.25,0.75,4.0,1.0,6.0,Key Forward
-17,Griffin Logue,North Melbourne,13.0,8.0,5.0,0.62,0.38,6.0,0.0,1.0,Key Defender
-17,Harry Sheezel,North Melbourne,22.0,10.0,12.0,0.45,0.55,3.0,1.0,6.0,Mid-Forward
-17,Jacob Konstanty,North Melbourne,8.0,4.0,4.0,0.5,0.5,2.0,0.0,5.0,Gen. Forward
-17,Jy Simpkin,North Melbourne,16.0,9.0,7.0,0.56,0.44,2.0,0.0,4.0,Mid-Forward
-17,Luke Davies-Uniacke,North Melbourne,,,,,,,,,Midfielder
-17,Nick Larkey,North Melbourne,9.0,8.0,1.0,0.89,0.11,6.0,5.0,0.0,Key Forward
-17,Paul Curtis,North Melbourne,7.0,5.0,2.0,0.71,0.29,1.0,1.0,4.0,Gen. Forward
-17,Riley Hardeman,North Melbourne,20.0,14.0,6.0,0.7,0.3,1.0,0.0,1.0,Gen. Defender
-17,Robert Hansen Jr,North Melbourne,,,,,,,,,Mid-Forward
-17,Toby Pink,North Melbourne,10.0,3.0,7.0,0.3,0.7,4.0,0.0,0.0,Key Defender
-17,Tom Powell,North Melbourne,25.0,12.0,13.0,0.48,0.52,4.0,0.0,8.0,Midfielder
-17,Tristan Xerri,North Melbourne,17.0,8.0,9.0,0.47,0.53,1.0,0.0,5.0,Ruck
-17,Wil Dawson,North Melbourne,8.0,8.0,0.0,1.0,0.0,3.0,0.0,4.0,Key Defender
-17,Will Phillips,North Melbourne,16.0,8.0,8.0,0.5,0.5,4.0,0.0,4.0,Midfielder
-17,Zane Duursma,North Melbourne,6.0,3.0,3.0,0.5,0.5,1.0,0.0,0.0,Gen. Forward
-18,Bailey Scott,North Melbourne,,,,,,,,,Midfielder
-18,Caleb Daniel,North Melbourne,28.0,20.0,8.0,0.71,0.29,4.0,0.0,3.0,Gen. Defender
-18,Cameron Zurhaar,North Melbourne,13.0,10.0,3.0,0.77,0.23,4.0,3.0,1.0,Gen. Forward
-18,Charlie Comben,North Melbourne,8.0,6.0,2.0,0.75,0.25,5.0,0.0,0.0,Key Defender
-18,Colby McKercher,North Melbourne,29.0,16.0,13.0,0.55,0.45,3.0,0.0,2.0,Gen. Defender
-18,Cooper Harvey,North Melbourne,13.0,9.0,4.0,0.69,0.31,7.0,4.0,1.0,Gen. Forward
-18,Dylan Stephens,North Melbourne,15.0,5.0,10.0,0.33,0.67,5.0,0.0,0.0,Midfielder
-18,Finn O'Sullivan,North Melbourne,15.0,8.0,7.0,0.53,0.47,5.0,0.0,2.0,Gen. Defender
-18,Finnbar Maley,North Melbourne,,,,,,,,,Key Forward
-18,Griffin Logue,North Melbourne,12.0,9.0,3.0,0.75,0.25,5.0,0.0,3.0,Key Defender
-18,Harry Sheezel,North Melbourne,29.0,14.0,15.0,0.48,0.52,6.0,0.0,6.0,Mid-Forward
-18,Jack Darling,North Melbourne,9.0,7.0,2.0,0.78,0.22,4.0,3.0,0.0,Key Forward
-18,Jacob Konstanty,North Melbourne,13.0,7.0,6.0,0.54,0.46,5.0,0.0,3.0,Gen. Forward
-18,Jy Simpkin,North Melbourne,21.0,13.0,8.0,0.62,0.38,2.0,0.0,1.0,Mid-Forward
-18,Luke Parker,North Melbourne,27.0,13.0,14.0,0.48,0.52,4.0,0.0,6.0,Midfielder
-18,Paul Curtis,North Melbourne,12.0,8.0,4.0,0.67,0.33,7.0,2.0,6.0,Gen. Forward
-18,Riley Hardeman,North Melbourne,12.0,8.0,4.0,0.67,0.33,0.0,0.0,1.0,Gen. Defender
-18,Robert Hansen Jr,North Melbourne,8.0,6.0,2.0,0.75,0.25,1.0,0.0,1.0,Mid-Forward
-18,Toby Pink,North Melbourne,11.0,5.0,6.0,0.45,0.55,4.0,0.0,1.0,Key Defender
-18,Tom Powell,North Melbourne,27.0,6.0,21.0,0.22,0.78,6.0,0.0,4.0,Midfielder
-18,Tristan Xerri,North Melbourne,7.0,3.0,4.0,0.43,0.57,1.0,0.0,6.0,Ruck
-18,Wil Dawson,North Melbourne,7.0,4.0,3.0,0.57,0.43,7.0,0.0,3.0,Key Defender
-18,Will Phillips,North Melbourne,20.0,11.0,9.0,0.55,0.45,2.0,0.0,4.0,Midfielder
-19,Brynn Teakle,North Melbourne,17.0,14.0,3.0,0.82,0.18,5.0,1.0,6.0,Ruck
-19,Caleb Daniel,North Melbourne,27.0,9.0,18.0,0.33,0.67,4.0,0.0,1.0,Gen. Defender
-19,Callum Coleman-Jones,North Melbourne,,,,,,,,,Ruck
-19,Cameron Zurhaar,North Melbourne,12.0,7.0,5.0,0.58,0.42,2.0,0.0,3.0,Gen. Forward
-19,Charlie Comben,North Melbourne,7.0,4.0,3.0,0.57,0.43,4.0,0.0,3.0,Key Defender
-19,Colby McKercher,North Melbourne,22.0,13.0,9.0,0.59,0.41,3.0,1.0,2.0,Gen. Defender
-19,Cooper Harvey,North Melbourne,4.0,3.0,1.0,0.75,0.25,1.0,2.0,0.0,Gen. Forward
-19,Dylan Stephens,North Melbourne,10.0,4.0,6.0,0.4,0.6,3.0,0.0,2.0,Midfielder
-19,Finn O'Sullivan,North Melbourne,20.0,11.0,9.0,0.55,0.45,9.0,0.0,1.0,Gen. Defender
-19,Griffin Logue,North Melbourne,17.0,11.0,6.0,0.65,0.35,7.0,0.0,4.0,Key Defender
-19,Harry Sheezel,North Melbourne,27.0,13.0,14.0,0.48,0.52,5.0,1.0,5.0,Mid-Forward
-19,Jack Darling,North Melbourne,8.0,8.0,0.0,1.0,0.0,3.0,1.0,4.0,Key Forward
-19,Jacob Konstanty,North Melbourne,7.0,3.0,4.0,0.43,0.57,1.0,0.0,6.0,Gen. Forward
-19,Jy Simpkin,North Melbourne,28.0,26.0,2.0,0.93,0.07,9.0,1.0,3.0,Mid-Forward
-19,Luke Davies-Uniacke,North Melbourne,26.0,12.0,14.0,0.46,0.54,5.0,0.0,3.0,Midfielder
-19,Luke Parker,North Melbourne,14.0,8.0,6.0,0.57,0.43,2.0,0.0,2.0,Midfielder
-19,Paul Curtis,North Melbourne,6.0,5.0,1.0,0.83,0.17,3.0,0.0,6.0,Gen. Forward
-19,Riley Hardeman,North Melbourne,18.0,11.0,7.0,0.61,0.39,7.0,0.0,0.0,Gen. Defender
-19,Toby Pink,North Melbourne,8.0,3.0,5.0,0.38,0.62,2.0,0.0,2.0,Key Defender
-19,Tom Powell,North Melbourne,24.0,8.0,16.0,0.33,0.67,3.0,0.0,5.0,Midfielder
-19,Wil Dawson,North Melbourne,4.0,3.0,1.0,0.75,0.25,3.0,0.0,3.0,Key Defender
-19,Will Phillips,North Melbourne,17.0,3.0,14.0,0.18,0.82,3.0,0.0,7.0,Midfielder
-19,Zac Banch,North Melbourne,,,,,,,,,Gen. Forward
-20,Brynn Teakle,North Melbourne,13.0,7.0,6.0,0.54,0.46,1.0,0.0,3.0,Ruck
-20,Caleb Daniel,North Melbourne,18.0,11.0,7.0,0.61,0.39,1.0,0.0,4.0,Gen. Defender
-20,Cameron Zurhaar,North Melbourne,10.0,10.0,0.0,1.0,0.0,3.0,3.0,2.0,Gen. Forward
-20,Charlie Comben,North Melbourne,13.0,9.0,4.0,0.69,0.31,7.0,0.0,1.0,Key Defender
-20,Colby McKercher,North Melbourne,32.0,21.0,11.0,0.66,0.34,6.0,0.0,1.0,Gen. Defender
-20,Dylan Stephens,North Melbourne,17.0,8.0,9.0,0.47,0.53,7.0,0.0,0.0,Midfielder
-20,Finn O'Sullivan,North Melbourne,16.0,4.0,12.0,0.25,0.75,3.0,0.0,6.0,Gen. Defender
-20,Finnbar Maley,North Melbourne,8.0,5.0,3.0,0.62,0.38,4.0,1.0,1.0,Key Forward
-20,Griffin Logue,North Melbourne,13.0,5.0,8.0,0.38,0.62,3.0,0.0,0.0,Key Defender
-20,Harry Sheezel,North Melbourne,27.0,15.0,12.0,0.56,0.44,7.0,0.0,5.0,Mid-Forward
-20,Jack Darling,North Melbourne,11.0,6.0,5.0,0.55,0.45,4.0,1.0,2.0,Key Forward
-20,Jacob Konstanty,North Melbourne,,,,,,,,,Gen. Forward
-20,Jy Simpkin,North Melbourne,24.0,14.0,10.0,0.58,0.42,7.0,0.0,3.0,Mid-Forward
-20,Luke Davies-Uniacke,North Melbourne,21.0,8.0,13.0,0.38,0.62,2.0,0.0,7.0,Midfielder
-20,Luke Parker,North Melbourne,31.0,17.0,14.0,0.55,0.45,3.0,0.0,5.0,Midfielder
-20,Paul Curtis,North Melbourne,9.0,6.0,3.0,0.67,0.33,5.0,2.0,3.0,Gen. Forward
-20,Riley Hardeman,North Melbourne,19.0,10.0,9.0,0.53,0.47,8.0,0.0,0.0,Gen. Defender
-20,Robert Hansen Jr,North Melbourne,,,,,,,,,Mid-Forward
-20,Toby Pink,North Melbourne,15.0,13.0,2.0,0.87,0.13,6.0,0.0,2.0,Key Defender
-20,Tom Powell,North Melbourne,24.0,13.0,11.0,0.54,0.46,7.0,0.0,8.0,Midfielder
-20,Wil Dawson,North Melbourne,7.0,6.0,1.0,0.86,0.14,4.0,0.0,2.0,Key Defender
-20,Zac Banch,North Melbourne,10.0,4.0,6.0,0.4,0.6,6.0,0.0,0.0,Gen. Forward
-20,Zane Duursma,North Melbourne,12.0,7.0,5.0,0.58,0.42,5.0,0.0,0.0,Gen. Forward
-21,Brynn Teakle,North Melbourne,7.0,4.0,3.0,0.57,0.43,4.0,0.0,4.0,Ruck
-21,Caleb Daniel,North Melbourne,32.0,19.0,13.0,0.59,0.41,8.0,0.0,2.0,Gen. Defender
-21,Cameron Zurhaar,North Melbourne,10.0,10.0,0.0,1.0,0.0,8.0,2.0,0.0,Gen. Forward
-21,Charlie Comben,North Melbourne,14.0,8.0,6.0,0.57,0.43,4.0,0.0,0.0,Key Defender
-21,Colby McKercher,North Melbourne,36.0,28.0,8.0,0.78,0.22,8.0,1.0,1.0,Gen. Defender
-21,Cooper Harvey,North Melbourne,9.0,8.0,1.0,0.89,0.11,4.0,0.0,0.0,Gen. Forward
-21,Dylan Stephens,North Melbourne,20.0,12.0,8.0,0.6,0.4,6.0,0.0,0.0,Midfielder
-21,Finn O'Sullivan,North Melbourne,18.0,10.0,8.0,0.56,0.44,7.0,0.0,0.0,Gen. Defender
-21,George Wardlaw,North Melbourne,17.0,9.0,8.0,0.53,0.47,3.0,1.0,6.0,Midfielder
-21,Griffin Logue,North Melbourne,12.0,4.0,8.0,0.33,0.67,5.0,0.0,1.0,Key Defender
-21,Harry Sheezel,North Melbourne,33.0,17.0,16.0,0.52,0.48,5.0,1.0,3.0,Mid-Forward
-21,Jack Darling,North Melbourne,14.0,12.0,2.0,0.86,0.14,5.0,1.0,3.0,Key Forward
-21,Jacob Konstanty,North Melbourne,12.0,6.0,6.0,0.5,0.5,2.0,0.0,1.0,Gen. Forward
-21,Luke Davies-Uniacke,North Melbourne,21.0,11.0,10.0,0.52,0.48,6.0,1.0,5.0,Midfielder
-21,Luke Parker,North Melbourne,17.0,9.0,8.0,0.53,0.47,3.0,0.0,3.0,Midfielder
-21,Nick Larkey,North Melbourne,7.0,5.0,2.0,0.71,0.29,8.0,3.0,0.0,Key Forward
-21,Paul Curtis,North Melbourne,10.0,7.0,3.0,0.7,0.3,4.0,0.0,6.0,Gen. Forward
-21,Riley Hardeman,North Melbourne,14.0,9.0,5.0,0.64,0.36,8.0,0.0,1.0,Gen. Defender
-21,Robert Hansen Jr,North Melbourne,,,,,,,,,Mid-Forward
-21,Toby Pink,North Melbourne,15.0,9.0,6.0,0.6,0.4,5.0,0.0,1.0,Key Defender
-21,Tom Powell,North Melbourne,24.0,11.0,13.0,0.46,0.54,6.0,0.0,5.0,Midfielder
-21,Zac Banch,North Melbourne,,,,,,,,,Gen. Forward
-21,Zane Duursma,North Melbourne,8.0,4.0,4.0,0.5,0.5,6.0,0.0,0.0,Gen. Forward
-22,Bailey Scott,North Melbourne,6.0,3.0,3.0,0.5,0.5,2.0,0.0,1.0,Midfielder
-22,Brynn Teakle,North Melbourne,4.0,2.0,2.0,0.5,0.5,1.0,0.0,4.0,Ruck
-22,Caleb Daniel,North Melbourne,23.0,16.0,7.0,0.7,0.3,2.0,0.0,1.0,Gen. Defender
-22,Cameron Zurhaar,North Melbourne,10.0,8.0,2.0,0.8,0.2,5.0,0.0,4.0,Gen. Forward
-22,Charlie Comben,North Melbourne,14.0,9.0,5.0,0.64,0.36,10.0,0.0,1.0,Key Defender
-22,Colby McKercher,North Melbourne,27.0,23.0,4.0,0.85,0.15,4.0,1.0,1.0,Gen. Defender
-22,Cooper Harvey,North Melbourne,9.0,7.0,2.0,0.78,0.22,5.0,2.0,4.0,Gen. Forward
-22,Cooper Trembath,North Melbourne,6.0,4.0,2.0,0.67,0.33,2.0,3.0,1.0,Key Forward
-22,Dylan Stephens,North Melbourne,14.0,8.0,6.0,0.57,0.43,6.0,1.0,1.0,Midfielder
-22,Finn O'Sullivan,North Melbourne,15.0,9.0,6.0,0.6,0.4,6.0,0.0,2.0,Gen. Defender
-22,Geordie Payne,North Melbourne,6.0,2.0,4.0,0.33,0.67,1.0,1.0,3.0,Gen. Forward
-22,George Wardlaw,North Melbourne,18.0,12.0,6.0,0.67,0.33,3.0,0.0,11.0,Midfielder
-22,Griffin Logue,North Melbourne,13.0,7.0,6.0,0.54,0.46,4.0,0.0,1.0,Key Defender
-22,Harry Sheezel,North Melbourne,31.0,14.0,17.0,0.45,0.55,7.0,0.0,4.0,Mid-Forward
-22,Jack Darling,North Melbourne,9.0,8.0,1.0,0.89,0.11,3.0,3.0,3.0,Key Forward
-22,Jacob Konstanty,North Melbourne,6.0,2.0,4.0,0.33,0.67,0.0,0.0,5.0,Gen. Forward
-22,Luke Davies-Uniacke,North Melbourne,20.0,12.0,8.0,0.6,0.4,5.0,0.0,5.0,Midfielder
-22,Luke Parker,North Melbourne,29.0,19.0,10.0,0.66,0.34,6.0,1.0,5.0,Midfielder
-22,Riley Hardeman,North Melbourne,,,,,,,,,Gen. Defender
-22,Toby Pink,North Melbourne,5.0,4.0,1.0,0.8,0.2,3.0,0.0,2.0,Key Defender
-22,Tom Powell,North Melbourne,11.0,8.0,3.0,0.73,0.27,1.0,0.0,2.0,Midfielder
-22,Tristan Xerri,North Melbourne,11.0,3.0,8.0,0.27,0.73,0.0,0.0,7.0,Ruck
-22,Zane Duursma,North Melbourne,8.0,6.0,2.0,0.75,0.25,5.0,0.0,0.0,Gen. Forward
-23,Bailey Scott,North Melbourne,17.0,11.0,6.0,0.65,0.35,6.0,0.0,0.0,Midfielder
-23,Caleb Daniel,North Melbourne,25.0,13.0,12.0,0.52,0.48,2.0,0.0,1.0,Gen. Defender
-23,Cameron Zurhaar,North Melbourne,,,,,,,,,Gen. Forward
-23,Charlie Comben,North Melbourne,12.0,6.0,6.0,0.5,0.5,4.0,0.0,0.0,Key Defender
-23,Colby McKercher,North Melbourne,29.0,20.0,9.0,0.69,0.31,1.0,0.0,2.0,Gen. Defender
-23,Cooper Harvey,North Melbourne,4.0,1.0,3.0,0.25,0.75,1.0,0.0,2.0,Gen. Forward
-23,Cooper Trembath,North Melbourne,9.0,5.0,4.0,0.56,0.44,4.0,3.0,1.0,Key Forward
-23,Dylan Stephens,North Melbourne,22.0,11.0,11.0,0.5,0.5,3.0,0.0,2.0,Midfielder
-23,Finn O'Sullivan,North Melbourne,21.0,12.0,9.0,0.57,0.43,3.0,0.0,3.0,Gen. Defender
-23,Geordie Payne,North Melbourne,8.0,4.0,4.0,0.5,0.5,1.0,2.0,1.0,Gen. Forward
-23,George Wardlaw,North Melbourne,25.0,12.0,13.0,0.48,0.52,1.0,0.0,2.0,Midfielder
-23,Griffin Logue,North Melbourne,16.0,6.0,10.0,0.38,0.62,8.0,1.0,1.0,Key Defender
-23,Harry Sheezel,North Melbourne,54.0,25.0,29.0,0.46,0.54,7.0,2.0,5.0,Mid-Forward
-23,Jack Darling,North Melbourne,10.0,5.0,5.0,0.5,0.5,3.0,1.0,2.0,Key Forward
-23,Jacob Konstanty,North Melbourne,12.0,7.0,5.0,0.58,0.42,2.0,1.0,4.0,Gen. Forward
-23,Jy Simpkin,North Melbourne,24.0,14.0,10.0,0.58,0.42,4.0,1.0,2.0,Mid-Forward
-23,Luke Davies-Uniacke,North Melbourne,40.0,18.0,22.0,0.45,0.55,9.0,1.0,7.0,Midfielder
-23,Luke Parker,North Melbourne,30.0,12.0,18.0,0.4,0.6,5.0,0.0,5.0,Midfielder
-23,Matt Whitlock,North Melbourne,,,,,,,,,Key Defender
-23,Paul Curtis,North Melbourne,15.0,7.0,8.0,0.47,0.53,5.0,5.0,3.0,Gen. Forward
-23,Toby Pink,North Melbourne,10.0,7.0,3.0,0.7,0.3,6.0,0.0,0.0,Key Defender
-23,Tom Powell,North Melbourne,22.0,10.0,12.0,0.45,0.55,5.0,1.0,3.0,Midfielder
-23,Tristan Xerri,North Melbourne,22.0,3.0,19.0,0.14,0.86,1.0,0.0,18.0,Ruck
-24,Aidan Corr,North Melbourne,4.0,2.0,2.0,0.5,0.5,0.0,0.0,2.0,Key Defender
-24,Bailey Scott,North Melbourne,10.0,8.0,2.0,0.8,0.2,3.0,1.0,1.0,Midfielder
-24,Caleb Daniel,North Melbourne,22.0,17.0,5.0,0.77,0.23,4.0,0.0,1.0,Gen. Defender
-24,Charlie Comben,North Melbourne,12.0,6.0,6.0,0.5,0.5,6.0,0.0,0.0,Key Defender
-24,Colby McKercher,North Melbourne,23.0,12.0,11.0,0.52,0.48,1.0,0.0,2.0,Gen. Defender
-24,Cooper Harvey,North Melbourne,,,,,,,,,Gen. Forward
-24,Cooper Trembath,North Melbourne,11.0,7.0,4.0,0.64,0.36,4.0,3.0,3.0,Key Forward
-24,Dylan Stephens,North Melbourne,22.0,13.0,9.0,0.59,0.41,3.0,2.0,1.0,Midfielder
-24,Finn O'Sullivan,North Melbourne,17.0,10.0,7.0,0.59,0.41,10.0,0.0,0.0,Gen. Defender
-24,Geordie Payne,North Melbourne,,,,,,,,,Gen. Forward
-24,George Wardlaw,North Melbourne,18.0,11.0,7.0,0.61,0.39,4.0,0.0,9.0,Midfielder
-24,Griffin Logue,North Melbourne,14.0,8.0,6.0,0.57,0.43,10.0,0.0,0.0,Key Defender
-24,Harry Sheezel,North Melbourne,32.0,15.0,17.0,0.47,0.53,7.0,0.0,3.0,Mid-Forward
-24,Jack Darling,North Melbourne,5.0,4.0,1.0,0.8,0.2,2.0,1.0,3.0,Key Forward
-24,Jacob Konstanty,North Melbourne,,,,,,,,,Gen. Forward
-24,Jy Simpkin,North Melbourne,33.0,22.0,11.0,0.67,0.33,8.0,0.0,1.0,Mid-Forward
-24,Luke Davies-Uniacke,North Melbourne,31.0,16.0,15.0,0.52,0.48,3.0,1.0,3.0,Midfielder
-24,Luke Parker,North Melbourne,27.0,10.0,17.0,0.37,0.63,5.0,1.0,5.0,Midfielder
-24,Paul Curtis,North Melbourne,11.0,8.0,3.0,0.73,0.27,3.0,3.0,4.0,Gen. Forward
-24,Toby Pink,North Melbourne,10.0,9.0,1.0,0.9,0.1,8.0,0.0,0.0,Key Defender
-24,Tom Powell,North Melbourne,16.0,6.0,10.0,0.38,0.62,4.0,1.0,2.0,Midfielder
-24,Tristan Xerri,North Melbourne,25.0,12.0,13.0,0.48,0.52,3.0,0.0,12.0,Ruck
-24,Zac Banch,North Melbourne,9.0,6.0,3.0,0.67,0.33,1.0,1.0,2.0,Gen. Forward
+Round,Player,Team,Position,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,DispDiff,KickDiff,HbDiff,MarkDiff
+1,Aidan Corr,North Melbourne,Key Defender,18.0,13.0,5.0,0.72,0.28,4.0,0.0,5.0,4.3,3.0,1.3,-0.3
+1,Bailey Scott,North Melbourne,Midfielder,18.0,10.0,8.0,0.56,0.44,2.0,1.0,5.0,7.5,3.92,3.58,-1.67
+1,Caleb Daniel,North Melbourne,Gen. Defender,24.0,13.0,11.0,0.54,0.46,3.0,0.0,6.0,-1.61,-3.35,1.74,-0.83
+1,Cameron Zurhaar,North Melbourne,Gen. Forward,20.0,14.0,6.0,0.7,0.3,10.0,1.0,2.0,9.46,6.36,3.09,6.14
+1,Charlie Comben,North Melbourne,Key Defender,8.0,4.0,4.0,0.5,0.5,2.0,0.0,1.0,-4.25,-3.5,-0.75,-3.5
+1,Colby McKercher,North Melbourne,Gen. Defender,17.0,9.0,8.0,0.53,0.47,3.0,0.0,5.0,-6.13,-5.87,-0.26,-0.39
+1,Darcy Tucker,North Melbourne,Gen. Defender,,,,,,,,,,,,
+1,Finn O'Sullivan,North Melbourne,Gen. Defender,16.0,10.0,6.0,0.62,0.38,3.0,0.0,0.0,1.68,1.82,-0.14,-1.0
+1,Griffin Logue,North Melbourne,Key Defender,6.0,4.0,2.0,0.67,0.33,1.0,0.0,0.0,-5.62,-1.81,-3.81,-3.62
+1,Harry Sheezel,North Melbourne,Mid-Forward,31.0,15.0,16.0,0.48,0.52,6.0,0.0,4.0,1.7,0.17,1.52,0.22
+1,Jack Darling,North Melbourne,Key Forward,15.0,9.0,6.0,0.6,0.4,5.0,1.0,2.0,5.23,2.68,2.54,1.64
+1,Jackson Archer,North Melbourne,Gen. Defender,11.0,7.0,4.0,0.64,0.36,3.0,0.0,1.0,3.0,2.67,0.33,2.0
+1,Jacob Konstanty,North Melbourne,Gen. Forward,10.0,6.0,4.0,0.6,0.4,1.0,0.0,6.0,0.87,1.04,-0.17,-0.65
+1,Jy Simpkin,North Melbourne,Mid-Forward,30.0,19.0,11.0,0.63,0.37,4.0,1.0,7.0,7.86,6.19,1.67,-0.05
+1,Luke Davies-Uniacke,North Melbourne,Midfielder,20.0,12.0,8.0,0.6,0.4,4.0,2.0,2.0,-4.73,0.32,-5.04,0.27
+1,Luke McDonald,North Melbourne,Gen. Defender,20.0,11.0,9.0,0.55,0.45,5.0,0.0,2.0,4.53,1.73,2.8,0.53
+1,Luke Parker,North Melbourne,Midfielder,21.0,10.0,11.0,0.48,0.52,5.0,0.0,4.0,-2.32,-1.46,-0.86,1.46
+1,Nick Larkey,North Melbourne,Key Forward,8.0,7.0,1.0,0.88,0.12,3.0,5.0,1.0,-1.71,0.65,-2.35,-1.59
+1,Paul Curtis,North Melbourne,Gen. Forward,13.0,8.0,5.0,0.62,0.38,4.0,3.0,4.0,1.26,0.11,1.16,0.05
+1,Robert Hansen Jr,North Melbourne,Mid-Forward,15.0,6.0,9.0,0.4,0.6,1.0,0.0,0.0,6.33,0.83,5.5,-1.17
+1,Tom Powell,North Melbourne,Midfielder,27.0,13.0,14.0,0.48,0.52,7.0,0.0,8.0,4.0,2.52,1.48,3.17
+1,Tristan Xerri,North Melbourne,Ruck,17.0,4.0,13.0,0.24,0.76,4.0,0.0,7.0,-0.25,-2.15,1.9,2.35
+1,Will Phillips,North Melbourne,Midfielder,,,,,,,,,,,,
+2,Aidan Corr,North Melbourne,Key Defender,17.0,14.0,3.0,0.82,0.18,7.0,0.0,0.0,3.3,4.0,-0.7,2.7
+2,Bailey Scott,North Melbourne,Midfielder,17.0,11.0,6.0,0.65,0.35,8.0,1.0,2.0,6.5,4.92,1.58,4.33
+2,Caleb Daniel,North Melbourne,Gen. Defender,31.0,25.0,6.0,0.81,0.19,6.0,0.0,3.0,5.39,8.65,-3.26,2.17
+2,Cameron Zurhaar,North Melbourne,Gen. Forward,17.0,12.0,5.0,0.71,0.29,3.0,4.0,1.0,6.46,4.36,2.09,-0.86
+2,Charlie Comben,North Melbourne,Key Defender,16.0,13.0,3.0,0.81,0.19,12.0,0.0,1.0,3.75,5.5,-1.75,6.5
+2,Colby McKercher,North Melbourne,Gen. Defender,17.0,11.0,6.0,0.65,0.35,1.0,1.0,2.0,-6.13,-3.87,-2.26,-2.39
+2,Darcy Tucker,North Melbourne,Gen. Defender,16.0,9.0,7.0,0.56,0.44,4.0,0.0,2.0,2.71,1.71,1.0,0.29
+2,Dylan Stephens,North Melbourne,Midfielder,,,,,,,,,,,,
+2,Finn O'Sullivan,North Melbourne,Gen. Defender,12.0,9.0,3.0,0.75,0.25,2.0,0.0,0.0,-2.32,0.82,-3.14,-2.0
+2,Harry Sheezel,North Melbourne,Mid-Forward,28.0,15.0,13.0,0.54,0.46,7.0,0.0,2.0,-1.3,0.17,-1.48,1.22
+2,Jack Darling,North Melbourne,Key Forward,14.0,8.0,6.0,0.57,0.43,4.0,2.0,3.0,4.23,1.68,2.54,0.64
+2,Jacob Konstanty,North Melbourne,Gen. Forward,,,,,,,,,,,,
+2,Jy Simpkin,North Melbourne,Mid-Forward,24.0,9.0,15.0,0.38,0.62,6.0,1.0,2.0,1.86,-3.81,5.67,1.95
+2,Luke Davies-Uniacke,North Melbourne,Midfielder,23.0,9.0,14.0,0.39,0.61,2.0,0.0,7.0,-1.73,-2.68,0.96,-1.73
+2,Luke McDonald,North Melbourne,Gen. Defender,15.0,9.0,6.0,0.6,0.4,6.0,0.0,0.0,-0.47,-0.27,-0.2,1.53
+2,Luke Parker,North Melbourne,Midfielder,22.0,10.0,12.0,0.45,0.55,3.0,1.0,2.0,-1.32,-1.46,0.14,-0.54
+2,Nick Larkey,North Melbourne,Key Forward,10.0,6.0,4.0,0.6,0.4,3.0,3.0,2.0,0.29,-0.35,0.65,-1.59
+2,Paul Curtis,North Melbourne,Gen. Forward,22.0,13.0,9.0,0.59,0.41,6.0,3.0,4.0,10.26,5.11,5.16,2.05
+2,Robert Hansen Jr,North Melbourne,Mid-Forward,15.0,7.0,8.0,0.47,0.53,3.0,0.0,1.0,6.33,1.83,4.5,0.83
+2,Toby Pink,North Melbourne,Key Defender,12.0,10.0,2.0,0.83,0.17,9.0,0.0,3.0,1.41,2.71,-1.29,3.82
+2,Tom Powell,North Melbourne,Midfielder,31.0,15.0,16.0,0.48,0.52,2.0,1.0,2.0,8.0,4.52,3.48,-1.83
+2,Tristan Xerri,North Melbourne,Ruck,20.0,5.0,15.0,0.25,0.75,2.0,1.0,2.0,2.75,-1.15,3.9,0.35
+2,Will Phillips,North Melbourne,Midfielder,,,,,,,,,,,,
+3,Aidan Corr,North Melbourne,Key Defender,14.0,12.0,2.0,0.86,0.14,4.0,0.0,1.0,0.3,2.0,-1.7,-0.3
+3,Bailey Scott,North Melbourne,Midfielder,12.0,8.0,4.0,0.67,0.33,7.0,0.0,0.0,1.5,1.92,-0.42,3.33
+3,Caleb Daniel,North Melbourne,Gen. Defender,33.0,22.0,11.0,0.67,0.33,9.0,0.0,0.0,7.39,5.65,1.74,5.17
+3,Cameron Zurhaar,North Melbourne,Gen. Forward,8.0,5.0,3.0,0.62,0.38,2.0,1.0,5.0,-2.54,-2.64,0.09,-1.86
+3,Charlie Comben,North Melbourne,Key Defender,13.0,12.0,1.0,0.92,0.08,7.0,0.0,2.0,0.75,4.5,-3.75,1.5
+3,Colby McKercher,North Melbourne,Gen. Defender,19.0,14.0,5.0,0.74,0.26,8.0,0.0,0.0,-4.13,-0.87,-3.26,4.61
+3,Darcy Tucker,North Melbourne,Gen. Defender,19.0,12.0,7.0,0.63,0.37,4.0,0.0,3.0,5.71,4.71,1.0,0.29
+3,Dylan Stephens,North Melbourne,Midfielder,,,,,,,,,,,,
+3,Finn O'Sullivan,North Melbourne,Gen. Defender,16.0,8.0,8.0,0.5,0.5,5.0,0.0,0.0,1.68,-0.18,1.86,1.0
+3,Harry Sheezel,North Melbourne,Mid-Forward,26.0,11.0,15.0,0.42,0.58,2.0,0.0,5.0,-3.3,-3.83,0.52,-3.78
+3,Jack Darling,North Melbourne,Key Forward,11.0,8.0,3.0,0.73,0.27,4.0,1.0,2.0,1.23,1.68,-0.46,0.64
+3,Jacob Konstanty,North Melbourne,Gen. Forward,7.0,3.0,4.0,0.43,0.57,3.0,2.0,1.0,-2.13,-1.96,-0.17,1.35
+3,Jy Simpkin,North Melbourne,Mid-Forward,31.0,22.0,9.0,0.71,0.29,7.0,1.0,1.0,8.86,9.19,-0.33,2.95
+3,Luke Davies-Uniacke,North Melbourne,Midfielder,19.0,11.0,8.0,0.58,0.42,5.0,0.0,2.0,-5.73,-0.68,-5.04,1.27
+3,Luke McDonald,North Melbourne,Gen. Defender,15.0,8.0,7.0,0.53,0.47,4.0,0.0,4.0,-0.47,-1.27,0.8,-0.47
+3,Luke Parker,North Melbourne,Midfielder,21.0,10.0,11.0,0.48,0.52,3.0,0.0,6.0,-2.32,-1.46,-0.86,-0.54
+3,Nick Larkey,North Melbourne,Key Forward,11.0,9.0,2.0,0.82,0.18,5.0,4.0,0.0,1.29,2.65,-1.35,0.41
+3,Paul Curtis,North Melbourne,Gen. Forward,9.0,5.0,4.0,0.56,0.44,3.0,2.0,4.0,-2.74,-2.89,0.16,-0.95
+3,Robert Hansen Jr,North Melbourne,Mid-Forward,,,,,,,,,,,,
+3,Toby Pink,North Melbourne,Key Defender,13.0,11.0,2.0,0.85,0.15,6.0,0.0,1.0,2.41,3.71,-1.29,0.82
+3,Tom Powell,North Melbourne,Midfielder,21.0,8.0,13.0,0.38,0.62,4.0,0.0,3.0,-2.0,-2.48,0.48,0.17
+3,Tristan Xerri,North Melbourne,Ruck,17.0,4.0,13.0,0.24,0.76,1.0,0.0,4.0,-0.25,-2.15,1.9,-0.65
+3,Will Phillips,North Melbourne,Midfielder,12.0,4.0,8.0,0.33,0.67,2.0,0.0,2.0,-2.43,-1.14,-1.29,-0.43
+4,Aidan Corr,North Melbourne,Key Defender,18.0,12.0,6.0,0.67,0.33,5.0,0.0,3.0,4.3,2.0,2.3,0.7
+4,Bailey Scott,North Melbourne,Midfielder,12.0,7.0,5.0,0.58,0.42,4.0,0.0,0.0,1.5,0.92,0.58,0.33
+4,Caleb Daniel,North Melbourne,Gen. Defender,25.0,15.0,10.0,0.6,0.4,5.0,0.0,2.0,-0.61,-1.35,0.74,1.17
+4,Cameron Zurhaar,North Melbourne,Gen. Forward,12.0,9.0,3.0,0.75,0.25,8.0,1.0,0.0,1.46,1.36,0.09,4.14
+4,Charlie Comben,North Melbourne,Key Defender,15.0,5.0,10.0,0.33,0.67,3.0,0.0,1.0,2.75,-2.5,5.25,-2.5
+4,Colby McKercher,North Melbourne,Gen. Defender,22.0,13.0,9.0,0.59,0.41,4.0,1.0,1.0,-1.13,-1.87,0.74,0.61
+4,Darcy Tucker,North Melbourne,Gen. Defender,20.0,13.0,7.0,0.65,0.35,8.0,0.0,1.0,6.71,5.71,1.0,4.29
+4,Dylan Stephens,North Melbourne,Midfielder,18.0,8.0,10.0,0.44,0.56,7.0,0.0,1.0,0.5,-1.36,1.86,2.32
+4,Griffin Logue,North Melbourne,Key Defender,13.0,9.0,4.0,0.69,0.31,7.0,0.0,2.0,1.38,3.19,-1.81,2.38
+4,Harry Sheezel,North Melbourne,Mid-Forward,34.0,19.0,15.0,0.56,0.44,9.0,0.0,3.0,4.7,4.17,0.52,3.22
+4,Jack Darling,North Melbourne,Key Forward,6.0,3.0,3.0,0.5,0.5,3.0,0.0,1.0,-3.77,-3.32,-0.46,-0.36
+4,Jacob Konstanty,North Melbourne,Gen. Forward,16.0,8.0,8.0,0.5,0.5,4.0,0.0,1.0,6.87,3.04,3.83,2.35
+4,Jy Simpkin,North Melbourne,Mid-Forward,22.0,13.0,9.0,0.59,0.41,4.0,0.0,4.0,-0.14,0.19,-0.33,-0.05
+4,Luke Davies-Uniacke,North Melbourne,Midfielder,25.0,14.0,11.0,0.56,0.44,6.0,0.0,5.0,0.27,2.32,-2.04,2.27
+4,Luke McDonald,North Melbourne,Gen. Defender,18.0,10.0,8.0,0.56,0.44,7.0,0.0,1.0,2.53,0.73,1.8,2.53
+4,Luke Parker,North Melbourne,Midfielder,27.0,11.0,16.0,0.41,0.59,3.0,2.0,8.0,3.68,-0.46,4.14,-0.54
+4,Matt Whitlock,North Melbourne,Key Defender,,,,,,,,,,,,
+4,Nick Larkey,North Melbourne,Key Forward,9.0,4.0,5.0,0.44,0.56,3.0,2.0,0.0,-0.71,-2.35,1.65,-1.59
+4,Paul Curtis,North Melbourne,Gen. Forward,14.0,9.0,5.0,0.64,0.36,6.0,2.0,5.0,2.26,1.11,1.16,2.05
+4,Riley Hardeman,North Melbourne,Gen. Defender,,,,,,,,,,,,
+4,Robert Hansen Jr,North Melbourne,Mid-Forward,7.0,6.0,1.0,0.86,0.14,5.0,0.0,0.0,-1.67,0.83,-2.5,2.83
+4,Tom Powell,North Melbourne,Midfielder,22.0,10.0,12.0,0.45,0.55,6.0,0.0,5.0,-1.0,-0.48,-0.52,2.17
+4,Tristan Xerri,North Melbourne,Ruck,18.0,6.0,12.0,0.33,0.67,2.0,0.0,3.0,0.75,-0.15,0.9,0.35
+5,Aidan Corr,North Melbourne,Key Defender,14.0,10.0,4.0,0.71,0.29,2.0,0.0,1.0,0.3,0.0,0.3,-2.3
+5,Caleb Daniel,North Melbourne,Gen. Defender,32.0,16.0,16.0,0.5,0.5,3.0,0.0,2.0,6.39,-0.35,6.74,-0.83
+5,Cameron Zurhaar,North Melbourne,Gen. Forward,9.0,5.0,4.0,0.56,0.44,2.0,1.0,4.0,-1.54,-2.64,1.09,-1.86
+5,Charlie Comben,North Melbourne,Key Defender,10.0,7.0,3.0,0.7,0.3,6.0,0.0,1.0,-2.25,-0.5,-1.75,0.5
+5,Colby McKercher,North Melbourne,Gen. Defender,8.0,4.0,4.0,0.5,0.5,3.0,0.0,0.0,-15.13,-10.87,-4.26,-0.39
+5,Darcy Tucker,North Melbourne,Gen. Defender,21.0,11.0,10.0,0.52,0.48,4.0,0.0,0.0,7.71,3.71,4.0,0.29
+5,Dylan Stephens,North Melbourne,Midfielder,21.0,13.0,8.0,0.62,0.38,7.0,0.0,3.0,3.5,3.64,-0.14,2.32
+5,Finn O'Sullivan,North Melbourne,Gen. Defender,15.0,8.0,7.0,0.53,0.47,1.0,0.0,3.0,0.68,-0.18,0.86,-3.0
+5,Griffin Logue,North Melbourne,Key Defender,11.0,5.0,6.0,0.45,0.55,4.0,0.0,3.0,-0.62,-0.81,0.19,-0.62
+5,Harry Sheezel,North Melbourne,Mid-Forward,27.0,12.0,15.0,0.44,0.56,4.0,1.0,4.0,-2.3,-2.83,0.52,-1.78
+5,Jack Darling,North Melbourne,Key Forward,16.0,9.0,7.0,0.56,0.44,5.0,2.0,4.0,6.23,2.68,3.54,1.64
+5,Jacob Konstanty,North Melbourne,Gen. Forward,,,,,,,,,,,,
+5,Jy Simpkin,North Melbourne,Mid-Forward,24.0,13.0,11.0,0.54,0.46,6.0,2.0,4.0,1.86,0.19,1.67,1.95
+5,Luke Davies-Uniacke,North Melbourne,Midfielder,26.0,17.0,9.0,0.65,0.35,7.0,0.0,4.0,1.27,5.32,-4.04,3.27
+5,Luke McDonald,North Melbourne,Gen. Defender,12.0,6.0,6.0,0.5,0.5,2.0,0.0,3.0,-3.47,-3.27,-0.2,-2.47
+5,Luke Parker,North Melbourne,Midfielder,24.0,9.0,15.0,0.38,0.62,2.0,0.0,3.0,0.68,-2.46,3.14,-1.54
+5,Nick Larkey,North Melbourne,Key Forward,12.0,8.0,4.0,0.67,0.33,3.0,2.0,1.0,2.29,1.65,0.65,-1.59
+5,Paul Curtis,North Melbourne,Gen. Forward,14.0,8.0,6.0,0.57,0.43,3.0,2.0,4.0,2.26,0.11,2.16,-0.95
+5,Riley Hardeman,North Melbourne,Gen. Defender,,,,,,,,,,,,
+5,Tom Powell,North Melbourne,Midfielder,20.0,9.0,11.0,0.45,0.55,2.0,0.0,7.0,-3.0,-1.48,-1.52,-1.83
+5,Tristan Xerri,North Melbourne,Ruck,9.0,3.0,6.0,0.33,0.67,1.0,0.0,6.0,-8.25,-3.15,-5.1,-0.65
+5,Zac Fisher,North Melbourne,Gen. Forward,27.0,12.0,15.0,0.44,0.56,0.0,0.0,0.0,14.29,5.86,8.43,-0.71
+5,Zane Duursma,North Melbourne,Gen. Forward,,,,,,,,,,,,
+6,Aidan Corr,North Melbourne,Key Defender,18.0,12.0,6.0,0.67,0.33,7.0,0.0,1.0,4.3,2.0,2.3,2.7
+6,Caleb Daniel,North Melbourne,Gen. Defender,24.0,15.0,9.0,0.62,0.38,2.0,0.0,4.0,-1.61,-1.35,-0.26,-1.83
+6,Cameron Zurhaar,North Melbourne,Gen. Forward,11.0,8.0,3.0,0.73,0.27,2.0,1.0,0.0,0.46,0.36,0.09,-1.86
+6,Charlie Comben,North Melbourne,Key Defender,15.0,10.0,5.0,0.67,0.33,8.0,0.0,1.0,2.75,2.5,0.25,2.5
+6,Colby McKercher,North Melbourne,Gen. Defender,16.0,9.0,7.0,0.56,0.44,4.0,0.0,1.0,-7.13,-5.87,-1.26,0.61
+6,Darcy Tucker,North Melbourne,Gen. Defender,15.0,4.0,11.0,0.27,0.73,4.0,0.0,1.0,1.71,-3.29,5.0,0.29
+6,Dylan Stephens,North Melbourne,Midfielder,21.0,11.0,10.0,0.52,0.48,6.0,0.0,1.0,3.5,1.64,1.86,1.32
+6,Finn O'Sullivan,North Melbourne,Gen. Defender,10.0,2.0,8.0,0.2,0.8,3.0,0.0,0.0,-4.32,-6.18,1.86,-1.0
+6,George Wardlaw,North Melbourne,Midfielder,,,,,,,,,,,,
+6,Griffin Logue,North Melbourne,Key Defender,9.0,3.0,6.0,0.33,0.67,1.0,0.0,0.0,-2.62,-2.81,0.19,-3.62
+6,Harry Sheezel,North Melbourne,Mid-Forward,32.0,9.0,23.0,0.28,0.72,0.0,0.0,6.0,2.7,-5.83,8.52,-5.78
+6,Jack Darling,North Melbourne,Key Forward,6.0,4.0,2.0,0.67,0.33,0.0,0.0,3.0,-3.77,-2.32,-1.46,-3.36
+6,Jacob Konstanty,North Melbourne,Gen. Forward,4.0,1.0,3.0,0.25,0.75,0.0,1.0,3.0,-5.13,-3.96,-1.17,-1.65
+6,Jy Simpkin,North Melbourne,Mid-Forward,20.0,9.0,11.0,0.45,0.55,3.0,0.0,6.0,-2.14,-3.81,1.67,-1.05
+6,Luke Davies-Uniacke,North Melbourne,Midfielder,25.0,11.0,14.0,0.44,0.56,1.0,0.0,3.0,0.27,-0.68,0.96,-2.73
+6,Luke McDonald,North Melbourne,Gen. Defender,13.0,10.0,3.0,0.77,0.23,4.0,0.0,2.0,-2.47,0.73,-3.2,-0.47
+6,Luke Parker,North Melbourne,Midfielder,23.0,12.0,11.0,0.52,0.48,1.0,2.0,1.0,-0.32,0.54,-0.86,-2.54
+6,Nick Larkey,North Melbourne,Key Forward,7.0,4.0,3.0,0.57,0.43,2.0,1.0,2.0,-2.71,-2.35,-0.35,-2.59
+6,Paul Curtis,North Melbourne,Gen. Forward,12.0,11.0,1.0,0.92,0.08,5.0,3.0,2.0,0.26,3.11,-2.84,1.05
+6,Tom Powell,North Melbourne,Midfielder,19.0,5.0,14.0,0.26,0.74,3.0,1.0,5.0,-4.0,-5.48,1.48,-0.83
+6,Tristan Xerri,North Melbourne,Ruck,14.0,2.0,12.0,0.14,0.86,1.0,0.0,11.0,-3.25,-4.15,0.9,-0.65
+6,Zac Fisher,North Melbourne,Gen. Forward,,,,,,,,,,,,
+6,Zane Duursma,North Melbourne,Gen. Forward,,,,,,,,,,,,
+7,Caleb Daniel,North Melbourne,Gen. Defender,22.0,17.0,5.0,0.77,0.23,2.0,0.0,2.0,-3.61,0.65,-4.26,-1.83
+7,Cameron Zurhaar,North Melbourne,Gen. Forward,11.0,8.0,3.0,0.73,0.27,4.0,2.0,3.0,0.46,0.36,0.09,0.14
+7,Charlie Comben,North Melbourne,Key Defender,7.0,2.0,5.0,0.29,0.71,0.0,0.0,0.0,-5.25,-5.5,0.25,-5.5
+7,Colby McKercher,North Melbourne,Gen. Defender,19.0,11.0,8.0,0.58,0.42,1.0,1.0,1.0,-4.13,-3.87,-0.26,-2.39
+7,Darcy Tucker,North Melbourne,Gen. Defender,0.0,0.0,0.0,,,0.0,0.0,3.0,-13.29,-7.29,-6.0,-3.71
+7,Dylan Stephens,North Melbourne,Midfielder,15.0,7.0,8.0,0.47,0.53,3.0,0.0,2.0,-2.5,-2.36,-0.14,-1.68
+7,Finn O'Sullivan,North Melbourne,Gen. Defender,12.0,4.0,8.0,0.33,0.67,2.0,0.0,2.0,-2.32,-4.18,1.86,-2.0
+7,George Wardlaw,North Melbourne,Midfielder,20.0,11.0,9.0,0.55,0.45,1.0,1.0,6.0,4.46,1.15,3.31,-0.62
+7,Harry Sheezel,North Melbourne,Mid-Forward,30.0,20.0,10.0,0.67,0.33,4.0,0.0,1.0,0.7,5.17,-4.48,-1.78
+7,Jack Darling,North Melbourne,Key Forward,9.0,5.0,4.0,0.56,0.44,3.0,1.0,3.0,-0.77,-1.32,0.54,-0.36
+7,Jackson Archer,North Melbourne,Gen. Defender,12.0,5.0,7.0,0.42,0.58,0.0,0.0,2.0,4.0,0.67,3.33,-1.0
+7,Jacob Konstanty,North Melbourne,Gen. Forward,6.0,4.0,2.0,0.67,0.33,1.0,0.0,2.0,-3.13,-0.96,-2.17,-0.65
+7,Jy Simpkin,North Melbourne,Mid-Forward,19.0,11.0,8.0,0.58,0.42,1.0,0.0,1.0,-3.14,-1.81,-1.33,-3.05
+7,Kallan Dawson,North Melbourne,Key Defender,7.0,5.0,2.0,0.71,0.29,2.0,0.0,0.0,-0.67,1.33,-2.0,-1.33
+7,Luke Davies-Uniacke,North Melbourne,Midfielder,25.0,8.0,17.0,0.32,0.68,2.0,1.0,4.0,0.27,-3.68,3.96,-1.73
+7,Luke McDonald,North Melbourne,Gen. Defender,13.0,8.0,5.0,0.62,0.38,0.0,0.0,3.0,-2.47,-1.27,-1.2,-4.47
+7,Luke Parker,North Melbourne,Midfielder,27.0,13.0,14.0,0.48,0.52,4.0,1.0,4.0,3.68,1.54,2.14,0.46
+7,Nick Larkey,North Melbourne,Key Forward,12.0,7.0,5.0,0.58,0.42,7.0,1.0,1.0,2.29,0.65,1.65,2.41
+7,Paul Curtis,North Melbourne,Gen. Forward,16.0,12.0,4.0,0.75,0.25,3.0,3.0,5.0,4.26,4.11,0.16,-0.95
+7,Riley Hardeman,North Melbourne,Gen. Defender,12.0,9.0,3.0,0.75,0.25,1.0,0.0,2.0,-1.0,0.35,-1.35,-2.29
+7,Tom Powell,North Melbourne,Midfielder,19.0,11.0,8.0,0.58,0.42,3.0,1.0,3.0,-4.0,0.52,-4.52,-0.83
+7,Tristan Xerri,North Melbourne,Ruck,23.0,10.0,13.0,0.43,0.57,2.0,1.0,3.0,5.75,3.85,1.9,0.35
+7,Zane Duursma,North Melbourne,Gen. Forward,,,,,,,,,,,,
+8,Bailey Scott,North Melbourne,Midfielder,,,,,,,,,,,,
+8,Caleb Daniel,North Melbourne,Gen. Defender,23.0,16.0,7.0,0.7,0.3,6.0,0.0,0.0,-2.61,-0.35,-2.26,2.17
+8,Cameron Zurhaar,North Melbourne,Gen. Forward,9.0,7.0,2.0,0.78,0.22,3.0,2.0,1.0,-1.54,-0.64,-0.91,-0.86
+8,Charlie Comben,North Melbourne,Key Defender,12.0,7.0,5.0,0.58,0.42,3.0,0.0,0.0,-0.25,-0.5,0.25,-2.5
+8,Colby McKercher,North Melbourne,Gen. Defender,11.0,6.0,5.0,0.55,0.45,3.0,1.0,2.0,-12.13,-8.87,-3.26,-0.39
+8,Dylan Stephens,North Melbourne,Midfielder,25.0,15.0,10.0,0.6,0.4,8.0,0.0,1.0,7.5,5.64,1.86,3.32
+8,Finn O'Sullivan,North Melbourne,Gen. Defender,11.0,8.0,3.0,0.73,0.27,2.0,0.0,4.0,-3.32,-0.18,-3.14,-2.0
+8,Finnbar Maley,North Melbourne,Key Forward,8.0,5.0,3.0,0.62,0.38,3.0,1.0,2.0,1.43,1.86,-0.43,0.29
+8,Harry Sheezel,North Melbourne,Mid-Forward,32.0,21.0,11.0,0.66,0.34,9.0,0.0,5.0,2.7,6.17,-3.48,3.22
+8,Jack Darling,North Melbourne,Key Forward,5.0,2.0,3.0,0.4,0.6,1.0,0.0,0.0,-4.77,-4.32,-0.46,-2.36
+8,Jackson Archer,North Melbourne,Gen. Defender,,,,,,,,,,,,
+8,Jacob Konstanty,North Melbourne,Gen. Forward,5.0,4.0,1.0,0.8,0.2,1.0,0.0,2.0,-4.13,-0.96,-3.17,-0.65
+8,Jy Simpkin,North Melbourne,Mid-Forward,21.0,13.0,8.0,0.62,0.38,4.0,2.0,4.0,-1.14,0.19,-1.33,-0.05
+8,Kallan Dawson,North Melbourne,Key Defender,8.0,3.0,5.0,0.38,0.62,4.0,0.0,2.0,0.33,-0.67,1.0,0.67
+8,Luke Davies-Uniacke,North Melbourne,Midfielder,28.0,9.0,19.0,0.32,0.68,3.0,0.0,6.0,3.27,-2.68,5.96,-0.73
+8,Luke McDonald,North Melbourne,Gen. Defender,14.0,5.0,9.0,0.36,0.64,3.0,0.0,1.0,-1.47,-4.27,2.8,-1.47
+8,Luke Parker,North Melbourne,Midfielder,20.0,9.0,11.0,0.45,0.55,4.0,0.0,6.0,-3.32,-2.46,-0.86,0.46
+8,Nick Larkey,North Melbourne,Key Forward,10.0,6.0,4.0,0.6,0.4,5.0,2.0,0.0,0.29,-0.35,0.65,0.41
+8,Riley Hardeman,North Melbourne,Gen. Defender,15.0,12.0,3.0,0.8,0.2,7.0,0.0,2.0,2.0,3.35,-1.35,3.71
+8,Tom Powell,North Melbourne,Midfielder,28.0,14.0,14.0,0.5,0.5,2.0,0.0,9.0,5.0,3.52,1.48,-1.83
+8,Tristan Xerri,North Melbourne,Ruck,25.0,11.0,14.0,0.44,0.56,2.0,0.0,4.0,7.75,4.85,2.9,0.35
+8,Will Phillips,North Melbourne,Midfielder,15.0,5.0,10.0,0.33,0.67,1.0,0.0,9.0,0.57,-0.14,0.71,-1.43
+8,Zane Duursma,North Melbourne,Gen. Forward,9.0,5.0,4.0,0.56,0.44,2.0,1.0,0.0,2.2,0.9,1.3,-0.9
+9,Aidan Corr,North Melbourne,Key Defender,12.0,7.0,5.0,0.58,0.42,4.0,0.0,1.0,-1.7,-3.0,1.3,-0.3
+9,Bailey Scott,North Melbourne,Midfielder,,,,,,,,,,,,
+9,Caleb Daniel,North Melbourne,Gen. Defender,18.0,11.0,7.0,0.61,0.39,3.0,0.0,1.0,-7.61,-5.35,-2.26,-0.83
+9,Cameron Zurhaar,North Melbourne,Gen. Forward,15.0,9.0,6.0,0.6,0.4,5.0,2.0,2.0,4.46,1.36,3.09,1.14
+9,Charlie Comben,North Melbourne,Key Defender,21.0,12.0,9.0,0.57,0.43,9.0,0.0,1.0,8.75,4.5,4.25,3.5
+9,Colby McKercher,North Melbourne,Gen. Defender,13.0,9.0,4.0,0.69,0.31,1.0,1.0,0.0,-10.13,-5.87,-4.26,-2.39
+9,Dylan Stephens,North Melbourne,Midfielder,22.0,10.0,12.0,0.45,0.55,5.0,1.0,1.0,4.5,0.64,3.86,0.32
+9,Finn O'Sullivan,North Melbourne,Gen. Defender,8.0,5.0,3.0,0.62,0.38,1.0,0.0,1.0,-6.32,-3.18,-3.14,-3.0
+9,Finnbar Maley,North Melbourne,Key Forward,,,,,,,,,,,,
+9,George Wardlaw,North Melbourne,Midfielder,19.0,15.0,4.0,0.79,0.21,0.0,1.0,5.0,3.46,5.15,-1.69,-1.62
+9,Harry Sheezel,North Melbourne,Mid-Forward,29.0,18.0,11.0,0.62,0.38,7.0,0.0,3.0,-0.3,3.17,-3.48,1.22
+9,Jack Darling,North Melbourne,Key Forward,9.0,6.0,3.0,0.67,0.33,3.0,2.0,1.0,-0.77,-0.32,-0.46,-0.36
+9,Jacob Konstanty,North Melbourne,Gen. Forward,12.0,6.0,6.0,0.5,0.5,4.0,1.0,5.0,2.87,1.04,1.83,2.35
+9,Jy Simpkin,North Melbourne,Mid-Forward,17.0,11.0,6.0,0.65,0.35,3.0,0.0,3.0,-5.14,-1.81,-3.33,-1.05
+9,Luke Davies-Uniacke,North Melbourne,Midfielder,32.0,17.0,15.0,0.53,0.47,3.0,0.0,2.0,7.27,5.32,1.96,-0.73
+9,Luke McDonald,North Melbourne,Gen. Defender,9.0,3.0,6.0,0.33,0.67,1.0,0.0,1.0,-6.47,-6.27,-0.2,-3.47
+9,Luke Parker,North Melbourne,Midfielder,23.0,13.0,10.0,0.57,0.43,4.0,1.0,8.0,-0.32,1.54,-1.86,0.46
+9,Nick Larkey,North Melbourne,Key Forward,7.0,6.0,1.0,0.86,0.14,5.0,1.0,1.0,-2.71,-0.35,-2.35,0.41
+9,Riley Hardeman,North Melbourne,Gen. Defender,15.0,10.0,5.0,0.67,0.33,4.0,0.0,3.0,2.0,1.35,0.65,0.71
+9,Toby Pink,North Melbourne,Key Defender,6.0,4.0,2.0,0.67,0.33,1.0,0.0,2.0,-4.59,-3.29,-1.29,-4.18
+9,Tom Powell,North Melbourne,Midfielder,16.0,6.0,10.0,0.38,0.62,1.0,0.0,4.0,-7.0,-4.48,-2.52,-2.83
+9,Tristan Xerri,North Melbourne,Ruck,19.0,10.0,9.0,0.53,0.47,2.0,0.0,8.0,1.75,3.85,-2.1,0.35
+9,Zane Duursma,North Melbourne,Gen. Forward,7.0,4.0,3.0,0.57,0.43,3.0,0.0,1.0,0.2,-0.1,0.3,0.1
+10,Aidan Corr,North Melbourne,Key Defender,8.0,6.0,2.0,0.75,0.25,3.0,0.0,3.0,-5.7,-4.0,-1.7,-1.3
+10,Bailey Scott,North Melbourne,Midfielder,5.0,1.0,4.0,0.2,0.8,3.0,0.0,5.0,-5.5,-5.08,-0.42,-0.67
+10,Caleb Daniel,North Melbourne,Gen. Defender,25.0,16.0,9.0,0.64,0.36,1.0,0.0,2.0,-0.61,-0.35,-0.26,-2.83
+10,Cameron Zurhaar,North Melbourne,Gen. Forward,9.0,7.0,2.0,0.78,0.22,4.0,4.0,2.0,-1.54,-0.64,-0.91,0.14
+10,Charlie Comben,North Melbourne,Key Defender,10.0,7.0,3.0,0.7,0.3,4.0,0.0,2.0,-2.25,-0.5,-1.75,-1.5
+10,Colby McKercher,North Melbourne,Gen. Defender,22.0,9.0,13.0,0.41,0.59,4.0,1.0,10.0,-1.13,-5.87,4.74,0.61
+10,Dylan Stephens,North Melbourne,Midfielder,18.0,12.0,6.0,0.67,0.33,3.0,0.0,2.0,0.5,2.64,-2.14,-1.68
+10,Finn O'Sullivan,North Melbourne,Gen. Defender,10.0,6.0,4.0,0.6,0.4,2.0,0.0,4.0,-4.32,-2.18,-2.14,-2.0
+10,Finnbar Maley,North Melbourne,Key Forward,,,,,,,,,,,,
+10,George Wardlaw,North Melbourne,Midfielder,14.0,8.0,6.0,0.57,0.43,2.0,0.0,10.0,-1.54,-1.85,0.31,0.38
+10,Harry Sheezel,North Melbourne,Mid-Forward,20.0,14.0,6.0,0.7,0.3,2.0,0.0,10.0,-9.3,-0.83,-8.48,-3.78
+10,Jack Darling,North Melbourne,Key Forward,17.0,13.0,4.0,0.76,0.24,5.0,2.0,2.0,7.23,6.68,0.54,1.64
+10,Jacob Konstanty,North Melbourne,Gen. Forward,,,,,,,,,,,,
+10,Jy Simpkin,North Melbourne,Mid-Forward,20.0,11.0,9.0,0.55,0.45,3.0,0.0,6.0,-2.14,-1.81,-0.33,-1.05
+10,Luke Davies-Uniacke,North Melbourne,Midfielder,27.0,11.0,16.0,0.41,0.59,3.0,1.0,5.0,2.27,-0.68,2.96,-0.73
+10,Luke McDonald,North Melbourne,Gen. Defender,8.0,8.0,0.0,1.0,0.0,3.0,0.0,2.0,-7.47,-1.27,-6.2,-1.47
+10,Luke Parker,North Melbourne,Midfielder,15.0,7.0,8.0,0.47,0.53,0.0,0.0,1.0,-8.32,-4.46,-3.86,-3.54
+10,Nick Larkey,North Melbourne,Key Forward,10.0,6.0,4.0,0.6,0.4,5.0,2.0,1.0,0.29,-0.35,0.65,0.41
+10,Riley Hardeman,North Melbourne,Gen. Defender,12.0,10.0,2.0,0.83,0.17,3.0,0.0,0.0,-1.0,1.35,-2.35,-0.29
+10,Toby Pink,North Melbourne,Key Defender,12.0,9.0,3.0,0.75,0.25,6.0,0.0,3.0,1.41,1.71,-0.29,0.82
+10,Tom Powell,North Melbourne,Midfielder,24.0,12.0,12.0,0.5,0.5,4.0,0.0,6.0,1.0,1.52,-0.52,0.17
+10,Tristan Xerri,North Melbourne,Ruck,19.0,14.0,5.0,0.74,0.26,1.0,0.0,12.0,1.75,7.85,-6.1,-0.65
+10,Zane Duursma,North Melbourne,Gen. Forward,,,,,,,,,,,,
+11,Aidan Corr,North Melbourne,Key Defender,14.0,12.0,2.0,0.86,0.14,7.0,0.0,1.0,0.3,2.0,-1.7,2.7
+11,Caleb Daniel,North Melbourne,Gen. Defender,30.0,21.0,9.0,0.7,0.3,4.0,0.0,1.0,4.39,4.65,-0.26,0.17
+11,Cameron Zurhaar,North Melbourne,Gen. Forward,7.0,7.0,0.0,1.0,0.0,4.0,3.0,4.0,-3.54,-0.64,-2.91,0.14
+11,Charlie Comben,North Melbourne,Key Defender,18.0,15.0,3.0,0.83,0.17,10.0,0.0,0.0,5.75,7.5,-1.75,4.5
+11,Colby McKercher,North Melbourne,Gen. Defender,13.0,8.0,5.0,0.62,0.38,3.0,0.0,0.0,-10.13,-6.87,-3.26,-0.39
+11,Dylan Stephens,North Melbourne,Midfielder,23.0,16.0,7.0,0.7,0.3,12.0,0.0,3.0,5.5,6.64,-1.14,7.32
+11,Finn O'Sullivan,North Melbourne,Gen. Defender,13.0,13.0,0.0,1.0,0.0,4.0,0.0,1.0,-1.32,4.82,-6.14,0.0
+11,Finnbar Maley,North Melbourne,Key Forward,,,,,,,,,,,,
+11,George Wardlaw,North Melbourne,Midfielder,11.0,8.0,3.0,0.73,0.27,1.0,0.0,4.0,-4.54,-1.85,-2.69,-0.62
+11,Harry Sheezel,North Melbourne,Mid-Forward,20.0,12.0,8.0,0.6,0.4,8.0,0.0,1.0,-9.3,-2.83,-6.48,2.22
+11,Jack Darling,North Melbourne,Key Forward,9.0,6.0,3.0,0.67,0.33,5.0,0.0,1.0,-0.77,-0.32,-0.46,1.64
+11,Jacob Konstanty,North Melbourne,Gen. Forward,8.0,7.0,1.0,0.88,0.12,3.0,1.0,6.0,-1.13,2.04,-3.17,1.35
+11,Jy Simpkin,North Melbourne,Mid-Forward,23.0,9.0,14.0,0.39,0.61,2.0,1.0,4.0,0.86,-3.81,4.67,-2.05
+11,Luke Davies-Uniacke,North Melbourne,Midfielder,26.0,14.0,12.0,0.54,0.46,6.0,0.0,4.0,1.27,2.32,-1.04,2.27
+11,Luke McDonald,North Melbourne,Gen. Defender,18.0,11.0,7.0,0.61,0.39,7.0,0.0,2.0,2.53,1.73,0.8,2.53
+11,Luke Parker,North Melbourne,Midfielder,16.0,8.0,8.0,0.5,0.5,2.0,0.0,2.0,-7.32,-3.46,-3.86,-1.54
+11,Nick Larkey,North Melbourne,Key Forward,9.0,7.0,2.0,0.78,0.22,4.0,1.0,0.0,-0.71,0.65,-1.35,-0.59
+11,Paul Curtis,North Melbourne,Gen. Forward,12.0,9.0,3.0,0.75,0.25,5.0,1.0,5.0,0.26,1.11,-0.84,1.05
+11,Riley Hardeman,North Melbourne,Gen. Defender,28.0,20.0,8.0,0.71,0.29,10.0,0.0,0.0,15.0,11.35,3.65,6.71
+11,Toby Pink,North Melbourne,Key Defender,13.0,7.0,6.0,0.54,0.46,7.0,0.0,2.0,2.41,-0.29,2.71,1.82
+11,Tom Powell,North Melbourne,Midfielder,28.0,18.0,10.0,0.64,0.36,5.0,1.0,3.0,5.0,7.52,-2.52,1.17
+11,Tristan Xerri,North Melbourne,Ruck,17.0,5.0,12.0,0.29,0.71,1.0,1.0,3.0,-0.25,-1.15,0.9,-0.65
+11,Zac Fisher,North Melbourne,Gen. Forward,,,,,,,,,,,,
+13,Caleb Daniel,North Melbourne,Gen. Defender,29.0,22.0,7.0,0.76,0.24,4.0,0.0,1.0,3.39,5.65,-2.26,0.17
+13,Cameron Zurhaar,North Melbourne,Gen. Forward,10.0,7.0,3.0,0.7,0.3,6.0,2.0,2.0,-0.54,-0.64,0.09,2.14
+13,Charlie Comben,North Melbourne,Key Defender,,,,,,,,,,,,
+13,Colby McKercher,North Melbourne,Gen. Defender,35.0,20.0,15.0,0.57,0.43,1.0,0.0,1.0,11.87,5.13,6.74,-2.39
+13,Dylan Stephens,North Melbourne,Midfielder,19.0,11.0,8.0,0.58,0.42,3.0,0.0,2.0,1.5,1.64,-0.14,-1.68
+13,Finn O'Sullivan,North Melbourne,Gen. Defender,17.0,13.0,4.0,0.76,0.24,5.0,1.0,3.0,2.68,4.82,-2.14,1.0
+13,George Wardlaw,North Melbourne,Midfielder,9.0,6.0,3.0,0.67,0.33,0.0,0.0,7.0,-6.54,-3.85,-2.69,-1.62
+13,Griffin Logue,North Melbourne,Key Defender,9.0,5.0,4.0,0.56,0.44,5.0,0.0,1.0,-2.62,-0.81,-1.81,0.38
+13,Harry Sheezel,North Melbourne,Mid-Forward,28.0,13.0,15.0,0.46,0.54,7.0,0.0,7.0,-1.3,-1.83,0.52,1.22
+13,Jack Darling,North Melbourne,Key Forward,10.0,4.0,6.0,0.4,0.6,4.0,0.0,3.0,0.23,-2.32,2.54,0.64
+13,Jacob Konstanty,North Melbourne,Gen. Forward,10.0,4.0,6.0,0.4,0.6,0.0,0.0,4.0,0.87,-0.96,1.83,-1.65
+13,Jy Simpkin,North Melbourne,Mid-Forward,23.0,12.0,11.0,0.52,0.48,4.0,2.0,2.0,0.86,-0.81,1.67,-0.05
+13,Luke Davies-Uniacke,North Melbourne,Midfielder,18.0,5.0,13.0,0.28,0.72,1.0,0.0,6.0,-6.73,-6.68,-0.04,-2.73
+13,Luke McDonald,North Melbourne,Gen. Defender,23.0,12.0,11.0,0.52,0.48,3.0,0.0,3.0,7.53,2.73,4.8,-1.47
+13,Luke Parker,North Melbourne,Midfielder,22.0,8.0,14.0,0.36,0.64,6.0,1.0,7.0,-1.32,-3.46,2.14,2.46
+13,Nick Larkey,North Melbourne,Key Forward,11.0,5.0,6.0,0.45,0.55,6.0,0.0,1.0,1.29,-1.35,2.65,1.41
+13,Paul Curtis,North Melbourne,Gen. Forward,8.0,6.0,2.0,0.75,0.25,2.0,3.0,3.0,-3.74,-1.89,-1.84,-1.95
+13,Riley Hardeman,North Melbourne,Gen. Defender,10.0,6.0,4.0,0.6,0.4,1.0,0.0,1.0,-3.0,-2.65,-0.35,-2.29
+13,Robert Hansen Jr,North Melbourne,Mid-Forward,,,,,,,,,,,,
+13,Toby Pink,North Melbourne,Key Defender,10.0,8.0,2.0,0.8,0.2,2.0,0.0,0.0,-0.59,0.71,-1.29,-3.18
+13,Tom Powell,North Melbourne,Midfielder,30.0,14.0,16.0,0.47,0.53,7.0,0.0,4.0,7.0,3.52,3.48,3.17
+13,Tristan Xerri,North Melbourne,Ruck,22.0,8.0,14.0,0.36,0.64,0.0,0.0,6.0,4.75,1.85,2.9,-1.65
+13,Zac Fisher,North Melbourne,Gen. Forward,14.0,5.0,9.0,0.36,0.64,0.0,0.0,2.0,1.29,-1.14,2.43,-0.71
+14,Caleb Daniel,North Melbourne,Gen. Defender,23.0,15.0,8.0,0.65,0.35,4.0,0.0,1.0,-2.61,-1.35,-1.26,0.17
+14,Cameron Zurhaar,North Melbourne,Gen. Forward,8.0,6.0,2.0,0.75,0.25,1.0,0.0,3.0,-2.54,-1.64,-0.91,-2.86
+14,Colby McKercher,North Melbourne,Gen. Defender,27.0,24.0,3.0,0.89,0.11,2.0,0.0,1.0,3.87,9.13,-5.26,-1.39
+14,Dylan Stephens,North Melbourne,Midfielder,27.0,12.0,15.0,0.44,0.56,2.0,0.0,3.0,9.5,2.64,6.86,-2.68
+14,Finn O'Sullivan,North Melbourne,Gen. Defender,14.0,11.0,3.0,0.79,0.21,6.0,0.0,1.0,-0.32,2.82,-3.14,2.0
+14,George Wardlaw,North Melbourne,Midfielder,17.0,14.0,3.0,0.82,0.18,3.0,0.0,6.0,1.46,4.15,-2.69,1.38
+14,Griffin Logue,North Melbourne,Key Defender,10.0,4.0,6.0,0.4,0.6,3.0,0.0,3.0,-1.62,-1.81,0.19,-1.62
+14,Harry Sheezel,North Melbourne,Mid-Forward,32.0,15.0,17.0,0.47,0.53,9.0,1.0,6.0,2.7,0.17,2.52,3.22
+14,Jack Darling,North Melbourne,Key Forward,9.0,6.0,3.0,0.67,0.33,5.0,1.0,2.0,-0.77,-0.32,-0.46,1.64
+14,Jacob Konstanty,North Melbourne,Gen. Forward,12.0,7.0,5.0,0.58,0.42,0.0,1.0,5.0,2.87,2.04,0.83,-1.65
+14,Jy Simpkin,North Melbourne,Mid-Forward,11.0,5.0,6.0,0.45,0.55,1.0,0.0,4.0,-11.14,-7.81,-3.33,-3.05
+14,Kallan Dawson,North Melbourne,Key Defender,,,,,,,,,,,,
+14,Luke Davies-Uniacke,North Melbourne,Midfielder,27.0,11.0,16.0,0.41,0.59,0.0,1.0,5.0,2.27,-0.68,2.96,-3.73
+14,Luke McDonald,North Melbourne,Gen. Defender,27.0,19.0,8.0,0.7,0.3,8.0,0.0,1.0,11.53,9.73,1.8,3.53
+14,Luke Parker,North Melbourne,Midfielder,20.0,17.0,3.0,0.85,0.15,4.0,2.0,3.0,-3.32,5.54,-8.86,0.46
+14,Nick Larkey,North Melbourne,Key Forward,12.0,6.0,6.0,0.5,0.5,3.0,3.0,2.0,2.29,-0.35,2.65,-1.59
+14,Paul Curtis,North Melbourne,Gen. Forward,12.0,7.0,5.0,0.58,0.42,3.0,0.0,9.0,0.26,-0.89,1.16,-0.95
+14,Riley Hardeman,North Melbourne,Gen. Defender,11.0,7.0,4.0,0.64,0.36,1.0,0.0,2.0,-2.0,-1.65,-0.35,-2.29
+14,Robert Hansen Jr,North Melbourne,Mid-Forward,,,,,,,,,,,,
+14,Toby Pink,North Melbourne,Key Defender,10.0,7.0,3.0,0.7,0.3,6.0,0.0,1.0,-0.59,-0.29,-0.29,0.82
+14,Tom Powell,North Melbourne,Midfielder,23.0,11.0,12.0,0.48,0.52,2.0,0.0,3.0,0.0,0.52,-0.52,-1.83
+14,Tristan Xerri,North Melbourne,Ruck,13.0,3.0,10.0,0.23,0.77,2.0,0.0,7.0,-4.25,-3.15,-1.1,0.35
+14,Zac Fisher,North Melbourne,Gen. Forward,13.0,6.0,7.0,0.46,0.54,1.0,1.0,6.0,0.29,-0.14,0.43,0.29
+15,Caleb Daniel,North Melbourne,Gen. Defender,24.0,14.0,10.0,0.58,0.42,3.0,0.0,2.0,-1.61,-2.35,0.74,-0.83
+15,Cameron Zurhaar,North Melbourne,Gen. Forward,11.0,6.0,5.0,0.55,0.45,3.0,3.0,2.0,0.46,-1.64,2.09,-0.86
+15,Charlie Comben,North Melbourne,Key Defender,14.0,7.0,7.0,0.5,0.5,4.0,0.0,1.0,1.75,-0.5,2.25,-1.5
+15,Colby McKercher,North Melbourne,Gen. Defender,29.0,20.0,9.0,0.69,0.31,1.0,2.0,3.0,5.87,5.13,0.74,-2.39
+15,Dylan Stephens,North Melbourne,Midfielder,13.0,8.0,5.0,0.62,0.38,6.0,1.0,0.0,-4.5,-1.36,-3.14,1.32
+15,Finn O'Sullivan,North Melbourne,Gen. Defender,18.0,9.0,9.0,0.5,0.5,3.0,0.0,2.0,3.68,0.82,2.86,-1.0
+15,George Wardlaw,North Melbourne,Midfielder,,,,,,,,,,,,
+15,Griffin Logue,North Melbourne,Key Defender,8.0,3.0,5.0,0.38,0.62,3.0,0.0,1.0,-3.62,-2.81,-0.81,-1.62
+15,Harry Sheezel,North Melbourne,Mid-Forward,30.0,16.0,14.0,0.53,0.47,9.0,1.0,3.0,0.7,1.17,-0.48,3.22
+15,Jack Darling,North Melbourne,Key Forward,6.0,4.0,2.0,0.67,0.33,2.0,1.0,2.0,-3.77,-2.32,-1.46,-1.36
+15,Jacob Konstanty,North Melbourne,Gen. Forward,9.0,7.0,2.0,0.78,0.22,3.0,0.0,5.0,-0.13,2.04,-2.17,1.35
+15,Jy Simpkin,North Melbourne,Mid-Forward,18.0,6.0,12.0,0.33,0.67,3.0,0.0,3.0,-4.14,-6.81,2.67,-1.05
+15,Luke Davies-Uniacke,North Melbourne,Midfielder,30.0,11.0,19.0,0.37,0.63,4.0,0.0,4.0,5.27,-0.68,5.96,0.27
+15,Luke McDonald,North Melbourne,Gen. Defender,18.0,14.0,4.0,0.78,0.22,8.0,0.0,3.0,2.53,4.73,-2.2,3.53
+15,Luke Parker,North Melbourne,Midfielder,28.0,10.0,18.0,0.36,0.64,5.0,0.0,8.0,4.68,-1.46,6.14,1.46
+15,Nick Larkey,North Melbourne,Key Forward,7.0,4.0,3.0,0.57,0.43,3.0,1.0,5.0,-2.71,-2.35,-0.35,-1.59
+15,Paul Curtis,North Melbourne,Gen. Forward,10.0,8.0,2.0,0.8,0.2,4.0,2.0,5.0,-1.74,0.11,-1.84,0.05
+15,Riley Hardeman,North Melbourne,Gen. Defender,15.0,10.0,5.0,0.67,0.33,3.0,0.0,2.0,2.0,1.35,0.65,-0.29
+15,Robert Hansen Jr,North Melbourne,Mid-Forward,9.0,6.0,3.0,0.67,0.33,4.0,1.0,0.0,0.33,0.83,-0.5,1.83
+15,Toby Pink,North Melbourne,Key Defender,13.0,11.0,2.0,0.85,0.15,9.0,0.0,1.0,2.41,3.71,-1.29,3.82
+15,Tom Powell,North Melbourne,Midfielder,34.0,16.0,18.0,0.47,0.53,3.0,0.0,5.0,11.0,5.52,5.48,-0.83
+15,Tristan Xerri,North Melbourne,Ruck,12.0,3.0,9.0,0.25,0.75,1.0,1.0,5.0,-5.25,-3.15,-2.1,-0.65
+15,Zac Fisher,North Melbourne,Gen. Forward,,,,,,,,,,,,
+16,Caleb Daniel,North Melbourne,Gen. Defender,26.0,18.0,8.0,0.69,0.31,3.0,0.0,0.0,0.39,1.65,-1.26,-0.83
+16,Cameron Zurhaar,North Melbourne,Gen. Forward,8.0,4.0,4.0,0.5,0.5,2.0,0.0,3.0,-2.54,-3.64,1.09,-1.86
+16,Colby McKercher,North Melbourne,Gen. Defender,34.0,19.0,15.0,0.56,0.44,4.0,0.0,1.0,10.87,4.13,6.74,0.61
+16,Dylan Stephens,North Melbourne,Midfielder,11.0,2.0,9.0,0.18,0.82,1.0,0.0,0.0,-6.5,-7.36,0.86,-3.68
+16,Finn O'Sullivan,North Melbourne,Gen. Defender,10.0,6.0,4.0,0.6,0.4,3.0,0.0,1.0,-4.32,-2.18,-2.14,-1.0
+16,George Wardlaw,North Melbourne,Midfielder,,,,,,,,,,,,
+16,Griffin Logue,North Melbourne,Key Defender,10.0,2.0,8.0,0.2,0.8,2.0,0.0,2.0,-1.62,-3.81,2.19,-2.62
+16,Harry Sheezel,North Melbourne,Mid-Forward,20.0,8.0,12.0,0.4,0.6,3.0,0.0,2.0,-9.3,-6.83,-2.48,-2.78
+16,Jack Darling,North Melbourne,Key Forward,7.0,2.0,5.0,0.29,0.71,1.0,0.0,2.0,-2.77,-4.32,1.54,-2.36
+16,Jacob Konstanty,North Melbourne,Gen. Forward,11.0,9.0,2.0,0.82,0.18,2.0,1.0,3.0,1.87,4.04,-2.17,0.35
+16,Jy Simpkin,North Melbourne,Mid-Forward,16.0,8.0,8.0,0.5,0.5,2.0,0.0,2.0,-6.14,-4.81,-1.33,-2.05
+16,Luke Davies-Uniacke,North Melbourne,Midfielder,28.0,17.0,11.0,0.61,0.39,5.0,0.0,1.0,3.27,5.32,-2.04,1.27
+16,Luke McDonald,North Melbourne,Gen. Defender,9.0,5.0,4.0,0.56,0.44,6.0,0.0,2.0,-6.47,-4.27,-2.2,1.53
+16,Luke Parker,North Melbourne,Midfielder,29.0,17.0,12.0,0.59,0.41,4.0,0.0,1.0,5.68,5.54,0.14,0.46
+16,Nick Larkey,North Melbourne,Key Forward,14.0,10.0,4.0,0.71,0.29,7.0,5.0,1.0,4.29,3.65,0.65,2.41
+16,Paul Curtis,North Melbourne,Gen. Forward,11.0,8.0,3.0,0.73,0.27,3.0,1.0,3.0,-0.74,0.11,-0.84,-0.95
+16,Riley Hardeman,North Melbourne,Gen. Defender,5.0,4.0,1.0,0.8,0.2,1.0,0.0,1.0,-8.0,-4.65,-3.35,-2.29
+16,Robert Hansen Jr,North Melbourne,Mid-Forward,,,,,,,,,,,,
+16,Toby Pink,North Melbourne,Key Defender,7.0,4.0,3.0,0.57,0.43,4.0,0.0,1.0,-3.59,-3.29,-0.29,-1.18
+16,Tom Powell,North Melbourne,Midfielder,14.0,5.0,9.0,0.36,0.64,1.0,0.0,5.0,-9.0,-5.48,-3.52,-2.83
+16,Tristan Xerri,North Melbourne,Ruck,18.0,6.0,12.0,0.33,0.67,5.0,0.0,3.0,0.75,-0.15,0.9,3.35
+16,Wil Dawson,North Melbourne,Key Defender,9.0,6.0,3.0,0.67,0.33,5.0,0.0,2.0,2.0,0.6,1.4,0.6
+16,Zac Fisher,North Melbourne,Gen. Forward,9.0,5.0,4.0,0.56,0.44,2.0,1.0,0.0,-3.71,-1.14,-2.57,1.29
+17,Bailey Scott,North Melbourne,Midfielder,18.0,9.0,9.0,0.5,0.5,6.0,0.0,0.0,7.5,2.92,4.58,2.33
+17,Caleb Daniel,North Melbourne,Gen. Defender,25.0,15.0,10.0,0.6,0.4,5.0,0.0,4.0,-0.61,-1.35,0.74,1.17
+17,Cameron Zurhaar,North Melbourne,Gen. Forward,10.0,8.0,2.0,0.8,0.2,4.0,2.0,3.0,-0.54,0.36,-0.91,0.14
+17,Colby McKercher,North Melbourne,Gen. Defender,32.0,23.0,9.0,0.72,0.28,9.0,1.0,1.0,8.87,8.13,0.74,5.61
+17,Cooper Harvey,North Melbourne,Gen. Forward,15.0,10.0,5.0,0.67,0.33,4.0,1.0,2.0,6.43,4.14,2.29,0.57
+17,Dylan Stephens,North Melbourne,Midfielder,16.0,11.0,5.0,0.69,0.31,4.0,0.0,1.0,-1.5,1.64,-3.14,-0.68
+17,Finn O'Sullivan,North Melbourne,Gen. Defender,11.0,4.0,7.0,0.36,0.64,3.0,0.0,0.0,-3.32,-4.18,0.86,-1.0
+17,Finnbar Maley,North Melbourne,Key Forward,8.0,2.0,6.0,0.25,0.75,4.0,1.0,6.0,1.43,-1.14,2.57,1.29
+17,Griffin Logue,North Melbourne,Key Defender,13.0,8.0,5.0,0.62,0.38,6.0,0.0,1.0,1.38,2.19,-0.81,1.38
+17,Harry Sheezel,North Melbourne,Mid-Forward,22.0,10.0,12.0,0.45,0.55,3.0,1.0,6.0,-7.3,-4.83,-2.48,-2.78
+17,Jacob Konstanty,North Melbourne,Gen. Forward,8.0,4.0,4.0,0.5,0.5,2.0,0.0,5.0,-1.13,-0.96,-0.17,0.35
+17,Jy Simpkin,North Melbourne,Mid-Forward,16.0,9.0,7.0,0.56,0.44,2.0,0.0,4.0,-6.14,-3.81,-2.33,-2.05
+17,Luke Davies-Uniacke,North Melbourne,Midfielder,,,,,,,,,,,,
+17,Nick Larkey,North Melbourne,Key Forward,9.0,8.0,1.0,0.89,0.11,6.0,5.0,0.0,-0.71,1.65,-2.35,1.41
+17,Paul Curtis,North Melbourne,Gen. Forward,7.0,5.0,2.0,0.71,0.29,1.0,1.0,4.0,-4.74,-2.89,-1.84,-2.95
+17,Riley Hardeman,North Melbourne,Gen. Defender,20.0,14.0,6.0,0.7,0.3,1.0,0.0,1.0,7.0,5.35,1.65,-2.29
+17,Robert Hansen Jr,North Melbourne,Mid-Forward,,,,,,,,,,,,
+17,Toby Pink,North Melbourne,Key Defender,10.0,3.0,7.0,0.3,0.7,4.0,0.0,0.0,-0.59,-4.29,3.71,-1.18
+17,Tom Powell,North Melbourne,Midfielder,25.0,12.0,13.0,0.48,0.52,4.0,0.0,8.0,2.0,1.52,0.48,0.17
+17,Tristan Xerri,North Melbourne,Ruck,17.0,8.0,9.0,0.47,0.53,1.0,0.0,5.0,-0.25,1.85,-2.1,-0.65
+17,Wil Dawson,North Melbourne,Key Defender,8.0,8.0,0.0,1.0,0.0,3.0,0.0,4.0,1.0,2.6,-1.6,-1.4
+17,Will Phillips,North Melbourne,Midfielder,16.0,8.0,8.0,0.5,0.5,4.0,0.0,4.0,1.57,2.86,-1.29,1.57
+17,Zane Duursma,North Melbourne,Gen. Forward,6.0,3.0,3.0,0.5,0.5,1.0,0.0,0.0,-0.8,-1.1,0.3,-1.9
+18,Bailey Scott,North Melbourne,Midfielder,,,,,,,,,,,,
+18,Caleb Daniel,North Melbourne,Gen. Defender,28.0,20.0,8.0,0.71,0.29,4.0,0.0,3.0,2.39,3.65,-1.26,0.17
+18,Cameron Zurhaar,North Melbourne,Gen. Forward,13.0,10.0,3.0,0.77,0.23,4.0,3.0,1.0,2.46,2.36,0.09,0.14
+18,Charlie Comben,North Melbourne,Key Defender,8.0,6.0,2.0,0.75,0.25,5.0,0.0,0.0,-4.25,-1.5,-2.75,-0.5
+18,Colby McKercher,North Melbourne,Gen. Defender,29.0,16.0,13.0,0.55,0.45,3.0,0.0,2.0,5.87,1.13,4.74,-0.39
+18,Cooper Harvey,North Melbourne,Gen. Forward,13.0,9.0,4.0,0.69,0.31,7.0,4.0,1.0,4.43,3.14,1.29,3.57
+18,Dylan Stephens,North Melbourne,Midfielder,15.0,5.0,10.0,0.33,0.67,5.0,0.0,0.0,-2.5,-4.36,1.86,0.32
+18,Finn O'Sullivan,North Melbourne,Gen. Defender,15.0,8.0,7.0,0.53,0.47,5.0,0.0,2.0,0.68,-0.18,0.86,1.0
+18,Finnbar Maley,North Melbourne,Key Forward,,,,,,,,,,,,
+18,Griffin Logue,North Melbourne,Key Defender,12.0,9.0,3.0,0.75,0.25,5.0,0.0,3.0,0.38,3.19,-2.81,0.38
+18,Harry Sheezel,North Melbourne,Mid-Forward,29.0,14.0,15.0,0.48,0.52,6.0,0.0,6.0,-0.3,-0.83,0.52,0.22
+18,Jack Darling,North Melbourne,Key Forward,9.0,7.0,2.0,0.78,0.22,4.0,3.0,0.0,-0.77,0.68,-1.46,0.64
+18,Jacob Konstanty,North Melbourne,Gen. Forward,13.0,7.0,6.0,0.54,0.46,5.0,0.0,3.0,3.87,2.04,1.83,3.35
+18,Jy Simpkin,North Melbourne,Mid-Forward,21.0,13.0,8.0,0.62,0.38,2.0,0.0,1.0,-1.14,0.19,-1.33,-2.05
+18,Luke Parker,North Melbourne,Midfielder,27.0,13.0,14.0,0.48,0.52,4.0,0.0,6.0,3.68,1.54,2.14,0.46
+18,Paul Curtis,North Melbourne,Gen. Forward,12.0,8.0,4.0,0.67,0.33,7.0,2.0,6.0,0.26,0.11,0.16,3.05
+18,Riley Hardeman,North Melbourne,Gen. Defender,12.0,8.0,4.0,0.67,0.33,0.0,0.0,1.0,-1.0,-0.65,-0.35,-3.29
+18,Robert Hansen Jr,North Melbourne,Mid-Forward,8.0,6.0,2.0,0.75,0.25,1.0,0.0,1.0,-0.67,0.83,-1.5,-1.17
+18,Toby Pink,North Melbourne,Key Defender,11.0,5.0,6.0,0.45,0.55,4.0,0.0,1.0,0.41,-2.29,2.71,-1.18
+18,Tom Powell,North Melbourne,Midfielder,27.0,6.0,21.0,0.22,0.78,6.0,0.0,4.0,4.0,-4.48,8.48,2.17
+18,Tristan Xerri,North Melbourne,Ruck,7.0,3.0,4.0,0.43,0.57,1.0,0.0,6.0,-10.25,-3.15,-7.1,-0.65
+18,Wil Dawson,North Melbourne,Key Defender,7.0,4.0,3.0,0.57,0.43,7.0,0.0,3.0,0.0,-1.4,1.4,2.6
+18,Will Phillips,North Melbourne,Midfielder,20.0,11.0,9.0,0.55,0.45,2.0,0.0,4.0,5.57,5.86,-0.29,-0.43
+19,Brynn Teakle,North Melbourne,Ruck,17.0,14.0,3.0,0.82,0.18,5.0,1.0,6.0,6.75,7.25,-0.5,2.25
+19,Caleb Daniel,North Melbourne,Gen. Defender,27.0,9.0,18.0,0.33,0.67,4.0,0.0,1.0,1.39,-7.35,8.74,0.17
+19,Callum Coleman-Jones,North Melbourne,Ruck,,,,,,,,,,,,
+19,Cameron Zurhaar,North Melbourne,Gen. Forward,12.0,7.0,5.0,0.58,0.42,2.0,0.0,3.0,1.46,-0.64,2.09,-1.86
+19,Charlie Comben,North Melbourne,Key Defender,7.0,4.0,3.0,0.57,0.43,4.0,0.0,3.0,-5.25,-3.5,-1.75,-1.5
+19,Colby McKercher,North Melbourne,Gen. Defender,22.0,13.0,9.0,0.59,0.41,3.0,1.0,2.0,-1.13,-1.87,0.74,-0.39
+19,Cooper Harvey,North Melbourne,Gen. Forward,4.0,3.0,1.0,0.75,0.25,1.0,2.0,0.0,-4.57,-2.86,-1.71,-2.43
+19,Dylan Stephens,North Melbourne,Midfielder,10.0,4.0,6.0,0.4,0.6,3.0,0.0,2.0,-7.5,-5.36,-2.14,-1.68
+19,Finn O'Sullivan,North Melbourne,Gen. Defender,20.0,11.0,9.0,0.55,0.45,9.0,0.0,1.0,5.68,2.82,2.86,5.0
+19,Griffin Logue,North Melbourne,Key Defender,17.0,11.0,6.0,0.65,0.35,7.0,0.0,4.0,5.38,5.19,0.19,2.38
+19,Harry Sheezel,North Melbourne,Mid-Forward,27.0,13.0,14.0,0.48,0.52,5.0,1.0,5.0,-2.3,-1.83,-0.48,-0.78
+19,Jack Darling,North Melbourne,Key Forward,8.0,8.0,0.0,1.0,0.0,3.0,1.0,4.0,-1.77,1.68,-3.46,-0.36
+19,Jacob Konstanty,North Melbourne,Gen. Forward,7.0,3.0,4.0,0.43,0.57,1.0,0.0,6.0,-2.13,-1.96,-0.17,-0.65
+19,Jy Simpkin,North Melbourne,Mid-Forward,28.0,26.0,2.0,0.93,0.07,9.0,1.0,3.0,5.86,13.19,-7.33,4.95
+19,Luke Davies-Uniacke,North Melbourne,Midfielder,26.0,12.0,14.0,0.46,0.54,5.0,0.0,3.0,1.27,0.32,0.96,1.27
+19,Luke Parker,North Melbourne,Midfielder,14.0,8.0,6.0,0.57,0.43,2.0,0.0,2.0,-9.32,-3.46,-5.86,-1.54
+19,Paul Curtis,North Melbourne,Gen. Forward,6.0,5.0,1.0,0.83,0.17,3.0,0.0,6.0,-5.74,-2.89,-2.84,-0.95
+19,Riley Hardeman,North Melbourne,Gen. Defender,18.0,11.0,7.0,0.61,0.39,7.0,0.0,0.0,5.0,2.35,2.65,3.71
+19,Toby Pink,North Melbourne,Key Defender,8.0,3.0,5.0,0.38,0.62,2.0,0.0,2.0,-2.59,-4.29,1.71,-3.18
+19,Tom Powell,North Melbourne,Midfielder,24.0,8.0,16.0,0.33,0.67,3.0,0.0,5.0,1.0,-2.48,3.48,-0.83
+19,Wil Dawson,North Melbourne,Key Defender,4.0,3.0,1.0,0.75,0.25,3.0,0.0,3.0,-3.0,-2.4,-0.6,-1.4
+19,Will Phillips,North Melbourne,Midfielder,17.0,3.0,14.0,0.18,0.82,3.0,0.0,7.0,2.57,-2.14,4.71,0.57
+19,Zac Banch,North Melbourne,Gen. Forward,,,,,,,,,,,,
+20,Brynn Teakle,North Melbourne,Ruck,13.0,7.0,6.0,0.54,0.46,1.0,0.0,3.0,2.75,0.25,2.5,-1.75
+20,Caleb Daniel,North Melbourne,Gen. Defender,18.0,11.0,7.0,0.61,0.39,1.0,0.0,4.0,-7.61,-5.35,-2.26,-2.83
+20,Cameron Zurhaar,North Melbourne,Gen. Forward,10.0,10.0,0.0,1.0,0.0,3.0,3.0,2.0,-0.54,2.36,-2.91,-0.86
+20,Charlie Comben,North Melbourne,Key Defender,13.0,9.0,4.0,0.69,0.31,7.0,0.0,1.0,0.75,1.5,-0.75,1.5
+20,Colby McKercher,North Melbourne,Gen. Defender,32.0,21.0,11.0,0.66,0.34,6.0,0.0,1.0,8.87,6.13,2.74,2.61
+20,Dylan Stephens,North Melbourne,Midfielder,17.0,8.0,9.0,0.47,0.53,7.0,0.0,0.0,-0.5,-1.36,0.86,2.32
+20,Finn O'Sullivan,North Melbourne,Gen. Defender,16.0,4.0,12.0,0.25,0.75,3.0,0.0,6.0,1.68,-4.18,5.86,-1.0
+20,Finnbar Maley,North Melbourne,Key Forward,8.0,5.0,3.0,0.62,0.38,4.0,1.0,1.0,1.43,1.86,-0.43,1.29
+20,Griffin Logue,North Melbourne,Key Defender,13.0,5.0,8.0,0.38,0.62,3.0,0.0,0.0,1.38,-0.81,2.19,-1.62
+20,Harry Sheezel,North Melbourne,Mid-Forward,27.0,15.0,12.0,0.56,0.44,7.0,0.0,5.0,-2.3,0.17,-2.48,1.22
+20,Jack Darling,North Melbourne,Key Forward,11.0,6.0,5.0,0.55,0.45,4.0,1.0,2.0,1.23,-0.32,1.54,0.64
+20,Jacob Konstanty,North Melbourne,Gen. Forward,,,,,,,,,,,,
+20,Jy Simpkin,North Melbourne,Mid-Forward,24.0,14.0,10.0,0.58,0.42,7.0,0.0,3.0,1.86,1.19,0.67,2.95
+20,Luke Davies-Uniacke,North Melbourne,Midfielder,21.0,8.0,13.0,0.38,0.62,2.0,0.0,7.0,-3.73,-3.68,-0.04,-1.73
+20,Luke Parker,North Melbourne,Midfielder,31.0,17.0,14.0,0.55,0.45,3.0,0.0,5.0,7.68,5.54,2.14,-0.54
+20,Paul Curtis,North Melbourne,Gen. Forward,9.0,6.0,3.0,0.67,0.33,5.0,2.0,3.0,-2.74,-1.89,-0.84,1.05
+20,Riley Hardeman,North Melbourne,Gen. Defender,19.0,10.0,9.0,0.53,0.47,8.0,0.0,0.0,6.0,1.35,4.65,4.71
+20,Robert Hansen Jr,North Melbourne,Mid-Forward,,,,,,,,,,,,
+20,Toby Pink,North Melbourne,Key Defender,15.0,13.0,2.0,0.87,0.13,6.0,0.0,2.0,4.41,5.71,-1.29,0.82
+20,Tom Powell,North Melbourne,Midfielder,24.0,13.0,11.0,0.54,0.46,7.0,0.0,8.0,1.0,2.52,-1.52,3.17
+20,Wil Dawson,North Melbourne,Key Defender,7.0,6.0,1.0,0.86,0.14,4.0,0.0,2.0,0.0,0.6,-0.6,-0.4
+20,Zac Banch,North Melbourne,Gen. Forward,10.0,4.0,6.0,0.4,0.6,6.0,0.0,0.0,3.25,0.25,3.0,3.0
+20,Zane Duursma,North Melbourne,Gen. Forward,12.0,7.0,5.0,0.58,0.42,5.0,0.0,0.0,5.2,2.9,2.3,2.1
+21,Brynn Teakle,North Melbourne,Ruck,7.0,4.0,3.0,0.57,0.43,4.0,0.0,4.0,-3.25,-2.75,-0.5,1.25
+21,Caleb Daniel,North Melbourne,Gen. Defender,32.0,19.0,13.0,0.59,0.41,8.0,0.0,2.0,6.39,2.65,3.74,4.17
+21,Cameron Zurhaar,North Melbourne,Gen. Forward,10.0,10.0,0.0,1.0,0.0,8.0,2.0,0.0,-0.54,2.36,-2.91,4.14
+21,Charlie Comben,North Melbourne,Key Defender,14.0,8.0,6.0,0.57,0.43,4.0,0.0,0.0,1.75,0.5,1.25,-1.5
+21,Colby McKercher,North Melbourne,Gen. Defender,36.0,28.0,8.0,0.78,0.22,8.0,1.0,1.0,12.87,13.13,-0.26,4.61
+21,Cooper Harvey,North Melbourne,Gen. Forward,9.0,8.0,1.0,0.89,0.11,4.0,0.0,0.0,0.43,2.14,-1.71,0.57
+21,Dylan Stephens,North Melbourne,Midfielder,20.0,12.0,8.0,0.6,0.4,6.0,0.0,0.0,2.5,2.64,-0.14,1.32
+21,Finn O'Sullivan,North Melbourne,Gen. Defender,18.0,10.0,8.0,0.56,0.44,7.0,0.0,0.0,3.68,1.82,1.86,3.0
+21,George Wardlaw,North Melbourne,Midfielder,17.0,9.0,8.0,0.53,0.47,3.0,1.0,6.0,1.46,-0.85,2.31,1.38
+21,Griffin Logue,North Melbourne,Key Defender,12.0,4.0,8.0,0.33,0.67,5.0,0.0,1.0,0.38,-1.81,2.19,0.38
+21,Harry Sheezel,North Melbourne,Mid-Forward,33.0,17.0,16.0,0.52,0.48,5.0,1.0,3.0,3.7,2.17,1.52,-0.78
+21,Jack Darling,North Melbourne,Key Forward,14.0,12.0,2.0,0.86,0.14,5.0,1.0,3.0,4.23,5.68,-1.46,1.64
+21,Jacob Konstanty,North Melbourne,Gen. Forward,12.0,6.0,6.0,0.5,0.5,2.0,0.0,1.0,2.87,1.04,1.83,0.35
+21,Luke Davies-Uniacke,North Melbourne,Midfielder,21.0,11.0,10.0,0.52,0.48,6.0,1.0,5.0,-3.73,-0.68,-3.04,2.27
+21,Luke Parker,North Melbourne,Midfielder,17.0,9.0,8.0,0.53,0.47,3.0,0.0,3.0,-6.32,-2.46,-3.86,-0.54
+21,Nick Larkey,North Melbourne,Key Forward,7.0,5.0,2.0,0.71,0.29,8.0,3.0,0.0,-2.71,-1.35,-1.35,3.41
+21,Paul Curtis,North Melbourne,Gen. Forward,10.0,7.0,3.0,0.7,0.3,4.0,0.0,6.0,-1.74,-0.89,-0.84,0.05
+21,Riley Hardeman,North Melbourne,Gen. Defender,14.0,9.0,5.0,0.64,0.36,8.0,0.0,1.0,1.0,0.35,0.65,4.71
+21,Robert Hansen Jr,North Melbourne,Mid-Forward,,,,,,,,,,,,
+21,Toby Pink,North Melbourne,Key Defender,15.0,9.0,6.0,0.6,0.4,5.0,0.0,1.0,4.41,1.71,2.71,-0.18
+21,Tom Powell,North Melbourne,Midfielder,24.0,11.0,13.0,0.46,0.54,6.0,0.0,5.0,1.0,0.52,0.48,2.17
+21,Zac Banch,North Melbourne,Gen. Forward,,,,,,,,,,,,
+21,Zane Duursma,North Melbourne,Gen. Forward,8.0,4.0,4.0,0.5,0.5,6.0,0.0,0.0,1.2,-0.1,1.3,3.1
+22,Bailey Scott,North Melbourne,Midfielder,6.0,3.0,3.0,0.5,0.5,2.0,0.0,1.0,-4.5,-3.08,-1.42,-1.67
+22,Brynn Teakle,North Melbourne,Ruck,4.0,2.0,2.0,0.5,0.5,1.0,0.0,4.0,-6.25,-4.75,-1.5,-1.75
+22,Caleb Daniel,North Melbourne,Gen. Defender,23.0,16.0,7.0,0.7,0.3,2.0,0.0,1.0,-2.61,-0.35,-2.26,-1.83
+22,Cameron Zurhaar,North Melbourne,Gen. Forward,10.0,8.0,2.0,0.8,0.2,5.0,0.0,4.0,-0.54,0.36,-0.91,1.14
+22,Charlie Comben,North Melbourne,Key Defender,14.0,9.0,5.0,0.64,0.36,10.0,0.0,1.0,1.75,1.5,0.25,4.5
+22,Colby McKercher,North Melbourne,Gen. Defender,27.0,23.0,4.0,0.85,0.15,4.0,1.0,1.0,3.87,8.13,-4.26,0.61
+22,Cooper Harvey,North Melbourne,Gen. Forward,9.0,7.0,2.0,0.78,0.22,5.0,2.0,4.0,0.43,1.14,-0.71,1.57
+22,Cooper Trembath,North Melbourne,Key Forward,6.0,4.0,2.0,0.67,0.33,2.0,3.0,1.0,-2.67,-1.33,-1.33,-1.33
+22,Dylan Stephens,North Melbourne,Midfielder,14.0,8.0,6.0,0.57,0.43,6.0,1.0,1.0,-3.5,-1.36,-2.14,1.32
+22,Finn O'Sullivan,North Melbourne,Gen. Defender,15.0,9.0,6.0,0.6,0.4,6.0,0.0,2.0,0.68,0.82,-0.14,2.0
+22,Geordie Payne,North Melbourne,Gen. Forward,6.0,2.0,4.0,0.33,0.67,1.0,1.0,3.0,0.67,-0.33,1.0,0.33
+22,George Wardlaw,North Melbourne,Midfielder,18.0,12.0,6.0,0.67,0.33,3.0,0.0,11.0,2.46,2.15,0.31,1.38
+22,Griffin Logue,North Melbourne,Key Defender,13.0,7.0,6.0,0.54,0.46,4.0,0.0,1.0,1.38,1.19,0.19,-0.62
+22,Harry Sheezel,North Melbourne,Mid-Forward,31.0,14.0,17.0,0.45,0.55,7.0,0.0,4.0,1.7,-0.83,2.52,1.22
+22,Jack Darling,North Melbourne,Key Forward,9.0,8.0,1.0,0.89,0.11,3.0,3.0,3.0,-0.77,1.68,-2.46,-0.36
+22,Jacob Konstanty,North Melbourne,Gen. Forward,6.0,2.0,4.0,0.33,0.67,0.0,0.0,5.0,-3.13,-2.96,-0.17,-1.65
+22,Luke Davies-Uniacke,North Melbourne,Midfielder,20.0,12.0,8.0,0.6,0.4,5.0,0.0,5.0,-4.73,0.32,-5.04,1.27
+22,Luke Parker,North Melbourne,Midfielder,29.0,19.0,10.0,0.66,0.34,6.0,1.0,5.0,5.68,7.54,-1.86,2.46
+22,Riley Hardeman,North Melbourne,Gen. Defender,,,,,,,,,,,,
+22,Toby Pink,North Melbourne,Key Defender,5.0,4.0,1.0,0.8,0.2,3.0,0.0,2.0,-5.59,-3.29,-2.29,-2.18
+22,Tom Powell,North Melbourne,Midfielder,11.0,8.0,3.0,0.73,0.27,1.0,0.0,2.0,-12.0,-2.48,-9.52,-2.83
+22,Tristan Xerri,North Melbourne,Ruck,11.0,3.0,8.0,0.27,0.73,0.0,0.0,7.0,-6.25,-3.15,-3.1,-1.65
+22,Zane Duursma,North Melbourne,Gen. Forward,8.0,6.0,2.0,0.75,0.25,5.0,0.0,0.0,1.2,1.9,-0.7,2.1
+23,Bailey Scott,North Melbourne,Midfielder,17.0,11.0,6.0,0.65,0.35,6.0,0.0,0.0,6.5,4.92,1.58,2.33
+23,Caleb Daniel,North Melbourne,Gen. Defender,25.0,13.0,12.0,0.52,0.48,2.0,0.0,1.0,-0.61,-3.35,2.74,-1.83
+23,Cameron Zurhaar,North Melbourne,Gen. Forward,,,,,,,,,,,,
+23,Charlie Comben,North Melbourne,Key Defender,12.0,6.0,6.0,0.5,0.5,4.0,0.0,0.0,-0.25,-1.5,1.25,-1.5
+23,Colby McKercher,North Melbourne,Gen. Defender,29.0,20.0,9.0,0.69,0.31,1.0,0.0,2.0,5.87,5.13,0.74,-2.39
+23,Cooper Harvey,North Melbourne,Gen. Forward,4.0,1.0,3.0,0.25,0.75,1.0,0.0,2.0,-4.57,-4.86,0.29,-2.43
+23,Cooper Trembath,North Melbourne,Key Forward,9.0,5.0,4.0,0.56,0.44,4.0,3.0,1.0,0.33,-0.33,0.67,0.67
+23,Dylan Stephens,North Melbourne,Midfielder,22.0,11.0,11.0,0.5,0.5,3.0,0.0,2.0,4.5,1.64,2.86,-1.68
+23,Finn O'Sullivan,North Melbourne,Gen. Defender,21.0,12.0,9.0,0.57,0.43,3.0,0.0,3.0,6.68,3.82,2.86,-1.0
+23,Geordie Payne,North Melbourne,Gen. Forward,8.0,4.0,4.0,0.5,0.5,1.0,2.0,1.0,2.67,1.67,1.0,0.33
+23,George Wardlaw,North Melbourne,Midfielder,25.0,12.0,13.0,0.48,0.52,1.0,0.0,2.0,9.46,2.15,7.31,-0.62
+23,Griffin Logue,North Melbourne,Key Defender,16.0,6.0,10.0,0.38,0.62,8.0,1.0,1.0,4.38,0.19,4.19,3.38
+23,Harry Sheezel,North Melbourne,Mid-Forward,54.0,25.0,29.0,0.46,0.54,7.0,2.0,5.0,24.7,10.17,14.52,1.22
+23,Jack Darling,North Melbourne,Key Forward,10.0,5.0,5.0,0.5,0.5,3.0,1.0,2.0,0.23,-1.32,1.54,-0.36
+23,Jacob Konstanty,North Melbourne,Gen. Forward,12.0,7.0,5.0,0.58,0.42,2.0,1.0,4.0,2.87,2.04,0.83,0.35
+23,Jy Simpkin,North Melbourne,Mid-Forward,24.0,14.0,10.0,0.58,0.42,4.0,1.0,2.0,1.86,1.19,0.67,-0.05
+23,Luke Davies-Uniacke,North Melbourne,Midfielder,40.0,18.0,22.0,0.45,0.55,9.0,1.0,7.0,15.27,6.32,8.96,5.27
+23,Luke Parker,North Melbourne,Midfielder,30.0,12.0,18.0,0.4,0.6,5.0,0.0,5.0,6.68,0.54,6.14,1.46
+23,Matt Whitlock,North Melbourne,Key Defender,,,,,,,,,,,,
+23,Paul Curtis,North Melbourne,Gen. Forward,15.0,7.0,8.0,0.47,0.53,5.0,5.0,3.0,3.26,-0.89,4.16,1.05
+23,Toby Pink,North Melbourne,Key Defender,10.0,7.0,3.0,0.7,0.3,6.0,0.0,0.0,-0.59,-0.29,-0.29,0.82
+23,Tom Powell,North Melbourne,Midfielder,22.0,10.0,12.0,0.45,0.55,5.0,1.0,3.0,-1.0,-0.48,-0.52,1.17
+23,Tristan Xerri,North Melbourne,Ruck,22.0,3.0,19.0,0.14,0.86,1.0,0.0,18.0,4.75,-3.15,7.9,-0.65
+24,Aidan Corr,North Melbourne,Key Defender,4.0,2.0,2.0,0.5,0.5,0.0,0.0,2.0,-9.7,-8.0,-1.7,-4.3
+24,Bailey Scott,North Melbourne,Midfielder,10.0,8.0,2.0,0.8,0.2,3.0,1.0,1.0,-0.5,1.92,-2.42,-0.67
+24,Caleb Daniel,North Melbourne,Gen. Defender,22.0,17.0,5.0,0.77,0.23,4.0,0.0,1.0,-3.61,0.65,-4.26,0.17
+24,Charlie Comben,North Melbourne,Key Defender,12.0,6.0,6.0,0.5,0.5,6.0,0.0,0.0,-0.25,-1.5,1.25,0.5
+24,Colby McKercher,North Melbourne,Gen. Defender,23.0,12.0,11.0,0.52,0.48,1.0,0.0,2.0,-0.13,-2.87,2.74,-2.39
+24,Cooper Harvey,North Melbourne,Gen. Forward,,,,,,,,,,,,
+24,Cooper Trembath,North Melbourne,Key Forward,11.0,7.0,4.0,0.64,0.36,4.0,3.0,3.0,2.33,1.67,0.67,0.67
+24,Dylan Stephens,North Melbourne,Midfielder,22.0,13.0,9.0,0.59,0.41,3.0,2.0,1.0,4.5,3.64,0.86,-1.68
+24,Finn O'Sullivan,North Melbourne,Gen. Defender,17.0,10.0,7.0,0.59,0.41,10.0,0.0,0.0,2.68,1.82,0.86,6.0
+24,Geordie Payne,North Melbourne,Gen. Forward,,,,,,,,,,,,
+24,George Wardlaw,North Melbourne,Midfielder,18.0,11.0,7.0,0.61,0.39,4.0,0.0,9.0,2.46,1.15,1.31,2.38
+24,Griffin Logue,North Melbourne,Key Defender,14.0,8.0,6.0,0.57,0.43,10.0,0.0,0.0,2.38,2.19,0.19,5.38
+24,Harry Sheezel,North Melbourne,Mid-Forward,32.0,15.0,17.0,0.47,0.53,7.0,0.0,3.0,2.7,0.17,2.52,1.22
+24,Jack Darling,North Melbourne,Key Forward,5.0,4.0,1.0,0.8,0.2,2.0,1.0,3.0,-4.77,-2.32,-2.46,-1.36
+24,Jacob Konstanty,North Melbourne,Gen. Forward,,,,,,,,,,,,
+24,Jy Simpkin,North Melbourne,Mid-Forward,33.0,22.0,11.0,0.67,0.33,8.0,0.0,1.0,10.86,9.19,1.67,3.95
+24,Luke Davies-Uniacke,North Melbourne,Midfielder,31.0,16.0,15.0,0.52,0.48,3.0,1.0,3.0,6.27,4.32,1.96,-0.73
+24,Luke Parker,North Melbourne,Midfielder,27.0,10.0,17.0,0.37,0.63,5.0,1.0,5.0,3.68,-1.46,5.14,1.46
+24,Paul Curtis,North Melbourne,Gen. Forward,11.0,8.0,3.0,0.73,0.27,3.0,3.0,4.0,-0.74,0.11,-0.84,-0.95
+24,Toby Pink,North Melbourne,Key Defender,10.0,9.0,1.0,0.9,0.1,8.0,0.0,0.0,-0.59,1.71,-2.29,2.82
+24,Tom Powell,North Melbourne,Midfielder,16.0,6.0,10.0,0.38,0.62,4.0,1.0,2.0,-7.0,-4.48,-2.52,0.17
+24,Tristan Xerri,North Melbourne,Ruck,25.0,12.0,13.0,0.48,0.52,3.0,0.0,12.0,7.75,5.85,1.9,1.35
+24,Zac Banch,North Melbourne,Gen. Forward,9.0,6.0,3.0,0.67,0.33,1.0,1.0,2.0,2.25,2.25,0.0,-2.0

@@ -1,530 +1,530 @@
-Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
-1,Angus Hastie,St Kilda,,,,,,,,,Gen. Defender
-1,Anthony Caminiti,St Kilda,13.0,6.0,7.0,0.46,0.54,4.0,0.0,2.0,Key Defender
-1,Arie Schoenmaker,St Kilda,18.0,14.0,4.0,0.78,0.22,5.0,0.0,0.0,Gen. Defender
-1,Bradley Hill,St Kilda,6.0,4.0,2.0,0.67,0.33,1.0,1.0,0.0,Mid-Forward
-1,Callum Wilkie,St Kilda,19.0,15.0,4.0,0.79,0.21,10.0,0.0,1.0,Key Defender
-1,Darcy Wilson,St Kilda,23.0,13.0,10.0,0.57,0.43,5.0,0.0,5.0,Mid-Forward
-1,Harry Boyd,St Kilda,12.0,4.0,8.0,0.33,0.67,1.0,0.0,2.0,Ruck
-1,Hugo Garcia,St Kilda,18.0,10.0,8.0,0.56,0.44,1.0,1.0,3.0,Midfielder
-1,Hunter Clark,St Kilda,,,,,,,,,Midfielder
-1,Jack Higgins,St Kilda,11.0,5.0,6.0,0.45,0.55,2.0,2.0,3.0,Gen. Forward
-1,Jack Macrae,St Kilda,34.0,13.0,21.0,0.38,0.62,3.0,0.0,5.0,Midfielder
-1,Jack Sinclair,St Kilda,22.0,16.0,6.0,0.73,0.27,8.0,0.0,1.0,Gen. Defender
-1,Jack Steele,St Kilda,19.0,8.0,11.0,0.42,0.58,3.0,0.0,6.0,Midfielder
-1,Jimmy Webster,St Kilda,10.0,8.0,2.0,0.8,0.2,2.0,0.0,0.0,Gen. Defender
-1,Liam O'Connell,St Kilda,7.0,4.0,3.0,0.57,0.43,3.0,0.0,2.0,Gen. Defender
-1,Marcus Windhager,St Kilda,19.0,9.0,10.0,0.47,0.53,2.0,0.0,4.0,Midfielder
-1,Mason Wood,St Kilda,15.0,10.0,5.0,0.67,0.33,6.0,2.0,2.0,Mid-Forward
-1,Max Hall,St Kilda,16.0,9.0,7.0,0.56,0.44,5.0,2.0,3.0,Gen. Forward
-1,Nasiah Wanganeen-Milera,St Kilda,27.0,21.0,6.0,0.78,0.22,6.0,1.0,3.0,Gen. Defender
-1,Rowan Marshall,St Kilda,11.0,4.0,7.0,0.36,0.64,4.0,0.0,4.0,Ruck
-1,Ryan Byrnes,St Kilda,17.0,10.0,7.0,0.59,0.41,4.0,0.0,2.0,Gen. Defender
-1,Zaine Cordy,St Kilda,4.0,2.0,2.0,0.5,0.5,2.0,1.0,1.0,Key Defender
-1,Zak Jones,St Kilda,11.0,8.0,3.0,0.73,0.27,0.0,0.0,1.0,Midfielder
-2,Anthony Caminiti,St Kilda,18.0,14.0,4.0,0.78,0.22,13.0,0.0,0.0,Key Defender
-2,Bradley Hill,St Kilda,13.0,9.0,4.0,0.69,0.31,3.0,0.0,2.0,Mid-Forward
-2,Callum Wilkie,St Kilda,19.0,15.0,4.0,0.79,0.21,9.0,0.0,3.0,Key Defender
-2,Darcy Wilson,St Kilda,17.0,10.0,7.0,0.59,0.41,1.0,0.0,3.0,Mid-Forward
-2,Hugo Garcia,St Kilda,,,,,,,,,Midfielder
-2,Hunter Clark,St Kilda,,,,,,,,,Midfielder
-2,Isaac Keeler,St Kilda,7.0,3.0,4.0,0.43,0.57,2.0,1.0,4.0,Key Forward
-2,Jack Higgins,St Kilda,12.0,9.0,3.0,0.75,0.25,4.0,4.0,3.0,Gen. Forward
-2,Jack Macrae,St Kilda,35.0,17.0,18.0,0.49,0.51,8.0,0.0,10.0,Midfielder
-2,Jack Sinclair,St Kilda,25.0,18.0,7.0,0.72,0.28,3.0,2.0,6.0,Gen. Defender
-2,Jack Steele,St Kilda,22.0,8.0,14.0,0.36,0.64,4.0,0.0,13.0,Midfielder
-2,Jimmy Webster,St Kilda,11.0,8.0,3.0,0.73,0.27,5.0,0.0,1.0,Gen. Defender
-2,Lance Collard,St Kilda,6.0,3.0,3.0,0.5,0.5,0.0,2.0,3.0,Gen. Forward
-2,Liam O'Connell,St Kilda,4.0,4.0,0.0,1.0,0.0,2.0,0.0,5.0,Gen. Defender
-2,Liam Stocker,St Kilda,,,,,,,,,Gen. Defender
-2,Marcus Windhager,St Kilda,25.0,15.0,10.0,0.6,0.4,5.0,2.0,5.0,Midfielder
-2,Mason Wood,St Kilda,26.0,17.0,9.0,0.65,0.35,10.0,2.0,3.0,Mid-Forward
-2,Max Hall,St Kilda,13.0,7.0,6.0,0.54,0.46,3.0,0.0,2.0,Gen. Forward
-2,Mitch Owens,St Kilda,10.0,6.0,4.0,0.6,0.4,5.0,2.0,3.0,Key Forward
-2,Nasiah Wanganeen-Milera,St Kilda,29.0,19.0,10.0,0.66,0.34,5.0,0.0,2.0,Gen. Defender
-2,Rowan Marshall,St Kilda,29.0,16.0,13.0,0.55,0.45,6.0,0.0,6.0,Ruck
-2,Ryan Byrnes,St Kilda,20.0,13.0,7.0,0.65,0.35,5.0,0.0,0.0,Gen. Defender
-2,Zak Jones,St Kilda,27.0,15.0,12.0,0.56,0.44,7.0,0.0,5.0,Midfielder
-3,Angus Hastie,St Kilda,7.0,5.0,2.0,0.71,0.29,3.0,0.0,0.0,Gen. Defender
-3,Anthony Caminiti,St Kilda,17.0,13.0,4.0,0.76,0.24,9.0,0.0,0.0,Key Defender
-3,Bradley Hill,St Kilda,22.0,16.0,6.0,0.73,0.27,4.0,1.0,0.0,Mid-Forward
-3,Callum Wilkie,St Kilda,13.0,7.0,6.0,0.54,0.46,4.0,0.0,1.0,Key Defender
-3,Cooper Sharman,St Kilda,11.0,8.0,3.0,0.73,0.27,5.0,2.0,2.0,Key Forward
-3,Darcy Wilson,St Kilda,20.0,14.0,6.0,0.7,0.3,5.0,1.0,1.0,Mid-Forward
-3,Hugo Garcia,St Kilda,23.0,13.0,10.0,0.57,0.43,5.0,0.0,9.0,Midfielder
-3,Isaac Keeler,St Kilda,9.0,6.0,3.0,0.67,0.33,1.0,1.0,0.0,Key Forward
-3,Jack Higgins,St Kilda,11.0,7.0,4.0,0.64,0.36,1.0,3.0,1.0,Gen. Forward
-3,Jack Macrae,St Kilda,31.0,15.0,16.0,0.48,0.52,4.0,0.0,6.0,Midfielder
-3,Jack Sinclair,St Kilda,40.0,28.0,12.0,0.7,0.3,7.0,0.0,1.0,Gen. Defender
-3,Jimmy Webster,St Kilda,18.0,11.0,7.0,0.61,0.39,8.0,0.0,2.0,Gen. Defender
-3,Lance Collard,St Kilda,12.0,7.0,5.0,0.58,0.42,3.0,2.0,2.0,Gen. Forward
-3,Liam O'Connell,St Kilda,,,,,,,,,Gen. Defender
-3,Marcus Windhager,St Kilda,19.0,7.0,12.0,0.37,0.63,1.0,0.0,4.0,Midfielder
-3,Mason Wood,St Kilda,16.0,11.0,5.0,0.69,0.31,8.0,3.0,2.0,Mid-Forward
-3,Max Hall,St Kilda,18.0,12.0,6.0,0.67,0.33,8.0,2.0,1.0,Gen. Forward
-3,Mitch Owens,St Kilda,14.0,9.0,5.0,0.64,0.36,4.0,4.0,0.0,Key Forward
-3,Nasiah Wanganeen-Milera,St Kilda,29.0,21.0,8.0,0.72,0.28,7.0,0.0,3.0,Gen. Defender
-3,Rowan Marshall,St Kilda,23.0,11.0,12.0,0.48,0.52,12.0,1.0,2.0,Ruck
-3,Ryan Byrnes,St Kilda,18.0,12.0,6.0,0.67,0.33,8.0,0.0,0.0,Gen. Defender
-3,Tobie Travaglia,St Kilda,18.0,6.0,12.0,0.33,0.67,2.0,0.0,3.0,Gen. Defender
-3,Zak Jones,St Kilda,20.0,8.0,12.0,0.4,0.6,4.0,0.0,3.0,Midfielder
-4,Angus Hastie,St Kilda,,,,,,,,,Gen. Defender
-4,Anthony Caminiti,St Kilda,17.0,11.0,6.0,0.65,0.35,10.0,0.0,1.0,Key Defender
-4,Bradley Hill,St Kilda,18.0,10.0,8.0,0.56,0.44,6.0,0.0,2.0,Mid-Forward
-4,Callum Wilkie,St Kilda,17.0,13.0,4.0,0.76,0.24,7.0,0.0,4.0,Key Defender
-4,Cooper Sharman,St Kilda,13.0,9.0,4.0,0.69,0.31,4.0,1.0,3.0,Key Forward
-4,Darcy Wilson,St Kilda,19.0,16.0,3.0,0.84,0.16,4.0,1.0,0.0,Mid-Forward
-4,Hugo Garcia,St Kilda,12.0,4.0,8.0,0.33,0.67,0.0,0.0,5.0,Midfielder
-4,Isaac Keeler,St Kilda,,,,,,,,,Key Forward
-4,Jack Higgins,St Kilda,10.0,6.0,4.0,0.6,0.4,2.0,3.0,5.0,Gen. Forward
-4,Jack Macrae,St Kilda,28.0,15.0,13.0,0.54,0.46,0.0,0.0,4.0,Midfielder
-4,Jack Sinclair,St Kilda,25.0,21.0,4.0,0.84,0.16,3.0,1.0,2.0,Gen. Defender
-4,Jimmy Webster,St Kilda,8.0,7.0,1.0,0.88,0.12,3.0,0.0,1.0,Gen. Defender
-4,Lance Collard,St Kilda,9.0,8.0,1.0,0.89,0.11,1.0,1.0,5.0,Gen. Forward
-4,Liam Stocker,St Kilda,14.0,8.0,6.0,0.57,0.43,4.0,0.0,1.0,Gen. Defender
-4,Marcus Windhager,St Kilda,18.0,10.0,8.0,0.56,0.44,1.0,0.0,3.0,Midfielder
-4,Mason Wood,St Kilda,13.0,9.0,4.0,0.69,0.31,2.0,1.0,2.0,Mid-Forward
-4,Max Hall,St Kilda,8.0,2.0,6.0,0.25,0.75,1.0,1.0,3.0,Gen. Forward
-4,Mitch Owens,St Kilda,8.0,6.0,2.0,0.75,0.25,2.0,2.0,1.0,Key Forward
-4,Nasiah Wanganeen-Milera,St Kilda,25.0,20.0,5.0,0.8,0.2,3.0,1.0,2.0,Gen. Defender
-4,Rowan Marshall,St Kilda,14.0,9.0,5.0,0.64,0.36,3.0,0.0,5.0,Ruck
-4,Ryan Byrnes,St Kilda,17.0,14.0,3.0,0.82,0.18,7.0,0.0,3.0,Gen. Defender
-4,Tobie Travaglia,St Kilda,9.0,6.0,3.0,0.67,0.33,2.0,1.0,3.0,Gen. Defender
-4,Zak Jones,St Kilda,11.0,2.0,9.0,0.18,0.82,3.0,0.0,0.0,Midfielder
-5,Angus Hastie,St Kilda,,,,,,,,,Gen. Defender
-5,Anthony Caminiti,St Kilda,10.0,7.0,3.0,0.7,0.3,7.0,0.0,1.0,Key Defender
-5,Bradley Hill,St Kilda,22.0,13.0,9.0,0.59,0.41,3.0,0.0,1.0,Mid-Forward
-5,Callum Wilkie,St Kilda,18.0,10.0,8.0,0.56,0.44,6.0,0.0,0.0,Key Defender
-5,Cooper Sharman,St Kilda,13.0,10.0,3.0,0.77,0.23,5.0,3.0,2.0,Key Forward
-5,Darcy Wilson,St Kilda,13.0,9.0,4.0,0.69,0.31,6.0,0.0,4.0,Mid-Forward
-5,Hugo Garcia,St Kilda,23.0,14.0,9.0,0.61,0.39,3.0,0.0,4.0,Midfielder
-5,Jack Higgins,St Kilda,6.0,5.0,1.0,0.83,0.17,2.0,2.0,2.0,Gen. Forward
-5,Jack Macrae,St Kilda,17.0,4.0,13.0,0.24,0.76,1.0,0.0,5.0,Midfielder
-5,Jack Sinclair,St Kilda,26.0,18.0,8.0,0.69,0.31,3.0,1.0,5.0,Gen. Defender
-5,Jack Steele,St Kilda,20.0,9.0,11.0,0.45,0.55,3.0,0.0,5.0,Midfielder
-5,Jimmy Webster,St Kilda,7.0,3.0,4.0,0.43,0.57,2.0,0.0,0.0,Gen. Defender
-5,Lance Collard,St Kilda,,,,,,,,,Gen. Forward
-5,Liam Stocker,St Kilda,15.0,9.0,6.0,0.6,0.4,5.0,0.0,1.0,Gen. Defender
-5,Marcus Windhager,St Kilda,25.0,11.0,14.0,0.44,0.56,5.0,0.0,4.0,Midfielder
-5,Mason Wood,St Kilda,16.0,12.0,4.0,0.75,0.25,10.0,1.0,0.0,Mid-Forward
-5,Max Hall,St Kilda,17.0,9.0,8.0,0.53,0.47,2.0,1.0,2.0,Gen. Forward
-5,Mitch Owens,St Kilda,12.0,7.0,5.0,0.58,0.42,2.0,0.0,2.0,Key Forward
-5,Nasiah Wanganeen-Milera,St Kilda,24.0,17.0,7.0,0.71,0.29,2.0,3.0,3.0,Gen. Defender
-5,Rowan Marshall,St Kilda,12.0,6.0,6.0,0.5,0.5,2.0,0.0,4.0,Ruck
-5,Ryan Byrnes,St Kilda,23.0,13.0,10.0,0.57,0.43,6.0,1.0,0.0,Gen. Defender
-5,Tobie Travaglia,St Kilda,8.0,3.0,5.0,0.38,0.62,1.0,0.0,3.0,Gen. Defender
-5,Zak Jones,St Kilda,13.0,4.0,9.0,0.31,0.69,1.0,0.0,0.0,Midfielder
-6,Anthony Caminiti,St Kilda,11.0,7.0,4.0,0.64,0.36,6.0,0.0,2.0,Key Defender
-6,Arie Schoenmaker,St Kilda,19.0,15.0,4.0,0.79,0.21,3.0,0.0,0.0,Gen. Defender
-6,Bradley Hill,St Kilda,17.0,15.0,2.0,0.88,0.12,9.0,0.0,3.0,Mid-Forward
-6,Callum Wilkie,St Kilda,22.0,17.0,5.0,0.77,0.23,12.0,0.0,1.0,Key Defender
-6,Cooper Sharman,St Kilda,8.0,5.0,3.0,0.62,0.38,6.0,0.0,2.0,Key Forward
-6,Darcy Wilson,St Kilda,17.0,8.0,9.0,0.47,0.53,2.0,1.0,1.0,Mid-Forward
-6,Hugo Garcia,St Kilda,16.0,10.0,6.0,0.62,0.38,1.0,0.0,10.0,Midfielder
-6,Jack Higgins,St Kilda,12.0,5.0,7.0,0.42,0.58,2.0,3.0,6.0,Gen. Forward
-6,Jack Macrae,St Kilda,19.0,8.0,11.0,0.42,0.58,1.0,0.0,9.0,Midfielder
-6,Jack Sinclair,St Kilda,21.0,16.0,5.0,0.76,0.24,4.0,1.0,1.0,Gen. Defender
-6,Jack Steele,St Kilda,16.0,4.0,12.0,0.25,0.75,4.0,0.0,4.0,Midfielder
-6,Jimmy Webster,St Kilda,16.0,9.0,7.0,0.56,0.44,6.0,0.0,3.0,Gen. Defender
-6,Lance Collard,St Kilda,8.0,3.0,5.0,0.38,0.62,0.0,0.0,0.0,Gen. Forward
-6,Liam Henry,St Kilda,,,,,,,,,Gen. Forward
-6,Liam Stocker,St Kilda,15.0,11.0,4.0,0.73,0.27,7.0,0.0,1.0,Gen. Defender
-6,Marcus Windhager,St Kilda,21.0,11.0,10.0,0.52,0.48,2.0,0.0,3.0,Midfielder
-6,Mason Wood,St Kilda,16.0,7.0,9.0,0.44,0.56,4.0,0.0,1.0,Mid-Forward
-6,Max Hall,St Kilda,13.0,5.0,8.0,0.38,0.62,4.0,0.0,0.0,Gen. Forward
-6,Mitch Owens,St Kilda,11.0,6.0,5.0,0.55,0.45,4.0,3.0,1.0,Key Forward
-6,Nasiah Wanganeen-Milera,St Kilda,25.0,15.0,10.0,0.6,0.4,3.0,0.0,3.0,Gen. Defender
-6,Rowan Marshall,St Kilda,16.0,5.0,11.0,0.31,0.69,0.0,0.0,0.0,Ruck
-6,Ryan Byrnes,St Kilda,13.0,5.0,8.0,0.38,0.62,4.0,0.0,0.0,Gen. Defender
-6,Zak Jones,St Kilda,,,,,,,,,Midfielder
-7,Anthony Caminiti,St Kilda,15.0,5.0,10.0,0.33,0.67,2.0,1.0,2.0,Key Defender
-7,Bradley Hill,St Kilda,33.0,15.0,18.0,0.45,0.55,5.0,0.0,3.0,Mid-Forward
-7,Callum Wilkie,St Kilda,21.0,14.0,7.0,0.67,0.33,6.0,0.0,1.0,Key Defender
-7,Cooper Sharman,St Kilda,11.0,6.0,5.0,0.55,0.45,6.0,1.0,2.0,Key Forward
-7,Darcy Wilson,St Kilda,19.0,10.0,9.0,0.53,0.47,3.0,1.0,2.0,Mid-Forward
-7,Dougal Howard,St Kilda,11.0,7.0,4.0,0.64,0.36,6.0,0.0,1.0,Key Defender
-7,Hugo Garcia,St Kilda,,,,,,,,,Midfielder
-7,Isaac Keeler,St Kilda,3.0,1.0,2.0,0.33,0.67,0.0,1.0,0.0,Key Forward
-7,Jack Higgins,St Kilda,8.0,3.0,5.0,0.38,0.62,2.0,3.0,1.0,Gen. Forward
-7,Jack Macrae,St Kilda,26.0,13.0,13.0,0.5,0.5,5.0,0.0,3.0,Midfielder
-7,Jack Sinclair,St Kilda,29.0,20.0,9.0,0.69,0.31,5.0,0.0,1.0,Gen. Defender
-7,Jack Steele,St Kilda,29.0,7.0,22.0,0.24,0.76,0.0,0.0,6.0,Midfielder
-7,Jimmy Webster,St Kilda,16.0,6.0,10.0,0.38,0.62,3.0,0.0,3.0,Gen. Defender
-7,Lance Collard,St Kilda,6.0,5.0,1.0,0.83,0.17,1.0,0.0,2.0,Gen. Forward
-7,Liam Stocker,St Kilda,10.0,5.0,5.0,0.5,0.5,2.0,0.0,3.0,Gen. Defender
-7,Marcus Windhager,St Kilda,21.0,15.0,6.0,0.71,0.29,4.0,0.0,6.0,Midfielder
-7,Mason Wood,St Kilda,8.0,6.0,2.0,0.75,0.25,6.0,1.0,0.0,Mid-Forward
-7,Max Hall,St Kilda,15.0,8.0,7.0,0.53,0.47,3.0,1.0,4.0,Gen. Forward
-7,Mitch Owens,St Kilda,17.0,5.0,12.0,0.29,0.71,1.0,0.0,1.0,Key Forward
-7,Nasiah Wanganeen-Milera,St Kilda,32.0,26.0,6.0,0.81,0.19,6.0,1.0,4.0,Gen. Defender
-7,Rowan Marshall,St Kilda,18.0,12.0,6.0,0.67,0.33,1.0,1.0,5.0,Ruck
-7,Ryan Byrnes,St Kilda,18.0,10.0,8.0,0.56,0.44,4.0,0.0,4.0,Gen. Defender
-7,Zak Jones,St Kilda,,,,,,,,,Midfielder
-8,Anthony Caminiti,St Kilda,12.0,6.0,6.0,0.5,0.5,3.0,1.0,2.0,Key Defender
-8,Bradley Hill,St Kilda,21.0,11.0,10.0,0.52,0.48,0.0,1.0,1.0,Mid-Forward
-8,Callum Wilkie,St Kilda,24.0,20.0,4.0,0.83,0.17,14.0,0.0,3.0,Key Defender
-8,Cooper Sharman,St Kilda,16.0,12.0,4.0,0.75,0.25,9.0,4.0,2.0,Key Forward
-8,Darcy Wilson,St Kilda,13.0,6.0,7.0,0.46,0.54,3.0,1.0,0.0,Mid-Forward
-8,Dougal Howard,St Kilda,11.0,9.0,2.0,0.82,0.18,7.0,0.0,1.0,Key Defender
-8,Hugh Boxshall,St Kilda,,,,,,,,,Midfielder
-8,Hugo Garcia,St Kilda,19.0,10.0,9.0,0.53,0.47,0.0,1.0,10.0,Midfielder
-8,Jack Higgins,St Kilda,12.0,6.0,6.0,0.5,0.5,2.0,1.0,2.0,Gen. Forward
-8,Jack Macrae,St Kilda,38.0,19.0,19.0,0.5,0.5,6.0,0.0,8.0,Midfielder
-8,Jack Sinclair,St Kilda,19.0,10.0,9.0,0.53,0.47,2.0,0.0,1.0,Gen. Defender
-8,Jack Steele,St Kilda,22.0,12.0,10.0,0.55,0.45,2.0,1.0,11.0,Midfielder
-8,Jimmy Webster,St Kilda,21.0,14.0,7.0,0.67,0.33,7.0,0.0,2.0,Gen. Defender
-8,Lance Collard,St Kilda,6.0,4.0,2.0,0.67,0.33,1.0,1.0,3.0,Gen. Forward
-8,Liam O'Connell,St Kilda,6.0,5.0,1.0,0.83,0.17,2.0,0.0,5.0,Gen. Defender
-8,Liam Stocker,St Kilda,11.0,10.0,1.0,0.91,0.09,6.0,0.0,2.0,Gen. Defender
-8,Marcus Windhager,St Kilda,21.0,12.0,9.0,0.57,0.43,6.0,0.0,0.0,Midfielder
-8,Max Hall,St Kilda,15.0,6.0,9.0,0.4,0.6,3.0,0.0,5.0,Gen. Forward
-8,Mitch Owens,St Kilda,18.0,11.0,7.0,0.61,0.39,5.0,3.0,2.0,Key Forward
-8,Nasiah Wanganeen-Milera,St Kilda,28.0,20.0,8.0,0.71,0.29,10.0,0.0,0.0,Gen. Defender
-8,Rowan Marshall,St Kilda,13.0,7.0,6.0,0.54,0.46,2.0,0.0,5.0,Ruck
-8,Ryan Byrnes,St Kilda,16.0,11.0,5.0,0.69,0.31,2.0,0.0,5.0,Gen. Defender
-8,Tobie Travaglia,St Kilda,,,,,,,,,Gen. Defender
-9,Anthony Caminiti,St Kilda,10.0,6.0,4.0,0.6,0.4,5.0,1.0,5.0,Key Defender
-9,Bradley Hill,St Kilda,19.0,10.0,9.0,0.53,0.47,2.0,0.0,1.0,Mid-Forward
-9,Callum Wilkie,St Kilda,16.0,12.0,4.0,0.75,0.25,10.0,0.0,1.0,Key Defender
-9,Cooper Sharman,St Kilda,14.0,11.0,3.0,0.79,0.21,5.0,2.0,1.0,Key Forward
-9,Darcy Wilson,St Kilda,24.0,18.0,6.0,0.75,0.25,8.0,0.0,3.0,Mid-Forward
-9,Dougal Howard,St Kilda,11.0,9.0,2.0,0.82,0.18,6.0,0.0,5.0,Key Defender
-9,Hugh Boxshall,St Kilda,,,,,,,,,Midfielder
-9,Hugo Garcia,St Kilda,11.0,7.0,4.0,0.64,0.36,3.0,0.0,7.0,Midfielder
-9,Jack Higgins,St Kilda,8.0,3.0,5.0,0.38,0.62,0.0,2.0,2.0,Gen. Forward
-9,Jack Macrae,St Kilda,23.0,10.0,13.0,0.43,0.57,4.0,0.0,1.0,Midfielder
-9,Jack Sinclair,St Kilda,26.0,15.0,11.0,0.58,0.42,3.0,1.0,3.0,Gen. Defender
-9,Jack Steele,St Kilda,20.0,13.0,7.0,0.65,0.35,6.0,0.0,9.0,Midfielder
-9,Jimmy Webster,St Kilda,11.0,6.0,5.0,0.55,0.45,6.0,0.0,2.0,Gen. Defender
-9,Lance Collard,St Kilda,,,,,,,,,Gen. Forward
-9,Liam O'Connell,St Kilda,6.0,3.0,3.0,0.5,0.5,3.0,0.0,2.0,Gen. Defender
-9,Liam Stocker,St Kilda,8.0,7.0,1.0,0.88,0.12,6.0,0.0,4.0,Gen. Defender
-9,Marcus Windhager,St Kilda,13.0,9.0,4.0,0.69,0.31,2.0,0.0,4.0,Midfielder
-9,Mattaes Phillipou,St Kilda,12.0,6.0,6.0,0.5,0.5,4.0,2.0,4.0,Gen. Forward
-9,Max Hall,St Kilda,14.0,9.0,5.0,0.64,0.36,4.0,1.0,4.0,Gen. Forward
-9,Mitch Owens,St Kilda,14.0,8.0,6.0,0.57,0.43,3.0,0.0,8.0,Key Forward
-9,Nasiah Wanganeen-Milera,St Kilda,30.0,23.0,7.0,0.77,0.23,8.0,0.0,1.0,Gen. Defender
-9,Rowan Marshall,St Kilda,19.0,14.0,5.0,0.74,0.26,8.0,0.0,2.0,Ruck
-9,Ryan Byrnes,St Kilda,22.0,13.0,9.0,0.59,0.41,10.0,0.0,3.0,Gen. Defender
-10,Angus McLennan,St Kilda,,,,,,,,,Gen. Defender
-10,Anthony Caminiti,St Kilda,16.0,5.0,11.0,0.31,0.69,3.0,0.0,2.0,Key Defender
-10,Bradley Hill,St Kilda,22.0,14.0,8.0,0.64,0.36,6.0,0.0,4.0,Mid-Forward
-10,Callum Wilkie,St Kilda,24.0,13.0,11.0,0.54,0.46,6.0,0.0,0.0,Key Defender
-10,Cooper Sharman,St Kilda,6.0,5.0,1.0,0.83,0.17,2.0,1.0,3.0,Key Forward
-10,Darcy Wilson,St Kilda,17.0,6.0,11.0,0.35,0.65,2.0,2.0,1.0,Mid-Forward
-10,Hugo Garcia,St Kilda,12.0,8.0,4.0,0.67,0.33,1.0,0.0,7.0,Midfielder
-10,Jack Higgins,St Kilda,12.0,7.0,5.0,0.58,0.42,4.0,5.0,3.0,Gen. Forward
-10,Jack Macrae,St Kilda,27.0,15.0,12.0,0.56,0.44,2.0,0.0,3.0,Midfielder
-10,Jack Sinclair,St Kilda,38.0,30.0,8.0,0.79,0.21,7.0,0.0,3.0,Gen. Defender
-10,Jack Steele,St Kilda,16.0,9.0,7.0,0.56,0.44,3.0,0.0,14.0,Midfielder
-10,Jimmy Webster,St Kilda,17.0,10.0,7.0,0.59,0.41,6.0,0.0,1.0,Gen. Defender
-10,Lance Collard,St Kilda,,,,,,,,,Gen. Forward
-10,Liam O'Connell,St Kilda,11.0,5.0,6.0,0.45,0.55,4.0,0.0,5.0,Gen. Defender
-10,Marcus Windhager,St Kilda,19.0,11.0,8.0,0.58,0.42,7.0,0.0,0.0,Midfielder
-10,Mason Wood,St Kilda,10.0,8.0,2.0,0.8,0.2,3.0,2.0,0.0,Mid-Forward
-10,Mattaes Phillipou,St Kilda,,,,,,,,,Gen. Forward
-10,Max Hall,St Kilda,13.0,7.0,6.0,0.54,0.46,3.0,1.0,1.0,Gen. Forward
-10,Mitch Owens,St Kilda,12.0,6.0,6.0,0.5,0.5,6.0,0.0,3.0,Key Forward
-10,Nasiah Wanganeen-Milera,St Kilda,27.0,13.0,14.0,0.48,0.52,2.0,0.0,3.0,Gen. Defender
-10,Rowan Marshall,St Kilda,27.0,19.0,8.0,0.7,0.3,8.0,1.0,5.0,Ruck
-10,Ryan Byrnes,St Kilda,17.0,12.0,5.0,0.71,0.29,7.0,0.0,1.0,Gen. Defender
-10,Tobie Travaglia,St Kilda,,,,,,,,,Gen. Defender
-11,Anthony Caminiti,St Kilda,11.0,5.0,6.0,0.45,0.55,7.0,0.0,3.0,Key Defender
-11,Bradley Hill,St Kilda,22.0,16.0,6.0,0.73,0.27,4.0,0.0,2.0,Mid-Forward
-11,Callum Wilkie,St Kilda,15.0,13.0,2.0,0.87,0.13,8.0,0.0,2.0,Key Defender
-11,Cooper Sharman,St Kilda,13.0,11.0,2.0,0.85,0.15,9.0,3.0,0.0,Key Forward
-11,Darcy Wilson,St Kilda,,,,,,,,,Mid-Forward
-11,Hugh Boxshall,St Kilda,,,,,,,,,Midfielder
-11,Hunter Clark,St Kilda,19.0,10.0,9.0,0.53,0.47,3.0,0.0,10.0,Midfielder
-11,Isaac Keeler,St Kilda,15.0,9.0,6.0,0.6,0.4,6.0,0.0,2.0,Key Forward
-11,Jack Higgins,St Kilda,6.0,2.0,4.0,0.33,0.67,2.0,0.0,1.0,Gen. Forward
-11,Jack Sinclair,St Kilda,29.0,18.0,11.0,0.62,0.38,5.0,1.0,5.0,Gen. Defender
-11,Jack Steele,St Kilda,33.0,12.0,21.0,0.36,0.64,7.0,1.0,5.0,Midfielder
-11,Jimmy Webster,St Kilda,11.0,8.0,3.0,0.73,0.27,4.0,0.0,5.0,Gen. Defender
-11,Liam O'Connell,St Kilda,9.0,5.0,4.0,0.56,0.44,2.0,0.0,3.0,Gen. Defender
-11,Marcus Windhager,St Kilda,19.0,12.0,7.0,0.63,0.37,4.0,0.0,4.0,Midfielder
-11,Mason Wood,St Kilda,16.0,12.0,4.0,0.75,0.25,8.0,0.0,3.0,Mid-Forward
-11,Mattaes Phillipou,St Kilda,23.0,12.0,11.0,0.52,0.48,4.0,0.0,0.0,Gen. Forward
-11,Max Hall,St Kilda,6.0,3.0,3.0,0.5,0.5,1.0,0.0,2.0,Gen. Forward
-11,Mitch Owens,St Kilda,25.0,15.0,10.0,0.6,0.4,8.0,2.0,1.0,Key Forward
-11,Nasiah Wanganeen-Milera,St Kilda,36.0,28.0,8.0,0.78,0.22,3.0,1.0,4.0,Gen. Defender
-11,Rowan Marshall,St Kilda,11.0,5.0,6.0,0.45,0.55,0.0,0.0,7.0,Ruck
-11,Ryan Byrnes,St Kilda,20.0,8.0,12.0,0.4,0.6,8.0,0.0,2.0,Gen. Defender
-11,Tobie Travaglia,St Kilda,19.0,10.0,9.0,0.53,0.47,3.0,0.0,3.0,Gen. Defender
-11,Zak Jones,St Kilda,19.0,6.0,13.0,0.32,0.68,1.0,0.0,5.0,Midfielder
-12,Anthony Caminiti,St Kilda,17.0,14.0,3.0,0.82,0.18,8.0,0.0,2.0,Key Defender
-12,Bradley Hill,St Kilda,26.0,23.0,3.0,0.88,0.12,13.0,1.0,0.0,Mid-Forward
-12,Callum Wilkie,St Kilda,31.0,22.0,9.0,0.71,0.29,15.0,0.0,2.0,Key Defender
-12,Cooper Sharman,St Kilda,14.0,10.0,4.0,0.71,0.29,8.0,0.0,1.0,Key Forward
-12,Dan Butler,St Kilda,12.0,9.0,3.0,0.75,0.25,3.0,4.0,0.0,Gen. Forward
-12,Hugh Boxshall,St Kilda,,,,,,,,,Midfielder
-12,Hunter Clark,St Kilda,20.0,7.0,13.0,0.35,0.65,6.0,1.0,5.0,Midfielder
-12,Isaac Keeler,St Kilda,10.0,9.0,1.0,0.9,0.1,6.0,3.0,0.0,Key Forward
-12,Jack Carroll,St Kilda,,,,,,,,,Midfielder
-12,Jack Higgins,St Kilda,10.0,5.0,5.0,0.5,0.5,3.0,1.0,1.0,Gen. Forward
-12,Jack Sinclair,St Kilda,25.0,23.0,2.0,0.92,0.08,7.0,0.0,4.0,Gen. Defender
-12,Jack Steele,St Kilda,23.0,12.0,11.0,0.52,0.48,8.0,0.0,6.0,Midfielder
-12,Jimmy Webster,St Kilda,12.0,8.0,4.0,0.67,0.33,7.0,0.0,2.0,Gen. Defender
-12,Marcus Windhager,St Kilda,28.0,18.0,10.0,0.64,0.36,8.0,0.0,4.0,Midfielder
-12,Mason Wood,St Kilda,15.0,9.0,6.0,0.6,0.4,7.0,0.0,2.0,Mid-Forward
-12,Mattaes Phillipou,St Kilda,,,,,,,,,Gen. Forward
-12,Max Hall,St Kilda,15.0,6.0,9.0,0.4,0.6,4.0,2.0,4.0,Gen. Forward
-12,Mitch Owens,St Kilda,13.0,5.0,8.0,0.38,0.62,4.0,1.0,3.0,Key Forward
-12,Nasiah Wanganeen-Milera,St Kilda,29.0,27.0,2.0,0.93,0.07,7.0,0.0,3.0,Gen. Defender
-12,Rowan Marshall,St Kilda,16.0,12.0,4.0,0.75,0.25,5.0,0.0,5.0,Ruck
-12,Ryan Byrnes,St Kilda,20.0,10.0,10.0,0.5,0.5,5.0,0.0,1.0,Gen. Defender
-12,Tobie Travaglia,St Kilda,13.0,10.0,3.0,0.77,0.23,7.0,1.0,1.0,Gen. Defender
-12,Zak Jones,St Kilda,20.0,10.0,10.0,0.5,0.5,5.0,0.0,1.0,Midfielder
-14,Anthony Caminiti,St Kilda,13.0,7.0,6.0,0.54,0.46,6.0,0.0,4.0,Key Defender
-14,Bradley Hill,St Kilda,16.0,10.0,6.0,0.62,0.38,4.0,1.0,1.0,Mid-Forward
-14,Callum Wilkie,St Kilda,21.0,14.0,7.0,0.67,0.33,10.0,0.0,2.0,Key Defender
-14,Cooper Sharman,St Kilda,12.0,7.0,5.0,0.58,0.42,6.0,1.0,4.0,Key Forward
-14,Dan Butler,St Kilda,,,,,,,,,Gen. Forward
-14,Hunter Clark,St Kilda,14.0,8.0,6.0,0.57,0.43,1.0,0.0,4.0,Midfielder
-14,Isaac Keeler,St Kilda,9.0,3.0,6.0,0.33,0.67,2.0,1.0,1.0,Key Forward
-14,Jack Carroll,St Kilda,,,,,,,,,Midfielder
-14,Jack Higgins,St Kilda,8.0,5.0,3.0,0.62,0.38,4.0,1.0,2.0,Gen. Forward
-14,Jack Macrae,St Kilda,22.0,11.0,11.0,0.5,0.5,3.0,0.0,5.0,Midfielder
-14,Jack Sinclair,St Kilda,30.0,22.0,8.0,0.73,0.27,7.0,0.0,1.0,Gen. Defender
-14,Jack Steele,St Kilda,22.0,11.0,11.0,0.5,0.5,4.0,0.0,11.0,Midfielder
-14,Jimmy Webster,St Kilda,12.0,8.0,4.0,0.67,0.33,8.0,0.0,2.0,Gen. Defender
-14,Liam Stocker,St Kilda,14.0,8.0,6.0,0.57,0.43,5.0,0.0,0.0,Gen. Defender
-14,Marcus Windhager,St Kilda,16.0,5.0,11.0,0.31,0.69,1.0,1.0,4.0,Midfielder
-14,Mason Wood,St Kilda,16.0,12.0,4.0,0.75,0.25,4.0,1.0,1.0,Mid-Forward
-14,Max Hall,St Kilda,9.0,4.0,5.0,0.44,0.56,0.0,0.0,3.0,Gen. Forward
-14,Mitch Owens,St Kilda,9.0,6.0,3.0,0.67,0.33,2.0,0.0,4.0,Key Forward
-14,Nasiah Wanganeen-Milera,St Kilda,31.0,28.0,3.0,0.9,0.1,9.0,1.0,1.0,Gen. Defender
-14,Rowan Marshall,St Kilda,23.0,15.0,8.0,0.65,0.35,6.0,0.0,6.0,Ruck
-14,Ryan Byrnes,St Kilda,18.0,11.0,7.0,0.61,0.39,6.0,1.0,0.0,Gen. Defender
-14,Tobie Travaglia,St Kilda,10.0,5.0,5.0,0.5,0.5,2.0,0.0,2.0,Gen. Defender
-14,Zak Jones,St Kilda,7.0,3.0,4.0,0.43,0.57,1.0,0.0,0.0,Midfielder
-15,Alixzander Tauru,St Kilda,9.0,7.0,2.0,0.78,0.22,6.0,0.0,2.0,Key Defender
-15,Anthony Caminiti,St Kilda,11.0,8.0,3.0,0.73,0.27,8.0,0.0,2.0,Key Defender
-15,Bradley Hill,St Kilda,21.0,11.0,10.0,0.52,0.48,5.0,0.0,2.0,Mid-Forward
-15,Callum Wilkie,St Kilda,20.0,14.0,6.0,0.7,0.3,6.0,0.0,0.0,Key Defender
-15,Cooper Sharman,St Kilda,10.0,5.0,5.0,0.5,0.5,2.0,1.0,1.0,Key Forward
-15,Dan Butler,St Kilda,9.0,6.0,3.0,0.67,0.33,3.0,2.0,2.0,Gen. Forward
-15,Darcy Wilson,St Kilda,14.0,9.0,5.0,0.64,0.36,5.0,2.0,1.0,Mid-Forward
-15,Hunter Clark,St Kilda,17.0,10.0,7.0,0.59,0.41,1.0,0.0,5.0,Midfielder
-15,Isaac Keeler,St Kilda,8.0,5.0,3.0,0.62,0.38,3.0,0.0,1.0,Key Forward
-15,Jack Higgins,St Kilda,6.0,2.0,4.0,0.33,0.67,1.0,0.0,3.0,Gen. Forward
-15,Jack Macrae,St Kilda,29.0,16.0,13.0,0.55,0.45,2.0,0.0,6.0,Midfielder
-15,Jack Sinclair,St Kilda,19.0,15.0,4.0,0.79,0.21,3.0,0.0,2.0,Gen. Defender
-15,Jack Steele,St Kilda,19.0,8.0,11.0,0.42,0.58,1.0,0.0,5.0,Midfielder
-15,Jimmy Webster,St Kilda,5.0,3.0,2.0,0.6,0.4,3.0,0.0,0.0,Gen. Defender
-15,Liam Stocker,St Kilda,13.0,10.0,3.0,0.77,0.23,5.0,0.0,1.0,Gen. Defender
-15,Marcus Windhager,St Kilda,15.0,5.0,10.0,0.33,0.67,3.0,0.0,1.0,Midfielder
-15,Mason Wood,St Kilda,15.0,9.0,6.0,0.6,0.4,7.0,3.0,1.0,Mid-Forward
-15,Max Hall,St Kilda,12.0,4.0,8.0,0.33,0.67,1.0,1.0,0.0,Gen. Forward
-15,Mitch Owens,St Kilda,12.0,10.0,2.0,0.83,0.17,4.0,1.0,1.0,Key Forward
-15,Nasiah Wanganeen-Milera,St Kilda,35.0,25.0,10.0,0.71,0.29,7.0,0.0,2.0,Gen. Defender
-15,Rowan Marshall,St Kilda,20.0,16.0,4.0,0.8,0.2,2.0,1.0,3.0,Ruck
-15,Ryan Byrnes,St Kilda,11.0,7.0,4.0,0.64,0.36,1.0,0.0,5.0,Gen. Defender
-15,Tobie Travaglia,St Kilda,,,,,,,,,Gen. Defender
-16,Alixzander Tauru,St Kilda,9.0,5.0,4.0,0.56,0.44,5.0,0.0,3.0,Key Defender
-16,Anthony Caminiti,St Kilda,14.0,7.0,7.0,0.5,0.5,9.0,0.0,1.0,Key Defender
-16,Callum Wilkie,St Kilda,16.0,14.0,2.0,0.88,0.12,11.0,0.0,2.0,Key Defender
-16,Cooper Sharman,St Kilda,10.0,7.0,3.0,0.7,0.3,4.0,0.0,0.0,Key Forward
-16,Dan Butler,St Kilda,6.0,5.0,1.0,0.83,0.17,0.0,1.0,2.0,Gen. Forward
-16,Darcy Wilson,St Kilda,12.0,5.0,7.0,0.42,0.58,2.0,0.0,2.0,Mid-Forward
-16,Hugo Garcia,St Kilda,24.0,10.0,14.0,0.42,0.58,1.0,0.0,1.0,Midfielder
-16,Hunter Clark,St Kilda,,,,,,,,,Midfielder
-16,Isaac Keeler,St Kilda,3.0,3.0,0.0,1.0,0.0,2.0,2.0,2.0,Key Forward
-16,Jack Carroll,St Kilda,,,,,,,,,Midfielder
-16,Jack Higgins,St Kilda,15.0,5.0,10.0,0.33,0.67,5.0,1.0,1.0,Gen. Forward
-16,Jack Macrae,St Kilda,26.0,13.0,13.0,0.5,0.5,2.0,0.0,4.0,Midfielder
-16,Jack Sinclair,St Kilda,22.0,18.0,4.0,0.82,0.18,3.0,0.0,2.0,Gen. Defender
-16,Jack Steele,St Kilda,22.0,10.0,12.0,0.45,0.55,3.0,0.0,9.0,Midfielder
-16,Liam Henry,St Kilda,12.0,4.0,8.0,0.33,0.67,4.0,1.0,0.0,Gen. Forward
-16,Liam Stocker,St Kilda,10.0,7.0,3.0,0.7,0.3,7.0,0.0,2.0,Gen. Defender
-16,Marcus Windhager,St Kilda,21.0,12.0,9.0,0.57,0.43,5.0,0.0,3.0,Midfielder
-16,Mason Wood,St Kilda,15.0,10.0,5.0,0.67,0.33,4.0,0.0,2.0,Mid-Forward
-16,Max Hall,St Kilda,21.0,15.0,6.0,0.71,0.29,2.0,1.0,6.0,Gen. Forward
-16,Mitch Owens,St Kilda,14.0,7.0,7.0,0.5,0.5,3.0,1.0,1.0,Key Forward
-16,Nasiah Wanganeen-Milera,St Kilda,28.0,25.0,3.0,0.89,0.11,7.0,1.0,1.0,Gen. Defender
-16,Rowan Marshall,St Kilda,22.0,17.0,5.0,0.77,0.23,4.0,1.0,6.0,Ruck
-16,Tobie Travaglia,St Kilda,,,,,,,,,Gen. Defender
-17,Alixzander Tauru,St Kilda,13.0,7.0,6.0,0.54,0.46,4.0,0.0,4.0,Key Defender
-17,Angus Hastie,St Kilda,14.0,11.0,3.0,0.79,0.21,7.0,0.0,3.0,Gen. Defender
-17,Anthony Caminiti,St Kilda,9.0,4.0,5.0,0.44,0.56,4.0,0.0,3.0,Key Defender
-17,Bradley Hill,St Kilda,,,,,,,,,Mid-Forward
-17,Callum Wilkie,St Kilda,9.0,7.0,2.0,0.78,0.22,6.0,0.0,2.0,Key Defender
-17,Cooper Sharman,St Kilda,9.0,5.0,4.0,0.56,0.44,5.0,1.0,1.0,Key Forward
-17,Dan Butler,St Kilda,11.0,5.0,6.0,0.45,0.55,4.0,0.0,1.0,Gen. Forward
-17,Darcy Wilson,St Kilda,11.0,5.0,6.0,0.45,0.55,1.0,0.0,3.0,Mid-Forward
-17,Hugo Garcia,St Kilda,17.0,7.0,10.0,0.41,0.59,0.0,0.0,4.0,Midfielder
-17,Hunter Clark,St Kilda,19.0,10.0,9.0,0.53,0.47,1.0,0.0,6.0,Midfielder
-17,Isaac Keeler,St Kilda,1.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,Key Forward
-17,Jack Higgins,St Kilda,9.0,4.0,5.0,0.44,0.56,1.0,2.0,2.0,Gen. Forward
-17,Jack Macrae,St Kilda,26.0,12.0,14.0,0.46,0.54,5.0,1.0,10.0,Midfielder
-17,Jack Sinclair,St Kilda,24.0,17.0,7.0,0.71,0.29,4.0,0.0,3.0,Gen. Defender
-17,Jack Steele,St Kilda,26.0,8.0,18.0,0.31,0.69,5.0,0.0,15.0,Midfielder
-17,Jimmy Webster,St Kilda,,,,,,,,,Gen. Defender
-17,Liam Henry,St Kilda,9.0,3.0,6.0,0.33,0.67,0.0,0.0,1.0,Gen. Forward
-17,Marcus Windhager,St Kilda,27.0,22.0,5.0,0.81,0.19,5.0,1.0,4.0,Midfielder
-17,Mason Wood,St Kilda,14.0,11.0,3.0,0.79,0.21,5.0,0.0,2.0,Mid-Forward
-17,Max Hall,St Kilda,27.0,16.0,11.0,0.59,0.41,6.0,3.0,4.0,Gen. Forward
-17,Mitch Owens,St Kilda,10.0,4.0,6.0,0.4,0.6,0.0,1.0,2.0,Key Forward
-17,Nasiah Wanganeen-Milera,St Kilda,43.0,33.0,10.0,0.77,0.23,6.0,0.0,2.0,Gen. Defender
-17,Rowan Marshall,St Kilda,21.0,11.0,10.0,0.52,0.48,7.0,1.0,8.0,Ruck
-18,Alixzander Tauru,St Kilda,12.0,6.0,6.0,0.5,0.5,6.0,0.0,1.0,Key Defender
-18,Angus Hastie,St Kilda,12.0,7.0,5.0,0.58,0.42,1.0,0.0,1.0,Gen. Defender
-18,Anthony Caminiti,St Kilda,9.0,6.0,3.0,0.67,0.33,2.0,0.0,0.0,Key Defender
-18,Bradley Hill,St Kilda,23.0,17.0,6.0,0.74,0.26,12.0,0.0,3.0,Mid-Forward
-18,Callum Wilkie,St Kilda,23.0,18.0,5.0,0.78,0.22,8.0,0.0,0.0,Key Defender
-18,Cooper Sharman,St Kilda,11.0,5.0,6.0,0.45,0.55,3.0,2.0,2.0,Key Forward
-18,Dan Butler,St Kilda,,,,,,,,,Gen. Forward
-18,Hugh Boxshall,St Kilda,8.0,4.0,4.0,0.5,0.5,1.0,1.0,3.0,Midfielder
-18,Hugo Garcia,St Kilda,15.0,10.0,5.0,0.67,0.33,0.0,1.0,5.0,Midfielder
-18,Hunter Clark,St Kilda,,,,,,,,,Midfielder
-18,Jack Higgins,St Kilda,9.0,3.0,6.0,0.33,0.67,1.0,0.0,2.0,Gen. Forward
-18,Jack Macrae,St Kilda,20.0,10.0,10.0,0.5,0.5,1.0,0.0,11.0,Midfielder
-18,Jack Sinclair,St Kilda,22.0,17.0,5.0,0.77,0.23,6.0,1.0,4.0,Gen. Defender
-18,Jack Steele,St Kilda,25.0,12.0,13.0,0.48,0.52,8.0,1.0,13.0,Midfielder
-18,Liam Henry,St Kilda,9.0,5.0,4.0,0.56,0.44,3.0,0.0,2.0,Gen. Forward
-18,Liam Stocker,St Kilda,12.0,8.0,4.0,0.67,0.33,7.0,0.0,0.0,Gen. Defender
-18,Marcus Windhager,St Kilda,36.0,20.0,16.0,0.56,0.44,8.0,0.0,3.0,Midfielder
-18,Mason Wood,St Kilda,24.0,17.0,7.0,0.71,0.29,6.0,0.0,4.0,Mid-Forward
-18,Max Hall,St Kilda,15.0,6.0,9.0,0.4,0.6,2.0,3.0,3.0,Gen. Forward
-18,Max Heath,St Kilda,8.0,3.0,5.0,0.38,0.62,1.0,1.0,6.0,Key Forward
-18,Mitch Owens,St Kilda,13.0,10.0,3.0,0.77,0.23,4.0,2.0,1.0,Key Forward
-18,Nasiah Wanganeen-Milera,St Kilda,24.0,18.0,6.0,0.75,0.25,3.0,0.0,0.0,Gen. Defender
-18,Rowan Marshall,St Kilda,16.0,6.0,10.0,0.38,0.62,4.0,1.0,2.0,Ruck
-19,Alixzander Tauru,St Kilda,7.0,4.0,3.0,0.57,0.43,5.0,0.0,1.0,Key Defender
-19,Angus Hastie,St Kilda,8.0,4.0,4.0,0.5,0.5,3.0,0.0,1.0,Gen. Defender
-19,Anthony Caminiti,St Kilda,13.0,11.0,2.0,0.85,0.15,7.0,0.0,0.0,Key Defender
-19,Bradley Hill,St Kilda,23.0,17.0,6.0,0.74,0.26,6.0,0.0,3.0,Mid-Forward
-19,Callum Wilkie,St Kilda,16.0,10.0,6.0,0.62,0.38,5.0,0.0,3.0,Key Defender
-19,Cooper Sharman,St Kilda,10.0,7.0,3.0,0.7,0.3,5.0,2.0,1.0,Key Forward
-19,Darcy Wilson,St Kilda,,,,,,,,,Mid-Forward
-19,Hugh Boxshall,St Kilda,15.0,7.0,8.0,0.47,0.53,2.0,0.0,4.0,Midfielder
-19,Hunter Clark,St Kilda,,,,,,,,,Midfielder
-19,Jack Higgins,St Kilda,9.0,7.0,2.0,0.78,0.22,0.0,2.0,1.0,Gen. Forward
-19,Jack Macrae,St Kilda,19.0,11.0,8.0,0.58,0.42,1.0,0.0,3.0,Midfielder
-19,Jack Sinclair,St Kilda,33.0,28.0,5.0,0.85,0.15,2.0,0.0,2.0,Gen. Defender
-19,Jack Steele,St Kilda,21.0,7.0,14.0,0.33,0.67,6.0,0.0,14.0,Midfielder
-19,Liam Henry,St Kilda,9.0,7.0,2.0,0.78,0.22,2.0,1.0,1.0,Gen. Forward
-19,Liam Stocker,St Kilda,8.0,6.0,2.0,0.75,0.25,2.0,0.0,4.0,Gen. Defender
-19,Marcus Windhager,St Kilda,22.0,13.0,9.0,0.59,0.41,4.0,0.0,5.0,Midfielder
-19,Mason Wood,St Kilda,10.0,8.0,2.0,0.8,0.2,3.0,2.0,2.0,Mid-Forward
-19,Max Hall,St Kilda,21.0,9.0,12.0,0.43,0.57,2.0,0.0,3.0,Gen. Forward
-19,Max Heath,St Kilda,7.0,3.0,4.0,0.43,0.57,2.0,0.0,2.0,Key Forward
-19,Mitch Owens,St Kilda,15.0,8.0,7.0,0.53,0.47,6.0,2.0,0.0,Key Forward
-19,Nasiah Wanganeen-Milera,St Kilda,36.0,26.0,10.0,0.72,0.28,8.0,2.0,4.0,Gen. Defender
-19,Rowan Marshall,St Kilda,17.0,10.0,7.0,0.59,0.41,7.0,1.0,3.0,Ruck
-19,Ryan Byrnes,St Kilda,17.0,12.0,5.0,0.71,0.29,3.0,0.0,0.0,Gen. Defender
-20,Alixzander Tauru,St Kilda,5.0,3.0,2.0,0.6,0.4,2.0,1.0,1.0,Key Defender
-20,Angus Hastie,St Kilda,10.0,5.0,5.0,0.5,0.5,3.0,0.0,3.0,Gen. Defender
-20,Anthony Caminiti,St Kilda,11.0,9.0,2.0,0.82,0.18,5.0,1.0,1.0,Key Defender
-20,Arie Schoenmaker,St Kilda,11.0,9.0,2.0,0.82,0.18,8.0,0.0,0.0,Gen. Defender
-20,Bradley Hill,St Kilda,15.0,12.0,3.0,0.8,0.2,5.0,1.0,1.0,Mid-Forward
-20,Callum Wilkie,St Kilda,13.0,12.0,1.0,0.92,0.08,7.0,0.0,2.0,Key Defender
-20,Cooper Sharman,St Kilda,9.0,5.0,4.0,0.56,0.44,2.0,2.0,1.0,Key Forward
-20,Hugh Boxshall,St Kilda,,,,,,,,,Midfielder
-20,Hunter Clark,St Kilda,20.0,13.0,7.0,0.65,0.35,6.0,0.0,6.0,Midfielder
-20,Jack Higgins,St Kilda,10.0,9.0,1.0,0.9,0.1,8.0,4.0,2.0,Gen. Forward
-20,Jack Macrae,St Kilda,24.0,10.0,14.0,0.42,0.58,4.0,0.0,6.0,Midfielder
-20,Jack Sinclair,St Kilda,32.0,20.0,12.0,0.62,0.38,7.0,0.0,5.0,Gen. Defender
-20,Jack Steele,St Kilda,13.0,3.0,10.0,0.23,0.77,1.0,1.0,5.0,Midfielder
-20,Lance Collard,St Kilda,,,,,,,,,Gen. Forward
-20,Liam Stocker,St Kilda,12.0,7.0,5.0,0.58,0.42,2.0,0.0,3.0,Gen. Defender
-20,Marcus Windhager,St Kilda,22.0,10.0,12.0,0.45,0.55,5.0,0.0,3.0,Midfielder
-20,Mason Wood,St Kilda,17.0,8.0,9.0,0.47,0.53,4.0,1.0,2.0,Mid-Forward
-20,Max Hall,St Kilda,19.0,7.0,12.0,0.37,0.63,2.0,0.0,7.0,Gen. Forward
-20,Mitch Owens,St Kilda,10.0,4.0,6.0,0.4,0.6,1.0,0.0,0.0,Key Forward
-20,Nasiah Wanganeen-Milera,St Kilda,34.0,25.0,9.0,0.74,0.26,5.0,4.0,4.0,Gen. Defender
-20,Rowan Marshall,St Kilda,15.0,9.0,6.0,0.6,0.4,3.0,0.0,4.0,Ruck
-20,Ryan Byrnes,St Kilda,11.0,4.0,7.0,0.36,0.64,6.0,0.0,0.0,Gen. Defender
-20,Zak Jones,St Kilda,26.0,14.0,12.0,0.54,0.46,6.0,0.0,1.0,Midfielder
-21,Alixzander Tauru,St Kilda,7.0,5.0,2.0,0.71,0.29,4.0,0.0,1.0,Key Defender
-21,Angus Hastie,St Kilda,7.0,6.0,1.0,0.86,0.14,3.0,0.0,1.0,Gen. Defender
-21,Anthony Caminiti,St Kilda,8.0,6.0,2.0,0.75,0.25,2.0,0.0,0.0,Key Defender
-21,Bradley Hill,St Kilda,17.0,13.0,4.0,0.76,0.24,7.0,0.0,1.0,Mid-Forward
-21,Callum Wilkie,St Kilda,17.0,13.0,4.0,0.76,0.24,7.0,0.0,0.0,Key Defender
-21,Cooper Sharman,St Kilda,6.0,3.0,3.0,0.5,0.5,2.0,1.0,1.0,Key Forward
-21,Hugh Boxshall,St Kilda,12.0,5.0,7.0,0.42,0.58,2.0,1.0,8.0,Midfielder
-21,Hugo Garcia,St Kilda,15.0,10.0,5.0,0.67,0.33,0.0,0.0,1.0,Midfielder
-21,Hunter Clark,St Kilda,25.0,17.0,8.0,0.68,0.32,7.0,0.0,1.0,Midfielder
-21,Jack Higgins,St Kilda,10.0,4.0,6.0,0.4,0.6,2.0,2.0,2.0,Gen. Forward
-21,Jack Macrae,St Kilda,22.0,6.0,16.0,0.27,0.73,3.0,0.0,4.0,Midfielder
-21,Jack Sinclair,St Kilda,26.0,16.0,10.0,0.62,0.38,0.0,0.0,3.0,Gen. Defender
-21,Jack Steele,St Kilda,,,,,,,,,Midfielder
-21,Liam Stocker,St Kilda,9.0,1.0,8.0,0.11,0.89,1.0,0.0,1.0,Gen. Defender
-21,Marcus Windhager,St Kilda,20.0,10.0,10.0,0.5,0.5,5.0,0.0,1.0,Midfielder
-21,Mason Wood,St Kilda,15.0,8.0,7.0,0.53,0.47,7.0,1.0,2.0,Mid-Forward
-21,Max Hall,St Kilda,14.0,10.0,4.0,0.71,0.29,3.0,1.0,1.0,Gen. Forward
-21,Max Heath,St Kilda,10.0,6.0,4.0,0.6,0.4,4.0,2.0,1.0,Key Forward
-21,Mitch Owens,St Kilda,,,,,,,,,Key Forward
-21,Nasiah Wanganeen-Milera,St Kilda,36.0,24.0,12.0,0.67,0.33,3.0,0.0,1.0,Gen. Defender
-21,Rowan Marshall,St Kilda,24.0,15.0,9.0,0.62,0.38,6.0,1.0,5.0,Ruck
-21,Ryan Byrnes,St Kilda,8.0,7.0,1.0,0.88,0.12,4.0,1.0,2.0,Gen. Defender
-21,Zak Jones,St Kilda,10.0,5.0,5.0,0.5,0.5,3.0,0.0,1.0,Midfielder
-22,Alixzander Tauru,St Kilda,16.0,11.0,5.0,0.69,0.31,7.0,0.0,2.0,Key Defender
-22,Anthony Caminiti,St Kilda,9.0,7.0,2.0,0.78,0.22,5.0,0.0,1.0,Key Defender
-22,Bradley Hill,St Kilda,24.0,18.0,6.0,0.75,0.25,8.0,0.0,2.0,Mid-Forward
-22,Callum Wilkie,St Kilda,29.0,25.0,4.0,0.86,0.14,16.0,0.0,2.0,Key Defender
-22,Cooper Sharman,St Kilda,16.0,13.0,3.0,0.81,0.19,11.0,2.0,1.0,Key Forward
-22,Darcy Wilson,St Kilda,11.0,6.0,5.0,0.55,0.45,4.0,0.0,5.0,Mid-Forward
-22,Hugh Boxshall,St Kilda,14.0,4.0,10.0,0.29,0.71,5.0,0.0,8.0,Midfielder
-22,Hugo Garcia,St Kilda,20.0,12.0,8.0,0.6,0.4,6.0,1.0,7.0,Midfielder
-22,Hunter Clark,St Kilda,22.0,15.0,7.0,0.68,0.32,11.0,0.0,2.0,Midfielder
-22,Jack Higgins,St Kilda,8.0,5.0,3.0,0.62,0.38,3.0,2.0,1.0,Gen. Forward
-22,Jack Macrae,St Kilda,26.0,11.0,15.0,0.42,0.58,7.0,0.0,4.0,Midfielder
-22,Jack Sinclair,St Kilda,30.0,23.0,7.0,0.77,0.23,11.0,1.0,6.0,Gen. Defender
-22,Jack Steele,St Kilda,17.0,7.0,10.0,0.41,0.59,8.0,0.0,10.0,Midfielder
-22,Liam Henry,St Kilda,,,,,,,,,Gen. Forward
-22,Liam Stocker,St Kilda,11.0,6.0,5.0,0.55,0.45,3.0,0.0,2.0,Gen. Defender
-22,Marcus Windhager,St Kilda,32.0,20.0,12.0,0.62,0.38,9.0,0.0,6.0,Midfielder
-22,Mason Wood,St Kilda,19.0,15.0,4.0,0.79,0.21,12.0,0.0,0.0,Mid-Forward
-22,Mattaes Phillipou,St Kilda,3.0,0.0,3.0,0.0,1.0,0.0,0.0,3.0,Gen. Forward
-22,Max Hall,St Kilda,14.0,7.0,7.0,0.5,0.5,4.0,1.0,5.0,Gen. Forward
-22,Max Heath,St Kilda,,,,,,,,,Key Forward
-22,Nasiah Wanganeen-Milera,St Kilda,33.0,25.0,8.0,0.76,0.24,7.0,1.0,0.0,Gen. Defender
-22,Rowan Marshall,St Kilda,21.0,15.0,6.0,0.71,0.29,6.0,0.0,9.0,Ruck
-22,Zak Jones,St Kilda,13.0,8.0,5.0,0.62,0.38,6.0,0.0,3.0,Midfielder
-23,Alex Dodson,St Kilda,,,,,,,,,Key Forward
-23,Alixzander Tauru,St Kilda,8.0,5.0,3.0,0.62,0.38,2.0,0.0,1.0,Key Defender
-23,Anthony Caminiti,St Kilda,6.0,5.0,1.0,0.83,0.17,3.0,0.0,0.0,Key Defender
-23,Bradley Hill,St Kilda,22.0,10.0,12.0,0.45,0.55,8.0,0.0,2.0,Mid-Forward
-23,Callum Wilkie,St Kilda,10.0,10.0,0.0,1.0,0.0,6.0,0.0,1.0,Key Defender
-23,Cooper Sharman,St Kilda,17.0,11.0,6.0,0.65,0.35,6.0,3.0,2.0,Key Forward
-23,Darcy Wilson,St Kilda,14.0,9.0,5.0,0.64,0.36,2.0,1.0,5.0,Mid-Forward
-23,Hugh Boxshall,St Kilda,16.0,8.0,8.0,0.5,0.5,7.0,0.0,1.0,Midfielder
-23,Hugo Garcia,St Kilda,20.0,11.0,9.0,0.55,0.45,2.0,0.0,12.0,Midfielder
-23,Jack Higgins,St Kilda,4.0,4.0,0.0,1.0,0.0,0.0,3.0,2.0,Gen. Forward
-23,Jack Macrae,St Kilda,,,,,,,,,Midfielder
-23,Jack Sinclair,St Kilda,23.0,16.0,7.0,0.7,0.3,6.0,0.0,0.0,Gen. Defender
-23,Jack Steele,St Kilda,27.0,9.0,18.0,0.33,0.67,5.0,0.0,9.0,Midfielder
-23,Lance Collard,St Kilda,,,,,,,,,Gen. Forward
-23,Liam Stocker,St Kilda,10.0,5.0,5.0,0.5,0.5,2.0,0.0,5.0,Gen. Defender
-23,Marcus Windhager,St Kilda,26.0,12.0,14.0,0.46,0.54,4.0,0.0,3.0,Midfielder
-23,Mason Wood,St Kilda,8.0,6.0,2.0,0.75,0.25,5.0,2.0,1.0,Mid-Forward
-23,Mattaes Phillipou,St Kilda,4.0,1.0,3.0,0.25,0.75,0.0,0.0,1.0,Gen. Forward
-23,Max Hall,St Kilda,20.0,12.0,8.0,0.6,0.4,5.0,0.0,1.0,Gen. Forward
-23,Nasiah Wanganeen-Milera,St Kilda,24.0,14.0,10.0,0.58,0.42,1.0,1.0,3.0,Gen. Defender
-23,Rowan Marshall,St Kilda,18.0,15.0,3.0,0.83,0.17,5.0,1.0,5.0,Ruck
-23,Tobie Travaglia,St Kilda,8.0,6.0,2.0,0.75,0.25,4.0,0.0,4.0,Gen. Defender
-23,Zak Jones,St Kilda,17.0,10.0,7.0,0.59,0.41,4.0,0.0,2.0,Midfielder
-24,Alixzander Tauru,St Kilda,4.0,3.0,1.0,0.75,0.25,2.0,0.0,1.0,Key Defender
-24,Anthony Caminiti,St Kilda,8.0,5.0,3.0,0.62,0.38,3.0,0.0,1.0,Key Defender
-24,Bradley Hill,St Kilda,16.0,9.0,7.0,0.56,0.44,2.0,0.0,1.0,Mid-Forward
-24,Callum Wilkie,St Kilda,16.0,13.0,3.0,0.81,0.19,5.0,0.0,1.0,Key Defender
-24,Cooper Sharman,St Kilda,13.0,10.0,3.0,0.77,0.23,9.0,2.0,3.0,Key Forward
-24,Darcy Wilson,St Kilda,23.0,11.0,12.0,0.48,0.52,4.0,5.0,2.0,Mid-Forward
-24,Hugh Boxshall,St Kilda,15.0,6.0,9.0,0.4,0.6,6.0,0.0,3.0,Midfielder
-24,Hugo Garcia,St Kilda,12.0,6.0,6.0,0.5,0.5,3.0,0.0,3.0,Midfielder
-24,Isaac Keeler,St Kilda,13.0,8.0,5.0,0.62,0.38,3.0,1.0,1.0,Key Forward
-24,Jack Higgins,St Kilda,11.0,3.0,8.0,0.27,0.73,2.0,0.0,4.0,Gen. Forward
-24,Jack Macrae,St Kilda,,,,,,,,,Midfielder
-24,Jack Sinclair,St Kilda,34.0,22.0,12.0,0.65,0.35,4.0,0.0,0.0,Gen. Defender
-24,Jack Steele,St Kilda,18.0,7.0,11.0,0.39,0.61,5.0,0.0,11.0,Midfielder
-24,Lance Collard,St Kilda,4.0,2.0,2.0,0.5,0.5,2.0,2.0,2.0,Gen. Forward
-24,Liam Stocker,St Kilda,12.0,7.0,5.0,0.58,0.42,3.0,0.0,1.0,Gen. Defender
-24,Marcus Windhager,St Kilda,23.0,11.0,12.0,0.48,0.52,3.0,0.0,3.0,Midfielder
-24,Mason Wood,St Kilda,4.0,2.0,2.0,0.5,0.5,3.0,0.0,2.0,Mid-Forward
-24,Mattaes Phillipou,St Kilda,,,,,,,,,Gen. Forward
-24,Max Hall,St Kilda,16.0,7.0,9.0,0.44,0.56,4.0,2.0,5.0,Gen. Forward
-24,Nasiah Wanganeen-Milera,St Kilda,23.0,19.0,4.0,0.83,0.17,3.0,0.0,3.0,Gen. Defender
-24,Rowan Marshall,St Kilda,21.0,13.0,8.0,0.62,0.38,2.0,0.0,6.0,Ruck
-24,Tobie Travaglia,St Kilda,,,,,,,,,Gen. Defender
-24,Zak Jones,St Kilda,19.0,10.0,9.0,0.53,0.47,4.0,0.0,2.0,Midfielder
+Round,Player,Team,Position,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,DispDiff,KickDiff,HbDiff,MarkDiff
+1,Angus Hastie,St Kilda,Gen. Defender,,,,,,,,,,,,
+1,Anthony Caminiti,St Kilda,Key Defender,13.0,6.0,7.0,0.46,0.54,4.0,0.0,2.0,0.91,-1.57,2.48,-1.7
+1,Arie Schoenmaker,St Kilda,Gen. Defender,18.0,14.0,4.0,0.78,0.22,5.0,0.0,0.0,2.0,1.33,0.67,-0.33
+1,Bradley Hill,St Kilda,Mid-Forward,6.0,4.0,2.0,0.67,0.33,1.0,1.0,0.0,-13.59,-8.68,-4.91,-4.27
+1,Callum Wilkie,St Kilda,Key Defender,19.0,15.0,4.0,0.79,0.21,10.0,0.0,1.0,0.35,1.04,-0.7,1.56
+1,Darcy Wilson,St Kilda,Mid-Forward,23.0,13.0,10.0,0.57,0.43,5.0,0.0,5.0,7.44,4.0,3.44,1.5
+1,Harry Boyd,St Kilda,Ruck,12.0,4.0,8.0,0.33,0.67,1.0,0.0,2.0,0.0,0.0,0.0,0.0
+1,Hugo Garcia,St Kilda,Midfielder,18.0,10.0,8.0,0.56,0.44,1.0,1.0,3.0,2.35,1.47,0.88,-0.65
+1,Hunter Clark,St Kilda,Midfielder,,,,,,,,,,,,
+1,Jack Higgins,St Kilda,Gen. Forward,11.0,5.0,6.0,0.45,0.55,2.0,2.0,3.0,1.56,0.04,1.52,-0.3
+1,Jack Macrae,St Kilda,Midfielder,34.0,13.0,21.0,0.38,0.62,3.0,0.0,5.0,9.43,1.57,7.86,-0.14
+1,Jack Sinclair,St Kilda,Gen. Defender,22.0,16.0,6.0,0.73,0.27,8.0,0.0,1.0,-4.96,-3.43,-1.52,3.22
+1,Jack Steele,St Kilda,Midfielder,19.0,8.0,11.0,0.42,0.58,3.0,0.0,6.0,-1.86,-0.43,-1.43,-1.14
+1,Jimmy Webster,St Kilda,Gen. Defender,10.0,8.0,2.0,0.8,0.2,2.0,0.0,0.0,-1.73,0.67,-2.4,-2.73
+1,Liam O'Connell,St Kilda,Gen. Defender,7.0,4.0,3.0,0.57,0.43,3.0,0.0,2.0,0.86,0.29,0.57,0.71
+1,Marcus Windhager,St Kilda,Midfielder,19.0,9.0,10.0,0.47,0.53,2.0,0.0,4.0,-3.09,-3.17,0.09,-2.3
+1,Mason Wood,St Kilda,Mid-Forward,15.0,10.0,5.0,0.67,0.33,6.0,2.0,2.0,0.33,0.14,0.19,0.09
+1,Max Hall,St Kilda,Gen. Forward,16.0,9.0,7.0,0.56,0.44,5.0,2.0,3.0,0.74,1.17,-0.43,1.87
+1,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,27.0,21.0,6.0,0.78,0.22,6.0,1.0,3.0,-2.91,-1.26,-1.65,0.74
+1,Rowan Marshall,St Kilda,Ruck,11.0,4.0,7.0,0.36,0.64,4.0,0.0,4.0,-7.57,-7.39,-0.17,-0.48
+1,Ryan Byrnes,St Kilda,Gen. Defender,17.0,10.0,7.0,0.59,0.41,4.0,0.0,2.0,0.18,-0.12,0.29,-1.29
+1,Zaine Cordy,St Kilda,Key Defender,4.0,2.0,2.0,0.5,0.5,2.0,1.0,1.0,0.0,0.0,0.0,0.0
+1,Zak Jones,St Kilda,Midfielder,11.0,8.0,3.0,0.73,0.27,0.0,0.0,1.0,-5.13,0.53,-5.67,-3.33
+2,Anthony Caminiti,St Kilda,Key Defender,18.0,14.0,4.0,0.78,0.22,13.0,0.0,0.0,5.91,6.44,-0.52,7.3
+2,Bradley Hill,St Kilda,Mid-Forward,13.0,9.0,4.0,0.69,0.31,3.0,0.0,2.0,-6.59,-3.68,-2.91,-2.27
+2,Callum Wilkie,St Kilda,Key Defender,19.0,15.0,4.0,0.79,0.21,9.0,0.0,3.0,0.35,1.04,-0.7,0.56
+2,Darcy Wilson,St Kilda,Mid-Forward,17.0,10.0,7.0,0.59,0.41,1.0,0.0,3.0,1.44,1.0,0.44,-2.5
+2,Hugo Garcia,St Kilda,Midfielder,,,,,,,,,,,,
+2,Hunter Clark,St Kilda,Midfielder,,,,,,,,,,,,
+2,Isaac Keeler,St Kilda,Key Forward,7.0,3.0,4.0,0.43,0.57,2.0,1.0,4.0,-0.36,-1.36,1.0,-0.36
+2,Jack Higgins,St Kilda,Gen. Forward,12.0,9.0,3.0,0.75,0.25,4.0,4.0,3.0,2.56,4.04,-1.48,1.7
+2,Jack Macrae,St Kilda,Midfielder,35.0,17.0,18.0,0.49,0.51,8.0,0.0,10.0,10.43,5.57,4.86,4.86
+2,Jack Sinclair,St Kilda,Gen. Defender,25.0,18.0,7.0,0.72,0.28,3.0,2.0,6.0,-1.96,-1.43,-0.52,-1.78
+2,Jack Steele,St Kilda,Midfielder,22.0,8.0,14.0,0.36,0.64,4.0,0.0,13.0,1.14,-0.43,1.57,-0.14
+2,Jimmy Webster,St Kilda,Gen. Defender,11.0,8.0,3.0,0.73,0.27,5.0,0.0,1.0,-0.73,0.67,-1.4,0.27
+2,Lance Collard,St Kilda,Gen. Forward,6.0,3.0,3.0,0.5,0.5,0.0,2.0,3.0,0.58,-0.25,0.83,-1.08
+2,Liam O'Connell,St Kilda,Gen. Defender,4.0,4.0,0.0,1.0,0.0,2.0,0.0,5.0,-2.14,0.29,-2.43,-0.29
+2,Liam Stocker,St Kilda,Gen. Defender,,,,,,,,,,,,
+2,Marcus Windhager,St Kilda,Midfielder,25.0,15.0,10.0,0.6,0.4,5.0,2.0,5.0,2.91,2.83,0.09,0.7
+2,Mason Wood,St Kilda,Mid-Forward,26.0,17.0,9.0,0.65,0.35,10.0,2.0,3.0,11.33,7.14,4.19,4.1
+2,Max Hall,St Kilda,Gen. Forward,13.0,7.0,6.0,0.54,0.46,3.0,0.0,2.0,-2.26,-0.83,-1.43,-0.13
+2,Mitch Owens,St Kilda,Key Forward,10.0,6.0,4.0,0.6,0.4,5.0,2.0,3.0,-2.89,-1.42,-1.47,1.58
+2,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,29.0,19.0,10.0,0.66,0.34,5.0,0.0,2.0,-0.91,-3.26,2.35,-0.26
+2,Rowan Marshall,St Kilda,Ruck,29.0,16.0,13.0,0.55,0.45,6.0,0.0,6.0,10.43,4.61,5.83,1.52
+2,Ryan Byrnes,St Kilda,Gen. Defender,20.0,13.0,7.0,0.65,0.35,5.0,0.0,0.0,3.18,2.88,0.29,-0.29
+2,Zak Jones,St Kilda,Midfielder,27.0,15.0,12.0,0.56,0.44,7.0,0.0,5.0,10.87,7.53,3.33,3.67
+3,Angus Hastie,St Kilda,Gen. Defender,7.0,5.0,2.0,0.71,0.29,3.0,0.0,0.0,-2.0,-0.56,-1.44,0.22
+3,Anthony Caminiti,St Kilda,Key Defender,17.0,13.0,4.0,0.76,0.24,9.0,0.0,0.0,4.91,5.44,-0.52,3.3
+3,Bradley Hill,St Kilda,Mid-Forward,22.0,16.0,6.0,0.73,0.27,4.0,1.0,0.0,2.41,3.32,-0.91,-1.27
+3,Callum Wilkie,St Kilda,Key Defender,13.0,7.0,6.0,0.54,0.46,4.0,0.0,1.0,-5.65,-6.96,1.3,-4.44
+3,Cooper Sharman,St Kilda,Key Forward,11.0,8.0,3.0,0.73,0.27,5.0,2.0,2.0,-0.52,0.14,-0.67,-0.43
+3,Darcy Wilson,St Kilda,Mid-Forward,20.0,14.0,6.0,0.7,0.3,5.0,1.0,1.0,4.44,5.0,-0.56,1.5
+3,Hugo Garcia,St Kilda,Midfielder,23.0,13.0,10.0,0.57,0.43,5.0,0.0,9.0,7.35,4.47,2.88,3.35
+3,Isaac Keeler,St Kilda,Key Forward,9.0,6.0,3.0,0.67,0.33,1.0,1.0,0.0,1.64,1.64,0.0,-1.36
+3,Jack Higgins,St Kilda,Gen. Forward,11.0,7.0,4.0,0.64,0.36,1.0,3.0,1.0,1.56,2.04,-0.48,-1.3
+3,Jack Macrae,St Kilda,Midfielder,31.0,15.0,16.0,0.48,0.52,4.0,0.0,6.0,6.43,3.57,2.86,0.86
+3,Jack Sinclair,St Kilda,Gen. Defender,40.0,28.0,12.0,0.7,0.3,7.0,0.0,1.0,13.04,8.57,4.48,2.22
+3,Jimmy Webster,St Kilda,Gen. Defender,18.0,11.0,7.0,0.61,0.39,8.0,0.0,2.0,6.27,3.67,2.6,3.27
+3,Lance Collard,St Kilda,Gen. Forward,12.0,7.0,5.0,0.58,0.42,3.0,2.0,2.0,6.58,3.75,2.83,1.92
+3,Liam O'Connell,St Kilda,Gen. Defender,,,,,,,,,,,,
+3,Marcus Windhager,St Kilda,Midfielder,19.0,7.0,12.0,0.37,0.63,1.0,0.0,4.0,-3.09,-5.17,2.09,-3.3
+3,Mason Wood,St Kilda,Mid-Forward,16.0,11.0,5.0,0.69,0.31,8.0,3.0,2.0,1.33,1.14,0.19,2.09
+3,Max Hall,St Kilda,Gen. Forward,18.0,12.0,6.0,0.67,0.33,8.0,2.0,1.0,2.74,4.17,-1.43,4.87
+3,Mitch Owens,St Kilda,Key Forward,14.0,9.0,5.0,0.64,0.36,4.0,4.0,0.0,1.11,1.58,-0.47,0.58
+3,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,29.0,21.0,8.0,0.72,0.28,7.0,0.0,3.0,-0.91,-1.26,0.35,1.74
+3,Rowan Marshall,St Kilda,Ruck,23.0,11.0,12.0,0.48,0.52,12.0,1.0,2.0,4.43,-0.39,4.83,7.52
+3,Ryan Byrnes,St Kilda,Gen. Defender,18.0,12.0,6.0,0.67,0.33,8.0,0.0,0.0,1.18,1.88,-0.71,2.71
+3,Tobie Travaglia,St Kilda,Gen. Defender,18.0,6.0,12.0,0.33,0.67,2.0,0.0,3.0,8.75,1.08,7.67,-0.58
+3,Zak Jones,St Kilda,Midfielder,20.0,8.0,12.0,0.4,0.6,4.0,0.0,3.0,3.87,0.53,3.33,0.67
+4,Angus Hastie,St Kilda,Gen. Defender,,,,,,,,,,,,
+4,Anthony Caminiti,St Kilda,Key Defender,17.0,11.0,6.0,0.65,0.35,10.0,0.0,1.0,4.91,3.43,1.48,4.3
+4,Bradley Hill,St Kilda,Mid-Forward,18.0,10.0,8.0,0.56,0.44,6.0,0.0,2.0,-1.59,-2.68,1.09,0.73
+4,Callum Wilkie,St Kilda,Key Defender,17.0,13.0,4.0,0.76,0.24,7.0,0.0,4.0,-1.65,-0.96,-0.7,-1.44
+4,Cooper Sharman,St Kilda,Key Forward,13.0,9.0,4.0,0.69,0.31,4.0,1.0,3.0,1.48,1.14,0.33,-1.43
+4,Darcy Wilson,St Kilda,Mid-Forward,19.0,16.0,3.0,0.84,0.16,4.0,1.0,0.0,3.44,7.0,-3.56,0.5
+4,Hugo Garcia,St Kilda,Midfielder,12.0,4.0,8.0,0.33,0.67,0.0,0.0,5.0,-3.65,-4.53,0.88,-1.65
+4,Isaac Keeler,St Kilda,Key Forward,,,,,,,,,,,,
+4,Jack Higgins,St Kilda,Gen. Forward,10.0,6.0,4.0,0.6,0.4,2.0,3.0,5.0,0.56,1.04,-0.48,-0.3
+4,Jack Macrae,St Kilda,Midfielder,28.0,15.0,13.0,0.54,0.46,0.0,0.0,4.0,3.43,3.57,-0.14,-3.14
+4,Jack Sinclair,St Kilda,Gen. Defender,25.0,21.0,4.0,0.84,0.16,3.0,1.0,2.0,-1.96,1.57,-3.52,-1.78
+4,Jimmy Webster,St Kilda,Gen. Defender,8.0,7.0,1.0,0.88,0.12,3.0,0.0,1.0,-3.73,-0.33,-3.4,-1.73
+4,Lance Collard,St Kilda,Gen. Forward,9.0,8.0,1.0,0.89,0.11,1.0,1.0,5.0,3.58,4.75,-1.17,-0.08
+4,Liam Stocker,St Kilda,Gen. Defender,14.0,8.0,6.0,0.57,0.43,4.0,0.0,1.0,2.88,1.06,1.82,-0.12
+4,Marcus Windhager,St Kilda,Midfielder,18.0,10.0,8.0,0.56,0.44,1.0,0.0,3.0,-4.09,-2.17,-1.91,-3.3
+4,Mason Wood,St Kilda,Mid-Forward,13.0,9.0,4.0,0.69,0.31,2.0,1.0,2.0,-1.67,-0.86,-0.81,-3.9
+4,Max Hall,St Kilda,Gen. Forward,8.0,2.0,6.0,0.25,0.75,1.0,1.0,3.0,-7.26,-5.83,-1.43,-2.13
+4,Mitch Owens,St Kilda,Key Forward,8.0,6.0,2.0,0.75,0.25,2.0,2.0,1.0,-4.89,-1.42,-3.47,-1.42
+4,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,25.0,20.0,5.0,0.8,0.2,3.0,1.0,2.0,-4.91,-2.26,-2.65,-2.26
+4,Rowan Marshall,St Kilda,Ruck,14.0,9.0,5.0,0.64,0.36,3.0,0.0,5.0,-4.57,-2.39,-2.17,-1.48
+4,Ryan Byrnes,St Kilda,Gen. Defender,17.0,14.0,3.0,0.82,0.18,7.0,0.0,3.0,0.18,3.88,-3.71,1.71
+4,Tobie Travaglia,St Kilda,Gen. Defender,9.0,6.0,3.0,0.67,0.33,2.0,1.0,3.0,-0.25,1.08,-1.33,-0.58
+4,Zak Jones,St Kilda,Midfielder,11.0,2.0,9.0,0.18,0.82,3.0,0.0,0.0,-5.13,-5.47,0.33,-0.33
+5,Angus Hastie,St Kilda,Gen. Defender,,,,,,,,,,,,
+5,Anthony Caminiti,St Kilda,Key Defender,10.0,7.0,3.0,0.7,0.3,7.0,0.0,1.0,-2.09,-0.57,-1.52,1.3
+5,Bradley Hill,St Kilda,Mid-Forward,22.0,13.0,9.0,0.59,0.41,3.0,0.0,1.0,2.41,0.32,2.09,-2.27
+5,Callum Wilkie,St Kilda,Key Defender,18.0,10.0,8.0,0.56,0.44,6.0,0.0,0.0,-0.65,-3.96,3.3,-2.44
+5,Cooper Sharman,St Kilda,Key Forward,13.0,10.0,3.0,0.77,0.23,5.0,3.0,2.0,1.48,2.14,-0.67,-0.43
+5,Darcy Wilson,St Kilda,Mid-Forward,13.0,9.0,4.0,0.69,0.31,6.0,0.0,4.0,-2.56,0.0,-2.56,2.5
+5,Hugo Garcia,St Kilda,Midfielder,23.0,14.0,9.0,0.61,0.39,3.0,0.0,4.0,7.35,5.47,1.88,1.35
+5,Jack Higgins,St Kilda,Gen. Forward,6.0,5.0,1.0,0.83,0.17,2.0,2.0,2.0,-3.44,0.04,-3.48,-0.3
+5,Jack Macrae,St Kilda,Midfielder,17.0,4.0,13.0,0.24,0.76,1.0,0.0,5.0,-7.57,-7.43,-0.14,-2.14
+5,Jack Sinclair,St Kilda,Gen. Defender,26.0,18.0,8.0,0.69,0.31,3.0,1.0,5.0,-0.96,-1.43,0.48,-1.78
+5,Jack Steele,St Kilda,Midfielder,20.0,9.0,11.0,0.45,0.55,3.0,0.0,5.0,-0.86,0.57,-1.43,-1.14
+5,Jimmy Webster,St Kilda,Gen. Defender,7.0,3.0,4.0,0.43,0.57,2.0,0.0,0.0,-4.73,-4.33,-0.4,-2.73
+5,Lance Collard,St Kilda,Gen. Forward,,,,,,,,,,,,
+5,Liam Stocker,St Kilda,Gen. Defender,15.0,9.0,6.0,0.6,0.4,5.0,0.0,1.0,3.88,2.06,1.82,0.88
+5,Marcus Windhager,St Kilda,Midfielder,25.0,11.0,14.0,0.44,0.56,5.0,0.0,4.0,2.91,-1.17,4.09,0.7
+5,Mason Wood,St Kilda,Mid-Forward,16.0,12.0,4.0,0.75,0.25,10.0,1.0,0.0,1.33,2.14,-0.81,4.1
+5,Max Hall,St Kilda,Gen. Forward,17.0,9.0,8.0,0.53,0.47,2.0,1.0,2.0,1.74,1.17,0.57,-1.13
+5,Mitch Owens,St Kilda,Key Forward,12.0,7.0,5.0,0.58,0.42,2.0,0.0,2.0,-0.89,-0.42,-0.47,-1.42
+5,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,24.0,17.0,7.0,0.71,0.29,2.0,3.0,3.0,-5.91,-5.26,-0.65,-3.26
+5,Rowan Marshall,St Kilda,Ruck,12.0,6.0,6.0,0.5,0.5,2.0,0.0,4.0,-6.57,-5.39,-1.17,-2.48
+5,Ryan Byrnes,St Kilda,Gen. Defender,23.0,13.0,10.0,0.57,0.43,6.0,1.0,0.0,6.18,2.88,3.29,0.71
+5,Tobie Travaglia,St Kilda,Gen. Defender,8.0,3.0,5.0,0.38,0.62,1.0,0.0,3.0,-1.25,-1.92,0.67,-1.58
+5,Zak Jones,St Kilda,Midfielder,13.0,4.0,9.0,0.31,0.69,1.0,0.0,0.0,-3.13,-3.47,0.33,-2.33
+6,Anthony Caminiti,St Kilda,Key Defender,11.0,7.0,4.0,0.64,0.36,6.0,0.0,2.0,-1.09,-0.57,-0.52,0.3
+6,Arie Schoenmaker,St Kilda,Gen. Defender,19.0,15.0,4.0,0.79,0.21,3.0,0.0,0.0,3.0,2.33,0.67,-2.33
+6,Bradley Hill,St Kilda,Mid-Forward,17.0,15.0,2.0,0.88,0.12,9.0,0.0,3.0,-2.59,2.32,-4.91,3.73
+6,Callum Wilkie,St Kilda,Key Defender,22.0,17.0,5.0,0.77,0.23,12.0,0.0,1.0,3.35,3.04,0.3,3.56
+6,Cooper Sharman,St Kilda,Key Forward,8.0,5.0,3.0,0.62,0.38,6.0,0.0,2.0,-3.52,-2.86,-0.67,0.57
+6,Darcy Wilson,St Kilda,Mid-Forward,17.0,8.0,9.0,0.47,0.53,2.0,1.0,1.0,1.44,-1.0,2.44,-1.5
+6,Hugo Garcia,St Kilda,Midfielder,16.0,10.0,6.0,0.62,0.38,1.0,0.0,10.0,0.35,1.47,-1.12,-0.65
+6,Jack Higgins,St Kilda,Gen. Forward,12.0,5.0,7.0,0.42,0.58,2.0,3.0,6.0,2.56,0.04,2.52,-0.3
+6,Jack Macrae,St Kilda,Midfielder,19.0,8.0,11.0,0.42,0.58,1.0,0.0,9.0,-5.57,-3.43,-2.14,-2.14
+6,Jack Sinclair,St Kilda,Gen. Defender,21.0,16.0,5.0,0.76,0.24,4.0,1.0,1.0,-5.96,-3.43,-2.52,-0.78
+6,Jack Steele,St Kilda,Midfielder,16.0,4.0,12.0,0.25,0.75,4.0,0.0,4.0,-4.86,-4.43,-0.43,-0.14
+6,Jimmy Webster,St Kilda,Gen. Defender,16.0,9.0,7.0,0.56,0.44,6.0,0.0,3.0,4.27,1.67,2.6,1.27
+6,Lance Collard,St Kilda,Gen. Forward,8.0,3.0,5.0,0.38,0.62,0.0,0.0,0.0,2.58,-0.25,2.83,-1.08
+6,Liam Henry,St Kilda,Gen. Forward,,,,,,,,,,,,
+6,Liam Stocker,St Kilda,Gen. Defender,15.0,11.0,4.0,0.73,0.27,7.0,0.0,1.0,3.88,4.06,-0.18,2.88
+6,Marcus Windhager,St Kilda,Midfielder,21.0,11.0,10.0,0.52,0.48,2.0,0.0,3.0,-1.09,-1.17,0.09,-2.3
+6,Mason Wood,St Kilda,Mid-Forward,16.0,7.0,9.0,0.44,0.56,4.0,0.0,1.0,1.33,-2.86,4.19,-1.91
+6,Max Hall,St Kilda,Gen. Forward,13.0,5.0,8.0,0.38,0.62,4.0,0.0,0.0,-2.26,-2.83,0.57,0.87
+6,Mitch Owens,St Kilda,Key Forward,11.0,6.0,5.0,0.55,0.45,4.0,3.0,1.0,-1.89,-1.42,-0.47,0.58
+6,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,25.0,15.0,10.0,0.6,0.4,3.0,0.0,3.0,-4.91,-7.26,2.35,-2.26
+6,Rowan Marshall,St Kilda,Ruck,16.0,5.0,11.0,0.31,0.69,0.0,0.0,0.0,-2.57,-6.39,3.83,-4.48
+6,Ryan Byrnes,St Kilda,Gen. Defender,13.0,5.0,8.0,0.38,0.62,4.0,0.0,0.0,-3.82,-5.12,1.29,-1.29
+6,Zak Jones,St Kilda,Midfielder,,,,,,,,,,,,
+7,Anthony Caminiti,St Kilda,Key Defender,15.0,5.0,10.0,0.33,0.67,2.0,1.0,2.0,2.91,-2.57,5.48,-3.7
+7,Bradley Hill,St Kilda,Mid-Forward,33.0,15.0,18.0,0.45,0.55,5.0,0.0,3.0,13.41,2.32,11.09,-0.27
+7,Callum Wilkie,St Kilda,Key Defender,21.0,14.0,7.0,0.67,0.33,6.0,0.0,1.0,2.35,0.04,2.3,-2.44
+7,Cooper Sharman,St Kilda,Key Forward,11.0,6.0,5.0,0.55,0.45,6.0,1.0,2.0,-0.52,-1.86,1.33,0.57
+7,Darcy Wilson,St Kilda,Mid-Forward,19.0,10.0,9.0,0.53,0.47,3.0,1.0,2.0,3.44,1.0,2.44,-0.5
+7,Dougal Howard,St Kilda,Key Defender,11.0,7.0,4.0,0.64,0.36,6.0,0.0,1.0,0.0,-1.33,1.33,-0.33
+7,Hugo Garcia,St Kilda,Midfielder,,,,,,,,,,,,
+7,Isaac Keeler,St Kilda,Key Forward,3.0,1.0,2.0,0.33,0.67,0.0,1.0,0.0,-4.36,-3.36,-1.0,-2.36
+7,Jack Higgins,St Kilda,Gen. Forward,8.0,3.0,5.0,0.38,0.62,2.0,3.0,1.0,-1.44,-1.96,0.52,-0.3
+7,Jack Macrae,St Kilda,Midfielder,26.0,13.0,13.0,0.5,0.5,5.0,0.0,3.0,1.43,1.57,-0.14,1.86
+7,Jack Sinclair,St Kilda,Gen. Defender,29.0,20.0,9.0,0.69,0.31,5.0,0.0,1.0,2.04,0.57,1.48,0.22
+7,Jack Steele,St Kilda,Midfielder,29.0,7.0,22.0,0.24,0.76,0.0,0.0,6.0,8.14,-1.43,9.57,-4.14
+7,Jimmy Webster,St Kilda,Gen. Defender,16.0,6.0,10.0,0.38,0.62,3.0,0.0,3.0,4.27,-1.33,5.6,-1.73
+7,Lance Collard,St Kilda,Gen. Forward,6.0,5.0,1.0,0.83,0.17,1.0,0.0,2.0,0.58,1.75,-1.17,-0.08
+7,Liam Stocker,St Kilda,Gen. Defender,10.0,5.0,5.0,0.5,0.5,2.0,0.0,3.0,-1.12,-1.94,0.82,-2.12
+7,Marcus Windhager,St Kilda,Midfielder,21.0,15.0,6.0,0.71,0.29,4.0,0.0,6.0,-1.09,2.83,-3.91,-0.3
+7,Mason Wood,St Kilda,Mid-Forward,8.0,6.0,2.0,0.75,0.25,6.0,1.0,0.0,-6.67,-3.86,-2.81,0.09
+7,Max Hall,St Kilda,Gen. Forward,15.0,8.0,7.0,0.53,0.47,3.0,1.0,4.0,-0.26,0.17,-0.43,-0.13
+7,Mitch Owens,St Kilda,Key Forward,17.0,5.0,12.0,0.29,0.71,1.0,0.0,1.0,4.11,-2.42,6.53,-2.42
+7,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,32.0,26.0,6.0,0.81,0.19,6.0,1.0,4.0,2.09,3.74,-1.65,0.74
+7,Rowan Marshall,St Kilda,Ruck,18.0,12.0,6.0,0.67,0.33,1.0,1.0,5.0,-0.57,0.61,-1.17,-3.48
+7,Ryan Byrnes,St Kilda,Gen. Defender,18.0,10.0,8.0,0.56,0.44,4.0,0.0,4.0,1.18,-0.12,1.29,-1.29
+7,Zak Jones,St Kilda,Midfielder,,,,,,,,,,,,
+8,Anthony Caminiti,St Kilda,Key Defender,12.0,6.0,6.0,0.5,0.5,3.0,1.0,2.0,-0.09,-1.57,1.48,-2.7
+8,Bradley Hill,St Kilda,Mid-Forward,21.0,11.0,10.0,0.52,0.48,0.0,1.0,1.0,1.41,-1.68,3.09,-5.27
+8,Callum Wilkie,St Kilda,Key Defender,24.0,20.0,4.0,0.83,0.17,14.0,0.0,3.0,5.35,6.04,-0.7,5.56
+8,Cooper Sharman,St Kilda,Key Forward,16.0,12.0,4.0,0.75,0.25,9.0,4.0,2.0,4.48,4.14,0.33,3.57
+8,Darcy Wilson,St Kilda,Mid-Forward,13.0,6.0,7.0,0.46,0.54,3.0,1.0,0.0,-2.56,-3.0,0.44,-0.5
+8,Dougal Howard,St Kilda,Key Defender,11.0,9.0,2.0,0.82,0.18,7.0,0.0,1.0,0.0,0.67,-0.67,0.67
+8,Hugh Boxshall,St Kilda,Midfielder,,,,,,,,,,,,
+8,Hugo Garcia,St Kilda,Midfielder,19.0,10.0,9.0,0.53,0.47,0.0,1.0,10.0,3.35,1.47,1.88,-1.65
+8,Jack Higgins,St Kilda,Gen. Forward,12.0,6.0,6.0,0.5,0.5,2.0,1.0,2.0,2.56,1.04,1.52,-0.3
+8,Jack Macrae,St Kilda,Midfielder,38.0,19.0,19.0,0.5,0.5,6.0,0.0,8.0,13.43,7.57,5.86,2.86
+8,Jack Sinclair,St Kilda,Gen. Defender,19.0,10.0,9.0,0.53,0.47,2.0,0.0,1.0,-7.96,-9.43,1.48,-2.78
+8,Jack Steele,St Kilda,Midfielder,22.0,12.0,10.0,0.55,0.45,2.0,1.0,11.0,1.14,3.57,-2.43,-2.14
+8,Jimmy Webster,St Kilda,Gen. Defender,21.0,14.0,7.0,0.67,0.33,7.0,0.0,2.0,9.27,6.67,2.6,2.27
+8,Lance Collard,St Kilda,Gen. Forward,6.0,4.0,2.0,0.67,0.33,1.0,1.0,3.0,0.58,0.75,-0.17,-0.08
+8,Liam O'Connell,St Kilda,Gen. Defender,6.0,5.0,1.0,0.83,0.17,2.0,0.0,5.0,-0.14,1.29,-1.43,-0.29
+8,Liam Stocker,St Kilda,Gen. Defender,11.0,10.0,1.0,0.91,0.09,6.0,0.0,2.0,-0.12,3.06,-3.18,1.88
+8,Marcus Windhager,St Kilda,Midfielder,21.0,12.0,9.0,0.57,0.43,6.0,0.0,0.0,-1.09,-0.17,-0.91,1.7
+8,Max Hall,St Kilda,Gen. Forward,15.0,6.0,9.0,0.4,0.6,3.0,0.0,5.0,-0.26,-1.83,1.57,-0.13
+8,Mitch Owens,St Kilda,Key Forward,18.0,11.0,7.0,0.61,0.39,5.0,3.0,2.0,5.11,3.58,1.53,1.58
+8,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,28.0,20.0,8.0,0.71,0.29,10.0,0.0,0.0,-1.91,-2.26,0.35,4.74
+8,Rowan Marshall,St Kilda,Ruck,13.0,7.0,6.0,0.54,0.46,2.0,0.0,5.0,-5.57,-4.39,-1.17,-2.48
+8,Ryan Byrnes,St Kilda,Gen. Defender,16.0,11.0,5.0,0.69,0.31,2.0,0.0,5.0,-0.82,0.88,-1.71,-3.29
+8,Tobie Travaglia,St Kilda,Gen. Defender,,,,,,,,,,,,
+9,Anthony Caminiti,St Kilda,Key Defender,10.0,6.0,4.0,0.6,0.4,5.0,1.0,5.0,-2.09,-1.57,-0.52,-0.7
+9,Bradley Hill,St Kilda,Mid-Forward,19.0,10.0,9.0,0.53,0.47,2.0,0.0,1.0,-0.59,-2.68,2.09,-3.27
+9,Callum Wilkie,St Kilda,Key Defender,16.0,12.0,4.0,0.75,0.25,10.0,0.0,1.0,-2.65,-1.96,-0.7,1.56
+9,Cooper Sharman,St Kilda,Key Forward,14.0,11.0,3.0,0.79,0.21,5.0,2.0,1.0,2.48,3.14,-0.67,-0.43
+9,Darcy Wilson,St Kilda,Mid-Forward,24.0,18.0,6.0,0.75,0.25,8.0,0.0,3.0,8.44,9.0,-0.56,4.5
+9,Dougal Howard,St Kilda,Key Defender,11.0,9.0,2.0,0.82,0.18,6.0,0.0,5.0,0.0,0.67,-0.67,-0.33
+9,Hugh Boxshall,St Kilda,Midfielder,,,,,,,,,,,,
+9,Hugo Garcia,St Kilda,Midfielder,11.0,7.0,4.0,0.64,0.36,3.0,0.0,7.0,-4.65,-1.53,-3.12,1.35
+9,Jack Higgins,St Kilda,Gen. Forward,8.0,3.0,5.0,0.38,0.62,0.0,2.0,2.0,-1.44,-1.96,0.52,-2.3
+9,Jack Macrae,St Kilda,Midfielder,23.0,10.0,13.0,0.43,0.57,4.0,0.0,1.0,-1.57,-1.43,-0.14,0.86
+9,Jack Sinclair,St Kilda,Gen. Defender,26.0,15.0,11.0,0.58,0.42,3.0,1.0,3.0,-0.96,-4.43,3.48,-1.78
+9,Jack Steele,St Kilda,Midfielder,20.0,13.0,7.0,0.65,0.35,6.0,0.0,9.0,-0.86,4.57,-5.43,1.86
+9,Jimmy Webster,St Kilda,Gen. Defender,11.0,6.0,5.0,0.55,0.45,6.0,0.0,2.0,-0.73,-1.33,0.6,1.27
+9,Lance Collard,St Kilda,Gen. Forward,,,,,,,,,,,,
+9,Liam O'Connell,St Kilda,Gen. Defender,6.0,3.0,3.0,0.5,0.5,3.0,0.0,2.0,-0.14,-0.71,0.57,0.71
+9,Liam Stocker,St Kilda,Gen. Defender,8.0,7.0,1.0,0.88,0.12,6.0,0.0,4.0,-3.12,0.06,-3.18,1.88
+9,Marcus Windhager,St Kilda,Midfielder,13.0,9.0,4.0,0.69,0.31,2.0,0.0,4.0,-9.09,-3.17,-5.91,-2.3
+9,Mattaes Phillipou,St Kilda,Gen. Forward,12.0,6.0,6.0,0.5,0.5,4.0,2.0,4.0,3.43,1.71,1.71,2.43
+9,Max Hall,St Kilda,Gen. Forward,14.0,9.0,5.0,0.64,0.36,4.0,1.0,4.0,-1.26,1.17,-2.43,0.87
+9,Mitch Owens,St Kilda,Key Forward,14.0,8.0,6.0,0.57,0.43,3.0,0.0,8.0,1.11,0.58,0.53,-0.42
+9,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,30.0,23.0,7.0,0.77,0.23,8.0,0.0,1.0,0.09,0.74,-0.65,2.74
+9,Rowan Marshall,St Kilda,Ruck,19.0,14.0,5.0,0.74,0.26,8.0,0.0,2.0,0.43,2.61,-2.17,3.52
+9,Ryan Byrnes,St Kilda,Gen. Defender,22.0,13.0,9.0,0.59,0.41,10.0,0.0,3.0,5.18,2.88,2.29,4.71
+10,Angus McLennan,St Kilda,Gen. Defender,,,,,,,,,,,,
+10,Anthony Caminiti,St Kilda,Key Defender,16.0,5.0,11.0,0.31,0.69,3.0,0.0,2.0,3.91,-2.57,6.48,-2.7
+10,Bradley Hill,St Kilda,Mid-Forward,22.0,14.0,8.0,0.64,0.36,6.0,0.0,4.0,2.41,1.32,1.09,0.73
+10,Callum Wilkie,St Kilda,Key Defender,24.0,13.0,11.0,0.54,0.46,6.0,0.0,0.0,5.35,-0.96,6.3,-2.44
+10,Cooper Sharman,St Kilda,Key Forward,6.0,5.0,1.0,0.83,0.17,2.0,1.0,3.0,-5.52,-2.86,-2.67,-3.43
+10,Darcy Wilson,St Kilda,Mid-Forward,17.0,6.0,11.0,0.35,0.65,2.0,2.0,1.0,1.44,-3.0,4.44,-1.5
+10,Hugo Garcia,St Kilda,Midfielder,12.0,8.0,4.0,0.67,0.33,1.0,0.0,7.0,-3.65,-0.53,-3.12,-0.65
+10,Jack Higgins,St Kilda,Gen. Forward,12.0,7.0,5.0,0.58,0.42,4.0,5.0,3.0,2.56,2.04,0.52,1.7
+10,Jack Macrae,St Kilda,Midfielder,27.0,15.0,12.0,0.56,0.44,2.0,0.0,3.0,2.43,3.57,-1.14,-1.14
+10,Jack Sinclair,St Kilda,Gen. Defender,38.0,30.0,8.0,0.79,0.21,7.0,0.0,3.0,11.04,10.57,0.48,2.22
+10,Jack Steele,St Kilda,Midfielder,16.0,9.0,7.0,0.56,0.44,3.0,0.0,14.0,-4.86,0.57,-5.43,-1.14
+10,Jimmy Webster,St Kilda,Gen. Defender,17.0,10.0,7.0,0.59,0.41,6.0,0.0,1.0,5.27,2.67,2.6,1.27
+10,Lance Collard,St Kilda,Gen. Forward,,,,,,,,,,,,
+10,Liam O'Connell,St Kilda,Gen. Defender,11.0,5.0,6.0,0.45,0.55,4.0,0.0,5.0,4.86,1.29,3.57,1.71
+10,Marcus Windhager,St Kilda,Midfielder,19.0,11.0,8.0,0.58,0.42,7.0,0.0,0.0,-3.09,-1.17,-1.91,2.7
+10,Mason Wood,St Kilda,Mid-Forward,10.0,8.0,2.0,0.8,0.2,3.0,2.0,0.0,-4.67,-1.86,-2.81,-2.9
+10,Mattaes Phillipou,St Kilda,Gen. Forward,,,,,,,,,,,,
+10,Max Hall,St Kilda,Gen. Forward,13.0,7.0,6.0,0.54,0.46,3.0,1.0,1.0,-2.26,-0.83,-1.43,-0.13
+10,Mitch Owens,St Kilda,Key Forward,12.0,6.0,6.0,0.5,0.5,6.0,0.0,3.0,-0.89,-1.42,0.53,2.58
+10,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,27.0,13.0,14.0,0.48,0.52,2.0,0.0,3.0,-2.91,-9.26,6.35,-3.26
+10,Rowan Marshall,St Kilda,Ruck,27.0,19.0,8.0,0.7,0.3,8.0,1.0,5.0,8.43,7.61,0.83,3.52
+10,Ryan Byrnes,St Kilda,Gen. Defender,17.0,12.0,5.0,0.71,0.29,7.0,0.0,1.0,0.18,1.88,-1.71,1.71
+10,Tobie Travaglia,St Kilda,Gen. Defender,,,,,,,,,,,,
+11,Anthony Caminiti,St Kilda,Key Defender,11.0,5.0,6.0,0.45,0.55,7.0,0.0,3.0,-1.09,-2.57,1.48,1.3
+11,Bradley Hill,St Kilda,Mid-Forward,22.0,16.0,6.0,0.73,0.27,4.0,0.0,2.0,2.41,3.32,-0.91,-1.27
+11,Callum Wilkie,St Kilda,Key Defender,15.0,13.0,2.0,0.87,0.13,8.0,0.0,2.0,-3.65,-0.96,-2.7,-0.44
+11,Cooper Sharman,St Kilda,Key Forward,13.0,11.0,2.0,0.85,0.15,9.0,3.0,0.0,1.48,3.14,-1.67,3.57
+11,Darcy Wilson,St Kilda,Mid-Forward,,,,,,,,,,,,
+11,Hugh Boxshall,St Kilda,Midfielder,,,,,,,,,,,,
+11,Hunter Clark,St Kilda,Midfielder,19.0,10.0,9.0,0.53,0.47,3.0,0.0,10.0,3.38,1.31,2.08,-0.38
+11,Isaac Keeler,St Kilda,Key Forward,15.0,9.0,6.0,0.6,0.4,6.0,0.0,2.0,7.64,4.64,3.0,3.64
+11,Jack Higgins,St Kilda,Gen. Forward,6.0,2.0,4.0,0.33,0.67,2.0,0.0,1.0,-3.44,-2.96,-0.48,-0.3
+11,Jack Sinclair,St Kilda,Gen. Defender,29.0,18.0,11.0,0.62,0.38,5.0,1.0,5.0,2.04,-1.43,3.48,0.22
+11,Jack Steele,St Kilda,Midfielder,33.0,12.0,21.0,0.36,0.64,7.0,1.0,5.0,12.14,3.57,8.57,2.86
+11,Jimmy Webster,St Kilda,Gen. Defender,11.0,8.0,3.0,0.73,0.27,4.0,0.0,5.0,-0.73,0.67,-1.4,-0.73
+11,Liam O'Connell,St Kilda,Gen. Defender,9.0,5.0,4.0,0.56,0.44,2.0,0.0,3.0,2.86,1.29,1.57,-0.29
+11,Marcus Windhager,St Kilda,Midfielder,19.0,12.0,7.0,0.63,0.37,4.0,0.0,4.0,-3.09,-0.17,-2.91,-0.3
+11,Mason Wood,St Kilda,Mid-Forward,16.0,12.0,4.0,0.75,0.25,8.0,0.0,3.0,1.33,2.14,-0.81,2.09
+11,Mattaes Phillipou,St Kilda,Gen. Forward,23.0,12.0,11.0,0.52,0.48,4.0,0.0,0.0,14.43,7.71,6.71,2.43
+11,Max Hall,St Kilda,Gen. Forward,6.0,3.0,3.0,0.5,0.5,1.0,0.0,2.0,-9.26,-4.83,-4.43,-2.13
+11,Mitch Owens,St Kilda,Key Forward,25.0,15.0,10.0,0.6,0.4,8.0,2.0,1.0,12.1,7.58,4.53,4.58
+11,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,36.0,28.0,8.0,0.78,0.22,3.0,1.0,4.0,6.09,5.74,0.35,-2.26
+11,Rowan Marshall,St Kilda,Ruck,11.0,5.0,6.0,0.45,0.55,0.0,0.0,7.0,-7.57,-6.39,-1.17,-4.48
+11,Ryan Byrnes,St Kilda,Gen. Defender,20.0,8.0,12.0,0.4,0.6,8.0,0.0,2.0,3.18,-2.12,5.29,2.71
+11,Tobie Travaglia,St Kilda,Gen. Defender,19.0,10.0,9.0,0.53,0.47,3.0,0.0,3.0,9.75,5.08,4.67,0.42
+11,Zak Jones,St Kilda,Midfielder,19.0,6.0,13.0,0.32,0.68,1.0,0.0,5.0,2.87,-1.47,4.33,-2.33
+12,Anthony Caminiti,St Kilda,Key Defender,17.0,14.0,3.0,0.82,0.18,8.0,0.0,2.0,4.91,6.44,-1.52,2.3
+12,Bradley Hill,St Kilda,Mid-Forward,26.0,23.0,3.0,0.88,0.12,13.0,1.0,0.0,6.41,10.32,-3.91,7.73
+12,Callum Wilkie,St Kilda,Key Defender,31.0,22.0,9.0,0.71,0.29,15.0,0.0,2.0,12.35,8.04,4.3,6.56
+12,Cooper Sharman,St Kilda,Key Forward,14.0,10.0,4.0,0.71,0.29,8.0,0.0,1.0,2.48,2.14,0.33,2.57
+12,Dan Butler,St Kilda,Gen. Forward,12.0,9.0,3.0,0.75,0.25,3.0,4.0,0.0,4.33,3.83,0.5,0.83
+12,Hugh Boxshall,St Kilda,Midfielder,,,,,,,,,,,,
+12,Hunter Clark,St Kilda,Midfielder,20.0,7.0,13.0,0.35,0.65,6.0,1.0,5.0,4.38,-1.69,6.08,2.62
+12,Isaac Keeler,St Kilda,Key Forward,10.0,9.0,1.0,0.9,0.1,6.0,3.0,0.0,2.64,4.64,-2.0,3.64
+12,Jack Carroll,St Kilda,Midfielder,,,,,,,,,,,,
+12,Jack Higgins,St Kilda,Gen. Forward,10.0,5.0,5.0,0.5,0.5,3.0,1.0,1.0,0.56,0.04,0.52,0.7
+12,Jack Sinclair,St Kilda,Gen. Defender,25.0,23.0,2.0,0.92,0.08,7.0,0.0,4.0,-1.96,3.57,-5.52,2.22
+12,Jack Steele,St Kilda,Midfielder,23.0,12.0,11.0,0.52,0.48,8.0,0.0,6.0,2.14,3.57,-1.43,3.86
+12,Jimmy Webster,St Kilda,Gen. Defender,12.0,8.0,4.0,0.67,0.33,7.0,0.0,2.0,0.27,0.67,-0.4,2.27
+12,Marcus Windhager,St Kilda,Midfielder,28.0,18.0,10.0,0.64,0.36,8.0,0.0,4.0,5.91,5.83,0.09,3.7
+12,Mason Wood,St Kilda,Mid-Forward,15.0,9.0,6.0,0.6,0.4,7.0,0.0,2.0,0.33,-0.86,1.19,1.09
+12,Mattaes Phillipou,St Kilda,Gen. Forward,,,,,,,,,,,,
+12,Max Hall,St Kilda,Gen. Forward,15.0,6.0,9.0,0.4,0.6,4.0,2.0,4.0,-0.26,-1.83,1.57,0.87
+12,Mitch Owens,St Kilda,Key Forward,13.0,5.0,8.0,0.38,0.62,4.0,1.0,3.0,0.11,-2.42,2.53,0.58
+12,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,29.0,27.0,2.0,0.93,0.07,7.0,0.0,3.0,-0.91,4.74,-5.65,1.74
+12,Rowan Marshall,St Kilda,Ruck,16.0,12.0,4.0,0.75,0.25,5.0,0.0,5.0,-2.57,0.61,-3.17,0.52
+12,Ryan Byrnes,St Kilda,Gen. Defender,20.0,10.0,10.0,0.5,0.5,5.0,0.0,1.0,3.18,-0.12,3.29,-0.29
+12,Tobie Travaglia,St Kilda,Gen. Defender,13.0,10.0,3.0,0.77,0.23,7.0,1.0,1.0,3.75,5.08,-1.33,4.42
+12,Zak Jones,St Kilda,Midfielder,20.0,10.0,10.0,0.5,0.5,5.0,0.0,1.0,3.87,2.53,1.33,1.67
+14,Anthony Caminiti,St Kilda,Key Defender,13.0,7.0,6.0,0.54,0.46,6.0,0.0,4.0,0.91,-0.57,1.48,0.3
+14,Bradley Hill,St Kilda,Mid-Forward,16.0,10.0,6.0,0.62,0.38,4.0,1.0,1.0,-3.59,-2.68,-0.91,-1.27
+14,Callum Wilkie,St Kilda,Key Defender,21.0,14.0,7.0,0.67,0.33,10.0,0.0,2.0,2.35,0.04,2.3,1.56
+14,Cooper Sharman,St Kilda,Key Forward,12.0,7.0,5.0,0.58,0.42,6.0,1.0,4.0,0.48,-0.86,1.33,0.57
+14,Dan Butler,St Kilda,Gen. Forward,,,,,,,,,,,,
+14,Hunter Clark,St Kilda,Midfielder,14.0,8.0,6.0,0.57,0.43,1.0,0.0,4.0,-1.62,-0.69,-0.92,-2.38
+14,Isaac Keeler,St Kilda,Key Forward,9.0,3.0,6.0,0.33,0.67,2.0,1.0,1.0,1.64,-1.36,3.0,-0.36
+14,Jack Carroll,St Kilda,Midfielder,,,,,,,,,,,,
+14,Jack Higgins,St Kilda,Gen. Forward,8.0,5.0,3.0,0.62,0.38,4.0,1.0,2.0,-1.44,0.04,-1.48,1.7
+14,Jack Macrae,St Kilda,Midfielder,22.0,11.0,11.0,0.5,0.5,3.0,0.0,5.0,-2.57,-0.43,-2.14,-0.14
+14,Jack Sinclair,St Kilda,Gen. Defender,30.0,22.0,8.0,0.73,0.27,7.0,0.0,1.0,3.04,2.57,0.48,2.22
+14,Jack Steele,St Kilda,Midfielder,22.0,11.0,11.0,0.5,0.5,4.0,0.0,11.0,1.14,2.57,-1.43,-0.14
+14,Jimmy Webster,St Kilda,Gen. Defender,12.0,8.0,4.0,0.67,0.33,8.0,0.0,2.0,0.27,0.67,-0.4,3.27
+14,Liam Stocker,St Kilda,Gen. Defender,14.0,8.0,6.0,0.57,0.43,5.0,0.0,0.0,2.88,1.06,1.82,0.88
+14,Marcus Windhager,St Kilda,Midfielder,16.0,5.0,11.0,0.31,0.69,1.0,1.0,4.0,-6.09,-7.17,1.09,-3.3
+14,Mason Wood,St Kilda,Mid-Forward,16.0,12.0,4.0,0.75,0.25,4.0,1.0,1.0,1.33,2.14,-0.81,-1.91
+14,Max Hall,St Kilda,Gen. Forward,9.0,4.0,5.0,0.44,0.56,0.0,0.0,3.0,-6.26,-3.83,-2.43,-3.13
+14,Mitch Owens,St Kilda,Key Forward,9.0,6.0,3.0,0.67,0.33,2.0,0.0,4.0,-3.89,-1.42,-2.47,-1.42
+14,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,31.0,28.0,3.0,0.9,0.1,9.0,1.0,1.0,1.09,5.74,-4.65,3.74
+14,Rowan Marshall,St Kilda,Ruck,23.0,15.0,8.0,0.65,0.35,6.0,0.0,6.0,4.43,3.61,0.83,1.52
+14,Ryan Byrnes,St Kilda,Gen. Defender,18.0,11.0,7.0,0.61,0.39,6.0,1.0,0.0,1.18,0.88,0.29,0.71
+14,Tobie Travaglia,St Kilda,Gen. Defender,10.0,5.0,5.0,0.5,0.5,2.0,0.0,2.0,0.75,0.08,0.67,-0.58
+14,Zak Jones,St Kilda,Midfielder,7.0,3.0,4.0,0.43,0.57,1.0,0.0,0.0,-9.13,-4.47,-4.67,-2.33
+15,Alixzander Tauru,St Kilda,Key Defender,9.0,7.0,2.0,0.78,0.22,6.0,0.0,2.0,0.0,1.4,-1.4,1.7
+15,Anthony Caminiti,St Kilda,Key Defender,11.0,8.0,3.0,0.73,0.27,8.0,0.0,2.0,-1.09,0.43,-1.52,2.3
+15,Bradley Hill,St Kilda,Mid-Forward,21.0,11.0,10.0,0.52,0.48,5.0,0.0,2.0,1.41,-1.68,3.09,-0.27
+15,Callum Wilkie,St Kilda,Key Defender,20.0,14.0,6.0,0.7,0.3,6.0,0.0,0.0,1.35,0.04,1.3,-2.44
+15,Cooper Sharman,St Kilda,Key Forward,10.0,5.0,5.0,0.5,0.5,2.0,1.0,1.0,-1.52,-2.86,1.33,-3.43
+15,Dan Butler,St Kilda,Gen. Forward,9.0,6.0,3.0,0.67,0.33,3.0,2.0,2.0,1.33,0.83,0.5,0.83
+15,Darcy Wilson,St Kilda,Mid-Forward,14.0,9.0,5.0,0.64,0.36,5.0,2.0,1.0,-1.56,0.0,-1.56,1.5
+15,Hunter Clark,St Kilda,Midfielder,17.0,10.0,7.0,0.59,0.41,1.0,0.0,5.0,1.38,1.31,0.08,-2.38
+15,Isaac Keeler,St Kilda,Key Forward,8.0,5.0,3.0,0.62,0.38,3.0,0.0,1.0,0.64,0.64,0.0,0.64
+15,Jack Higgins,St Kilda,Gen. Forward,6.0,2.0,4.0,0.33,0.67,1.0,0.0,3.0,-3.44,-2.96,-0.48,-1.3
+15,Jack Macrae,St Kilda,Midfielder,29.0,16.0,13.0,0.55,0.45,2.0,0.0,6.0,4.43,4.57,-0.14,-1.14
+15,Jack Sinclair,St Kilda,Gen. Defender,19.0,15.0,4.0,0.79,0.21,3.0,0.0,2.0,-7.96,-4.43,-3.52,-1.78
+15,Jack Steele,St Kilda,Midfielder,19.0,8.0,11.0,0.42,0.58,1.0,0.0,5.0,-1.86,-0.43,-1.43,-3.14
+15,Jimmy Webster,St Kilda,Gen. Defender,5.0,3.0,2.0,0.6,0.4,3.0,0.0,0.0,-6.73,-4.33,-2.4,-1.73
+15,Liam Stocker,St Kilda,Gen. Defender,13.0,10.0,3.0,0.77,0.23,5.0,0.0,1.0,1.88,3.06,-1.18,0.88
+15,Marcus Windhager,St Kilda,Midfielder,15.0,5.0,10.0,0.33,0.67,3.0,0.0,1.0,-7.09,-7.17,0.09,-1.3
+15,Mason Wood,St Kilda,Mid-Forward,15.0,9.0,6.0,0.6,0.4,7.0,3.0,1.0,0.33,-0.86,1.19,1.09
+15,Max Hall,St Kilda,Gen. Forward,12.0,4.0,8.0,0.33,0.67,1.0,1.0,0.0,-3.26,-3.83,0.57,-2.13
+15,Mitch Owens,St Kilda,Key Forward,12.0,10.0,2.0,0.83,0.17,4.0,1.0,1.0,-0.89,2.58,-3.47,0.58
+15,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,35.0,25.0,10.0,0.71,0.29,7.0,0.0,2.0,5.09,2.74,2.35,1.74
+15,Rowan Marshall,St Kilda,Ruck,20.0,16.0,4.0,0.8,0.2,2.0,1.0,3.0,1.43,4.61,-3.17,-2.48
+15,Ryan Byrnes,St Kilda,Gen. Defender,11.0,7.0,4.0,0.64,0.36,1.0,0.0,5.0,-5.82,-3.12,-2.71,-4.29
+15,Tobie Travaglia,St Kilda,Gen. Defender,,,,,,,,,,,,
+16,Alixzander Tauru,St Kilda,Key Defender,9.0,5.0,4.0,0.56,0.44,5.0,0.0,3.0,0.0,-0.6,0.6,0.7
+16,Anthony Caminiti,St Kilda,Key Defender,14.0,7.0,7.0,0.5,0.5,9.0,0.0,1.0,1.91,-0.57,2.48,3.3
+16,Callum Wilkie,St Kilda,Key Defender,16.0,14.0,2.0,0.88,0.12,11.0,0.0,2.0,-2.65,0.04,-2.7,2.56
+16,Cooper Sharman,St Kilda,Key Forward,10.0,7.0,3.0,0.7,0.3,4.0,0.0,0.0,-1.52,-0.86,-0.67,-1.43
+16,Dan Butler,St Kilda,Gen. Forward,6.0,5.0,1.0,0.83,0.17,0.0,1.0,2.0,-1.67,-0.17,-1.5,-2.17
+16,Darcy Wilson,St Kilda,Mid-Forward,12.0,5.0,7.0,0.42,0.58,2.0,0.0,2.0,-3.56,-4.0,0.44,-1.5
+16,Hugo Garcia,St Kilda,Midfielder,24.0,10.0,14.0,0.42,0.58,1.0,0.0,1.0,8.35,1.47,6.88,-0.65
+16,Hunter Clark,St Kilda,Midfielder,,,,,,,,,,,,
+16,Isaac Keeler,St Kilda,Key Forward,3.0,3.0,0.0,1.0,0.0,2.0,2.0,2.0,-4.36,-1.36,-3.0,-0.36
+16,Jack Carroll,St Kilda,Midfielder,,,,,,,,,,,,
+16,Jack Higgins,St Kilda,Gen. Forward,15.0,5.0,10.0,0.33,0.67,5.0,1.0,1.0,5.56,0.04,5.52,2.7
+16,Jack Macrae,St Kilda,Midfielder,26.0,13.0,13.0,0.5,0.5,2.0,0.0,4.0,1.43,1.57,-0.14,-1.14
+16,Jack Sinclair,St Kilda,Gen. Defender,22.0,18.0,4.0,0.82,0.18,3.0,0.0,2.0,-4.96,-1.43,-3.52,-1.78
+16,Jack Steele,St Kilda,Midfielder,22.0,10.0,12.0,0.45,0.55,3.0,0.0,9.0,1.14,1.57,-0.43,-1.14
+16,Liam Henry,St Kilda,Gen. Forward,12.0,4.0,8.0,0.33,0.67,4.0,1.0,0.0,4.67,0.0,4.67,2.17
+16,Liam Stocker,St Kilda,Gen. Defender,10.0,7.0,3.0,0.7,0.3,7.0,0.0,2.0,-1.12,0.06,-1.18,2.88
+16,Marcus Windhager,St Kilda,Midfielder,21.0,12.0,9.0,0.57,0.43,5.0,0.0,3.0,-1.09,-0.17,-0.91,0.7
+16,Mason Wood,St Kilda,Mid-Forward,15.0,10.0,5.0,0.67,0.33,4.0,0.0,2.0,0.33,0.14,0.19,-1.91
+16,Max Hall,St Kilda,Gen. Forward,21.0,15.0,6.0,0.71,0.29,2.0,1.0,6.0,5.74,7.17,-1.43,-1.13
+16,Mitch Owens,St Kilda,Key Forward,14.0,7.0,7.0,0.5,0.5,3.0,1.0,1.0,1.11,-0.42,1.53,-0.42
+16,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,28.0,25.0,3.0,0.89,0.11,7.0,1.0,1.0,-1.91,2.74,-4.65,1.74
+16,Rowan Marshall,St Kilda,Ruck,22.0,17.0,5.0,0.77,0.23,4.0,1.0,6.0,3.43,5.61,-2.17,-0.48
+16,Tobie Travaglia,St Kilda,Gen. Defender,,,,,,,,,,,,
+17,Alixzander Tauru,St Kilda,Key Defender,13.0,7.0,6.0,0.54,0.46,4.0,0.0,4.0,4.0,1.4,2.6,-0.3
+17,Angus Hastie,St Kilda,Gen. Defender,14.0,11.0,3.0,0.79,0.21,7.0,0.0,3.0,5.0,5.44,-0.44,4.22
+17,Anthony Caminiti,St Kilda,Key Defender,9.0,4.0,5.0,0.44,0.56,4.0,0.0,3.0,-3.09,-3.57,0.48,-1.7
+17,Bradley Hill,St Kilda,Mid-Forward,,,,,,,,,,,,
+17,Callum Wilkie,St Kilda,Key Defender,9.0,7.0,2.0,0.78,0.22,6.0,0.0,2.0,-9.65,-6.96,-2.7,-2.44
+17,Cooper Sharman,St Kilda,Key Forward,9.0,5.0,4.0,0.56,0.44,5.0,1.0,1.0,-2.52,-2.86,0.33,-0.43
+17,Dan Butler,St Kilda,Gen. Forward,11.0,5.0,6.0,0.45,0.55,4.0,0.0,1.0,3.33,-0.17,3.5,1.83
+17,Darcy Wilson,St Kilda,Mid-Forward,11.0,5.0,6.0,0.45,0.55,1.0,0.0,3.0,-4.56,-4.0,-0.56,-2.5
+17,Hugo Garcia,St Kilda,Midfielder,17.0,7.0,10.0,0.41,0.59,0.0,0.0,4.0,1.35,-1.53,2.88,-1.65
+17,Hunter Clark,St Kilda,Midfielder,19.0,10.0,9.0,0.53,0.47,1.0,0.0,6.0,3.38,1.31,2.08,-2.38
+17,Isaac Keeler,St Kilda,Key Forward,1.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,-6.36,-4.36,-2.0,-1.36
+17,Jack Higgins,St Kilda,Gen. Forward,9.0,4.0,5.0,0.44,0.56,1.0,2.0,2.0,-0.44,-0.96,0.52,-1.3
+17,Jack Macrae,St Kilda,Midfielder,26.0,12.0,14.0,0.46,0.54,5.0,1.0,10.0,1.43,0.57,0.86,1.86
+17,Jack Sinclair,St Kilda,Gen. Defender,24.0,17.0,7.0,0.71,0.29,4.0,0.0,3.0,-2.96,-2.43,-0.52,-0.78
+17,Jack Steele,St Kilda,Midfielder,26.0,8.0,18.0,0.31,0.69,5.0,0.0,15.0,5.14,-0.43,5.57,0.86
+17,Jimmy Webster,St Kilda,Gen. Defender,,,,,,,,,,,,
+17,Liam Henry,St Kilda,Gen. Forward,9.0,3.0,6.0,0.33,0.67,0.0,0.0,1.0,1.67,-1.0,2.67,-1.83
+17,Marcus Windhager,St Kilda,Midfielder,27.0,22.0,5.0,0.81,0.19,5.0,1.0,4.0,4.91,9.83,-4.91,0.7
+17,Mason Wood,St Kilda,Mid-Forward,14.0,11.0,3.0,0.79,0.21,5.0,0.0,2.0,-0.67,1.14,-1.81,-0.91
+17,Max Hall,St Kilda,Gen. Forward,27.0,16.0,11.0,0.59,0.41,6.0,3.0,4.0,11.74,8.17,3.57,2.87
+17,Mitch Owens,St Kilda,Key Forward,10.0,4.0,6.0,0.4,0.6,0.0,1.0,2.0,-2.89,-3.42,0.53,-3.42
+17,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,43.0,33.0,10.0,0.77,0.23,6.0,0.0,2.0,13.09,10.74,2.35,0.74
+17,Rowan Marshall,St Kilda,Ruck,21.0,11.0,10.0,0.52,0.48,7.0,1.0,8.0,2.43,-0.39,2.83,2.52
+18,Alixzander Tauru,St Kilda,Key Defender,12.0,6.0,6.0,0.5,0.5,6.0,0.0,1.0,3.0,0.4,2.6,1.7
+18,Angus Hastie,St Kilda,Gen. Defender,12.0,7.0,5.0,0.58,0.42,1.0,0.0,1.0,3.0,1.44,1.56,-1.78
+18,Anthony Caminiti,St Kilda,Key Defender,9.0,6.0,3.0,0.67,0.33,2.0,0.0,0.0,-3.09,-1.57,-1.52,-3.7
+18,Bradley Hill,St Kilda,Mid-Forward,23.0,17.0,6.0,0.74,0.26,12.0,0.0,3.0,3.41,4.32,-0.91,6.73
+18,Callum Wilkie,St Kilda,Key Defender,23.0,18.0,5.0,0.78,0.22,8.0,0.0,0.0,4.35,4.04,0.3,-0.44
+18,Cooper Sharman,St Kilda,Key Forward,11.0,5.0,6.0,0.45,0.55,3.0,2.0,2.0,-0.52,-2.86,2.33,-2.43
+18,Dan Butler,St Kilda,Gen. Forward,,,,,,,,,,,,
+18,Hugh Boxshall,St Kilda,Midfielder,8.0,4.0,4.0,0.5,0.5,1.0,1.0,3.0,-4.64,-1.46,-3.18,-2.18
+18,Hugo Garcia,St Kilda,Midfielder,15.0,10.0,5.0,0.67,0.33,0.0,1.0,5.0,-0.65,1.47,-2.12,-1.65
+18,Hunter Clark,St Kilda,Midfielder,,,,,,,,,,,,
+18,Jack Higgins,St Kilda,Gen. Forward,9.0,3.0,6.0,0.33,0.67,1.0,0.0,2.0,-0.44,-1.96,1.52,-1.3
+18,Jack Macrae,St Kilda,Midfielder,20.0,10.0,10.0,0.5,0.5,1.0,0.0,11.0,-4.57,-1.43,-3.14,-2.14
+18,Jack Sinclair,St Kilda,Gen. Defender,22.0,17.0,5.0,0.77,0.23,6.0,1.0,4.0,-4.96,-2.43,-2.52,1.22
+18,Jack Steele,St Kilda,Midfielder,25.0,12.0,13.0,0.48,0.52,8.0,1.0,13.0,4.14,3.57,0.57,3.86
+18,Liam Henry,St Kilda,Gen. Forward,9.0,5.0,4.0,0.56,0.44,3.0,0.0,2.0,1.67,1.0,0.67,1.17
+18,Liam Stocker,St Kilda,Gen. Defender,12.0,8.0,4.0,0.67,0.33,7.0,0.0,0.0,0.88,1.06,-0.18,2.88
+18,Marcus Windhager,St Kilda,Midfielder,36.0,20.0,16.0,0.56,0.44,8.0,0.0,3.0,13.91,7.83,6.09,3.7
+18,Mason Wood,St Kilda,Mid-Forward,24.0,17.0,7.0,0.71,0.29,6.0,0.0,4.0,9.33,7.14,2.19,0.09
+18,Max Hall,St Kilda,Gen. Forward,15.0,6.0,9.0,0.4,0.6,2.0,3.0,3.0,-0.26,-1.83,1.57,-1.13
+18,Max Heath,St Kilda,Key Forward,8.0,3.0,5.0,0.38,0.62,1.0,1.0,6.0,1.25,0.0,1.25,-0.75
+18,Mitch Owens,St Kilda,Key Forward,13.0,10.0,3.0,0.77,0.23,4.0,2.0,1.0,0.11,2.58,-2.47,0.58
+18,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,24.0,18.0,6.0,0.75,0.25,3.0,0.0,0.0,-5.91,-4.26,-1.65,-2.26
+18,Rowan Marshall,St Kilda,Ruck,16.0,6.0,10.0,0.38,0.62,4.0,1.0,2.0,-2.57,-5.39,2.83,-0.48
+19,Alixzander Tauru,St Kilda,Key Defender,7.0,4.0,3.0,0.57,0.43,5.0,0.0,1.0,-2.0,-1.6,-0.4,0.7
+19,Angus Hastie,St Kilda,Gen. Defender,8.0,4.0,4.0,0.5,0.5,3.0,0.0,1.0,-1.0,-1.56,0.56,0.22
+19,Anthony Caminiti,St Kilda,Key Defender,13.0,11.0,2.0,0.85,0.15,7.0,0.0,0.0,0.91,3.43,-2.52,1.3
+19,Bradley Hill,St Kilda,Mid-Forward,23.0,17.0,6.0,0.74,0.26,6.0,0.0,3.0,3.41,4.32,-0.91,0.73
+19,Callum Wilkie,St Kilda,Key Defender,16.0,10.0,6.0,0.62,0.38,5.0,0.0,3.0,-2.65,-3.96,1.3,-3.44
+19,Cooper Sharman,St Kilda,Key Forward,10.0,7.0,3.0,0.7,0.3,5.0,2.0,1.0,-1.52,-0.86,-0.67,-0.43
+19,Darcy Wilson,St Kilda,Mid-Forward,,,,,,,,,,,,
+19,Hugh Boxshall,St Kilda,Midfielder,15.0,7.0,8.0,0.47,0.53,2.0,0.0,4.0,2.36,1.54,0.82,-1.18
+19,Hunter Clark,St Kilda,Midfielder,,,,,,,,,,,,
+19,Jack Higgins,St Kilda,Gen. Forward,9.0,7.0,2.0,0.78,0.22,0.0,2.0,1.0,-0.44,2.04,-2.48,-2.3
+19,Jack Macrae,St Kilda,Midfielder,19.0,11.0,8.0,0.58,0.42,1.0,0.0,3.0,-5.57,-0.43,-5.14,-2.14
+19,Jack Sinclair,St Kilda,Gen. Defender,33.0,28.0,5.0,0.85,0.15,2.0,0.0,2.0,6.04,8.57,-2.52,-2.78
+19,Jack Steele,St Kilda,Midfielder,21.0,7.0,14.0,0.33,0.67,6.0,0.0,14.0,0.14,-1.43,1.57,1.86
+19,Liam Henry,St Kilda,Gen. Forward,9.0,7.0,2.0,0.78,0.22,2.0,1.0,1.0,1.67,3.0,-1.33,0.17
+19,Liam Stocker,St Kilda,Gen. Defender,8.0,6.0,2.0,0.75,0.25,2.0,0.0,4.0,-3.12,-0.94,-2.18,-2.12
+19,Marcus Windhager,St Kilda,Midfielder,22.0,13.0,9.0,0.59,0.41,4.0,0.0,5.0,-0.09,0.83,-0.91,-0.3
+19,Mason Wood,St Kilda,Mid-Forward,10.0,8.0,2.0,0.8,0.2,3.0,2.0,2.0,-4.67,-1.86,-2.81,-2.9
+19,Max Hall,St Kilda,Gen. Forward,21.0,9.0,12.0,0.43,0.57,2.0,0.0,3.0,5.74,1.17,4.57,-1.13
+19,Max Heath,St Kilda,Key Forward,7.0,3.0,4.0,0.43,0.57,2.0,0.0,2.0,0.25,0.0,0.25,0.25
+19,Mitch Owens,St Kilda,Key Forward,15.0,8.0,7.0,0.53,0.47,6.0,2.0,0.0,2.11,0.58,1.53,2.58
+19,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,36.0,26.0,10.0,0.72,0.28,8.0,2.0,4.0,6.09,3.74,2.35,2.74
+19,Rowan Marshall,St Kilda,Ruck,17.0,10.0,7.0,0.59,0.41,7.0,1.0,3.0,-1.57,-1.39,-0.17,2.52
+19,Ryan Byrnes,St Kilda,Gen. Defender,17.0,12.0,5.0,0.71,0.29,3.0,0.0,0.0,0.18,1.88,-1.71,-2.29
+20,Alixzander Tauru,St Kilda,Key Defender,5.0,3.0,2.0,0.6,0.4,2.0,1.0,1.0,-4.0,-2.6,-1.4,-2.3
+20,Angus Hastie,St Kilda,Gen. Defender,10.0,5.0,5.0,0.5,0.5,3.0,0.0,3.0,1.0,-0.56,1.56,0.22
+20,Anthony Caminiti,St Kilda,Key Defender,11.0,9.0,2.0,0.82,0.18,5.0,1.0,1.0,-1.09,1.43,-2.52,-0.7
+20,Arie Schoenmaker,St Kilda,Gen. Defender,11.0,9.0,2.0,0.82,0.18,8.0,0.0,0.0,-5.0,-3.67,-1.33,2.67
+20,Bradley Hill,St Kilda,Mid-Forward,15.0,12.0,3.0,0.8,0.2,5.0,1.0,1.0,-4.59,-0.68,-3.91,-0.27
+20,Callum Wilkie,St Kilda,Key Defender,13.0,12.0,1.0,0.92,0.08,7.0,0.0,2.0,-5.65,-1.96,-3.7,-1.44
+20,Cooper Sharman,St Kilda,Key Forward,9.0,5.0,4.0,0.56,0.44,2.0,2.0,1.0,-2.52,-2.86,0.33,-3.43
+20,Hugh Boxshall,St Kilda,Midfielder,,,,,,,,,,,,
+20,Hunter Clark,St Kilda,Midfielder,20.0,13.0,7.0,0.65,0.35,6.0,0.0,6.0,4.38,4.31,0.08,2.62
+20,Jack Higgins,St Kilda,Gen. Forward,10.0,9.0,1.0,0.9,0.1,8.0,4.0,2.0,0.56,4.04,-3.48,5.7
+20,Jack Macrae,St Kilda,Midfielder,24.0,10.0,14.0,0.42,0.58,4.0,0.0,6.0,-0.57,-1.43,0.86,0.86
+20,Jack Sinclair,St Kilda,Gen. Defender,32.0,20.0,12.0,0.62,0.38,7.0,0.0,5.0,5.04,0.57,4.48,2.22
+20,Jack Steele,St Kilda,Midfielder,13.0,3.0,10.0,0.23,0.77,1.0,1.0,5.0,-7.86,-5.43,-2.43,-3.14
+20,Lance Collard,St Kilda,Gen. Forward,,,,,,,,,,,,
+20,Liam Stocker,St Kilda,Gen. Defender,12.0,7.0,5.0,0.58,0.42,2.0,0.0,3.0,0.88,0.06,0.82,-2.12
+20,Marcus Windhager,St Kilda,Midfielder,22.0,10.0,12.0,0.45,0.55,5.0,0.0,3.0,-0.09,-2.17,2.09,0.7
+20,Mason Wood,St Kilda,Mid-Forward,17.0,8.0,9.0,0.47,0.53,4.0,1.0,2.0,2.33,-1.86,4.19,-1.91
+20,Max Hall,St Kilda,Gen. Forward,19.0,7.0,12.0,0.37,0.63,2.0,0.0,7.0,3.74,-0.83,4.57,-1.13
+20,Mitch Owens,St Kilda,Key Forward,10.0,4.0,6.0,0.4,0.6,1.0,0.0,0.0,-2.89,-3.42,0.53,-2.42
+20,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,34.0,25.0,9.0,0.74,0.26,5.0,4.0,4.0,4.09,2.74,1.35,-0.26
+20,Rowan Marshall,St Kilda,Ruck,15.0,9.0,6.0,0.6,0.4,3.0,0.0,4.0,-3.57,-2.39,-1.17,-1.48
+20,Ryan Byrnes,St Kilda,Gen. Defender,11.0,4.0,7.0,0.36,0.64,6.0,0.0,0.0,-5.82,-6.12,0.29,0.71
+20,Zak Jones,St Kilda,Midfielder,26.0,14.0,12.0,0.54,0.46,6.0,0.0,1.0,9.87,6.53,3.33,2.67
+21,Alixzander Tauru,St Kilda,Key Defender,7.0,5.0,2.0,0.71,0.29,4.0,0.0,1.0,-2.0,-0.6,-1.4,-0.3
+21,Angus Hastie,St Kilda,Gen. Defender,7.0,6.0,1.0,0.86,0.14,3.0,0.0,1.0,-2.0,0.44,-2.44,0.22
+21,Anthony Caminiti,St Kilda,Key Defender,8.0,6.0,2.0,0.75,0.25,2.0,0.0,0.0,-4.09,-1.57,-2.52,-3.7
+21,Bradley Hill,St Kilda,Mid-Forward,17.0,13.0,4.0,0.76,0.24,7.0,0.0,1.0,-2.59,0.32,-2.91,1.73
+21,Callum Wilkie,St Kilda,Key Defender,17.0,13.0,4.0,0.76,0.24,7.0,0.0,0.0,-1.65,-0.96,-0.7,-1.44
+21,Cooper Sharman,St Kilda,Key Forward,6.0,3.0,3.0,0.5,0.5,2.0,1.0,1.0,-5.52,-4.86,-0.67,-3.43
+21,Hugh Boxshall,St Kilda,Midfielder,12.0,5.0,7.0,0.42,0.58,2.0,1.0,8.0,-0.64,-0.46,-0.18,-1.18
+21,Hugo Garcia,St Kilda,Midfielder,15.0,10.0,5.0,0.67,0.33,0.0,0.0,1.0,-0.65,1.47,-2.12,-1.65
+21,Hunter Clark,St Kilda,Midfielder,25.0,17.0,8.0,0.68,0.32,7.0,0.0,1.0,9.38,8.31,1.08,3.62
+21,Jack Higgins,St Kilda,Gen. Forward,10.0,4.0,6.0,0.4,0.6,2.0,2.0,2.0,0.56,-0.96,1.52,-0.3
+21,Jack Macrae,St Kilda,Midfielder,22.0,6.0,16.0,0.27,0.73,3.0,0.0,4.0,-2.57,-5.43,2.86,-0.14
+21,Jack Sinclair,St Kilda,Gen. Defender,26.0,16.0,10.0,0.62,0.38,0.0,0.0,3.0,-0.96,-3.43,2.48,-4.78
+21,Jack Steele,St Kilda,Midfielder,,,,,,,,,,,,
+21,Liam Stocker,St Kilda,Gen. Defender,9.0,1.0,8.0,0.11,0.89,1.0,0.0,1.0,-2.12,-5.94,3.82,-3.12
+21,Marcus Windhager,St Kilda,Midfielder,20.0,10.0,10.0,0.5,0.5,5.0,0.0,1.0,-2.09,-2.17,0.09,0.7
+21,Mason Wood,St Kilda,Mid-Forward,15.0,8.0,7.0,0.53,0.47,7.0,1.0,2.0,0.33,-1.86,2.19,1.09
+21,Max Hall,St Kilda,Gen. Forward,14.0,10.0,4.0,0.71,0.29,3.0,1.0,1.0,-1.26,2.17,-3.43,-0.13
+21,Max Heath,St Kilda,Key Forward,10.0,6.0,4.0,0.6,0.4,4.0,2.0,1.0,3.25,3.0,0.25,2.25
+21,Mitch Owens,St Kilda,Key Forward,,,,,,,,,,,,
+21,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,36.0,24.0,12.0,0.67,0.33,3.0,0.0,1.0,6.09,1.74,4.35,-2.26
+21,Rowan Marshall,St Kilda,Ruck,24.0,15.0,9.0,0.62,0.38,6.0,1.0,5.0,5.43,3.61,1.83,1.52
+21,Ryan Byrnes,St Kilda,Gen. Defender,8.0,7.0,1.0,0.88,0.12,4.0,1.0,2.0,-8.82,-3.12,-5.71,-1.29
+21,Zak Jones,St Kilda,Midfielder,10.0,5.0,5.0,0.5,0.5,3.0,0.0,1.0,-6.13,-2.47,-3.67,-0.33
+22,Alixzander Tauru,St Kilda,Key Defender,16.0,11.0,5.0,0.69,0.31,7.0,0.0,2.0,7.0,5.4,1.6,2.7
+22,Anthony Caminiti,St Kilda,Key Defender,9.0,7.0,2.0,0.78,0.22,5.0,0.0,1.0,-3.09,-0.57,-2.52,-0.7
+22,Bradley Hill,St Kilda,Mid-Forward,24.0,18.0,6.0,0.75,0.25,8.0,0.0,2.0,4.41,5.32,-0.91,2.73
+22,Callum Wilkie,St Kilda,Key Defender,29.0,25.0,4.0,0.86,0.14,16.0,0.0,2.0,10.35,11.04,-0.7,7.56
+22,Cooper Sharman,St Kilda,Key Forward,16.0,13.0,3.0,0.81,0.19,11.0,2.0,1.0,4.48,5.14,-0.67,5.57
+22,Darcy Wilson,St Kilda,Mid-Forward,11.0,6.0,5.0,0.55,0.45,4.0,0.0,5.0,-4.56,-3.0,-1.56,0.5
+22,Hugh Boxshall,St Kilda,Midfielder,14.0,4.0,10.0,0.29,0.71,5.0,0.0,8.0,1.36,-1.46,2.82,1.82
+22,Hugo Garcia,St Kilda,Midfielder,20.0,12.0,8.0,0.6,0.4,6.0,1.0,7.0,4.35,3.47,0.88,4.35
+22,Hunter Clark,St Kilda,Midfielder,22.0,15.0,7.0,0.68,0.32,11.0,0.0,2.0,6.38,6.31,0.08,7.62
+22,Jack Higgins,St Kilda,Gen. Forward,8.0,5.0,3.0,0.62,0.38,3.0,2.0,1.0,-1.44,0.04,-1.48,0.7
+22,Jack Macrae,St Kilda,Midfielder,26.0,11.0,15.0,0.42,0.58,7.0,0.0,4.0,1.43,-0.43,1.86,3.86
+22,Jack Sinclair,St Kilda,Gen. Defender,30.0,23.0,7.0,0.77,0.23,11.0,1.0,6.0,3.04,3.57,-0.52,6.22
+22,Jack Steele,St Kilda,Midfielder,17.0,7.0,10.0,0.41,0.59,8.0,0.0,10.0,-3.86,-1.43,-2.43,3.86
+22,Liam Henry,St Kilda,Gen. Forward,,,,,,,,,,,,
+22,Liam Stocker,St Kilda,Gen. Defender,11.0,6.0,5.0,0.55,0.45,3.0,0.0,2.0,-0.12,-0.94,0.82,-1.12
+22,Marcus Windhager,St Kilda,Midfielder,32.0,20.0,12.0,0.62,0.38,9.0,0.0,6.0,9.91,7.83,2.09,4.7
+22,Mason Wood,St Kilda,Mid-Forward,19.0,15.0,4.0,0.79,0.21,12.0,0.0,0.0,4.33,5.14,-0.81,6.1
+22,Mattaes Phillipou,St Kilda,Gen. Forward,3.0,0.0,3.0,0.0,1.0,0.0,0.0,3.0,-5.57,-4.29,-1.29,-1.57
+22,Max Hall,St Kilda,Gen. Forward,14.0,7.0,7.0,0.5,0.5,4.0,1.0,5.0,-1.26,-0.83,-0.43,0.87
+22,Max Heath,St Kilda,Key Forward,,,,,,,,,,,,
+22,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,33.0,25.0,8.0,0.76,0.24,7.0,1.0,0.0,3.09,2.74,0.35,1.74
+22,Rowan Marshall,St Kilda,Ruck,21.0,15.0,6.0,0.71,0.29,6.0,0.0,9.0,2.43,3.61,-1.17,1.52
+22,Zak Jones,St Kilda,Midfielder,13.0,8.0,5.0,0.62,0.38,6.0,0.0,3.0,-3.13,0.53,-3.67,2.67
+23,Alex Dodson,St Kilda,Key Forward,,,,,,,,,,,,
+23,Alixzander Tauru,St Kilda,Key Defender,8.0,5.0,3.0,0.62,0.38,2.0,0.0,1.0,-1.0,-0.6,-0.4,-2.3
+23,Anthony Caminiti,St Kilda,Key Defender,6.0,5.0,1.0,0.83,0.17,3.0,0.0,0.0,-6.09,-2.57,-3.52,-2.7
+23,Bradley Hill,St Kilda,Mid-Forward,22.0,10.0,12.0,0.45,0.55,8.0,0.0,2.0,2.41,-2.68,5.09,2.73
+23,Callum Wilkie,St Kilda,Key Defender,10.0,10.0,0.0,1.0,0.0,6.0,0.0,1.0,-8.65,-3.96,-4.7,-2.44
+23,Cooper Sharman,St Kilda,Key Forward,17.0,11.0,6.0,0.65,0.35,6.0,3.0,2.0,5.48,3.14,2.33,0.57
+23,Darcy Wilson,St Kilda,Mid-Forward,14.0,9.0,5.0,0.64,0.36,2.0,1.0,5.0,-1.56,0.0,-1.56,-1.5
+23,Hugh Boxshall,St Kilda,Midfielder,16.0,8.0,8.0,0.5,0.5,7.0,0.0,1.0,3.36,2.54,0.82,3.82
+23,Hugo Garcia,St Kilda,Midfielder,20.0,11.0,9.0,0.55,0.45,2.0,0.0,12.0,4.35,2.47,1.88,0.35
+23,Jack Higgins,St Kilda,Gen. Forward,4.0,4.0,0.0,1.0,0.0,0.0,3.0,2.0,-5.44,-0.96,-4.48,-2.3
+23,Jack Macrae,St Kilda,Midfielder,,,,,,,,,,,,
+23,Jack Sinclair,St Kilda,Gen. Defender,23.0,16.0,7.0,0.7,0.3,6.0,0.0,0.0,-3.96,-3.43,-0.52,1.22
+23,Jack Steele,St Kilda,Midfielder,27.0,9.0,18.0,0.33,0.67,5.0,0.0,9.0,6.14,0.57,5.57,0.86
+23,Lance Collard,St Kilda,Gen. Forward,,,,,,,,,,,,
+23,Liam Stocker,St Kilda,Gen. Defender,10.0,5.0,5.0,0.5,0.5,2.0,0.0,5.0,-1.12,-1.94,0.82,-2.12
+23,Marcus Windhager,St Kilda,Midfielder,26.0,12.0,14.0,0.46,0.54,4.0,0.0,3.0,3.91,-0.17,4.09,-0.3
+23,Mason Wood,St Kilda,Mid-Forward,8.0,6.0,2.0,0.75,0.25,5.0,2.0,1.0,-6.67,-3.86,-2.81,-0.91
+23,Mattaes Phillipou,St Kilda,Gen. Forward,4.0,1.0,3.0,0.25,0.75,0.0,0.0,1.0,-4.57,-3.29,-1.29,-1.57
+23,Max Hall,St Kilda,Gen. Forward,20.0,12.0,8.0,0.6,0.4,5.0,0.0,1.0,4.74,4.17,0.57,1.87
+23,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,24.0,14.0,10.0,0.58,0.42,1.0,1.0,3.0,-5.91,-8.26,2.35,-4.26
+23,Rowan Marshall,St Kilda,Ruck,18.0,15.0,3.0,0.83,0.17,5.0,1.0,5.0,-0.57,3.61,-4.17,0.52
+23,Tobie Travaglia,St Kilda,Gen. Defender,8.0,6.0,2.0,0.75,0.25,4.0,0.0,4.0,-1.25,1.08,-2.33,1.42
+23,Zak Jones,St Kilda,Midfielder,17.0,10.0,7.0,0.59,0.41,4.0,0.0,2.0,0.87,2.53,-1.67,0.67
+24,Alixzander Tauru,St Kilda,Key Defender,4.0,3.0,1.0,0.75,0.25,2.0,0.0,1.0,-5.0,-2.6,-2.4,-2.3
+24,Anthony Caminiti,St Kilda,Key Defender,8.0,5.0,3.0,0.62,0.38,3.0,0.0,1.0,-4.09,-2.57,-1.52,-2.7
+24,Bradley Hill,St Kilda,Mid-Forward,16.0,9.0,7.0,0.56,0.44,2.0,0.0,1.0,-3.59,-3.68,0.09,-3.27
+24,Callum Wilkie,St Kilda,Key Defender,16.0,13.0,3.0,0.81,0.19,5.0,0.0,1.0,-2.65,-0.96,-1.7,-3.44
+24,Cooper Sharman,St Kilda,Key Forward,13.0,10.0,3.0,0.77,0.23,9.0,2.0,3.0,1.48,2.14,-0.67,3.57
+24,Darcy Wilson,St Kilda,Mid-Forward,23.0,11.0,12.0,0.48,0.52,4.0,5.0,2.0,7.44,2.0,5.44,0.5
+24,Hugh Boxshall,St Kilda,Midfielder,15.0,6.0,9.0,0.4,0.6,6.0,0.0,3.0,2.36,0.54,1.82,2.82
+24,Hugo Garcia,St Kilda,Midfielder,12.0,6.0,6.0,0.5,0.5,3.0,0.0,3.0,-3.65,-2.53,-1.12,1.35
+24,Isaac Keeler,St Kilda,Key Forward,13.0,8.0,5.0,0.62,0.38,3.0,1.0,1.0,5.64,3.64,2.0,0.64
+24,Jack Higgins,St Kilda,Gen. Forward,11.0,3.0,8.0,0.27,0.73,2.0,0.0,4.0,1.56,-1.96,3.52,-0.3
+24,Jack Macrae,St Kilda,Midfielder,,,,,,,,,,,,
+24,Jack Sinclair,St Kilda,Gen. Defender,34.0,22.0,12.0,0.65,0.35,4.0,0.0,0.0,7.04,2.57,4.48,-0.78
+24,Jack Steele,St Kilda,Midfielder,18.0,7.0,11.0,0.39,0.61,5.0,0.0,11.0,-2.86,-1.43,-1.43,0.86
+24,Lance Collard,St Kilda,Gen. Forward,4.0,2.0,2.0,0.5,0.5,2.0,2.0,2.0,-1.42,-1.25,-0.17,0.92
+24,Liam Stocker,St Kilda,Gen. Defender,12.0,7.0,5.0,0.58,0.42,3.0,0.0,1.0,0.88,0.06,0.82,-1.12
+24,Marcus Windhager,St Kilda,Midfielder,23.0,11.0,12.0,0.48,0.52,3.0,0.0,3.0,0.91,-1.17,2.09,-1.3
+24,Mason Wood,St Kilda,Mid-Forward,4.0,2.0,2.0,0.5,0.5,3.0,0.0,2.0,-10.67,-7.86,-2.81,-2.9
+24,Mattaes Phillipou,St Kilda,Gen. Forward,,,,,,,,,,,,
+24,Max Hall,St Kilda,Gen. Forward,16.0,7.0,9.0,0.44,0.56,4.0,2.0,5.0,0.74,-0.83,1.57,0.87
+24,Nasiah Wanganeen-Milera,St Kilda,Gen. Defender,23.0,19.0,4.0,0.83,0.17,3.0,0.0,3.0,-6.91,-3.26,-3.65,-2.26
+24,Rowan Marshall,St Kilda,Ruck,21.0,13.0,8.0,0.62,0.38,2.0,0.0,6.0,2.43,1.61,0.83,-2.48
+24,Tobie Travaglia,St Kilda,Gen. Defender,,,,,,,,,,,,
+24,Zak Jones,St Kilda,Midfielder,19.0,10.0,9.0,0.53,0.47,4.0,0.0,2.0,2.87,2.53,0.33,0.67

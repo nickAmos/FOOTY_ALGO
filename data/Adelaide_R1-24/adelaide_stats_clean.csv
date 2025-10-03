@@ -1,530 +1,530 @@
-Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
-1,Alex Neal-Bullen,Adelaide,21.0,10.0,11.0,0.48,0.52,3.0,1.0,4.0,Gen. Forward
-1,Ben Keays,Adelaide,18.0,11.0,7.0,0.61,0.39,7.0,1.0,0.0,Gen. Forward
-1,Daniel Curtin,Adelaide,7.0,3.0,4.0,0.43,0.57,3.0,0.0,1.0,Midfielder
-1,Darcy Fogarty,Adelaide,12.0,11.0,1.0,0.92,0.08,6.0,4.0,1.0,Key Forward
-1,Isaac Cumming,Adelaide,16.0,11.0,5.0,0.69,0.31,4.0,2.0,1.0,Midfielder
-1,Izak Rankine,Adelaide,28.0,10.0,18.0,0.36,0.64,3.0,2.0,5.0,Mid-Forward
-1,Jake Soligo,Adelaide,29.0,16.0,13.0,0.55,0.45,3.0,1.0,8.0,Midfielder
-1,James Peatling,Adelaide,19.0,11.0,8.0,0.58,0.42,2.0,1.0,3.0,Midfielder
-1,Jordan Dawson,Adelaide,27.0,24.0,3.0,0.89,0.11,9.0,2.0,4.0,Midfielder
-1,Josh Rachele,Adelaide,21.0,12.0,9.0,0.57,0.43,5.0,2.0,1.0,Gen. Forward
-1,Josh Worrell,Adelaide,25.0,16.0,9.0,0.64,0.36,6.0,0.0,3.0,Gen. Defender
-1,Lachlan Sholl,Adelaide,22.0,13.0,9.0,0.59,0.41,4.0,0.0,2.0,Midfielder
-1,Mark Keane,Adelaide,21.0,14.0,7.0,0.67,0.33,6.0,0.0,0.0,Key Defender
-1,Matt Crouch,Adelaide,31.0,8.0,23.0,0.26,0.74,1.0,1.0,4.0,Midfielder
-1,Max Michalanney,Adelaide,14.0,11.0,3.0,0.79,0.21,3.0,0.0,0.0,Gen. Defender
-1,Mitchell Hinge,Adelaide,19.0,10.0,9.0,0.53,0.47,6.0,0.0,3.0,Gen. Defender
-1,Nick Murray,Adelaide,14.0,7.0,7.0,0.5,0.5,7.0,0.0,2.0,Key Defender
-1,Reilly O'Brien,Adelaide,12.0,7.0,5.0,0.58,0.42,2.0,0.0,4.0,Ruck
-1,Riley Thilthorpe,Adelaide,13.0,9.0,4.0,0.69,0.31,5.0,3.0,3.0,Key Forward
-1,Rory Laird,Adelaide,29.0,12.0,17.0,0.41,0.59,7.0,0.0,4.0,Gen. Defender
-1,Sid Draper,Adelaide,,,,,,,,,Mid-Forward
-1,Taylor Walker,Adelaide,,,,,,,,,Key Forward
-1,Wayne Milera,Adelaide,13.0,6.0,7.0,0.46,0.54,4.0,0.0,1.0,Gen. Defender
-2,Alex Neal-Bullen,Adelaide,18.0,9.0,9.0,0.5,0.5,5.0,2.0,4.0,Gen. Forward
-2,Ben Keays,Adelaide,22.0,17.0,5.0,0.77,0.23,11.0,4.0,3.0,Gen. Forward
-2,Daniel Curtin,Adelaide,13.0,8.0,5.0,0.62,0.38,5.0,1.0,4.0,Midfielder
-2,Darcy Fogarty,Adelaide,14.0,11.0,3.0,0.79,0.21,9.0,3.0,0.0,Key Forward
-2,Isaac Cumming,Adelaide,9.0,4.0,5.0,0.44,0.56,0.0,0.0,2.0,Midfielder
-2,Izak Rankine,Adelaide,,,,,,,,,Mid-Forward
-2,Jake Soligo,Adelaide,27.0,15.0,12.0,0.56,0.44,6.0,2.0,2.0,Midfielder
-2,James Peatling,Adelaide,13.0,5.0,8.0,0.38,0.62,2.0,0.0,3.0,Midfielder
-2,Jordan Dawson,Adelaide,33.0,22.0,11.0,0.67,0.33,8.0,0.0,6.0,Midfielder
-2,Josh Rachele,Adelaide,16.0,13.0,3.0,0.81,0.19,8.0,4.0,1.0,Gen. Forward
-2,Josh Worrell,Adelaide,18.0,11.0,7.0,0.61,0.39,8.0,0.0,3.0,Gen. Defender
-2,Lachlan Sholl,Adelaide,19.0,14.0,5.0,0.74,0.26,9.0,1.0,0.0,Midfielder
-2,Mark Keane,Adelaide,10.0,8.0,2.0,0.8,0.2,1.0,0.0,0.0,Key Defender
-2,Matt Crouch,Adelaide,32.0,13.0,19.0,0.41,0.59,7.0,0.0,8.0,Midfielder
-2,Max Michalanney,Adelaide,15.0,12.0,3.0,0.8,0.2,8.0,0.0,1.0,Gen. Defender
-2,Mitchell Hinge,Adelaide,16.0,13.0,3.0,0.81,0.19,1.0,1.0,5.0,Gen. Defender
-2,Nick Murray,Adelaide,13.0,8.0,5.0,0.62,0.38,5.0,0.0,3.0,Key Defender
-2,Reilly O'Brien,Adelaide,10.0,4.0,6.0,0.4,0.6,2.0,0.0,3.0,Ruck
-2,Riley Thilthorpe,Adelaide,16.0,10.0,6.0,0.62,0.38,7.0,3.0,2.0,Key Forward
-2,Rory Laird,Adelaide,23.0,14.0,9.0,0.61,0.39,5.0,0.0,2.0,Gen. Defender
-2,Sid Draper,Adelaide,,,,,,,,,Mid-Forward
-2,Taylor Walker,Adelaide,13.0,10.0,3.0,0.77,0.23,10.0,1.0,2.0,Key Forward
-2,Wayne Milera,Adelaide,18.0,16.0,2.0,0.89,0.11,6.0,1.0,1.0,Gen. Defender
-3,Alex Neal-Bullen,Adelaide,12.0,8.0,4.0,0.67,0.33,3.0,1.0,3.0,Gen. Forward
-3,Ben Keays,Adelaide,20.0,12.0,8.0,0.6,0.4,7.0,2.0,3.0,Gen. Forward
-3,Daniel Curtin,Adelaide,15.0,11.0,4.0,0.73,0.27,5.0,2.0,3.0,Midfielder
-3,Darcy Fogarty,Adelaide,6.0,4.0,2.0,0.67,0.33,3.0,2.0,1.0,Key Forward
-3,Isaac Cumming,Adelaide,13.0,8.0,5.0,0.62,0.38,5.0,0.0,1.0,Midfielder
-3,Izak Rankine,Adelaide,30.0,18.0,12.0,0.6,0.4,5.0,0.0,5.0,Mid-Forward
-3,Jake Soligo,Adelaide,28.0,19.0,9.0,0.68,0.32,5.0,1.0,5.0,Midfielder
-3,James Borlase,Adelaide,8.0,5.0,3.0,0.62,0.38,3.0,0.0,2.0,Key Defender
-3,James Peatling,Adelaide,23.0,12.0,11.0,0.52,0.48,4.0,0.0,2.0,Midfielder
-3,Jordan Dawson,Adelaide,19.0,11.0,8.0,0.58,0.42,3.0,0.0,6.0,Midfielder
-3,Josh Rachele,Adelaide,,,,,,,,,Gen. Forward
-3,Josh Worrell,Adelaide,18.0,13.0,5.0,0.72,0.28,4.0,0.0,1.0,Gen. Defender
-3,Lachlan Sholl,Adelaide,9.0,6.0,3.0,0.67,0.33,4.0,0.0,1.0,Midfielder
-3,Mark Keane,Adelaide,4.0,3.0,1.0,0.75,0.25,0.0,0.0,2.0,Key Defender
-3,Matt Crouch,Adelaide,19.0,8.0,11.0,0.42,0.58,2.0,0.0,2.0,Midfielder
-3,Max Michalanney,Adelaide,10.0,8.0,2.0,0.8,0.2,5.0,0.0,2.0,Gen. Defender
-3,Mitchell Hinge,Adelaide,20.0,16.0,4.0,0.8,0.2,7.0,0.0,4.0,Gen. Defender
-3,Reilly O'Brien,Adelaide,16.0,7.0,9.0,0.44,0.56,5.0,0.0,2.0,Ruck
-3,Riley Thilthorpe,Adelaide,17.0,11.0,6.0,0.65,0.35,8.0,3.0,1.0,Key Forward
-3,Rory Laird,Adelaide,32.0,12.0,20.0,0.38,0.62,7.0,0.0,2.0,Gen. Defender
-3,Sid Draper,Adelaide,,,,,,,,,Mid-Forward
-3,Taylor Walker,Adelaide,14.0,11.0,3.0,0.79,0.21,5.0,4.0,1.0,Key Forward
-3,Wayne Milera,Adelaide,9.0,6.0,3.0,0.67,0.33,1.0,0.0,4.0,Gen. Defender
-4,Alex Neal-Bullen,Adelaide,20.0,7.0,13.0,0.35,0.65,2.0,0.0,5.0,Gen. Forward
-4,Ben Keays,Adelaide,17.0,8.0,9.0,0.47,0.53,5.0,1.0,3.0,Gen. Forward
-4,Daniel Curtin,Adelaide,12.0,7.0,5.0,0.58,0.42,3.0,0.0,3.0,Midfielder
-4,Darcy Fogarty,Adelaide,11.0,7.0,4.0,0.64,0.36,4.0,3.0,1.0,Key Forward
-4,Isaac Cumming,Adelaide,20.0,13.0,7.0,0.65,0.35,8.0,0.0,5.0,Midfielder
-4,Izak Rankine,Adelaide,21.0,8.0,13.0,0.38,0.62,2.0,0.0,7.0,Mid-Forward
-4,Jake Soligo,Adelaide,26.0,15.0,11.0,0.58,0.42,2.0,0.0,6.0,Midfielder
-4,James Borlase,Adelaide,8.0,5.0,3.0,0.62,0.38,0.0,0.0,1.0,Key Defender
-4,James Peatling,Adelaide,24.0,18.0,6.0,0.75,0.25,4.0,1.0,6.0,Midfielder
-4,Jordan Dawson,Adelaide,31.0,17.0,14.0,0.55,0.45,5.0,0.0,6.0,Midfielder
-4,Josh Worrell,Adelaide,17.0,11.0,6.0,0.65,0.35,3.0,0.0,1.0,Gen. Defender
-4,Lachlan Murphy,Adelaide,13.0,8.0,5.0,0.62,0.38,2.0,0.0,2.0,Gen. Forward
-4,Lachlan Sholl,Adelaide,13.0,4.0,9.0,0.31,0.69,2.0,0.0,1.0,Midfielder
-4,Luke Nankervis,Adelaide,,,,,,,,,Midfielder
-4,Mark Keane,Adelaide,9.0,7.0,2.0,0.78,0.22,3.0,0.0,1.0,Key Defender
-4,Max Michalanney,Adelaide,9.0,7.0,2.0,0.78,0.22,2.0,0.0,2.0,Gen. Defender
-4,Mitchell Hinge,Adelaide,27.0,17.0,10.0,0.63,0.37,5.0,0.0,2.0,Gen. Defender
-4,Reilly O'Brien,Adelaide,5.0,3.0,2.0,0.6,0.4,1.0,0.0,2.0,Ruck
-4,Riley Thilthorpe,Adelaide,16.0,11.0,5.0,0.69,0.31,5.0,5.0,2.0,Key Forward
-4,Rory Laird,Adelaide,16.0,6.0,10.0,0.38,0.62,2.0,0.0,4.0,Gen. Defender
-4,Sid Draper,Adelaide,15.0,6.0,9.0,0.4,0.6,0.0,0.0,5.0,Mid-Forward
-4,Taylor Walker,Adelaide,14.0,10.0,4.0,0.71,0.29,7.0,4.0,0.0,Key Forward
-4,Wayne Milera,Adelaide,20.0,11.0,9.0,0.55,0.45,3.0,0.0,2.0,Gen. Defender
-5,Alex Neal-Bullen,Adelaide,12.0,7.0,5.0,0.58,0.42,4.0,0.0,2.0,Gen. Forward
-5,Ben Keays,Adelaide,18.0,10.0,8.0,0.56,0.44,6.0,3.0,1.0,Gen. Forward
-5,Daniel Curtin,Adelaide,5.0,2.0,3.0,0.4,0.6,0.0,1.0,3.0,Midfielder
-5,Darcy Fogarty,Adelaide,15.0,9.0,6.0,0.6,0.4,6.0,4.0,0.0,Key Forward
-5,Isaac Cumming,Adelaide,14.0,13.0,1.0,0.93,0.07,5.0,0.0,1.0,Midfielder
-5,Izak Rankine,Adelaide,25.0,16.0,9.0,0.64,0.36,5.0,2.0,4.0,Mid-Forward
-5,Jake Soligo,Adelaide,15.0,8.0,7.0,0.53,0.47,2.0,0.0,2.0,Midfielder
-5,James Peatling,Adelaide,22.0,10.0,12.0,0.45,0.55,1.0,0.0,5.0,Midfielder
-5,Jordan Dawson,Adelaide,21.0,17.0,4.0,0.81,0.19,3.0,0.0,6.0,Midfielder
-5,Josh Worrell,Adelaide,15.0,9.0,6.0,0.6,0.4,5.0,0.0,2.0,Gen. Defender
-5,Lachlan Sholl,Adelaide,,,,,,,,,Midfielder
-5,Luke Nankervis,Adelaide,18.0,8.0,10.0,0.44,0.56,4.0,0.0,5.0,Midfielder
-5,Mark Keane,Adelaide,24.0,15.0,9.0,0.62,0.38,9.0,0.0,0.0,Key Defender
-5,Matt Crouch,Adelaide,28.0,10.0,18.0,0.36,0.64,4.0,0.0,2.0,Midfielder
-5,Max Michalanney,Adelaide,10.0,7.0,3.0,0.7,0.3,2.0,0.0,2.0,Gen. Defender
-5,Mitchell Hinge,Adelaide,25.0,19.0,6.0,0.76,0.24,6.0,0.0,2.0,Gen. Defender
-5,Reilly O'Brien,Adelaide,5.0,1.0,4.0,0.2,0.8,1.0,0.0,3.0,Ruck
-5,Riley Thilthorpe,Adelaide,13.0,7.0,6.0,0.54,0.46,4.0,1.0,2.0,Key Forward
-5,Rory Laird,Adelaide,23.0,14.0,9.0,0.61,0.39,8.0,0.0,1.0,Gen. Defender
-5,Sid Draper,Adelaide,7.0,2.0,5.0,0.29,0.71,1.0,1.0,2.0,Mid-Forward
-5,Taylor Walker,Adelaide,13.0,10.0,3.0,0.77,0.23,3.0,2.0,3.0,Key Forward
-5,Wayne Milera,Adelaide,22.0,14.0,8.0,0.64,0.36,5.0,0.0,3.0,Gen. Defender
-5,Zac Taylor,Adelaide,,,,,,,,,Gen. Forward
-6,Alex Neal-Bullen,Adelaide,20.0,9.0,11.0,0.45,0.55,3.0,1.0,3.0,Gen. Forward
-6,Ben Keays,Adelaide,18.0,12.0,6.0,0.67,0.33,4.0,1.0,7.0,Gen. Forward
-6,Daniel Curtin,Adelaide,,,,,,,,,Midfielder
-6,Darcy Fogarty,Adelaide,8.0,4.0,4.0,0.5,0.5,2.0,0.0,0.0,Key Forward
-6,Isaac Cumming,Adelaide,14.0,10.0,4.0,0.71,0.29,2.0,0.0,1.0,Midfielder
-6,Izak Rankine,Adelaide,20.0,15.0,5.0,0.75,0.25,3.0,1.0,6.0,Mid-Forward
-6,Jake Soligo,Adelaide,22.0,15.0,7.0,0.68,0.32,3.0,0.0,2.0,Midfielder
-6,Jordan Dawson,Adelaide,27.0,22.0,5.0,0.81,0.19,5.0,0.0,8.0,Midfielder
-6,Josh Worrell,Adelaide,19.0,12.0,7.0,0.63,0.37,2.0,0.0,3.0,Gen. Defender
-6,Luke Nankervis,Adelaide,18.0,7.0,11.0,0.39,0.61,3.0,0.0,2.0,Midfielder
-6,Mark Keane,Adelaide,11.0,9.0,2.0,0.82,0.18,5.0,0.0,2.0,Key Defender
-6,Matt Crouch,Adelaide,26.0,7.0,19.0,0.27,0.73,2.0,0.0,3.0,Midfielder
-6,Max Michalanney,Adelaide,14.0,11.0,3.0,0.79,0.21,3.0,1.0,1.0,Gen. Defender
-6,Mitchell Hinge,Adelaide,19.0,16.0,3.0,0.84,0.16,7.0,0.0,0.0,Gen. Defender
-6,Nick Murray,Adelaide,9.0,6.0,3.0,0.67,0.33,5.0,0.0,1.0,Key Defender
-6,Reilly O'Brien,Adelaide,17.0,11.0,6.0,0.65,0.35,4.0,0.0,4.0,Ruck
-6,Riley Thilthorpe,Adelaide,13.0,8.0,5.0,0.62,0.38,4.0,1.0,1.0,Key Forward
-6,Rory Laird,Adelaide,21.0,9.0,12.0,0.43,0.57,5.0,0.0,4.0,Gen. Defender
-6,Sam Berry,Adelaide,,,,,,,,,Midfielder
-6,Sid Draper,Adelaide,,,,,,,,,Mid-Forward
-6,Taylor Walker,Adelaide,17.0,9.0,8.0,0.53,0.47,4.0,2.0,2.0,Key Forward
-6,Wayne Milera,Adelaide,16.0,14.0,2.0,0.88,0.12,3.0,0.0,0.0,Gen. Defender
-6,Zac Taylor,Adelaide,10.0,4.0,6.0,0.4,0.6,3.0,0.0,1.0,Gen. Forward
-7,Alex Neal-Bullen,Adelaide,19.0,13.0,6.0,0.68,0.32,4.0,1.0,4.0,Gen. Forward
-7,Ben Keays,Adelaide,14.0,9.0,5.0,0.64,0.36,3.0,0.0,6.0,Gen. Forward
-7,Daniel Curtin,Adelaide,8.0,5.0,3.0,0.62,0.38,3.0,0.0,3.0,Midfielder
-7,Isaac Cumming,Adelaide,18.0,15.0,3.0,0.83,0.17,5.0,0.0,2.0,Midfielder
-7,Izak Rankine,Adelaide,19.0,11.0,8.0,0.58,0.42,5.0,1.0,6.0,Mid-Forward
-7,Jake Soligo,Adelaide,18.0,11.0,7.0,0.61,0.39,2.0,1.0,4.0,Midfielder
-7,James Peatling,Adelaide,18.0,9.0,9.0,0.5,0.5,4.0,0.0,5.0,Midfielder
-7,Jordan Dawson,Adelaide,21.0,20.0,1.0,0.95,0.05,3.0,0.0,7.0,Midfielder
-7,Josh Rachele,Adelaide,9.0,6.0,3.0,0.67,0.33,5.0,1.0,2.0,Gen. Forward
-7,Josh Worrell,Adelaide,20.0,12.0,8.0,0.6,0.4,5.0,0.0,0.0,Gen. Defender
-7,Luke Nankervis,Adelaide,12.0,10.0,2.0,0.83,0.17,4.0,0.0,2.0,Midfielder
-7,Mark Keane,Adelaide,12.0,11.0,1.0,0.92,0.08,1.0,0.0,0.0,Key Defender
-7,Matt Crouch,Adelaide,,,,,,,,,Midfielder
-7,Max Michalanney,Adelaide,16.0,8.0,8.0,0.5,0.5,6.0,0.0,4.0,Gen. Defender
-7,Mitchell Hinge,Adelaide,10.0,9.0,1.0,0.9,0.1,4.0,0.0,3.0,Gen. Defender
-7,Nick Murray,Adelaide,10.0,8.0,2.0,0.8,0.2,3.0,0.0,1.0,Key Defender
-7,Reilly O'Brien,Adelaide,14.0,8.0,6.0,0.57,0.43,6.0,0.0,5.0,Ruck
-7,Riley Thilthorpe,Adelaide,9.0,5.0,4.0,0.56,0.44,2.0,3.0,2.0,Key Forward
-7,Rory Laird,Adelaide,27.0,16.0,11.0,0.59,0.41,5.0,0.0,4.0,Gen. Defender
-7,Sid Draper,Adelaide,,,,,,,,,Mid-Forward
-7,Taylor Walker,Adelaide,12.0,8.0,4.0,0.67,0.33,4.0,2.0,0.0,Key Forward
-7,Wayne Milera,Adelaide,12.0,6.0,6.0,0.5,0.5,2.0,0.0,2.0,Gen. Defender
-7,Zac Taylor,Adelaide,,,,,,,,,Gen. Forward
-8,Alex Neal-Bullen,Adelaide,18.0,5.0,13.0,0.28,0.72,4.0,2.0,2.0,Gen. Forward
-8,Ben Keays,Adelaide,12.0,9.0,3.0,0.75,0.25,3.0,2.0,1.0,Gen. Forward
-8,Brodie Smith,Adelaide,17.0,9.0,8.0,0.53,0.47,6.0,1.0,0.0,Gen. Defender
-8,Daniel Curtin,Adelaide,13.0,8.0,5.0,0.62,0.38,5.0,0.0,1.0,Midfielder
-8,Darcy Fogarty,Adelaide,10.0,7.0,3.0,0.7,0.3,6.0,2.0,0.0,Key Forward
-8,Isaac Cumming,Adelaide,17.0,12.0,5.0,0.71,0.29,9.0,0.0,1.0,Midfielder
-8,Izak Rankine,Adelaide,29.0,17.0,12.0,0.59,0.41,9.0,2.0,2.0,Mid-Forward
-8,Jake Soligo,Adelaide,19.0,10.0,9.0,0.53,0.47,4.0,0.0,0.0,Midfielder
-8,James Peatling,Adelaide,22.0,11.0,11.0,0.5,0.5,4.0,0.0,5.0,Midfielder
-8,Jordan Dawson,Adelaide,22.0,11.0,11.0,0.5,0.5,7.0,3.0,8.0,Midfielder
-8,Jordon Butts,Adelaide,7.0,5.0,2.0,0.71,0.29,5.0,0.0,0.0,Key Defender
-8,Josh Rachele,Adelaide,19.0,14.0,5.0,0.74,0.26,4.0,2.0,2.0,Gen. Forward
-8,Josh Worrell,Adelaide,23.0,17.0,6.0,0.74,0.26,7.0,0.0,1.0,Gen. Defender
-8,Luke Nankervis,Adelaide,,,,,,,,,Midfielder
-8,Mark Keane,Adelaide,9.0,7.0,2.0,0.78,0.22,5.0,0.0,1.0,Key Defender
-8,Max Michalanney,Adelaide,27.0,20.0,7.0,0.74,0.26,12.0,0.0,1.0,Gen. Defender
-8,Reilly O'Brien,Adelaide,7.0,3.0,4.0,0.43,0.57,0.0,0.0,0.0,Ruck
-8,Riley Thilthorpe,Adelaide,9.0,4.0,5.0,0.44,0.56,3.0,1.0,2.0,Key Forward
-8,Rory Laird,Adelaide,23.0,15.0,8.0,0.65,0.35,9.0,0.0,3.0,Gen. Defender
-8,Sam Berry,Adelaide,,,,,,,,,Midfielder
-8,Taylor Walker,Adelaide,15.0,9.0,6.0,0.6,0.4,5.0,1.0,0.0,Key Forward
-8,Wayne Milera,Adelaide,27.0,17.0,10.0,0.63,0.37,5.0,0.0,2.0,Gen. Defender
-8,Zac Taylor,Adelaide,17.0,7.0,10.0,0.41,0.59,5.0,0.0,2.0,Gen. Forward
-9,Alex Neal-Bullen,Adelaide,15.0,9.0,6.0,0.6,0.4,1.0,1.0,7.0,Gen. Forward
-9,Ben Keays,Adelaide,21.0,14.0,7.0,0.67,0.33,5.0,2.0,2.0,Gen. Forward
-9,Daniel Curtin,Adelaide,,,,,,,,,Midfielder
-9,Darcy Fogarty,Adelaide,12.0,9.0,3.0,0.75,0.25,5.0,3.0,1.0,Key Forward
-9,Isaac Cumming,Adelaide,12.0,8.0,4.0,0.67,0.33,3.0,0.0,2.0,Midfielder
-9,Izak Rankine,Adelaide,16.0,11.0,5.0,0.69,0.31,3.0,2.0,3.0,Mid-Forward
-9,Jake Soligo,Adelaide,17.0,12.0,5.0,0.71,0.29,2.0,0.0,7.0,Midfielder
-9,James Peatling,Adelaide,24.0,15.0,9.0,0.62,0.38,3.0,0.0,12.0,Midfielder
-9,Jordan Dawson,Adelaide,14.0,11.0,3.0,0.79,0.21,2.0,0.0,9.0,Midfielder
-9,Jordon Butts,Adelaide,8.0,5.0,3.0,0.62,0.38,3.0,0.0,0.0,Key Defender
-9,Josh Rachele,Adelaide,7.0,4.0,3.0,0.57,0.43,2.0,2.0,2.0,Gen. Forward
-9,Josh Worrell,Adelaide,23.0,21.0,2.0,0.91,0.09,5.0,0.0,1.0,Gen. Defender
-9,Luke Nankervis,Adelaide,16.0,9.0,7.0,0.56,0.44,3.0,0.0,1.0,Midfielder
-9,Mark Keane,Adelaide,18.0,14.0,4.0,0.78,0.22,6.0,0.0,4.0,Key Defender
-9,Max Michalanney,Adelaide,7.0,4.0,3.0,0.57,0.43,3.0,0.0,0.0,Gen. Defender
-9,Mitchell Hinge,Adelaide,11.0,8.0,3.0,0.73,0.27,2.0,0.0,1.0,Gen. Defender
-9,Reilly O'Brien,Adelaide,17.0,8.0,9.0,0.47,0.53,5.0,0.0,5.0,Ruck
-9,Riley Thilthorpe,Adelaide,15.0,11.0,4.0,0.73,0.27,10.0,3.0,1.0,Key Forward
-9,Rory Laird,Adelaide,18.0,11.0,7.0,0.61,0.39,4.0,0.0,2.0,Gen. Defender
-9,Sam Berry,Adelaide,,,,,,,,,Midfielder
-9,Taylor Walker,Adelaide,13.0,10.0,3.0,0.77,0.23,5.0,0.0,4.0,Key Forward
-9,Wayne Milera,Adelaide,15.0,6.0,9.0,0.4,0.6,4.0,0.0,4.0,Gen. Defender
-9,Zac Taylor,Adelaide,8.0,3.0,5.0,0.38,0.62,3.0,0.0,3.0,Gen. Forward
-10,Alex Neal-Bullen,Adelaide,9.0,5.0,4.0,0.56,0.44,3.0,0.0,3.0,Gen. Forward
-10,Ben Keays,Adelaide,7.0,4.0,3.0,0.57,0.43,0.0,0.0,0.0,Gen. Forward
-10,Daniel Curtin,Adelaide,12.0,12.0,0.0,1.0,0.0,3.0,0.0,3.0,Midfielder
-10,Darcy Fogarty,Adelaide,11.0,8.0,3.0,0.73,0.27,7.0,4.0,1.0,Key Forward
-10,Isaac Cumming,Adelaide,10.0,5.0,5.0,0.5,0.5,4.0,0.0,1.0,Midfielder
-10,Izak Rankine,Adelaide,26.0,14.0,12.0,0.54,0.46,3.0,1.0,2.0,Mid-Forward
-10,Jake Soligo,Adelaide,23.0,15.0,8.0,0.65,0.35,1.0,2.0,4.0,Midfielder
-10,James Peatling,Adelaide,22.0,12.0,10.0,0.55,0.45,2.0,0.0,4.0,Midfielder
-10,Jordan Dawson,Adelaide,27.0,20.0,7.0,0.74,0.26,9.0,1.0,8.0,Midfielder
-10,Jordon Butts,Adelaide,5.0,3.0,2.0,0.6,0.4,2.0,0.0,0.0,Key Defender
-10,Josh Rachele,Adelaide,14.0,10.0,4.0,0.71,0.29,4.0,1.0,3.0,Gen. Forward
-10,Josh Worrell,Adelaide,15.0,12.0,3.0,0.8,0.2,1.0,0.0,0.0,Gen. Defender
-10,Luke Nankervis,Adelaide,10.0,6.0,4.0,0.6,0.4,4.0,0.0,1.0,Midfielder
-10,Mark Keane,Adelaide,8.0,8.0,0.0,1.0,0.0,3.0,0.0,2.0,Key Defender
-10,Max Michalanney,Adelaide,8.0,5.0,3.0,0.62,0.38,0.0,0.0,3.0,Gen. Defender
-10,Mitchell Hinge,Adelaide,21.0,9.0,12.0,0.43,0.57,2.0,0.0,2.0,Gen. Defender
-10,Reilly O'Brien,Adelaide,13.0,6.0,7.0,0.46,0.54,2.0,0.0,3.0,Ruck
-10,Riley Thilthorpe,Adelaide,16.0,11.0,5.0,0.69,0.31,7.0,0.0,3.0,Key Forward
-10,Rory Laird,Adelaide,27.0,11.0,16.0,0.41,0.59,5.0,0.0,4.0,Gen. Defender
-10,Sam Berry,Adelaide,,,,,,,,,Midfielder
-10,Taylor Walker,Adelaide,,,,,,,,,Key Forward
-10,Wayne Milera,Adelaide,17.0,12.0,5.0,0.71,0.29,4.0,0.0,2.0,Gen. Defender
-10,Zac Taylor,Adelaide,12.0,5.0,7.0,0.42,0.58,2.0,0.0,3.0,Gen. Forward
-11,Alex Neal-Bullen,Adelaide,14.0,6.0,8.0,0.43,0.57,1.0,1.0,5.0,Gen. Forward
-11,Ben Keays,Adelaide,12.0,7.0,5.0,0.58,0.42,3.0,1.0,6.0,Gen. Forward
-11,Daniel Curtin,Adelaide,14.0,10.0,4.0,0.71,0.29,8.0,0.0,2.0,Midfielder
-11,Darcy Fogarty,Adelaide,8.0,5.0,3.0,0.62,0.38,5.0,1.0,2.0,Key Forward
-11,Isaac Cumming,Adelaide,16.0,11.0,5.0,0.69,0.31,1.0,0.0,2.0,Midfielder
-11,Izak Rankine,Adelaide,23.0,14.0,9.0,0.61,0.39,3.0,1.0,4.0,Mid-Forward
-11,Jake Soligo,Adelaide,19.0,12.0,7.0,0.63,0.37,3.0,0.0,5.0,Midfielder
-11,James Peatling,Adelaide,16.0,9.0,7.0,0.56,0.44,3.0,2.0,5.0,Midfielder
-11,Jordan Dawson,Adelaide,27.0,20.0,7.0,0.74,0.26,6.0,2.0,9.0,Midfielder
-11,Jordon Butts,Adelaide,9.0,4.0,5.0,0.44,0.56,3.0,0.0,0.0,Key Defender
-11,Josh Rachele,Adelaide,16.0,14.0,2.0,0.88,0.12,3.0,5.0,6.0,Gen. Forward
-11,Josh Worrell,Adelaide,26.0,16.0,10.0,0.62,0.38,6.0,0.0,0.0,Gen. Defender
-11,Luke Pedlar,Adelaide,11.0,8.0,3.0,0.73,0.27,4.0,2.0,3.0,Gen. Forward
-11,Mark Keane,Adelaide,14.0,11.0,3.0,0.79,0.21,5.0,0.0,1.0,Key Defender
-11,Max Michalanney,Adelaide,16.0,9.0,7.0,0.56,0.44,7.0,0.0,1.0,Gen. Defender
-11,Mitchell Hinge,Adelaide,20.0,15.0,5.0,0.75,0.25,7.0,0.0,0.0,Gen. Defender
-11,Reilly O'Brien,Adelaide,18.0,10.0,8.0,0.56,0.44,4.0,1.0,4.0,Ruck
-11,Riley Thilthorpe,Adelaide,17.0,13.0,4.0,0.76,0.24,7.0,2.0,4.0,Key Forward
-11,Rory Laird,Adelaide,27.0,17.0,10.0,0.63,0.37,11.0,0.0,2.0,Gen. Defender
-11,Sam Berry,Adelaide,26.0,15.0,11.0,0.58,0.42,6.0,1.0,9.0,Midfielder
-11,Sid Draper,Adelaide,,,,,,,,,Mid-Forward
-11,Wayne Milera,Adelaide,23.0,11.0,12.0,0.48,0.52,9.0,0.0,2.0,Gen. Defender
-11,Zac Taylor,Adelaide,,,,,,,,,Gen. Forward
-12,Alex Neal-Bullen,Adelaide,25.0,14.0,11.0,0.56,0.44,6.0,1.0,4.0,Gen. Forward
-12,Ben Keays,Adelaide,17.0,10.0,7.0,0.59,0.41,2.0,3.0,6.0,Gen. Forward
-12,Brodie Smith,Adelaide,17.0,14.0,3.0,0.82,0.18,2.0,1.0,2.0,Gen. Defender
-12,Daniel Curtin,Adelaide,16.0,9.0,7.0,0.56,0.44,7.0,0.0,5.0,Midfielder
-12,Darcy Fogarty,Adelaide,7.0,4.0,3.0,0.57,0.43,3.0,2.0,3.0,Key Forward
-12,Isaac Cumming,Adelaide,21.0,16.0,5.0,0.76,0.24,5.0,2.0,3.0,Midfielder
-12,Izak Rankine,Adelaide,18.0,11.0,7.0,0.61,0.39,4.0,1.0,1.0,Mid-Forward
-12,Jake Soligo,Adelaide,15.0,8.0,7.0,0.53,0.47,1.0,1.0,6.0,Midfielder
-12,James Peatling,Adelaide,21.0,12.0,9.0,0.57,0.43,5.0,0.0,4.0,Midfielder
-12,Jordan Dawson,Adelaide,21.0,15.0,6.0,0.71,0.29,4.0,1.0,3.0,Midfielder
-12,Jordon Butts,Adelaide,4.0,3.0,1.0,0.75,0.25,2.0,0.0,1.0,Key Defender
-12,Josh Rachele,Adelaide,13.0,12.0,1.0,0.92,0.08,3.0,3.0,1.0,Gen. Forward
-12,Josh Worrell,Adelaide,24.0,15.0,9.0,0.62,0.38,6.0,0.0,2.0,Gen. Defender
-12,Luke Pedlar,Adelaide,10.0,3.0,7.0,0.3,0.7,2.0,1.0,5.0,Gen. Forward
-12,Mark Keane,Adelaide,23.0,21.0,2.0,0.91,0.09,10.0,0.0,2.0,Key Defender
-12,Max Michalanney,Adelaide,10.0,4.0,6.0,0.4,0.6,0.0,0.0,8.0,Gen. Defender
-12,Mitchell Hinge,Adelaide,13.0,9.0,4.0,0.69,0.31,5.0,0.0,4.0,Gen. Defender
-12,Reilly O'Brien,Adelaide,13.0,9.0,4.0,0.69,0.31,1.0,0.0,7.0,Ruck
-12,Riley Thilthorpe,Adelaide,14.0,10.0,4.0,0.71,0.29,6.0,2.0,4.0,Key Forward
-12,Sam Berry,Adelaide,16.0,10.0,6.0,0.62,0.38,0.0,1.0,5.0,Midfielder
-12,Sid Draper,Adelaide,,,,,,,,,Mid-Forward
-12,Taylor Walker,Adelaide,9.0,6.0,3.0,0.67,0.33,3.0,1.0,1.0,Key Forward
-12,Wayne Milera,Adelaide,17.0,13.0,4.0,0.76,0.24,6.0,1.0,4.0,Gen. Defender
-13,Alex Neal-Bullen,Adelaide,13.0,9.0,4.0,0.69,0.31,3.0,0.0,4.0,Gen. Forward
-13,Ben Keays,Adelaide,20.0,10.0,10.0,0.5,0.5,3.0,3.0,5.0,Gen. Forward
-13,Brodie Smith,Adelaide,,,,,,,,,Gen. Defender
-13,Daniel Curtin,Adelaide,14.0,10.0,4.0,0.71,0.29,6.0,0.0,6.0,Midfielder
-13,Darcy Fogarty,Adelaide,11.0,7.0,4.0,0.64,0.36,2.0,0.0,2.0,Key Forward
-13,Isaac Cumming,Adelaide,11.0,6.0,5.0,0.55,0.45,1.0,0.0,5.0,Midfielder
-13,Izak Rankine,Adelaide,18.0,11.0,7.0,0.61,0.39,2.0,0.0,5.0,Mid-Forward
-13,Jake Soligo,Adelaide,19.0,10.0,9.0,0.53,0.47,2.0,0.0,13.0,Midfielder
-13,James Peatling,Adelaide,17.0,14.0,3.0,0.82,0.18,0.0,0.0,5.0,Midfielder
-13,Jordan Dawson,Adelaide,18.0,12.0,6.0,0.67,0.33,4.0,1.0,11.0,Midfielder
-13,Jordon Butts,Adelaide,4.0,3.0,1.0,0.75,0.25,1.0,0.0,0.0,Key Defender
-13,Josh Rachele,Adelaide,10.0,9.0,1.0,0.9,0.1,2.0,3.0,2.0,Gen. Forward
-13,Josh Worrell,Adelaide,18.0,13.0,5.0,0.72,0.28,6.0,0.0,2.0,Gen. Defender
-13,Luke Pedlar,Adelaide,3.0,3.0,0.0,1.0,0.0,1.0,1.0,6.0,Gen. Forward
-13,Mark Keane,Adelaide,9.0,8.0,1.0,0.89,0.11,3.0,0.0,0.0,Key Defender
-13,Max Michalanney,Adelaide,8.0,6.0,2.0,0.75,0.25,2.0,0.0,0.0,Gen. Defender
-13,Mitchell Hinge,Adelaide,16.0,12.0,4.0,0.75,0.25,4.0,0.0,8.0,Gen. Defender
-13,Reilly O'Brien,Adelaide,9.0,3.0,6.0,0.33,0.67,2.0,0.0,2.0,Ruck
-13,Riley Thilthorpe,Adelaide,11.0,10.0,1.0,0.91,0.09,4.0,1.0,1.0,Key Forward
-13,Rory Laird,Adelaide,25.0,17.0,8.0,0.68,0.32,3.0,0.0,4.0,Gen. Defender
-13,Sam Berry,Adelaide,17.0,10.0,7.0,0.59,0.41,2.0,0.0,2.0,Midfielder
-13,Taylor Walker,Adelaide,8.0,6.0,2.0,0.75,0.25,5.0,1.0,1.0,Key Forward
-13,Wayne Milera,Adelaide,14.0,11.0,3.0,0.79,0.21,4.0,0.0,3.0,Gen. Defender
-14,Alex Neal-Bullen,Adelaide,11.0,7.0,4.0,0.64,0.36,1.0,0.0,3.0,Gen. Forward
-14,Ben Keays,Adelaide,18.0,12.0,6.0,0.67,0.33,4.0,2.0,8.0,Gen. Forward
-14,Brodie Smith,Adelaide,,,,,,,,,Gen. Defender
-14,Daniel Curtin,Adelaide,13.0,12.0,1.0,0.92,0.08,6.0,1.0,3.0,Midfielder
-14,Darcy Fogarty,Adelaide,9.0,9.0,0.0,1.0,0.0,4.0,0.0,1.0,Key Forward
-14,Isaac Cumming,Adelaide,19.0,13.0,6.0,0.68,0.32,5.0,1.0,2.0,Midfielder
-14,Izak Rankine,Adelaide,23.0,15.0,8.0,0.65,0.35,3.0,1.0,1.0,Mid-Forward
-14,Jake Soligo,Adelaide,21.0,12.0,9.0,0.57,0.43,0.0,0.0,4.0,Midfielder
-14,Jordan Dawson,Adelaide,24.0,14.0,10.0,0.58,0.42,3.0,0.0,7.0,Midfielder
-14,Jordon Butts,Adelaide,9.0,7.0,2.0,0.78,0.22,5.0,0.0,0.0,Key Defender
-14,Josh Rachele,Adelaide,17.0,10.0,7.0,0.59,0.41,1.0,0.0,2.0,Gen. Forward
-14,Josh Worrell,Adelaide,17.0,13.0,4.0,0.76,0.24,5.0,0.0,1.0,Gen. Defender
-14,Lachlan Murphy,Adelaide,11.0,4.0,7.0,0.36,0.64,2.0,0.0,7.0,Gen. Forward
-14,Luke Pedlar,Adelaide,,,,,,,,,Gen. Forward
-14,Mark Keane,Adelaide,15.0,13.0,2.0,0.87,0.13,1.0,0.0,2.0,Key Defender
-14,Max Michalanney,Adelaide,15.0,8.0,7.0,0.53,0.47,3.0,0.0,0.0,Gen. Defender
-14,Mitchell Hinge,Adelaide,15.0,12.0,3.0,0.8,0.2,5.0,0.0,3.0,Gen. Defender
-14,Reilly O'Brien,Adelaide,15.0,9.0,6.0,0.6,0.4,3.0,0.0,4.0,Ruck
-14,Riley Thilthorpe,Adelaide,11.0,8.0,3.0,0.73,0.27,1.0,0.0,5.0,Key Forward
-14,Rory Laird,Adelaide,22.0,14.0,8.0,0.64,0.36,5.0,0.0,5.0,Gen. Defender
-14,Sam Berry,Adelaide,15.0,9.0,6.0,0.6,0.4,0.0,0.0,6.0,Midfielder
-14,Taylor Walker,Adelaide,12.0,11.0,1.0,0.92,0.08,5.0,0.0,3.0,Key Forward
-14,Wayne Milera,Adelaide,16.0,13.0,3.0,0.81,0.19,7.0,0.0,0.0,Gen. Defender
-16,Alex Neal-Bullen,Adelaide,16.0,8.0,8.0,0.5,0.5,4.0,0.0,1.0,Gen. Forward
-16,Ben Keays,Adelaide,15.0,11.0,4.0,0.73,0.27,4.0,0.0,0.0,Gen. Forward
-16,Brodie Smith,Adelaide,20.0,8.0,12.0,0.4,0.6,5.0,0.0,5.0,Gen. Defender
-16,Daniel Curtin,Adelaide,26.0,15.0,11.0,0.58,0.42,8.0,2.0,5.0,Midfielder
-16,Darcy Fogarty,Adelaide,8.0,6.0,2.0,0.75,0.25,3.0,1.0,5.0,Key Forward
-16,Isaac Cumming,Adelaide,10.0,7.0,3.0,0.7,0.3,2.0,0.0,1.0,Midfielder
-16,Izak Rankine,Adelaide,20.0,10.0,10.0,0.5,0.5,5.0,1.0,4.0,Mid-Forward
-16,Jake Soligo,Adelaide,15.0,7.0,8.0,0.47,0.53,4.0,0.0,5.0,Midfielder
-16,James Peatling,Adelaide,20.0,10.0,10.0,0.5,0.5,3.0,0.0,5.0,Midfielder
-16,Jordan Dawson,Adelaide,26.0,15.0,11.0,0.58,0.42,5.0,0.0,6.0,Midfielder
-16,Jordon Butts,Adelaide,10.0,9.0,1.0,0.9,0.1,7.0,0.0,1.0,Key Defender
-16,Josh Rachele,Adelaide,,,,,,,,,Gen. Forward
-16,Josh Worrell,Adelaide,24.0,18.0,6.0,0.75,0.25,11.0,0.0,1.0,Gen. Defender
-16,Lachlan Murphy,Adelaide,,,,,,,,,Gen. Forward
-16,Mark Keane,Adelaide,18.0,14.0,4.0,0.78,0.22,8.0,0.0,2.0,Key Defender
-16,Max Michalanney,Adelaide,10.0,5.0,5.0,0.5,0.5,4.0,3.0,1.0,Gen. Defender
-16,Mitchell Hinge,Adelaide,23.0,18.0,5.0,0.78,0.22,12.0,0.0,3.0,Gen. Defender
-16,Reilly O'Brien,Adelaide,14.0,8.0,6.0,0.57,0.43,3.0,1.0,2.0,Ruck
-16,Riley Thilthorpe,Adelaide,16.0,12.0,4.0,0.75,0.25,6.0,5.0,1.0,Key Forward
-16,Rory Laird,Adelaide,26.0,15.0,11.0,0.58,0.42,8.0,0.0,3.0,Gen. Defender
-16,Sam Berry,Adelaide,23.0,14.0,9.0,0.61,0.39,6.0,1.0,2.0,Midfielder
-16,Taylor Walker,Adelaide,16.0,11.0,5.0,0.69,0.31,6.0,2.0,0.0,Key Forward
-16,Wayne Milera,Adelaide,27.0,20.0,7.0,0.74,0.26,11.0,0.0,1.0,Gen. Defender
-17,Alex Neal-Bullen,Adelaide,14.0,10.0,4.0,0.71,0.29,1.0,0.0,6.0,Gen. Forward
-17,Ben Keays,Adelaide,24.0,14.0,10.0,0.58,0.42,2.0,2.0,1.0,Gen. Forward
-17,Brodie Smith,Adelaide,20.0,14.0,6.0,0.7,0.3,1.0,0.0,2.0,Gen. Defender
-17,Daniel Curtin,Adelaide,9.0,7.0,2.0,0.78,0.22,5.0,1.0,1.0,Midfielder
-17,Darcy Fogarty,Adelaide,15.0,12.0,3.0,0.8,0.2,6.0,2.0,0.0,Key Forward
-17,Isaac Cumming,Adelaide,13.0,7.0,6.0,0.54,0.46,1.0,0.0,1.0,Midfielder
-17,Izak Rankine,Adelaide,16.0,11.0,5.0,0.69,0.31,4.0,5.0,4.0,Mid-Forward
-17,Jake Soligo,Adelaide,21.0,12.0,9.0,0.57,0.43,6.0,0.0,6.0,Midfielder
-17,James Peatling,Adelaide,25.0,14.0,11.0,0.56,0.44,5.0,0.0,2.0,Midfielder
-17,Jordan Dawson,Adelaide,25.0,13.0,12.0,0.52,0.48,4.0,0.0,7.0,Midfielder
-17,Jordon Butts,Adelaide,6.0,3.0,3.0,0.5,0.5,2.0,0.0,0.0,Key Defender
-17,Josh Rachele,Adelaide,,,,,,,,,Gen. Forward
-17,Josh Worrell,Adelaide,18.0,13.0,5.0,0.72,0.28,5.0,0.0,0.0,Gen. Defender
-17,Lachlan Murphy,Adelaide,,,,,,,,,Gen. Forward
-17,Mark Keane,Adelaide,17.0,12.0,5.0,0.71,0.29,5.0,0.0,4.0,Key Defender
-17,Max Michalanney,Adelaide,14.0,9.0,5.0,0.64,0.36,4.0,0.0,0.0,Gen. Defender
-17,Mitchell Hinge,Adelaide,12.0,8.0,4.0,0.67,0.33,2.0,0.0,3.0,Gen. Defender
-17,Reilly O'Brien,Adelaide,10.0,4.0,6.0,0.4,0.6,7.0,0.0,2.0,Ruck
-17,Riley Thilthorpe,Adelaide,9.0,5.0,4.0,0.56,0.44,5.0,0.0,0.0,Key Forward
-17,Rory Laird,Adelaide,21.0,10.0,11.0,0.48,0.52,4.0,0.0,3.0,Gen. Defender
-17,Sam Berry,Adelaide,16.0,6.0,10.0,0.38,0.62,2.0,0.0,9.0,Midfielder
-17,Taylor Walker,Adelaide,9.0,7.0,2.0,0.78,0.22,4.0,2.0,0.0,Key Forward
-17,Zac Taylor,Adelaide,5.0,3.0,2.0,0.6,0.4,3.0,1.0,0.0,Gen. Forward
-18,Alex Neal-Bullen,Adelaide,11.0,6.0,5.0,0.55,0.45,1.0,0.0,4.0,Gen. Forward
-18,Ben Keays,Adelaide,19.0,11.0,8.0,0.58,0.42,6.0,0.0,1.0,Gen. Forward
-18,Brayden Cook,Adelaide,,,,,,,,,Mid-Forward
-18,Chayce Jones,Adelaide,10.0,5.0,5.0,0.5,0.5,3.0,0.0,2.0,Midfielder
-18,Daniel Curtin,Adelaide,26.0,19.0,7.0,0.73,0.27,7.0,1.0,3.0,Midfielder
-18,Darcy Fogarty,Adelaide,13.0,11.0,2.0,0.85,0.15,7.0,3.0,0.0,Key Forward
-18,Isaac Cumming,Adelaide,14.0,9.0,5.0,0.64,0.36,3.0,1.0,1.0,Midfielder
-18,Izak Rankine,Adelaide,18.0,14.0,4.0,0.78,0.22,6.0,1.0,4.0,Mid-Forward
-18,Jake Soligo,Adelaide,22.0,13.0,9.0,0.59,0.41,3.0,0.0,9.0,Midfielder
-18,James Peatling,Adelaide,12.0,3.0,9.0,0.25,0.75,1.0,0.0,2.0,Midfielder
-18,Jordan Dawson,Adelaide,27.0,16.0,11.0,0.59,0.41,4.0,2.0,8.0,Midfielder
-18,Jordon Butts,Adelaide,,,,,,,,,Key Defender
-18,Josh Worrell,Adelaide,21.0,18.0,3.0,0.86,0.14,8.0,0.0,0.0,Gen. Defender
-18,Mark Keane,Adelaide,12.0,10.0,2.0,0.83,0.17,4.0,0.0,0.0,Key Defender
-18,Max Michalanney,Adelaide,16.0,10.0,6.0,0.62,0.38,5.0,0.0,2.0,Gen. Defender
-18,Mitchell Hinge,Adelaide,14.0,12.0,2.0,0.86,0.14,6.0,0.0,5.0,Gen. Defender
-18,Reilly O'Brien,Adelaide,17.0,10.0,7.0,0.59,0.41,8.0,0.0,6.0,Ruck
-18,Riley Thilthorpe,Adelaide,17.0,13.0,4.0,0.76,0.24,9.0,6.0,2.0,Key Forward
-18,Rory Laird,Adelaide,22.0,15.0,7.0,0.68,0.32,5.0,0.0,7.0,Gen. Defender
-18,Sam Berry,Adelaide,11.0,7.0,4.0,0.64,0.36,1.0,0.0,2.0,Midfielder
-18,Taylor Walker,Adelaide,15.0,12.0,3.0,0.8,0.2,9.0,2.0,0.0,Key Forward
-18,Wayne Milera,Adelaide,12.0,10.0,2.0,0.83,0.17,5.0,0.0,0.0,Gen. Defender
-18,Zac Taylor,Adelaide,7.0,2.0,5.0,0.29,0.71,1.0,0.0,2.0,Gen. Forward
-19,Alex Neal-Bullen,Adelaide,31.0,20.0,11.0,0.65,0.35,7.0,3.0,4.0,Gen. Forward
-19,Ben Keays,Adelaide,18.0,8.0,10.0,0.44,0.56,2.0,1.0,5.0,Gen. Forward
-19,Chayce Jones,Adelaide,8.0,3.0,5.0,0.38,0.62,2.0,0.0,3.0,Midfielder
-19,Daniel Curtin,Adelaide,20.0,15.0,5.0,0.75,0.25,6.0,1.0,3.0,Midfielder
-19,Darcy Fogarty,Adelaide,7.0,7.0,0.0,1.0,0.0,6.0,0.0,0.0,Key Forward
-19,Isaac Cumming,Adelaide,16.0,9.0,7.0,0.56,0.44,6.0,0.0,2.0,Midfielder
-19,Izak Rankine,Adelaide,15.0,11.0,4.0,0.73,0.27,2.0,2.0,2.0,Mid-Forward
-19,Jake Soligo,Adelaide,24.0,10.0,14.0,0.42,0.58,6.0,1.0,5.0,Midfielder
-19,James Peatling,Adelaide,21.0,15.0,6.0,0.71,0.29,3.0,1.0,6.0,Midfielder
-19,Jordan Dawson,Adelaide,20.0,11.0,9.0,0.55,0.45,4.0,1.0,5.0,Midfielder
-19,Josh Worrell,Adelaide,25.0,17.0,8.0,0.68,0.32,11.0,0.0,0.0,Gen. Defender
-19,Luke Pedlar,Adelaide,7.0,6.0,1.0,0.86,0.14,2.0,1.0,1.0,Gen. Forward
-19,Mark Keane,Adelaide,13.0,12.0,1.0,0.92,0.08,4.0,0.0,0.0,Key Defender
-19,Max Michalanney,Adelaide,22.0,16.0,6.0,0.73,0.27,9.0,0.0,2.0,Gen. Defender
-19,Mitchell Hinge,Adelaide,,,,,,,,,Gen. Defender
-19,Nick Murray,Adelaide,11.0,6.0,5.0,0.55,0.45,4.0,0.0,0.0,Key Defender
-19,Reilly O'Brien,Adelaide,10.0,7.0,3.0,0.7,0.3,0.0,0.0,2.0,Ruck
-19,Riley Thilthorpe,Adelaide,9.0,5.0,4.0,0.56,0.44,6.0,2.0,2.0,Key Forward
-19,Rory Laird,Adelaide,23.0,17.0,6.0,0.74,0.26,11.0,0.0,2.0,Gen. Defender
-19,Sam Berry,Adelaide,15.0,13.0,2.0,0.87,0.13,1.0,1.0,7.0,Midfielder
-19,Taylor Walker,Adelaide,9.0,6.0,3.0,0.67,0.33,2.0,2.0,0.0,Key Forward
-19,Wayne Milera,Adelaide,21.0,17.0,4.0,0.81,0.19,12.0,0.0,1.0,Gen. Defender
-19,Zac Taylor,Adelaide,11.0,5.0,6.0,0.45,0.55,5.0,0.0,3.0,Gen. Forward
-20,Alex Neal-Bullen,Adelaide,18.0,13.0,5.0,0.72,0.28,1.0,1.0,12.0,Gen. Forward
-20,Ben Keays,Adelaide,21.0,17.0,4.0,0.81,0.19,2.0,3.0,3.0,Gen. Forward
-20,Brayden Cook,Adelaide,10.0,6.0,4.0,0.6,0.4,2.0,0.0,6.0,Mid-Forward
-20,Chayce Jones,Adelaide,,,,,,,,,Midfielder
-20,Daniel Curtin,Adelaide,22.0,13.0,9.0,0.59,0.41,2.0,0.0,8.0,Midfielder
-20,Darcy Fogarty,Adelaide,16.0,9.0,7.0,0.56,0.44,5.0,1.0,4.0,Key Forward
-20,Izak Rankine,Adelaide,15.0,13.0,2.0,0.87,0.13,3.0,1.0,2.0,Mid-Forward
-20,Jake Soligo,Adelaide,35.0,21.0,14.0,0.6,0.4,2.0,2.0,4.0,Midfielder
-20,James Peatling,Adelaide,26.0,19.0,7.0,0.73,0.27,4.0,1.0,6.0,Midfielder
-20,Jordan Dawson,Adelaide,21.0,13.0,8.0,0.62,0.38,1.0,1.0,10.0,Midfielder
-20,Josh Worrell,Adelaide,19.0,10.0,9.0,0.53,0.47,2.0,0.0,3.0,Gen. Defender
-20,Luke Pedlar,Adelaide,6.0,5.0,1.0,0.83,0.17,0.0,1.0,4.0,Gen. Forward
-20,Mark Keane,Adelaide,16.0,13.0,3.0,0.81,0.19,1.0,0.0,3.0,Key Defender
-20,Max Michalanney,Adelaide,,,,,,,,,Gen. Defender
-20,Mitchell Hinge,Adelaide,12.0,8.0,4.0,0.67,0.33,1.0,0.0,3.0,Gen. Defender
-20,Nick Murray,Adelaide,4.0,2.0,2.0,0.5,0.5,0.0,0.0,0.0,Key Defender
-20,Reilly O'Brien,Adelaide,10.0,6.0,4.0,0.6,0.4,3.0,1.0,6.0,Ruck
-20,Riley Thilthorpe,Adelaide,19.0,15.0,4.0,0.79,0.21,3.0,3.0,0.0,Key Forward
-20,Rory Laird,Adelaide,24.0,12.0,12.0,0.5,0.5,5.0,0.0,4.0,Gen. Defender
-20,Sam Berry,Adelaide,20.0,13.0,7.0,0.65,0.35,0.0,2.0,6.0,Midfielder
-20,Taylor Walker,Adelaide,15.0,9.0,6.0,0.6,0.4,3.0,3.0,1.0,Key Forward
-20,Wayne Milera,Adelaide,18.0,16.0,2.0,0.89,0.11,6.0,0.0,8.0,Gen. Defender
-20,Zac Taylor,Adelaide,8.0,3.0,5.0,0.38,0.62,0.0,0.0,5.0,Gen. Forward
-21,Alex Neal-Bullen,Adelaide,18.0,13.0,5.0,0.72,0.28,5.0,1.0,5.0,Gen. Forward
-21,Ben Keays,Adelaide,17.0,10.0,7.0,0.59,0.41,2.0,0.0,2.0,Gen. Forward
-21,Brayden Cook,Adelaide,,,,,,,,,Mid-Forward
-21,Brodie Smith,Adelaide,13.0,10.0,3.0,0.77,0.23,6.0,0.0,0.0,Gen. Defender
-21,Chayce Jones,Adelaide,,,,,,,,,Midfielder
-21,Daniel Curtin,Adelaide,20.0,16.0,4.0,0.8,0.2,6.0,0.0,5.0,Midfielder
-21,Darcy Fogarty,Adelaide,11.0,6.0,5.0,0.55,0.45,2.0,1.0,1.0,Key Forward
-21,Hugh Bond,Adelaide,14.0,3.0,11.0,0.21,0.79,2.0,0.0,3.0,Gen. Defender
-21,Isaac Cumming,Adelaide,15.0,9.0,6.0,0.6,0.4,3.0,0.0,1.0,Midfielder
-21,Izak Rankine,Adelaide,16.0,12.0,4.0,0.75,0.25,3.0,3.0,3.0,Mid-Forward
-21,Jake Soligo,Adelaide,15.0,12.0,3.0,0.8,0.2,1.0,1.0,2.0,Midfielder
-21,James Peatling,Adelaide,,,,,,,,,Midfielder
-21,Jordan Dawson,Adelaide,21.0,12.0,9.0,0.57,0.43,4.0,2.0,12.0,Midfielder
-21,Josh Worrell,Adelaide,20.0,18.0,2.0,0.9,0.1,5.0,0.0,3.0,Gen. Defender
-21,Mark Keane,Adelaide,21.0,14.0,7.0,0.67,0.33,6.0,0.0,1.0,Key Defender
-21,Mitchell Hinge,Adelaide,14.0,10.0,4.0,0.71,0.29,2.0,0.0,4.0,Gen. Defender
-21,Nick Murray,Adelaide,7.0,5.0,2.0,0.71,0.29,3.0,0.0,1.0,Key Defender
-21,Reilly O'Brien,Adelaide,18.0,11.0,7.0,0.61,0.39,3.0,0.0,1.0,Ruck
-21,Riley Thilthorpe,Adelaide,12.0,10.0,2.0,0.83,0.17,8.0,4.0,2.0,Key Forward
-21,Sam Berry,Adelaide,13.0,9.0,4.0,0.69,0.31,1.0,0.0,9.0,Midfielder
-21,Taylor Walker,Adelaide,11.0,10.0,1.0,0.91,0.09,6.0,3.0,0.0,Key Forward
-21,Wayne Milera,Adelaide,19.0,11.0,8.0,0.58,0.42,6.0,0.0,1.0,Gen. Defender
-21,Zac Taylor,Adelaide,9.0,4.0,5.0,0.44,0.56,2.0,0.0,0.0,Gen. Forward
-22,Alex Neal-Bullen,Adelaide,13.0,10.0,3.0,0.77,0.23,1.0,0.0,5.0,Gen. Forward
-22,Ben Keays,Adelaide,8.0,6.0,2.0,0.75,0.25,2.0,1.0,3.0,Gen. Forward
-22,Chayce Jones,Adelaide,,,,,,,,,Midfielder
-22,Chris Burgess,Adelaide,10.0,8.0,2.0,0.8,0.2,5.0,0.0,2.0,Key Forward
-22,Daniel Curtin,Adelaide,8.0,5.0,3.0,0.62,0.38,3.0,0.0,7.0,Midfielder
-22,Darcy Fogarty,Adelaide,11.0,7.0,4.0,0.64,0.36,3.0,1.0,2.0,Key Forward
-22,Hugh Bond,Adelaide,11.0,4.0,7.0,0.36,0.64,2.0,0.0,2.0,Gen. Defender
-22,Isaac Cumming,Adelaide,21.0,16.0,5.0,0.76,0.24,8.0,0.0,3.0,Midfielder
-22,Izak Rankine,Adelaide,23.0,19.0,4.0,0.83,0.17,5.0,1.0,4.0,Mid-Forward
-22,Jake Soligo,Adelaide,22.0,14.0,8.0,0.64,0.36,3.0,1.0,4.0,Midfielder
-22,James Peatling,Adelaide,,,,,,,,,Midfielder
-22,Jordan Dawson,Adelaide,26.0,18.0,8.0,0.69,0.31,6.0,1.0,14.0,Midfielder
-22,Josh Worrell,Adelaide,15.0,14.0,1.0,0.93,0.07,7.0,0.0,1.0,Gen. Defender
-22,Luke Pedlar,Adelaide,8.0,5.0,3.0,0.62,0.38,2.0,3.0,2.0,Gen. Forward
-22,Mark Keane,Adelaide,17.0,11.0,6.0,0.65,0.35,6.0,0.0,0.0,Key Defender
-22,Mitchell Hinge,Adelaide,16.0,9.0,7.0,0.56,0.44,3.0,0.0,2.0,Gen. Defender
-22,Nick Murray,Adelaide,11.0,8.0,3.0,0.73,0.27,4.0,0.0,1.0,Key Defender
-22,Reilly O'Brien,Adelaide,17.0,5.0,12.0,0.29,0.71,4.0,0.0,1.0,Ruck
-22,Riley Thilthorpe,Adelaide,15.0,10.0,5.0,0.67,0.33,4.0,3.0,1.0,Key Forward
-22,Rory Laird,Adelaide,25.0,14.0,11.0,0.56,0.44,7.0,0.0,4.0,Gen. Defender
-22,Sam Berry,Adelaide,,,,,,,,,Midfielder
-22,Wayne Milera,Adelaide,18.0,7.0,11.0,0.39,0.61,5.0,0.0,2.0,Gen. Defender
-22,Zac Taylor,Adelaide,20.0,11.0,9.0,0.55,0.45,2.0,1.0,5.0,Gen. Forward
-23,Alex Neal-Bullen,Adelaide,20.0,9.0,11.0,0.45,0.55,1.0,0.0,2.0,Gen. Forward
-23,Ben Keays,Adelaide,15.0,7.0,8.0,0.47,0.53,4.0,0.0,7.0,Gen. Forward
-23,Brodie Smith,Adelaide,15.0,10.0,5.0,0.67,0.33,5.0,0.0,1.0,Gen. Defender
-23,Daniel Curtin,Adelaide,14.0,11.0,3.0,0.79,0.21,7.0,1.0,2.0,Midfielder
-23,Darcy Fogarty,Adelaide,14.0,10.0,4.0,0.71,0.29,8.0,2.0,0.0,Key Forward
-23,Harry Schoenberg,Adelaide,,,,,,,,,Midfielder
-23,Hugh Bond,Adelaide,7.0,3.0,4.0,0.43,0.57,1.0,0.0,5.0,Gen. Defender
-23,Isaac Cumming,Adelaide,18.0,15.0,3.0,0.83,0.17,7.0,1.0,4.0,Midfielder
-23,Izak Rankine,Adelaide,18.0,13.0,5.0,0.72,0.28,4.0,1.0,3.0,Mid-Forward
-23,Jake Soligo,Adelaide,20.0,10.0,10.0,0.5,0.5,1.0,0.0,3.0,Midfielder
-23,James Peatling,Adelaide,19.0,12.0,7.0,0.63,0.37,1.0,1.0,3.0,Midfielder
-23,Jordan Dawson,Adelaide,23.0,11.0,12.0,0.48,0.52,3.0,0.0,7.0,Midfielder
-23,Josh Worrell,Adelaide,27.0,16.0,11.0,0.59,0.41,6.0,0.0,2.0,Gen. Defender
-23,Lachlan Murphy,Adelaide,6.0,2.0,4.0,0.33,0.67,1.0,0.0,1.0,Gen. Forward
-23,Mark Keane,Adelaide,23.0,21.0,2.0,0.91,0.09,8.0,0.0,0.0,Key Defender
-23,Mitchell Hinge,Adelaide,21.0,17.0,4.0,0.81,0.19,3.0,0.0,5.0,Gen. Defender
-23,Nick Murray,Adelaide,4.0,3.0,1.0,0.75,0.25,3.0,0.0,0.0,Key Defender
-23,Reilly O'Brien,Adelaide,6.0,2.0,4.0,0.33,0.67,2.0,0.0,4.0,Ruck
-23,Riley Thilthorpe,Adelaide,11.0,8.0,3.0,0.73,0.27,5.0,1.0,2.0,Key Forward
-23,Sam Berry,Adelaide,14.0,9.0,5.0,0.64,0.36,0.0,0.0,3.0,Midfielder
-23,Taylor Walker,Adelaide,13.0,10.0,3.0,0.77,0.23,5.0,2.0,0.0,Key Forward
-23,Wayne Milera,Adelaide,22.0,19.0,3.0,0.86,0.14,7.0,0.0,4.0,Gen. Defender
-23,Zac Taylor,Adelaide,,,,,,,,,Gen. Forward
-24,Alex Neal-Bullen,Adelaide,9.0,2.0,7.0,0.22,0.78,2.0,1.0,1.0,Gen. Forward
-24,Ben Keays,Adelaide,19.0,9.0,10.0,0.47,0.53,5.0,3.0,6.0,Gen. Forward
-24,Billy Dowling,Adelaide,14.0,6.0,8.0,0.43,0.57,2.0,2.0,0.0,Mid-Forward
-24,Brodie Smith,Adelaide,,,,,,,,,Gen. Defender
-24,Daniel Curtin,Adelaide,7.0,3.0,4.0,0.43,0.57,3.0,0.0,4.0,Midfielder
-24,Darcy Fogarty,Adelaide,17.0,9.0,8.0,0.53,0.47,5.0,1.0,1.0,Key Forward
-24,Hugh Bond,Adelaide,3.0,2.0,1.0,0.67,0.33,0.0,0.0,2.0,Gen. Defender
-24,Isaac Cumming,Adelaide,11.0,6.0,5.0,0.55,0.45,6.0,0.0,3.0,Midfielder
-24,Jake Soligo,Adelaide,14.0,7.0,7.0,0.5,0.5,3.0,0.0,1.0,Midfielder
-24,James Peatling,Adelaide,19.0,9.0,10.0,0.47,0.53,5.0,3.0,4.0,Midfielder
-24,Jordan Dawson,Adelaide,23.0,15.0,8.0,0.65,0.35,6.0,0.0,7.0,Midfielder
-24,Josh Worrell,Adelaide,19.0,11.0,8.0,0.58,0.42,4.0,0.0,1.0,Gen. Defender
-24,Mark Keane,Adelaide,11.0,8.0,3.0,0.73,0.27,3.0,0.0,0.0,Key Defender
-24,Mitchell Hinge,Adelaide,13.0,6.0,7.0,0.46,0.54,2.0,0.0,1.0,Gen. Defender
-24,Nick Murray,Adelaide,7.0,5.0,2.0,0.71,0.29,4.0,0.0,1.0,Key Defender
-24,Reilly O'Brien,Adelaide,11.0,7.0,4.0,0.64,0.36,2.0,0.0,7.0,Ruck
-24,Riley Thilthorpe,Adelaide,18.0,15.0,3.0,0.83,0.17,12.0,3.0,2.0,Key Forward
-24,Rory Laird,Adelaide,23.0,11.0,12.0,0.48,0.52,5.0,1.0,5.0,Gen. Defender
-24,Sam Berry,Adelaide,24.0,13.0,11.0,0.54,0.46,2.0,0.0,8.0,Midfielder
-24,Sid Draper,Adelaide,,,,,,,,,Mid-Forward
-24,Taylor Walker,Adelaide,13.0,8.0,5.0,0.62,0.38,3.0,1.0,0.0,Key Forward
-24,Wayne Milera,Adelaide,18.0,10.0,8.0,0.56,0.44,6.0,0.0,1.0,Gen. Defender
-24,Zac Taylor,Adelaide,7.0,3.0,4.0,0.43,0.57,0.0,1.0,3.0,Gen. Forward
+Round,Player,Team,Position,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,DispDiff,KickDiff,HbDiff,MarkDiff
+1,Alex Neal-Bullen,Adelaide,Gen. Forward,21.0,10.0,11.0,0.48,0.52,3.0,1.0,4.0,4.68,0.68,4.0,-0.08
+1,Ben Keays,Adelaide,Gen. Forward,18.0,11.0,7.0,0.61,0.39,7.0,1.0,0.0,1.24,1.0,0.24,3.2
+1,Daniel Curtin,Adelaide,Midfielder,7.0,3.0,4.0,0.43,0.57,3.0,0.0,1.0,-6.36,-5.96,-0.4,-1.52
+1,Darcy Fogarty,Adelaide,Key Forward,12.0,11.0,1.0,0.92,0.08,6.0,4.0,1.0,0.79,3.25,-2.46,1.21
+1,Isaac Cumming,Adelaide,Midfielder,16.0,11.0,5.0,0.69,0.31,4.0,2.0,1.0,1.38,0.96,0.42,-0.21
+1,Izak Rankine,Adelaide,Mid-Forward,28.0,10.0,18.0,0.36,0.64,3.0,2.0,5.0,7.45,-2.96,10.41,-0.96
+1,Jake Soligo,Adelaide,Midfielder,29.0,16.0,13.0,0.55,0.45,3.0,1.0,8.0,8.12,3.64,4.48,0.28
+1,James Peatling,Adelaide,Midfielder,19.0,11.0,8.0,0.58,0.42,2.0,1.0,3.0,0.35,0.35,0.0,-0.74
+1,Jordan Dawson,Adelaide,Midfielder,27.0,24.0,3.0,0.89,0.11,9.0,2.0,4.0,3.64,8.32,-4.68,4.32
+1,Josh Rachele,Adelaide,Gen. Forward,21.0,12.0,9.0,0.57,0.43,5.0,2.0,1.0,9.5,3.36,6.14,1.64
+1,Josh Worrell,Adelaide,Gen. Defender,25.0,16.0,9.0,0.64,0.36,6.0,0.0,3.0,4.0,1.4,2.6,0.24
+1,Lachlan Sholl,Adelaide,Midfielder,22.0,13.0,9.0,0.59,0.41,4.0,0.0,2.0,8.0,4.6,3.4,-0.4
+1,Mark Keane,Adelaide,Key Defender,21.0,14.0,7.0,0.67,0.33,6.0,0.0,0.0,6.2,2.2,4.0,1.48
+1,Matt Crouch,Adelaide,Midfielder,31.0,8.0,23.0,0.26,0.74,1.0,1.0,4.0,5.33,0.0,5.33,-2.0
+1,Max Michalanney,Adelaide,Gen. Defender,14.0,11.0,3.0,0.79,0.21,3.0,0.0,0.0,0.67,2.24,-1.57,-1.33
+1,Mitchell Hinge,Adelaide,Gen. Defender,19.0,10.0,9.0,0.53,0.47,6.0,0.0,3.0,3.42,-1.0,4.42,1.88
+1,Nick Murray,Adelaide,Key Defender,14.0,7.0,7.0,0.5,0.5,7.0,0.0,2.0,5.58,1.67,3.92,3.58
+1,Reilly O'Brien,Adelaide,Ruck,12.0,7.0,5.0,0.58,0.42,2.0,0.0,4.0,0.0,0.64,-0.64,-1.0
+1,Riley Thilthorpe,Adelaide,Key Forward,13.0,9.0,4.0,0.69,0.31,5.0,3.0,3.0,-0.72,-0.64,-0.08,-0.52
+1,Rory Laird,Adelaide,Gen. Defender,29.0,12.0,17.0,0.41,0.59,7.0,0.0,4.0,4.86,-1.0,5.86,1.04
+1,Sid Draper,Adelaide,Mid-Forward,,,,,,,,,,,,
+1,Taylor Walker,Adelaide,Key Forward,,,,,,,,,,,,
+1,Wayne Milera,Adelaide,Gen. Defender,13.0,6.0,7.0,0.46,0.54,4.0,0.0,1.0,-4.83,-6.04,1.21,-1.5
+2,Alex Neal-Bullen,Adelaide,Gen. Forward,18.0,9.0,9.0,0.5,0.5,5.0,2.0,4.0,1.68,-0.32,2.0,1.92
+2,Ben Keays,Adelaide,Gen. Forward,22.0,17.0,5.0,0.77,0.23,11.0,4.0,3.0,5.24,7.0,-1.76,7.2
+2,Daniel Curtin,Adelaide,Midfielder,13.0,8.0,5.0,0.62,0.38,5.0,1.0,4.0,-0.36,-0.96,0.6,0.48
+2,Darcy Fogarty,Adelaide,Key Forward,14.0,11.0,3.0,0.79,0.21,9.0,3.0,0.0,2.79,3.25,-0.46,4.21
+2,Isaac Cumming,Adelaide,Midfielder,9.0,4.0,5.0,0.44,0.56,0.0,0.0,2.0,-5.62,-6.04,0.42,-4.21
+2,Izak Rankine,Adelaide,Mid-Forward,,,,,,,,,,,,
+2,Jake Soligo,Adelaide,Midfielder,27.0,15.0,12.0,0.56,0.44,6.0,2.0,2.0,6.12,2.64,3.48,3.28
+2,James Peatling,Adelaide,Midfielder,13.0,5.0,8.0,0.38,0.62,2.0,0.0,3.0,-5.65,-5.65,0.0,-0.74
+2,Jordan Dawson,Adelaide,Midfielder,33.0,22.0,11.0,0.67,0.33,8.0,0.0,6.0,9.64,6.32,3.32,3.32
+2,Josh Rachele,Adelaide,Gen. Forward,16.0,13.0,3.0,0.81,0.19,8.0,4.0,1.0,4.5,4.36,0.14,4.64
+2,Josh Worrell,Adelaide,Gen. Defender,18.0,11.0,7.0,0.61,0.39,8.0,0.0,3.0,-3.0,-3.6,0.6,2.24
+2,Lachlan Sholl,Adelaide,Midfielder,19.0,14.0,5.0,0.74,0.26,9.0,1.0,0.0,5.0,5.6,-0.6,4.6
+2,Mark Keane,Adelaide,Key Defender,10.0,8.0,2.0,0.8,0.2,1.0,0.0,0.0,-4.8,-3.8,-1.0,-3.52
+2,Matt Crouch,Adelaide,Midfielder,32.0,13.0,19.0,0.41,0.59,7.0,0.0,8.0,6.33,5.0,1.33,4.0
+2,Max Michalanney,Adelaide,Gen. Defender,15.0,12.0,3.0,0.8,0.2,8.0,0.0,1.0,1.67,3.24,-1.57,3.67
+2,Mitchell Hinge,Adelaide,Gen. Defender,16.0,13.0,3.0,0.81,0.19,1.0,1.0,5.0,0.42,2.0,-1.58,-3.12
+2,Nick Murray,Adelaide,Key Defender,13.0,8.0,5.0,0.62,0.38,5.0,0.0,3.0,4.58,2.67,1.92,1.58
+2,Reilly O'Brien,Adelaide,Ruck,10.0,4.0,6.0,0.4,0.6,2.0,0.0,3.0,-2.0,-2.36,0.36,-1.0
+2,Riley Thilthorpe,Adelaide,Key Forward,16.0,10.0,6.0,0.62,0.38,7.0,3.0,2.0,2.28,0.36,1.92,1.48
+2,Rory Laird,Adelaide,Gen. Defender,23.0,14.0,9.0,0.61,0.39,5.0,0.0,2.0,-1.14,1.0,-2.14,-0.96
+2,Sid Draper,Adelaide,Mid-Forward,,,,,,,,,,,,
+2,Taylor Walker,Adelaide,Key Forward,13.0,10.0,3.0,0.77,0.23,10.0,1.0,2.0,0.78,1.48,-0.7,5.13
+2,Wayne Milera,Adelaide,Gen. Defender,18.0,16.0,2.0,0.89,0.11,6.0,1.0,1.0,0.17,3.96,-3.79,0.5
+3,Alex Neal-Bullen,Adelaide,Gen. Forward,12.0,8.0,4.0,0.67,0.33,3.0,1.0,3.0,-4.32,-1.32,-3.0,-0.08
+3,Ben Keays,Adelaide,Gen. Forward,20.0,12.0,8.0,0.6,0.4,7.0,2.0,3.0,3.24,2.0,1.24,3.2
+3,Daniel Curtin,Adelaide,Midfielder,15.0,11.0,4.0,0.73,0.27,5.0,2.0,3.0,1.64,2.04,-0.4,0.48
+3,Darcy Fogarty,Adelaide,Key Forward,6.0,4.0,2.0,0.67,0.33,3.0,2.0,1.0,-5.21,-3.75,-1.46,-1.79
+3,Isaac Cumming,Adelaide,Midfielder,13.0,8.0,5.0,0.62,0.38,5.0,0.0,1.0,-1.62,-2.04,0.42,0.79
+3,Izak Rankine,Adelaide,Mid-Forward,30.0,18.0,12.0,0.6,0.4,5.0,0.0,5.0,9.45,5.04,4.41,1.04
+3,Jake Soligo,Adelaide,Midfielder,28.0,19.0,9.0,0.68,0.32,5.0,1.0,5.0,7.12,6.64,0.48,2.28
+3,James Borlase,Adelaide,Key Defender,8.0,5.0,3.0,0.62,0.38,3.0,0.0,2.0,0.0,0.0,0.0,1.5
+3,James Peatling,Adelaide,Midfielder,23.0,12.0,11.0,0.52,0.48,4.0,0.0,2.0,4.35,1.35,3.0,1.26
+3,Jordan Dawson,Adelaide,Midfielder,19.0,11.0,8.0,0.58,0.42,3.0,0.0,6.0,-4.36,-4.68,0.32,-1.68
+3,Josh Rachele,Adelaide,Gen. Forward,,,,,,,,,,,,
+3,Josh Worrell,Adelaide,Gen. Defender,18.0,13.0,5.0,0.72,0.28,4.0,0.0,1.0,-3.0,-1.6,-1.4,-1.76
+3,Lachlan Sholl,Adelaide,Midfielder,9.0,6.0,3.0,0.67,0.33,4.0,0.0,1.0,-5.0,-2.4,-2.6,-0.4
+3,Mark Keane,Adelaide,Key Defender,4.0,3.0,1.0,0.75,0.25,0.0,0.0,2.0,-10.8,-8.8,-2.0,-4.52
+3,Matt Crouch,Adelaide,Midfielder,19.0,8.0,11.0,0.42,0.58,2.0,0.0,2.0,-6.67,0.0,-6.67,-1.0
+3,Max Michalanney,Adelaide,Gen. Defender,10.0,8.0,2.0,0.8,0.2,5.0,0.0,2.0,-3.33,-0.76,-2.57,0.67
+3,Mitchell Hinge,Adelaide,Gen. Defender,20.0,16.0,4.0,0.8,0.2,7.0,0.0,4.0,4.42,5.0,-0.58,2.88
+3,Reilly O'Brien,Adelaide,Ruck,16.0,7.0,9.0,0.44,0.56,5.0,0.0,2.0,4.0,0.64,3.36,2.0
+3,Riley Thilthorpe,Adelaide,Key Forward,17.0,11.0,6.0,0.65,0.35,8.0,3.0,1.0,3.28,1.36,1.92,2.48
+3,Rory Laird,Adelaide,Gen. Defender,32.0,12.0,20.0,0.38,0.62,7.0,0.0,2.0,7.86,-1.0,8.86,1.04
+3,Sid Draper,Adelaide,Mid-Forward,,,,,,,,,,,,
+3,Taylor Walker,Adelaide,Key Forward,14.0,11.0,3.0,0.79,0.21,5.0,4.0,1.0,1.78,2.48,-0.7,0.13
+3,Wayne Milera,Adelaide,Gen. Defender,9.0,6.0,3.0,0.67,0.33,1.0,0.0,4.0,-8.83,-6.04,-2.79,-4.5
+4,Alex Neal-Bullen,Adelaide,Gen. Forward,20.0,7.0,13.0,0.35,0.65,2.0,0.0,5.0,3.68,-2.32,6.0,-1.08
+4,Ben Keays,Adelaide,Gen. Forward,17.0,8.0,9.0,0.47,0.53,5.0,1.0,3.0,0.24,-2.0,2.24,1.2
+4,Daniel Curtin,Adelaide,Midfielder,12.0,7.0,5.0,0.58,0.42,3.0,0.0,3.0,-1.36,-1.96,0.6,-1.52
+4,Darcy Fogarty,Adelaide,Key Forward,11.0,7.0,4.0,0.64,0.36,4.0,3.0,1.0,-0.21,-0.75,0.54,-0.79
+4,Isaac Cumming,Adelaide,Midfielder,20.0,13.0,7.0,0.65,0.35,8.0,0.0,5.0,5.38,2.96,2.42,3.79
+4,Izak Rankine,Adelaide,Mid-Forward,21.0,8.0,13.0,0.38,0.62,2.0,0.0,7.0,0.45,-4.96,5.41,-1.96
+4,Jake Soligo,Adelaide,Midfielder,26.0,15.0,11.0,0.58,0.42,2.0,0.0,6.0,5.12,2.64,2.48,-0.72
+4,James Borlase,Adelaide,Key Defender,8.0,5.0,3.0,0.62,0.38,0.0,0.0,1.0,0.0,0.0,0.0,-1.5
+4,James Peatling,Adelaide,Midfielder,24.0,18.0,6.0,0.75,0.25,4.0,1.0,6.0,5.35,7.35,-2.0,1.26
+4,Jordan Dawson,Adelaide,Midfielder,31.0,17.0,14.0,0.55,0.45,5.0,0.0,6.0,7.64,1.32,6.32,0.32
+4,Josh Worrell,Adelaide,Gen. Defender,17.0,11.0,6.0,0.65,0.35,3.0,0.0,1.0,-4.0,-3.6,-0.4,-2.76
+4,Lachlan Murphy,Adelaide,Gen. Forward,13.0,8.0,5.0,0.62,0.38,2.0,0.0,2.0,5.0,4.4,0.6,0.8
+4,Lachlan Sholl,Adelaide,Midfielder,13.0,4.0,9.0,0.31,0.69,2.0,0.0,1.0,-1.0,-4.4,3.4,-2.4
+4,Luke Nankervis,Adelaide,Midfielder,,,,,,,,,,,,
+4,Mark Keane,Adelaide,Key Defender,9.0,7.0,2.0,0.78,0.22,3.0,0.0,1.0,-5.8,-4.8,-1.0,-1.52
+4,Max Michalanney,Adelaide,Gen. Defender,9.0,7.0,2.0,0.78,0.22,2.0,0.0,2.0,-4.33,-1.76,-2.57,-2.33
+4,Mitchell Hinge,Adelaide,Gen. Defender,27.0,17.0,10.0,0.63,0.37,5.0,0.0,2.0,11.42,6.0,5.42,0.88
+4,Reilly O'Brien,Adelaide,Ruck,5.0,3.0,2.0,0.6,0.4,1.0,0.0,2.0,-7.0,-3.36,-3.64,-2.0
+4,Riley Thilthorpe,Adelaide,Key Forward,16.0,11.0,5.0,0.69,0.31,5.0,5.0,2.0,2.28,1.36,0.92,-0.52
+4,Rory Laird,Adelaide,Gen. Defender,16.0,6.0,10.0,0.38,0.62,2.0,0.0,4.0,-8.14,-7.0,-1.14,-3.96
+4,Sid Draper,Adelaide,Mid-Forward,15.0,6.0,9.0,0.4,0.6,0.0,0.0,5.0,7.8,2.5,5.3,-0.8
+4,Taylor Walker,Adelaide,Key Forward,14.0,10.0,4.0,0.71,0.29,7.0,4.0,0.0,1.78,1.48,0.3,2.13
+4,Wayne Milera,Adelaide,Gen. Defender,20.0,11.0,9.0,0.55,0.45,3.0,0.0,2.0,2.17,-1.04,3.21,-2.5
+5,Alex Neal-Bullen,Adelaide,Gen. Forward,12.0,7.0,5.0,0.58,0.42,4.0,0.0,2.0,-4.32,-2.32,-2.0,0.92
+5,Ben Keays,Adelaide,Gen. Forward,18.0,10.0,8.0,0.56,0.44,6.0,3.0,1.0,1.24,0.0,1.24,2.2
+5,Daniel Curtin,Adelaide,Midfielder,5.0,2.0,3.0,0.4,0.6,0.0,1.0,3.0,-8.36,-6.96,-1.4,-4.52
+5,Darcy Fogarty,Adelaide,Key Forward,15.0,9.0,6.0,0.6,0.4,6.0,4.0,0.0,3.79,1.25,2.54,1.21
+5,Isaac Cumming,Adelaide,Midfielder,14.0,13.0,1.0,0.93,0.07,5.0,0.0,1.0,-0.62,2.96,-3.58,0.79
+5,Izak Rankine,Adelaide,Mid-Forward,25.0,16.0,9.0,0.64,0.36,5.0,2.0,4.0,4.45,3.04,1.41,1.04
+5,Jake Soligo,Adelaide,Midfielder,15.0,8.0,7.0,0.53,0.47,2.0,0.0,2.0,-5.88,-4.36,-1.52,-0.72
+5,James Peatling,Adelaide,Midfielder,22.0,10.0,12.0,0.45,0.55,1.0,0.0,5.0,3.35,-0.65,4.0,-1.74
+5,Jordan Dawson,Adelaide,Midfielder,21.0,17.0,4.0,0.81,0.19,3.0,0.0,6.0,-2.36,1.32,-3.68,-1.68
+5,Josh Worrell,Adelaide,Gen. Defender,15.0,9.0,6.0,0.6,0.4,5.0,0.0,2.0,-6.0,-5.6,-0.4,-0.76
+5,Lachlan Sholl,Adelaide,Midfielder,,,,,,,,,,,,
+5,Luke Nankervis,Adelaide,Midfielder,18.0,8.0,10.0,0.44,0.56,4.0,0.0,5.0,5.43,1.86,3.57,1.29
+5,Mark Keane,Adelaide,Key Defender,24.0,15.0,9.0,0.62,0.38,9.0,0.0,0.0,9.2,3.2,6.0,4.48
+5,Matt Crouch,Adelaide,Midfielder,28.0,10.0,18.0,0.36,0.64,4.0,0.0,2.0,2.33,2.0,0.33,1.0
+5,Max Michalanney,Adelaide,Gen. Defender,10.0,7.0,3.0,0.7,0.3,2.0,0.0,2.0,-3.33,-1.76,-1.57,-2.33
+5,Mitchell Hinge,Adelaide,Gen. Defender,25.0,19.0,6.0,0.76,0.24,6.0,0.0,2.0,9.42,8.0,1.42,1.88
+5,Reilly O'Brien,Adelaide,Ruck,5.0,1.0,4.0,0.2,0.8,1.0,0.0,3.0,-7.0,-5.36,-1.64,-2.0
+5,Riley Thilthorpe,Adelaide,Key Forward,13.0,7.0,6.0,0.54,0.46,4.0,1.0,2.0,-0.72,-2.64,1.92,-1.52
+5,Rory Laird,Adelaide,Gen. Defender,23.0,14.0,9.0,0.61,0.39,8.0,0.0,1.0,-1.14,1.0,-2.14,2.04
+5,Sid Draper,Adelaide,Mid-Forward,7.0,2.0,5.0,0.29,0.71,1.0,1.0,2.0,-0.2,-1.5,1.3,0.2
+5,Taylor Walker,Adelaide,Key Forward,13.0,10.0,3.0,0.77,0.23,3.0,2.0,3.0,0.78,1.48,-0.7,-1.87
+5,Wayne Milera,Adelaide,Gen. Defender,22.0,14.0,8.0,0.64,0.36,5.0,0.0,3.0,4.17,1.96,2.21,-0.5
+5,Zac Taylor,Adelaide,Gen. Forward,,,,,,,,,,,,
+6,Alex Neal-Bullen,Adelaide,Gen. Forward,20.0,9.0,11.0,0.45,0.55,3.0,1.0,3.0,3.68,-0.32,4.0,-0.08
+6,Ben Keays,Adelaide,Gen. Forward,18.0,12.0,6.0,0.67,0.33,4.0,1.0,7.0,1.24,2.0,-0.76,0.2
+6,Daniel Curtin,Adelaide,Midfielder,,,,,,,,,,,,
+6,Darcy Fogarty,Adelaide,Key Forward,8.0,4.0,4.0,0.5,0.5,2.0,0.0,0.0,-3.21,-3.75,0.54,-2.79
+6,Isaac Cumming,Adelaide,Midfielder,14.0,10.0,4.0,0.71,0.29,2.0,0.0,1.0,-0.62,-0.04,-0.58,-2.21
+6,Izak Rankine,Adelaide,Mid-Forward,20.0,15.0,5.0,0.75,0.25,3.0,1.0,6.0,-0.55,2.04,-2.59,-0.96
+6,Jake Soligo,Adelaide,Midfielder,22.0,15.0,7.0,0.68,0.32,3.0,0.0,2.0,1.12,2.64,-1.52,0.28
+6,Jordan Dawson,Adelaide,Midfielder,27.0,22.0,5.0,0.81,0.19,5.0,0.0,8.0,3.64,6.32,-2.68,0.32
+6,Josh Worrell,Adelaide,Gen. Defender,19.0,12.0,7.0,0.63,0.37,2.0,0.0,3.0,-2.0,-2.6,0.6,-3.76
+6,Luke Nankervis,Adelaide,Midfielder,18.0,7.0,11.0,0.39,0.61,3.0,0.0,2.0,5.43,0.86,4.57,0.29
+6,Mark Keane,Adelaide,Key Defender,11.0,9.0,2.0,0.82,0.18,5.0,0.0,2.0,-3.8,-2.8,-1.0,0.48
+6,Matt Crouch,Adelaide,Midfielder,26.0,7.0,19.0,0.27,0.73,2.0,0.0,3.0,0.33,-1.0,1.33,-1.0
+6,Max Michalanney,Adelaide,Gen. Defender,14.0,11.0,3.0,0.79,0.21,3.0,1.0,1.0,0.67,2.24,-1.57,-1.33
+6,Mitchell Hinge,Adelaide,Gen. Defender,19.0,16.0,3.0,0.84,0.16,7.0,0.0,0.0,3.42,5.0,-1.58,2.88
+6,Nick Murray,Adelaide,Key Defender,9.0,6.0,3.0,0.67,0.33,5.0,0.0,1.0,0.58,0.67,-0.08,1.58
+6,Reilly O'Brien,Adelaide,Ruck,17.0,11.0,6.0,0.65,0.35,4.0,0.0,4.0,5.0,4.64,0.36,1.0
+6,Riley Thilthorpe,Adelaide,Key Forward,13.0,8.0,5.0,0.62,0.38,4.0,1.0,1.0,-0.72,-1.64,0.92,-1.52
+6,Rory Laird,Adelaide,Gen. Defender,21.0,9.0,12.0,0.43,0.57,5.0,0.0,4.0,-3.14,-4.0,0.86,-0.96
+6,Sam Berry,Adelaide,Midfielder,,,,,,,,,,,,
+6,Sid Draper,Adelaide,Mid-Forward,,,,,,,,,,,,
+6,Taylor Walker,Adelaide,Key Forward,17.0,9.0,8.0,0.53,0.47,4.0,2.0,2.0,4.78,0.48,4.3,-0.87
+6,Wayne Milera,Adelaide,Gen. Defender,16.0,14.0,2.0,0.88,0.12,3.0,0.0,0.0,-1.83,1.96,-3.79,-2.5
+6,Zac Taylor,Adelaide,Gen. Forward,10.0,4.0,6.0,0.4,0.6,3.0,0.0,1.0,0.35,-0.47,0.82,0.71
+7,Alex Neal-Bullen,Adelaide,Gen. Forward,19.0,13.0,6.0,0.68,0.32,4.0,1.0,4.0,2.68,3.68,-1.0,0.92
+7,Ben Keays,Adelaide,Gen. Forward,14.0,9.0,5.0,0.64,0.36,3.0,0.0,6.0,-2.76,-1.0,-1.76,-0.8
+7,Daniel Curtin,Adelaide,Midfielder,8.0,5.0,3.0,0.62,0.38,3.0,0.0,3.0,-5.36,-3.96,-1.4,-1.52
+7,Isaac Cumming,Adelaide,Midfielder,18.0,15.0,3.0,0.83,0.17,5.0,0.0,2.0,3.38,4.96,-1.58,0.79
+7,Izak Rankine,Adelaide,Mid-Forward,19.0,11.0,8.0,0.58,0.42,5.0,1.0,6.0,-1.55,-1.96,0.41,1.04
+7,Jake Soligo,Adelaide,Midfielder,18.0,11.0,7.0,0.61,0.39,2.0,1.0,4.0,-2.88,-1.36,-1.52,-0.72
+7,James Peatling,Adelaide,Midfielder,18.0,9.0,9.0,0.5,0.5,4.0,0.0,5.0,-0.65,-1.65,1.0,1.26
+7,Jordan Dawson,Adelaide,Midfielder,21.0,20.0,1.0,0.95,0.05,3.0,0.0,7.0,-2.36,4.32,-6.68,-1.68
+7,Josh Rachele,Adelaide,Gen. Forward,9.0,6.0,3.0,0.67,0.33,5.0,1.0,2.0,-2.5,-2.64,0.14,1.64
+7,Josh Worrell,Adelaide,Gen. Defender,20.0,12.0,8.0,0.6,0.4,5.0,0.0,0.0,-1.0,-2.6,1.6,-0.76
+7,Luke Nankervis,Adelaide,Midfielder,12.0,10.0,2.0,0.83,0.17,4.0,0.0,2.0,-0.57,3.86,-4.43,1.29
+7,Mark Keane,Adelaide,Key Defender,12.0,11.0,1.0,0.92,0.08,1.0,0.0,0.0,-2.8,-0.8,-2.0,-3.52
+7,Matt Crouch,Adelaide,Midfielder,,,,,,,,,,,,
+7,Max Michalanney,Adelaide,Gen. Defender,16.0,8.0,8.0,0.5,0.5,6.0,0.0,4.0,2.67,-0.76,3.43,1.67
+7,Mitchell Hinge,Adelaide,Gen. Defender,10.0,9.0,1.0,0.9,0.1,4.0,0.0,3.0,-5.58,-2.0,-3.58,-0.12
+7,Nick Murray,Adelaide,Key Defender,10.0,8.0,2.0,0.8,0.2,3.0,0.0,1.0,1.58,2.67,-1.08,-0.42
+7,Reilly O'Brien,Adelaide,Ruck,14.0,8.0,6.0,0.57,0.43,6.0,0.0,5.0,2.0,1.64,0.36,3.0
+7,Riley Thilthorpe,Adelaide,Key Forward,9.0,5.0,4.0,0.56,0.44,2.0,3.0,2.0,-4.72,-4.64,-0.08,-3.52
+7,Rory Laird,Adelaide,Gen. Defender,27.0,16.0,11.0,0.59,0.41,5.0,0.0,4.0,2.86,3.0,-0.14,-0.96
+7,Sid Draper,Adelaide,Mid-Forward,,,,,,,,,,,,
+7,Taylor Walker,Adelaide,Key Forward,12.0,8.0,4.0,0.67,0.33,4.0,2.0,0.0,-0.22,-0.52,0.3,-0.87
+7,Wayne Milera,Adelaide,Gen. Defender,12.0,6.0,6.0,0.5,0.5,2.0,0.0,2.0,-5.83,-6.04,0.21,-3.5
+7,Zac Taylor,Adelaide,Gen. Forward,,,,,,,,,,,,
+8,Alex Neal-Bullen,Adelaide,Gen. Forward,18.0,5.0,13.0,0.28,0.72,4.0,2.0,2.0,1.68,-4.32,6.0,0.92
+8,Ben Keays,Adelaide,Gen. Forward,12.0,9.0,3.0,0.75,0.25,3.0,2.0,1.0,-4.76,-1.0,-3.76,-0.8
+8,Brodie Smith,Adelaide,Gen. Defender,17.0,9.0,8.0,0.53,0.47,6.0,1.0,0.0,4.18,0.46,3.73,2.91
+8,Daniel Curtin,Adelaide,Midfielder,13.0,8.0,5.0,0.62,0.38,5.0,0.0,1.0,-0.36,-0.96,0.6,0.48
+8,Darcy Fogarty,Adelaide,Key Forward,10.0,7.0,3.0,0.7,0.3,6.0,2.0,0.0,-1.21,-0.75,-0.46,1.21
+8,Isaac Cumming,Adelaide,Midfielder,17.0,12.0,5.0,0.71,0.29,9.0,0.0,1.0,2.38,1.96,0.42,4.79
+8,Izak Rankine,Adelaide,Mid-Forward,29.0,17.0,12.0,0.59,0.41,9.0,2.0,2.0,8.45,4.04,4.41,5.04
+8,Jake Soligo,Adelaide,Midfielder,19.0,10.0,9.0,0.53,0.47,4.0,0.0,0.0,-1.88,-2.36,0.48,1.28
+8,James Peatling,Adelaide,Midfielder,22.0,11.0,11.0,0.5,0.5,4.0,0.0,5.0,3.35,0.35,3.0,1.26
+8,Jordan Dawson,Adelaide,Midfielder,22.0,11.0,11.0,0.5,0.5,7.0,3.0,8.0,-1.36,-4.68,3.32,2.32
+8,Jordon Butts,Adelaide,Key Defender,7.0,5.0,2.0,0.71,0.29,5.0,0.0,0.0,0.6,0.7,-0.1,1.9
+8,Josh Rachele,Adelaide,Gen. Forward,19.0,14.0,5.0,0.74,0.26,4.0,2.0,2.0,7.5,5.36,2.14,0.64
+8,Josh Worrell,Adelaide,Gen. Defender,23.0,17.0,6.0,0.74,0.26,7.0,0.0,1.0,2.0,2.4,-0.4,1.24
+8,Luke Nankervis,Adelaide,Midfielder,,,,,,,,,,,,
+8,Mark Keane,Adelaide,Key Defender,9.0,7.0,2.0,0.78,0.22,5.0,0.0,1.0,-5.8,-4.8,-1.0,0.48
+8,Max Michalanney,Adelaide,Gen. Defender,27.0,20.0,7.0,0.74,0.26,12.0,0.0,1.0,13.67,11.24,2.43,7.67
+8,Reilly O'Brien,Adelaide,Ruck,7.0,3.0,4.0,0.43,0.57,0.0,0.0,0.0,-5.0,-3.36,-1.64,-3.0
+8,Riley Thilthorpe,Adelaide,Key Forward,9.0,4.0,5.0,0.44,0.56,3.0,1.0,2.0,-4.72,-5.64,0.92,-2.52
+8,Rory Laird,Adelaide,Gen. Defender,23.0,15.0,8.0,0.65,0.35,9.0,0.0,3.0,-1.14,2.0,-3.14,3.04
+8,Sam Berry,Adelaide,Midfielder,,,,,,,,,,,,
+8,Taylor Walker,Adelaide,Key Forward,15.0,9.0,6.0,0.6,0.4,5.0,1.0,0.0,2.78,0.48,2.3,0.13
+8,Wayne Milera,Adelaide,Gen. Defender,27.0,17.0,10.0,0.63,0.37,5.0,0.0,2.0,9.17,4.96,4.21,-0.5
+8,Zac Taylor,Adelaide,Gen. Forward,17.0,7.0,10.0,0.41,0.59,5.0,0.0,2.0,7.35,2.53,4.82,2.71
+9,Alex Neal-Bullen,Adelaide,Gen. Forward,15.0,9.0,6.0,0.6,0.4,1.0,1.0,7.0,-1.32,-0.32,-1.0,-2.08
+9,Ben Keays,Adelaide,Gen. Forward,21.0,14.0,7.0,0.67,0.33,5.0,2.0,2.0,4.24,4.0,0.24,1.2
+9,Daniel Curtin,Adelaide,Midfielder,,,,,,,,,,,,
+9,Darcy Fogarty,Adelaide,Key Forward,12.0,9.0,3.0,0.75,0.25,5.0,3.0,1.0,0.79,1.25,-0.46,0.21
+9,Isaac Cumming,Adelaide,Midfielder,12.0,8.0,4.0,0.67,0.33,3.0,0.0,2.0,-2.62,-2.04,-0.58,-1.21
+9,Izak Rankine,Adelaide,Mid-Forward,16.0,11.0,5.0,0.69,0.31,3.0,2.0,3.0,-4.55,-1.96,-2.59,-0.96
+9,Jake Soligo,Adelaide,Midfielder,17.0,12.0,5.0,0.71,0.29,2.0,0.0,7.0,-3.88,-0.36,-3.52,-0.72
+9,James Peatling,Adelaide,Midfielder,24.0,15.0,9.0,0.62,0.38,3.0,0.0,12.0,5.35,4.35,1.0,0.26
+9,Jordan Dawson,Adelaide,Midfielder,14.0,11.0,3.0,0.79,0.21,2.0,0.0,9.0,-9.36,-4.68,-4.68,-2.68
+9,Jordon Butts,Adelaide,Key Defender,8.0,5.0,3.0,0.62,0.38,3.0,0.0,0.0,1.6,0.7,0.9,-0.1
+9,Josh Rachele,Adelaide,Gen. Forward,7.0,4.0,3.0,0.57,0.43,2.0,2.0,2.0,-4.5,-4.64,0.14,-1.36
+9,Josh Worrell,Adelaide,Gen. Defender,23.0,21.0,2.0,0.91,0.09,5.0,0.0,1.0,2.0,6.4,-4.4,-0.76
+9,Luke Nankervis,Adelaide,Midfielder,16.0,9.0,7.0,0.56,0.44,3.0,0.0,1.0,3.43,2.86,0.57,0.29
+9,Mark Keane,Adelaide,Key Defender,18.0,14.0,4.0,0.78,0.22,6.0,0.0,4.0,3.2,2.2,1.0,1.48
+9,Max Michalanney,Adelaide,Gen. Defender,7.0,4.0,3.0,0.57,0.43,3.0,0.0,0.0,-6.33,-4.76,-1.57,-1.33
+9,Mitchell Hinge,Adelaide,Gen. Defender,11.0,8.0,3.0,0.73,0.27,2.0,0.0,1.0,-4.58,-3.0,-1.58,-2.12
+9,Reilly O'Brien,Adelaide,Ruck,17.0,8.0,9.0,0.47,0.53,5.0,0.0,5.0,5.0,1.64,3.36,2.0
+9,Riley Thilthorpe,Adelaide,Key Forward,15.0,11.0,4.0,0.73,0.27,10.0,3.0,1.0,1.28,1.36,-0.08,4.48
+9,Rory Laird,Adelaide,Gen. Defender,18.0,11.0,7.0,0.61,0.39,4.0,0.0,2.0,-6.14,-2.0,-4.14,-1.96
+9,Sam Berry,Adelaide,Midfielder,,,,,,,,,,,,
+9,Taylor Walker,Adelaide,Key Forward,13.0,10.0,3.0,0.77,0.23,5.0,0.0,4.0,0.78,1.48,-0.7,0.13
+9,Wayne Milera,Adelaide,Gen. Defender,15.0,6.0,9.0,0.4,0.6,4.0,0.0,4.0,-2.83,-6.04,3.21,-1.5
+9,Zac Taylor,Adelaide,Gen. Forward,8.0,3.0,5.0,0.38,0.62,3.0,0.0,3.0,-1.65,-1.47,-0.18,0.71
+10,Alex Neal-Bullen,Adelaide,Gen. Forward,9.0,5.0,4.0,0.56,0.44,3.0,0.0,3.0,-7.32,-4.32,-3.0,-0.08
+10,Ben Keays,Adelaide,Gen. Forward,7.0,4.0,3.0,0.57,0.43,0.0,0.0,0.0,-9.76,-6.0,-3.76,-3.8
+10,Daniel Curtin,Adelaide,Midfielder,12.0,12.0,0.0,1.0,0.0,3.0,0.0,3.0,-1.36,3.04,-4.4,-1.52
+10,Darcy Fogarty,Adelaide,Key Forward,11.0,8.0,3.0,0.73,0.27,7.0,4.0,1.0,-0.21,0.25,-0.46,2.21
+10,Isaac Cumming,Adelaide,Midfielder,10.0,5.0,5.0,0.5,0.5,4.0,0.0,1.0,-4.62,-5.04,0.42,-0.21
+10,Izak Rankine,Adelaide,Mid-Forward,26.0,14.0,12.0,0.54,0.46,3.0,1.0,2.0,5.45,1.04,4.41,-0.96
+10,Jake Soligo,Adelaide,Midfielder,23.0,15.0,8.0,0.65,0.35,1.0,2.0,4.0,2.12,2.64,-0.52,-1.72
+10,James Peatling,Adelaide,Midfielder,22.0,12.0,10.0,0.55,0.45,2.0,0.0,4.0,3.35,1.35,2.0,-0.74
+10,Jordan Dawson,Adelaide,Midfielder,27.0,20.0,7.0,0.74,0.26,9.0,1.0,8.0,3.64,4.32,-0.68,4.32
+10,Jordon Butts,Adelaide,Key Defender,5.0,3.0,2.0,0.6,0.4,2.0,0.0,0.0,-1.4,-1.3,-0.1,-1.1
+10,Josh Rachele,Adelaide,Gen. Forward,14.0,10.0,4.0,0.71,0.29,4.0,1.0,3.0,2.5,1.36,1.14,0.64
+10,Josh Worrell,Adelaide,Gen. Defender,15.0,12.0,3.0,0.8,0.2,1.0,0.0,0.0,-6.0,-2.6,-3.4,-4.76
+10,Luke Nankervis,Adelaide,Midfielder,10.0,6.0,4.0,0.6,0.4,4.0,0.0,1.0,-2.57,-0.14,-2.43,1.29
+10,Mark Keane,Adelaide,Key Defender,8.0,8.0,0.0,1.0,0.0,3.0,0.0,2.0,-6.8,-3.8,-3.0,-1.52
+10,Max Michalanney,Adelaide,Gen. Defender,8.0,5.0,3.0,0.62,0.38,0.0,0.0,3.0,-5.33,-3.76,-1.57,-4.33
+10,Mitchell Hinge,Adelaide,Gen. Defender,21.0,9.0,12.0,0.43,0.57,2.0,0.0,2.0,5.42,-2.0,7.42,-2.12
+10,Reilly O'Brien,Adelaide,Ruck,13.0,6.0,7.0,0.46,0.54,2.0,0.0,3.0,1.0,-0.36,1.36,-1.0
+10,Riley Thilthorpe,Adelaide,Key Forward,16.0,11.0,5.0,0.69,0.31,7.0,0.0,3.0,2.28,1.36,0.92,1.48
+10,Rory Laird,Adelaide,Gen. Defender,27.0,11.0,16.0,0.41,0.59,5.0,0.0,4.0,2.86,-2.0,4.86,-0.96
+10,Sam Berry,Adelaide,Midfielder,,,,,,,,,,,,
+10,Taylor Walker,Adelaide,Key Forward,,,,,,,,,,,,
+10,Wayne Milera,Adelaide,Gen. Defender,17.0,12.0,5.0,0.71,0.29,4.0,0.0,2.0,-0.83,-0.04,-0.79,-1.5
+10,Zac Taylor,Adelaide,Gen. Forward,12.0,5.0,7.0,0.42,0.58,2.0,0.0,3.0,2.35,0.53,1.82,-0.29
+11,Alex Neal-Bullen,Adelaide,Gen. Forward,14.0,6.0,8.0,0.43,0.57,1.0,1.0,5.0,-2.32,-3.32,1.0,-2.08
+11,Ben Keays,Adelaide,Gen. Forward,12.0,7.0,5.0,0.58,0.42,3.0,1.0,6.0,-4.76,-3.0,-1.76,-0.8
+11,Daniel Curtin,Adelaide,Midfielder,14.0,10.0,4.0,0.71,0.29,8.0,0.0,2.0,0.64,1.04,-0.4,3.48
+11,Darcy Fogarty,Adelaide,Key Forward,8.0,5.0,3.0,0.62,0.38,5.0,1.0,2.0,-3.21,-2.75,-0.46,0.21
+11,Isaac Cumming,Adelaide,Midfielder,16.0,11.0,5.0,0.69,0.31,1.0,0.0,2.0,1.38,0.96,0.42,-3.21
+11,Izak Rankine,Adelaide,Mid-Forward,23.0,14.0,9.0,0.61,0.39,3.0,1.0,4.0,2.45,1.04,1.41,-0.96
+11,Jake Soligo,Adelaide,Midfielder,19.0,12.0,7.0,0.63,0.37,3.0,0.0,5.0,-1.88,-0.36,-1.52,0.28
+11,James Peatling,Adelaide,Midfielder,16.0,9.0,7.0,0.56,0.44,3.0,2.0,5.0,-2.65,-1.65,-1.0,0.26
+11,Jordan Dawson,Adelaide,Midfielder,27.0,20.0,7.0,0.74,0.26,6.0,2.0,9.0,3.64,4.32,-0.68,1.32
+11,Jordon Butts,Adelaide,Key Defender,9.0,4.0,5.0,0.44,0.56,3.0,0.0,0.0,2.6,-0.3,2.9,-0.1
+11,Josh Rachele,Adelaide,Gen. Forward,16.0,14.0,2.0,0.88,0.12,3.0,5.0,6.0,4.5,5.36,-0.86,-0.36
+11,Josh Worrell,Adelaide,Gen. Defender,26.0,16.0,10.0,0.62,0.38,6.0,0.0,0.0,5.0,1.4,3.6,0.24
+11,Luke Pedlar,Adelaide,Gen. Forward,11.0,8.0,3.0,0.73,0.27,4.0,2.0,3.0,4.0,2.89,1.11,1.78
+11,Mark Keane,Adelaide,Key Defender,14.0,11.0,3.0,0.79,0.21,5.0,0.0,1.0,-0.8,-0.8,0.0,0.48
+11,Max Michalanney,Adelaide,Gen. Defender,16.0,9.0,7.0,0.56,0.44,7.0,0.0,1.0,2.67,0.24,2.43,2.67
+11,Mitchell Hinge,Adelaide,Gen. Defender,20.0,15.0,5.0,0.75,0.25,7.0,0.0,0.0,4.42,4.0,0.42,2.88
+11,Reilly O'Brien,Adelaide,Ruck,18.0,10.0,8.0,0.56,0.44,4.0,1.0,4.0,6.0,3.64,2.36,1.0
+11,Riley Thilthorpe,Adelaide,Key Forward,17.0,13.0,4.0,0.76,0.24,7.0,2.0,4.0,3.28,3.36,-0.08,1.48
+11,Rory Laird,Adelaide,Gen. Defender,27.0,17.0,10.0,0.63,0.37,11.0,0.0,2.0,2.86,4.0,-1.14,5.04
+11,Sam Berry,Adelaide,Midfielder,26.0,15.0,11.0,0.58,0.42,6.0,1.0,9.0,11.32,6.37,4.95,4.37
+11,Sid Draper,Adelaide,Mid-Forward,,,,,,,,,,,,
+11,Wayne Milera,Adelaide,Gen. Defender,23.0,11.0,12.0,0.48,0.52,9.0,0.0,2.0,5.17,-1.04,6.21,3.5
+11,Zac Taylor,Adelaide,Gen. Forward,,,,,,,,,,,,
+12,Alex Neal-Bullen,Adelaide,Gen. Forward,25.0,14.0,11.0,0.56,0.44,6.0,1.0,4.0,8.68,4.68,4.0,2.92
+12,Ben Keays,Adelaide,Gen. Forward,17.0,10.0,7.0,0.59,0.41,2.0,3.0,6.0,0.24,0.0,0.24,-1.8
+12,Brodie Smith,Adelaide,Gen. Defender,17.0,14.0,3.0,0.82,0.18,2.0,1.0,2.0,4.18,5.46,-1.27,-1.09
+12,Daniel Curtin,Adelaide,Midfielder,16.0,9.0,7.0,0.56,0.44,7.0,0.0,5.0,2.64,0.04,2.6,2.48
+12,Darcy Fogarty,Adelaide,Key Forward,7.0,4.0,3.0,0.57,0.43,3.0,2.0,3.0,-4.21,-3.75,-0.46,-1.79
+12,Isaac Cumming,Adelaide,Midfielder,21.0,16.0,5.0,0.76,0.24,5.0,2.0,3.0,6.38,5.96,0.42,0.79
+12,Izak Rankine,Adelaide,Mid-Forward,18.0,11.0,7.0,0.61,0.39,4.0,1.0,1.0,-2.55,-1.96,-0.59,0.04
+12,Jake Soligo,Adelaide,Midfielder,15.0,8.0,7.0,0.53,0.47,1.0,1.0,6.0,-5.88,-4.36,-1.52,-1.72
+12,James Peatling,Adelaide,Midfielder,21.0,12.0,9.0,0.57,0.43,5.0,0.0,4.0,2.35,1.35,1.0,2.26
+12,Jordan Dawson,Adelaide,Midfielder,21.0,15.0,6.0,0.71,0.29,4.0,1.0,3.0,-2.36,-0.68,-1.68,-0.68
+12,Jordon Butts,Adelaide,Key Defender,4.0,3.0,1.0,0.75,0.25,2.0,0.0,1.0,-2.4,-1.3,-1.1,-1.1
+12,Josh Rachele,Adelaide,Gen. Forward,13.0,12.0,1.0,0.92,0.08,3.0,3.0,1.0,1.5,3.36,-1.86,-0.36
+12,Josh Worrell,Adelaide,Gen. Defender,24.0,15.0,9.0,0.62,0.38,6.0,0.0,2.0,3.0,0.4,2.6,0.24
+12,Luke Pedlar,Adelaide,Gen. Forward,10.0,3.0,7.0,0.3,0.7,2.0,1.0,5.0,3.0,-2.11,5.11,-0.22
+12,Mark Keane,Adelaide,Key Defender,23.0,21.0,2.0,0.91,0.09,10.0,0.0,2.0,8.2,9.2,-1.0,5.48
+12,Max Michalanney,Adelaide,Gen. Defender,10.0,4.0,6.0,0.4,0.6,0.0,0.0,8.0,-3.33,-4.76,1.43,-4.33
+12,Mitchell Hinge,Adelaide,Gen. Defender,13.0,9.0,4.0,0.69,0.31,5.0,0.0,4.0,-2.58,-2.0,-0.58,0.88
+12,Reilly O'Brien,Adelaide,Ruck,13.0,9.0,4.0,0.69,0.31,1.0,0.0,7.0,1.0,2.64,-1.64,-2.0
+12,Riley Thilthorpe,Adelaide,Key Forward,14.0,10.0,4.0,0.71,0.29,6.0,2.0,4.0,0.28,0.36,-0.08,0.48
+12,Sam Berry,Adelaide,Midfielder,16.0,10.0,6.0,0.62,0.38,0.0,1.0,5.0,1.32,1.37,-0.05,-1.63
+12,Sid Draper,Adelaide,Mid-Forward,,,,,,,,,,,,
+12,Taylor Walker,Adelaide,Key Forward,9.0,6.0,3.0,0.67,0.33,3.0,1.0,1.0,-3.22,-2.52,-0.7,-1.87
+12,Wayne Milera,Adelaide,Gen. Defender,17.0,13.0,4.0,0.76,0.24,6.0,1.0,4.0,-0.83,0.96,-1.79,0.5
+13,Alex Neal-Bullen,Adelaide,Gen. Forward,13.0,9.0,4.0,0.69,0.31,3.0,0.0,4.0,-3.32,-0.32,-3.0,-0.08
+13,Ben Keays,Adelaide,Gen. Forward,20.0,10.0,10.0,0.5,0.5,3.0,3.0,5.0,3.24,0.0,3.24,-0.8
+13,Brodie Smith,Adelaide,Gen. Defender,,,,,,,,,,,,
+13,Daniel Curtin,Adelaide,Midfielder,14.0,10.0,4.0,0.71,0.29,6.0,0.0,6.0,0.64,1.04,-0.4,1.48
+13,Darcy Fogarty,Adelaide,Key Forward,11.0,7.0,4.0,0.64,0.36,2.0,0.0,2.0,-0.21,-0.75,0.54,-2.79
+13,Isaac Cumming,Adelaide,Midfielder,11.0,6.0,5.0,0.55,0.45,1.0,0.0,5.0,-3.62,-4.04,0.42,-3.21
+13,Izak Rankine,Adelaide,Mid-Forward,18.0,11.0,7.0,0.61,0.39,2.0,0.0,5.0,-2.55,-1.96,-0.59,-1.96
+13,Jake Soligo,Adelaide,Midfielder,19.0,10.0,9.0,0.53,0.47,2.0,0.0,13.0,-1.88,-2.36,0.48,-0.72
+13,James Peatling,Adelaide,Midfielder,17.0,14.0,3.0,0.82,0.18,0.0,0.0,5.0,-1.65,3.35,-5.0,-2.74
+13,Jordan Dawson,Adelaide,Midfielder,18.0,12.0,6.0,0.67,0.33,4.0,1.0,11.0,-5.36,-3.68,-1.68,-0.68
+13,Jordon Butts,Adelaide,Key Defender,4.0,3.0,1.0,0.75,0.25,1.0,0.0,0.0,-2.4,-1.3,-1.1,-2.1
+13,Josh Rachele,Adelaide,Gen. Forward,10.0,9.0,1.0,0.9,0.1,2.0,3.0,2.0,-1.5,0.36,-1.86,-1.36
+13,Josh Worrell,Adelaide,Gen. Defender,18.0,13.0,5.0,0.72,0.28,6.0,0.0,2.0,-3.0,-1.6,-1.4,0.24
+13,Luke Pedlar,Adelaide,Gen. Forward,3.0,3.0,0.0,1.0,0.0,1.0,1.0,6.0,-4.0,-2.11,-1.89,-1.22
+13,Mark Keane,Adelaide,Key Defender,9.0,8.0,1.0,0.89,0.11,3.0,0.0,0.0,-5.8,-3.8,-2.0,-1.52
+13,Max Michalanney,Adelaide,Gen. Defender,8.0,6.0,2.0,0.75,0.25,2.0,0.0,0.0,-5.33,-2.76,-2.57,-2.33
+13,Mitchell Hinge,Adelaide,Gen. Defender,16.0,12.0,4.0,0.75,0.25,4.0,0.0,8.0,0.42,1.0,-0.58,-0.12
+13,Reilly O'Brien,Adelaide,Ruck,9.0,3.0,6.0,0.33,0.67,2.0,0.0,2.0,-3.0,-3.36,0.36,-1.0
+13,Riley Thilthorpe,Adelaide,Key Forward,11.0,10.0,1.0,0.91,0.09,4.0,1.0,1.0,-2.72,0.36,-3.08,-1.52
+13,Rory Laird,Adelaide,Gen. Defender,25.0,17.0,8.0,0.68,0.32,3.0,0.0,4.0,0.86,4.0,-3.14,-2.96
+13,Sam Berry,Adelaide,Midfielder,17.0,10.0,7.0,0.59,0.41,2.0,0.0,2.0,2.32,1.37,0.95,0.37
+13,Taylor Walker,Adelaide,Key Forward,8.0,6.0,2.0,0.75,0.25,5.0,1.0,1.0,-4.22,-2.52,-1.7,0.13
+13,Wayne Milera,Adelaide,Gen. Defender,14.0,11.0,3.0,0.79,0.21,4.0,0.0,3.0,-3.83,-1.04,-2.79,-1.5
+14,Alex Neal-Bullen,Adelaide,Gen. Forward,11.0,7.0,4.0,0.64,0.36,1.0,0.0,3.0,-5.32,-2.32,-3.0,-2.08
+14,Ben Keays,Adelaide,Gen. Forward,18.0,12.0,6.0,0.67,0.33,4.0,2.0,8.0,1.24,2.0,-0.76,0.2
+14,Brodie Smith,Adelaide,Gen. Defender,,,,,,,,,,,,
+14,Daniel Curtin,Adelaide,Midfielder,13.0,12.0,1.0,0.92,0.08,6.0,1.0,3.0,-0.36,3.04,-3.4,1.48
+14,Darcy Fogarty,Adelaide,Key Forward,9.0,9.0,0.0,1.0,0.0,4.0,0.0,1.0,-2.21,1.25,-3.46,-0.79
+14,Isaac Cumming,Adelaide,Midfielder,19.0,13.0,6.0,0.68,0.32,5.0,1.0,2.0,4.38,2.96,1.42,0.79
+14,Izak Rankine,Adelaide,Mid-Forward,23.0,15.0,8.0,0.65,0.35,3.0,1.0,1.0,2.45,2.04,0.41,-0.96
+14,Jake Soligo,Adelaide,Midfielder,21.0,12.0,9.0,0.57,0.43,0.0,0.0,4.0,0.12,-0.36,0.48,-2.72
+14,Jordan Dawson,Adelaide,Midfielder,24.0,14.0,10.0,0.58,0.42,3.0,0.0,7.0,0.64,-1.68,2.32,-1.68
+14,Jordon Butts,Adelaide,Key Defender,9.0,7.0,2.0,0.78,0.22,5.0,0.0,0.0,2.6,2.7,-0.1,1.9
+14,Josh Rachele,Adelaide,Gen. Forward,17.0,10.0,7.0,0.59,0.41,1.0,0.0,2.0,5.5,1.36,4.14,-2.36
+14,Josh Worrell,Adelaide,Gen. Defender,17.0,13.0,4.0,0.76,0.24,5.0,0.0,1.0,-4.0,-1.6,-2.4,-0.76
+14,Lachlan Murphy,Adelaide,Gen. Forward,11.0,4.0,7.0,0.36,0.64,2.0,0.0,7.0,3.0,0.4,2.6,0.8
+14,Luke Pedlar,Adelaide,Gen. Forward,,,,,,,,,,,,
+14,Mark Keane,Adelaide,Key Defender,15.0,13.0,2.0,0.87,0.13,1.0,0.0,2.0,0.2,1.2,-1.0,-3.52
+14,Max Michalanney,Adelaide,Gen. Defender,15.0,8.0,7.0,0.53,0.47,3.0,0.0,0.0,1.67,-0.76,2.43,-1.33
+14,Mitchell Hinge,Adelaide,Gen. Defender,15.0,12.0,3.0,0.8,0.2,5.0,0.0,3.0,-0.58,1.0,-1.58,0.88
+14,Reilly O'Brien,Adelaide,Ruck,15.0,9.0,6.0,0.6,0.4,3.0,0.0,4.0,3.0,2.64,0.36,0.0
+14,Riley Thilthorpe,Adelaide,Key Forward,11.0,8.0,3.0,0.73,0.27,1.0,0.0,5.0,-2.72,-1.64,-1.08,-4.52
+14,Rory Laird,Adelaide,Gen. Defender,22.0,14.0,8.0,0.64,0.36,5.0,0.0,5.0,-2.14,1.0,-3.14,-0.96
+14,Sam Berry,Adelaide,Midfielder,15.0,9.0,6.0,0.6,0.4,0.0,0.0,6.0,0.32,0.37,-0.05,-1.63
+14,Taylor Walker,Adelaide,Key Forward,12.0,11.0,1.0,0.92,0.08,5.0,0.0,3.0,-0.22,2.48,-2.7,0.13
+14,Wayne Milera,Adelaide,Gen. Defender,16.0,13.0,3.0,0.81,0.19,7.0,0.0,0.0,-1.83,0.96,-2.79,1.5
+16,Alex Neal-Bullen,Adelaide,Gen. Forward,16.0,8.0,8.0,0.5,0.5,4.0,0.0,1.0,-0.32,-1.32,1.0,0.92
+16,Ben Keays,Adelaide,Gen. Forward,15.0,11.0,4.0,0.73,0.27,4.0,0.0,0.0,-1.76,1.0,-2.76,0.2
+16,Brodie Smith,Adelaide,Gen. Defender,20.0,8.0,12.0,0.4,0.6,5.0,0.0,5.0,7.18,-0.54,7.73,1.91
+16,Daniel Curtin,Adelaide,Midfielder,26.0,15.0,11.0,0.58,0.42,8.0,2.0,5.0,12.64,6.04,6.6,3.48
+16,Darcy Fogarty,Adelaide,Key Forward,8.0,6.0,2.0,0.75,0.25,3.0,1.0,5.0,-3.21,-1.75,-1.46,-1.79
+16,Isaac Cumming,Adelaide,Midfielder,10.0,7.0,3.0,0.7,0.3,2.0,0.0,1.0,-4.62,-3.04,-1.58,-2.21
+16,Izak Rankine,Adelaide,Mid-Forward,20.0,10.0,10.0,0.5,0.5,5.0,1.0,4.0,-0.55,-2.96,2.41,1.04
+16,Jake Soligo,Adelaide,Midfielder,15.0,7.0,8.0,0.47,0.53,4.0,0.0,5.0,-5.88,-5.36,-0.52,1.28
+16,James Peatling,Adelaide,Midfielder,20.0,10.0,10.0,0.5,0.5,3.0,0.0,5.0,1.35,-0.65,2.0,0.26
+16,Jordan Dawson,Adelaide,Midfielder,26.0,15.0,11.0,0.58,0.42,5.0,0.0,6.0,2.64,-0.68,3.32,0.32
+16,Jordon Butts,Adelaide,Key Defender,10.0,9.0,1.0,0.9,0.1,7.0,0.0,1.0,3.6,4.7,-1.1,3.9
+16,Josh Rachele,Adelaide,Gen. Forward,,,,,,,,,,,,
+16,Josh Worrell,Adelaide,Gen. Defender,24.0,18.0,6.0,0.75,0.25,11.0,0.0,1.0,3.0,3.4,-0.4,5.24
+16,Lachlan Murphy,Adelaide,Gen. Forward,,,,,,,,,,,,
+16,Mark Keane,Adelaide,Key Defender,18.0,14.0,4.0,0.78,0.22,8.0,0.0,2.0,3.2,2.2,1.0,3.48
+16,Max Michalanney,Adelaide,Gen. Defender,10.0,5.0,5.0,0.5,0.5,4.0,3.0,1.0,-3.33,-3.76,0.43,-0.33
+16,Mitchell Hinge,Adelaide,Gen. Defender,23.0,18.0,5.0,0.78,0.22,12.0,0.0,3.0,7.42,7.0,0.42,7.88
+16,Reilly O'Brien,Adelaide,Ruck,14.0,8.0,6.0,0.57,0.43,3.0,1.0,2.0,2.0,1.64,0.36,0.0
+16,Riley Thilthorpe,Adelaide,Key Forward,16.0,12.0,4.0,0.75,0.25,6.0,5.0,1.0,2.28,2.36,-0.08,0.48
+16,Rory Laird,Adelaide,Gen. Defender,26.0,15.0,11.0,0.58,0.42,8.0,0.0,3.0,1.86,2.0,-0.14,2.04
+16,Sam Berry,Adelaide,Midfielder,23.0,14.0,9.0,0.61,0.39,6.0,1.0,2.0,8.32,5.37,2.95,4.37
+16,Taylor Walker,Adelaide,Key Forward,16.0,11.0,5.0,0.69,0.31,6.0,2.0,0.0,3.78,2.48,1.3,1.13
+16,Wayne Milera,Adelaide,Gen. Defender,27.0,20.0,7.0,0.74,0.26,11.0,0.0,1.0,9.17,7.96,1.21,5.5
+17,Alex Neal-Bullen,Adelaide,Gen. Forward,14.0,10.0,4.0,0.71,0.29,1.0,0.0,6.0,-2.32,0.68,-3.0,-2.08
+17,Ben Keays,Adelaide,Gen. Forward,24.0,14.0,10.0,0.58,0.42,2.0,2.0,1.0,7.24,4.0,3.24,-1.8
+17,Brodie Smith,Adelaide,Gen. Defender,20.0,14.0,6.0,0.7,0.3,1.0,0.0,2.0,7.18,5.46,1.73,-2.09
+17,Daniel Curtin,Adelaide,Midfielder,9.0,7.0,2.0,0.78,0.22,5.0,1.0,1.0,-4.36,-1.96,-2.4,0.48
+17,Darcy Fogarty,Adelaide,Key Forward,15.0,12.0,3.0,0.8,0.2,6.0,2.0,0.0,3.79,4.25,-0.46,1.21
+17,Isaac Cumming,Adelaide,Midfielder,13.0,7.0,6.0,0.54,0.46,1.0,0.0,1.0,-1.62,-3.04,1.42,-3.21
+17,Izak Rankine,Adelaide,Mid-Forward,16.0,11.0,5.0,0.69,0.31,4.0,5.0,4.0,-4.55,-1.96,-2.59,0.04
+17,Jake Soligo,Adelaide,Midfielder,21.0,12.0,9.0,0.57,0.43,6.0,0.0,6.0,0.12,-0.36,0.48,3.28
+17,James Peatling,Adelaide,Midfielder,25.0,14.0,11.0,0.56,0.44,5.0,0.0,2.0,6.35,3.35,3.0,2.26
+17,Jordan Dawson,Adelaide,Midfielder,25.0,13.0,12.0,0.52,0.48,4.0,0.0,7.0,1.64,-2.68,4.32,-0.68
+17,Jordon Butts,Adelaide,Key Defender,6.0,3.0,3.0,0.5,0.5,2.0,0.0,0.0,-0.4,-1.3,0.9,-1.1
+17,Josh Rachele,Adelaide,Gen. Forward,,,,,,,,,,,,
+17,Josh Worrell,Adelaide,Gen. Defender,18.0,13.0,5.0,0.72,0.28,5.0,0.0,0.0,-3.0,-1.6,-1.4,-0.76
+17,Lachlan Murphy,Adelaide,Gen. Forward,,,,,,,,,,,,
+17,Mark Keane,Adelaide,Key Defender,17.0,12.0,5.0,0.71,0.29,5.0,0.0,4.0,2.2,0.2,2.0,0.48
+17,Max Michalanney,Adelaide,Gen. Defender,14.0,9.0,5.0,0.64,0.36,4.0,0.0,0.0,0.67,0.24,0.43,-0.33
+17,Mitchell Hinge,Adelaide,Gen. Defender,12.0,8.0,4.0,0.67,0.33,2.0,0.0,3.0,-3.58,-3.0,-0.58,-2.12
+17,Reilly O'Brien,Adelaide,Ruck,10.0,4.0,6.0,0.4,0.6,7.0,0.0,2.0,-2.0,-2.36,0.36,4.0
+17,Riley Thilthorpe,Adelaide,Key Forward,9.0,5.0,4.0,0.56,0.44,5.0,0.0,0.0,-4.72,-4.64,-0.08,-0.52
+17,Rory Laird,Adelaide,Gen. Defender,21.0,10.0,11.0,0.48,0.52,4.0,0.0,3.0,-3.14,-3.0,-0.14,-1.96
+17,Sam Berry,Adelaide,Midfielder,16.0,6.0,10.0,0.38,0.62,2.0,0.0,9.0,1.32,-2.63,3.95,0.37
+17,Taylor Walker,Adelaide,Key Forward,9.0,7.0,2.0,0.78,0.22,4.0,2.0,0.0,-3.22,-1.52,-1.7,-0.87
+17,Zac Taylor,Adelaide,Gen. Forward,5.0,3.0,2.0,0.6,0.4,3.0,1.0,0.0,-4.65,-1.47,-3.18,0.71
+18,Alex Neal-Bullen,Adelaide,Gen. Forward,11.0,6.0,5.0,0.55,0.45,1.0,0.0,4.0,-5.32,-3.32,-2.0,-2.08
+18,Ben Keays,Adelaide,Gen. Forward,19.0,11.0,8.0,0.58,0.42,6.0,0.0,1.0,2.24,1.0,1.24,2.2
+18,Brayden Cook,Adelaide,Mid-Forward,,,,,,,,,,,,
+18,Chayce Jones,Adelaide,Midfielder,10.0,5.0,5.0,0.5,0.5,3.0,0.0,2.0,4.0,1.2,2.8,1.4
+18,Daniel Curtin,Adelaide,Midfielder,26.0,19.0,7.0,0.73,0.27,7.0,1.0,3.0,12.64,10.04,2.6,2.48
+18,Darcy Fogarty,Adelaide,Key Forward,13.0,11.0,2.0,0.85,0.15,7.0,3.0,0.0,1.79,3.25,-1.46,2.21
+18,Isaac Cumming,Adelaide,Midfielder,14.0,9.0,5.0,0.64,0.36,3.0,1.0,1.0,-0.62,-1.04,0.42,-1.21
+18,Izak Rankine,Adelaide,Mid-Forward,18.0,14.0,4.0,0.78,0.22,6.0,1.0,4.0,-2.55,1.04,-3.59,2.04
+18,Jake Soligo,Adelaide,Midfielder,22.0,13.0,9.0,0.59,0.41,3.0,0.0,9.0,1.12,0.64,0.48,0.28
+18,James Peatling,Adelaide,Midfielder,12.0,3.0,9.0,0.25,0.75,1.0,0.0,2.0,-6.65,-7.65,1.0,-1.74
+18,Jordan Dawson,Adelaide,Midfielder,27.0,16.0,11.0,0.59,0.41,4.0,2.0,8.0,3.64,0.32,3.32,-0.68
+18,Jordon Butts,Adelaide,Key Defender,,,,,,,,,,,,
+18,Josh Worrell,Adelaide,Gen. Defender,21.0,18.0,3.0,0.86,0.14,8.0,0.0,0.0,0.0,3.4,-3.4,2.24
+18,Mark Keane,Adelaide,Key Defender,12.0,10.0,2.0,0.83,0.17,4.0,0.0,0.0,-2.8,-1.8,-1.0,-0.52
+18,Max Michalanney,Adelaide,Gen. Defender,16.0,10.0,6.0,0.62,0.38,5.0,0.0,2.0,2.67,1.24,1.43,0.67
+18,Mitchell Hinge,Adelaide,Gen. Defender,14.0,12.0,2.0,0.86,0.14,6.0,0.0,5.0,-1.58,1.0,-2.58,1.88
+18,Reilly O'Brien,Adelaide,Ruck,17.0,10.0,7.0,0.59,0.41,8.0,0.0,6.0,5.0,3.64,1.36,5.0
+18,Riley Thilthorpe,Adelaide,Key Forward,17.0,13.0,4.0,0.76,0.24,9.0,6.0,2.0,3.28,3.36,-0.08,3.48
+18,Rory Laird,Adelaide,Gen. Defender,22.0,15.0,7.0,0.68,0.32,5.0,0.0,7.0,-2.14,2.0,-4.14,-0.96
+18,Sam Berry,Adelaide,Midfielder,11.0,7.0,4.0,0.64,0.36,1.0,0.0,2.0,-3.68,-1.63,-2.05,-0.63
+18,Taylor Walker,Adelaide,Key Forward,15.0,12.0,3.0,0.8,0.2,9.0,2.0,0.0,2.78,3.48,-0.7,4.13
+18,Wayne Milera,Adelaide,Gen. Defender,12.0,10.0,2.0,0.83,0.17,5.0,0.0,0.0,-5.83,-2.04,-3.79,-0.5
+18,Zac Taylor,Adelaide,Gen. Forward,7.0,2.0,5.0,0.29,0.71,1.0,0.0,2.0,-2.65,-2.47,-0.18,-1.29
+19,Alex Neal-Bullen,Adelaide,Gen. Forward,31.0,20.0,11.0,0.65,0.35,7.0,3.0,4.0,14.68,10.68,4.0,3.92
+19,Ben Keays,Adelaide,Gen. Forward,18.0,8.0,10.0,0.44,0.56,2.0,1.0,5.0,1.24,-2.0,3.24,-1.8
+19,Chayce Jones,Adelaide,Midfielder,8.0,3.0,5.0,0.38,0.62,2.0,0.0,3.0,2.0,-0.8,2.8,0.4
+19,Daniel Curtin,Adelaide,Midfielder,20.0,15.0,5.0,0.75,0.25,6.0,1.0,3.0,6.64,6.04,0.6,1.48
+19,Darcy Fogarty,Adelaide,Key Forward,7.0,7.0,0.0,1.0,0.0,6.0,0.0,0.0,-4.21,-0.75,-3.46,1.21
+19,Isaac Cumming,Adelaide,Midfielder,16.0,9.0,7.0,0.56,0.44,6.0,0.0,2.0,1.38,-1.04,2.42,1.79
+19,Izak Rankine,Adelaide,Mid-Forward,15.0,11.0,4.0,0.73,0.27,2.0,2.0,2.0,-5.55,-1.96,-3.59,-1.96
+19,Jake Soligo,Adelaide,Midfielder,24.0,10.0,14.0,0.42,0.58,6.0,1.0,5.0,3.12,-2.36,5.48,3.28
+19,James Peatling,Adelaide,Midfielder,21.0,15.0,6.0,0.71,0.29,3.0,1.0,6.0,2.35,4.35,-2.0,0.26
+19,Jordan Dawson,Adelaide,Midfielder,20.0,11.0,9.0,0.55,0.45,4.0,1.0,5.0,-3.36,-4.68,1.32,-0.68
+19,Josh Worrell,Adelaide,Gen. Defender,25.0,17.0,8.0,0.68,0.32,11.0,0.0,0.0,4.0,2.4,1.6,5.24
+19,Luke Pedlar,Adelaide,Gen. Forward,7.0,6.0,1.0,0.86,0.14,2.0,1.0,1.0,0.0,0.89,-0.89,-0.22
+19,Mark Keane,Adelaide,Key Defender,13.0,12.0,1.0,0.92,0.08,4.0,0.0,0.0,-1.8,0.2,-2.0,-0.52
+19,Max Michalanney,Adelaide,Gen. Defender,22.0,16.0,6.0,0.73,0.27,9.0,0.0,2.0,8.67,7.24,1.43,4.67
+19,Mitchell Hinge,Adelaide,Gen. Defender,,,,,,,,,,,,
+19,Nick Murray,Adelaide,Key Defender,11.0,6.0,5.0,0.55,0.45,4.0,0.0,0.0,2.58,0.67,1.92,0.58
+19,Reilly O'Brien,Adelaide,Ruck,10.0,7.0,3.0,0.7,0.3,0.0,0.0,2.0,-2.0,0.64,-2.64,-3.0
+19,Riley Thilthorpe,Adelaide,Key Forward,9.0,5.0,4.0,0.56,0.44,6.0,2.0,2.0,-4.72,-4.64,-0.08,0.48
+19,Rory Laird,Adelaide,Gen. Defender,23.0,17.0,6.0,0.74,0.26,11.0,0.0,2.0,-1.14,4.0,-5.14,5.04
+19,Sam Berry,Adelaide,Midfielder,15.0,13.0,2.0,0.87,0.13,1.0,1.0,7.0,0.32,4.37,-4.05,-0.63
+19,Taylor Walker,Adelaide,Key Forward,9.0,6.0,3.0,0.67,0.33,2.0,2.0,0.0,-3.22,-2.52,-0.7,-2.87
+19,Wayne Milera,Adelaide,Gen. Defender,21.0,17.0,4.0,0.81,0.19,12.0,0.0,1.0,3.17,4.96,-1.79,6.5
+19,Zac Taylor,Adelaide,Gen. Forward,11.0,5.0,6.0,0.45,0.55,5.0,0.0,3.0,1.35,0.53,0.82,2.71
+20,Alex Neal-Bullen,Adelaide,Gen. Forward,18.0,13.0,5.0,0.72,0.28,1.0,1.0,12.0,1.68,3.68,-2.0,-2.08
+20,Ben Keays,Adelaide,Gen. Forward,21.0,17.0,4.0,0.81,0.19,2.0,3.0,3.0,4.24,7.0,-2.76,-1.8
+20,Brayden Cook,Adelaide,Mid-Forward,10.0,6.0,4.0,0.6,0.4,2.0,0.0,6.0,4.0,1.67,2.33,0.67
+20,Chayce Jones,Adelaide,Midfielder,,,,,,,,,,,,
+20,Daniel Curtin,Adelaide,Midfielder,22.0,13.0,9.0,0.59,0.41,2.0,0.0,8.0,8.64,4.04,4.6,-2.52
+20,Darcy Fogarty,Adelaide,Key Forward,16.0,9.0,7.0,0.56,0.44,5.0,1.0,4.0,4.79,1.25,3.54,0.21
+20,Izak Rankine,Adelaide,Mid-Forward,15.0,13.0,2.0,0.87,0.13,3.0,1.0,2.0,-5.55,0.04,-5.59,-0.96
+20,Jake Soligo,Adelaide,Midfielder,35.0,21.0,14.0,0.6,0.4,2.0,2.0,4.0,14.12,8.64,5.48,-0.72
+20,James Peatling,Adelaide,Midfielder,26.0,19.0,7.0,0.73,0.27,4.0,1.0,6.0,7.35,8.35,-1.0,1.26
+20,Jordan Dawson,Adelaide,Midfielder,21.0,13.0,8.0,0.62,0.38,1.0,1.0,10.0,-2.36,-2.68,0.32,-3.68
+20,Josh Worrell,Adelaide,Gen. Defender,19.0,10.0,9.0,0.53,0.47,2.0,0.0,3.0,-2.0,-4.6,2.6,-3.76
+20,Luke Pedlar,Adelaide,Gen. Forward,6.0,5.0,1.0,0.83,0.17,0.0,1.0,4.0,-1.0,-0.11,-0.89,-2.22
+20,Mark Keane,Adelaide,Key Defender,16.0,13.0,3.0,0.81,0.19,1.0,0.0,3.0,1.2,1.2,0.0,-3.52
+20,Max Michalanney,Adelaide,Gen. Defender,,,,,,,,,,,,
+20,Mitchell Hinge,Adelaide,Gen. Defender,12.0,8.0,4.0,0.67,0.33,1.0,0.0,3.0,-3.58,-3.0,-0.58,-3.12
+20,Nick Murray,Adelaide,Key Defender,4.0,2.0,2.0,0.5,0.5,0.0,0.0,0.0,-4.42,-3.33,-1.08,-3.42
+20,Reilly O'Brien,Adelaide,Ruck,10.0,6.0,4.0,0.6,0.4,3.0,1.0,6.0,-2.0,-0.36,-1.64,0.0
+20,Riley Thilthorpe,Adelaide,Key Forward,19.0,15.0,4.0,0.79,0.21,3.0,3.0,0.0,5.28,5.36,-0.08,-2.52
+20,Rory Laird,Adelaide,Gen. Defender,24.0,12.0,12.0,0.5,0.5,5.0,0.0,4.0,-0.14,-1.0,0.86,-0.96
+20,Sam Berry,Adelaide,Midfielder,20.0,13.0,7.0,0.65,0.35,0.0,2.0,6.0,5.32,4.37,0.95,-1.63
+20,Taylor Walker,Adelaide,Key Forward,15.0,9.0,6.0,0.6,0.4,3.0,3.0,1.0,2.78,0.48,2.3,-1.87
+20,Wayne Milera,Adelaide,Gen. Defender,18.0,16.0,2.0,0.89,0.11,6.0,0.0,8.0,0.17,3.96,-3.79,0.5
+20,Zac Taylor,Adelaide,Gen. Forward,8.0,3.0,5.0,0.38,0.62,0.0,0.0,5.0,-1.65,-1.47,-0.18,-2.29
+21,Alex Neal-Bullen,Adelaide,Gen. Forward,18.0,13.0,5.0,0.72,0.28,5.0,1.0,5.0,1.68,3.68,-2.0,1.92
+21,Ben Keays,Adelaide,Gen. Forward,17.0,10.0,7.0,0.59,0.41,2.0,0.0,2.0,0.24,0.0,0.24,-1.8
+21,Brayden Cook,Adelaide,Mid-Forward,,,,,,,,,,,,
+21,Brodie Smith,Adelaide,Gen. Defender,13.0,10.0,3.0,0.77,0.23,6.0,0.0,0.0,0.18,1.46,-1.27,2.91
+21,Chayce Jones,Adelaide,Midfielder,,,,,,,,,,,,
+21,Daniel Curtin,Adelaide,Midfielder,20.0,16.0,4.0,0.8,0.2,6.0,0.0,5.0,6.64,7.04,-0.4,1.48
+21,Darcy Fogarty,Adelaide,Key Forward,11.0,6.0,5.0,0.55,0.45,2.0,1.0,1.0,-0.21,-1.75,1.54,-2.79
+21,Hugh Bond,Adelaide,Gen. Defender,14.0,3.0,11.0,0.21,0.79,2.0,0.0,3.0,4.6,-1.0,5.6,0.4
+21,Isaac Cumming,Adelaide,Midfielder,15.0,9.0,6.0,0.6,0.4,3.0,0.0,1.0,0.38,-1.04,1.42,-1.21
+21,Izak Rankine,Adelaide,Mid-Forward,16.0,12.0,4.0,0.75,0.25,3.0,3.0,3.0,-4.55,-0.96,-3.59,-0.96
+21,Jake Soligo,Adelaide,Midfielder,15.0,12.0,3.0,0.8,0.2,1.0,1.0,2.0,-5.88,-0.36,-5.52,-1.72
+21,James Peatling,Adelaide,Midfielder,,,,,,,,,,,,
+21,Jordan Dawson,Adelaide,Midfielder,21.0,12.0,9.0,0.57,0.43,4.0,2.0,12.0,-2.36,-3.68,1.32,-0.68
+21,Josh Worrell,Adelaide,Gen. Defender,20.0,18.0,2.0,0.9,0.1,5.0,0.0,3.0,-1.0,3.4,-4.4,-0.76
+21,Mark Keane,Adelaide,Key Defender,21.0,14.0,7.0,0.67,0.33,6.0,0.0,1.0,6.2,2.2,4.0,1.48
+21,Mitchell Hinge,Adelaide,Gen. Defender,14.0,10.0,4.0,0.71,0.29,2.0,0.0,4.0,-1.58,-1.0,-0.58,-2.12
+21,Nick Murray,Adelaide,Key Defender,7.0,5.0,2.0,0.71,0.29,3.0,0.0,1.0,-1.42,-0.33,-1.08,-0.42
+21,Reilly O'Brien,Adelaide,Ruck,18.0,11.0,7.0,0.61,0.39,3.0,0.0,1.0,6.0,4.64,1.36,0.0
+21,Riley Thilthorpe,Adelaide,Key Forward,12.0,10.0,2.0,0.83,0.17,8.0,4.0,2.0,-1.72,0.36,-2.08,2.48
+21,Sam Berry,Adelaide,Midfielder,13.0,9.0,4.0,0.69,0.31,1.0,0.0,9.0,-1.68,0.37,-2.05,-0.63
+21,Taylor Walker,Adelaide,Key Forward,11.0,10.0,1.0,0.91,0.09,6.0,3.0,0.0,-1.22,1.48,-2.7,1.13
+21,Wayne Milera,Adelaide,Gen. Defender,19.0,11.0,8.0,0.58,0.42,6.0,0.0,1.0,1.17,-1.04,2.21,0.5
+21,Zac Taylor,Adelaide,Gen. Forward,9.0,4.0,5.0,0.44,0.56,2.0,0.0,0.0,-0.65,-0.47,-0.18,-0.29
+22,Alex Neal-Bullen,Adelaide,Gen. Forward,13.0,10.0,3.0,0.77,0.23,1.0,0.0,5.0,-3.32,0.68,-4.0,-2.08
+22,Ben Keays,Adelaide,Gen. Forward,8.0,6.0,2.0,0.75,0.25,2.0,1.0,3.0,-8.76,-4.0,-4.76,-1.8
+22,Chayce Jones,Adelaide,Midfielder,,,,,,,,,,,,
+22,Chris Burgess,Adelaide,Key Forward,10.0,8.0,2.0,0.8,0.2,5.0,0.0,2.0,0.0,0.0,0.0,0.0
+22,Daniel Curtin,Adelaide,Midfielder,8.0,5.0,3.0,0.62,0.38,3.0,0.0,7.0,-5.36,-3.96,-1.4,-1.52
+22,Darcy Fogarty,Adelaide,Key Forward,11.0,7.0,4.0,0.64,0.36,3.0,1.0,2.0,-0.21,-0.75,0.54,-1.79
+22,Hugh Bond,Adelaide,Gen. Defender,11.0,4.0,7.0,0.36,0.64,2.0,0.0,2.0,1.6,0.0,1.6,0.4
+22,Isaac Cumming,Adelaide,Midfielder,21.0,16.0,5.0,0.76,0.24,8.0,0.0,3.0,6.38,5.96,0.42,3.79
+22,Izak Rankine,Adelaide,Mid-Forward,23.0,19.0,4.0,0.83,0.17,5.0,1.0,4.0,2.45,6.04,-3.59,1.04
+22,Jake Soligo,Adelaide,Midfielder,22.0,14.0,8.0,0.64,0.36,3.0,1.0,4.0,1.12,1.64,-0.52,0.28
+22,James Peatling,Adelaide,Midfielder,,,,,,,,,,,,
+22,Jordan Dawson,Adelaide,Midfielder,26.0,18.0,8.0,0.69,0.31,6.0,1.0,14.0,2.64,2.32,0.32,1.32
+22,Josh Worrell,Adelaide,Gen. Defender,15.0,14.0,1.0,0.93,0.07,7.0,0.0,1.0,-6.0,-0.6,-5.4,1.24
+22,Luke Pedlar,Adelaide,Gen. Forward,8.0,5.0,3.0,0.62,0.38,2.0,3.0,2.0,1.0,-0.11,1.11,-0.22
+22,Mark Keane,Adelaide,Key Defender,17.0,11.0,6.0,0.65,0.35,6.0,0.0,0.0,2.2,-0.8,3.0,1.48
+22,Mitchell Hinge,Adelaide,Gen. Defender,16.0,9.0,7.0,0.56,0.44,3.0,0.0,2.0,0.42,-2.0,2.42,-1.12
+22,Nick Murray,Adelaide,Key Defender,11.0,8.0,3.0,0.73,0.27,4.0,0.0,1.0,2.58,2.67,-0.08,0.58
+22,Reilly O'Brien,Adelaide,Ruck,17.0,5.0,12.0,0.29,0.71,4.0,0.0,1.0,5.0,-1.36,6.36,1.0
+22,Riley Thilthorpe,Adelaide,Key Forward,15.0,10.0,5.0,0.67,0.33,4.0,3.0,1.0,1.28,0.36,0.92,-1.52
+22,Rory Laird,Adelaide,Gen. Defender,25.0,14.0,11.0,0.56,0.44,7.0,0.0,4.0,0.86,1.0,-0.14,1.04
+22,Sam Berry,Adelaide,Midfielder,,,,,,,,,,,,
+22,Wayne Milera,Adelaide,Gen. Defender,18.0,7.0,11.0,0.39,0.61,5.0,0.0,2.0,0.17,-5.04,5.21,-0.5
+22,Zac Taylor,Adelaide,Gen. Forward,20.0,11.0,9.0,0.55,0.45,2.0,1.0,5.0,10.35,6.53,3.82,-0.29
+23,Alex Neal-Bullen,Adelaide,Gen. Forward,20.0,9.0,11.0,0.45,0.55,1.0,0.0,2.0,3.68,-0.32,4.0,-2.08
+23,Ben Keays,Adelaide,Gen. Forward,15.0,7.0,8.0,0.47,0.53,4.0,0.0,7.0,-1.76,-3.0,1.24,0.2
+23,Brodie Smith,Adelaide,Gen. Defender,15.0,10.0,5.0,0.67,0.33,5.0,0.0,1.0,2.18,1.46,0.73,1.91
+23,Daniel Curtin,Adelaide,Midfielder,14.0,11.0,3.0,0.79,0.21,7.0,1.0,2.0,0.64,2.04,-1.4,2.48
+23,Darcy Fogarty,Adelaide,Key Forward,14.0,10.0,4.0,0.71,0.29,8.0,2.0,0.0,2.79,2.25,0.54,3.21
+23,Harry Schoenberg,Adelaide,Midfielder,,,,,,,,,,,,
+23,Hugh Bond,Adelaide,Gen. Defender,7.0,3.0,4.0,0.43,0.57,1.0,0.0,5.0,-2.4,-1.0,-1.4,-0.6
+23,Isaac Cumming,Adelaide,Midfielder,18.0,15.0,3.0,0.83,0.17,7.0,1.0,4.0,3.38,4.96,-1.58,2.79
+23,Izak Rankine,Adelaide,Mid-Forward,18.0,13.0,5.0,0.72,0.28,4.0,1.0,3.0,-2.55,0.04,-2.59,0.04
+23,Jake Soligo,Adelaide,Midfielder,20.0,10.0,10.0,0.5,0.5,1.0,0.0,3.0,-0.88,-2.36,1.48,-1.72
+23,James Peatling,Adelaide,Midfielder,19.0,12.0,7.0,0.63,0.37,1.0,1.0,3.0,0.35,1.35,-1.0,-1.74
+23,Jordan Dawson,Adelaide,Midfielder,23.0,11.0,12.0,0.48,0.52,3.0,0.0,7.0,-0.36,-4.68,4.32,-1.68
+23,Josh Worrell,Adelaide,Gen. Defender,27.0,16.0,11.0,0.59,0.41,6.0,0.0,2.0,6.0,1.4,4.6,0.24
+23,Lachlan Murphy,Adelaide,Gen. Forward,6.0,2.0,4.0,0.33,0.67,1.0,0.0,1.0,-2.0,-1.6,-0.4,-0.2
+23,Mark Keane,Adelaide,Key Defender,23.0,21.0,2.0,0.91,0.09,8.0,0.0,0.0,8.2,9.2,-1.0,3.48
+23,Mitchell Hinge,Adelaide,Gen. Defender,21.0,17.0,4.0,0.81,0.19,3.0,0.0,5.0,5.42,6.0,-0.58,-1.12
+23,Nick Murray,Adelaide,Key Defender,4.0,3.0,1.0,0.75,0.25,3.0,0.0,0.0,-4.42,-2.33,-2.08,-0.42
+23,Reilly O'Brien,Adelaide,Ruck,6.0,2.0,4.0,0.33,0.67,2.0,0.0,4.0,-6.0,-4.36,-1.64,-1.0
+23,Riley Thilthorpe,Adelaide,Key Forward,11.0,8.0,3.0,0.73,0.27,5.0,1.0,2.0,-2.72,-1.64,-1.08,-0.52
+23,Sam Berry,Adelaide,Midfielder,14.0,9.0,5.0,0.64,0.36,0.0,0.0,3.0,-0.68,0.37,-1.05,-1.63
+23,Taylor Walker,Adelaide,Key Forward,13.0,10.0,3.0,0.77,0.23,5.0,2.0,0.0,0.78,1.48,-0.7,0.13
+23,Wayne Milera,Adelaide,Gen. Defender,22.0,19.0,3.0,0.86,0.14,7.0,0.0,4.0,4.17,6.96,-2.79,1.5
+23,Zac Taylor,Adelaide,Gen. Forward,,,,,,,,,,,,
+24,Alex Neal-Bullen,Adelaide,Gen. Forward,9.0,2.0,7.0,0.22,0.78,2.0,1.0,1.0,-7.32,-7.32,0.0,-1.08
+24,Ben Keays,Adelaide,Gen. Forward,19.0,9.0,10.0,0.47,0.53,5.0,3.0,6.0,2.24,-1.0,3.24,1.2
+24,Billy Dowling,Adelaide,Mid-Forward,14.0,6.0,8.0,0.43,0.57,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+24,Brodie Smith,Adelaide,Gen. Defender,,,,,,,,,,,,
+24,Daniel Curtin,Adelaide,Midfielder,7.0,3.0,4.0,0.43,0.57,3.0,0.0,4.0,-6.36,-5.96,-0.4,-1.52
+24,Darcy Fogarty,Adelaide,Key Forward,17.0,9.0,8.0,0.53,0.47,5.0,1.0,1.0,5.79,1.25,4.54,0.21
+24,Hugh Bond,Adelaide,Gen. Defender,3.0,2.0,1.0,0.67,0.33,0.0,0.0,2.0,-6.4,-2.0,-4.4,-1.6
+24,Isaac Cumming,Adelaide,Midfielder,11.0,6.0,5.0,0.55,0.45,6.0,0.0,3.0,-3.62,-4.04,0.42,1.79
+24,Jake Soligo,Adelaide,Midfielder,14.0,7.0,7.0,0.5,0.5,3.0,0.0,1.0,-6.88,-5.36,-1.52,0.28
+24,James Peatling,Adelaide,Midfielder,19.0,9.0,10.0,0.47,0.53,5.0,3.0,4.0,0.35,-1.65,2.0,2.26
+24,Jordan Dawson,Adelaide,Midfielder,23.0,15.0,8.0,0.65,0.35,6.0,0.0,7.0,-0.36,-0.68,0.32,1.32
+24,Josh Worrell,Adelaide,Gen. Defender,19.0,11.0,8.0,0.58,0.42,4.0,0.0,1.0,-2.0,-3.6,1.6,-1.76
+24,Mark Keane,Adelaide,Key Defender,11.0,8.0,3.0,0.73,0.27,3.0,0.0,0.0,-3.8,-3.8,0.0,-1.52
+24,Mitchell Hinge,Adelaide,Gen. Defender,13.0,6.0,7.0,0.46,0.54,2.0,0.0,1.0,-2.58,-5.0,2.42,-2.12
+24,Nick Murray,Adelaide,Key Defender,7.0,5.0,2.0,0.71,0.29,4.0,0.0,1.0,-1.42,-0.33,-1.08,0.58
+24,Reilly O'Brien,Adelaide,Ruck,11.0,7.0,4.0,0.64,0.36,2.0,0.0,7.0,-1.0,0.64,-1.64,-1.0
+24,Riley Thilthorpe,Adelaide,Key Forward,18.0,15.0,3.0,0.83,0.17,12.0,3.0,2.0,4.28,5.36,-1.08,6.48
+24,Rory Laird,Adelaide,Gen. Defender,23.0,11.0,12.0,0.48,0.52,5.0,1.0,5.0,-1.14,-2.0,0.86,-0.96
+24,Sam Berry,Adelaide,Midfielder,24.0,13.0,11.0,0.54,0.46,2.0,0.0,8.0,9.32,4.37,4.95,0.37
+24,Sid Draper,Adelaide,Mid-Forward,,,,,,,,,,,,
+24,Taylor Walker,Adelaide,Key Forward,13.0,8.0,5.0,0.62,0.38,3.0,1.0,0.0,0.78,-0.52,1.3,-1.87
+24,Wayne Milera,Adelaide,Gen. Defender,18.0,10.0,8.0,0.56,0.44,6.0,0.0,1.0,0.17,-2.04,2.21,0.5
+24,Zac Taylor,Adelaide,Gen. Forward,7.0,3.0,4.0,0.43,0.57,0.0,1.0,3.0,-2.65,-1.47,-1.18,-2.29

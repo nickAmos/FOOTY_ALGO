@@ -1,507 +1,507 @@
-Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
-1,Beau McCreery,Collingwood,12.0,8.0,4.0,0.67,0.33,5.0,0.0,2.0,Gen. Forward
-1,Bobby Hill,Collingwood,10.0,6.0,4.0,0.6,0.4,2.0,2.0,0.0,Gen. Forward
-1,Brayden Maynard,Collingwood,14.0,12.0,2.0,0.86,0.14,3.0,2.0,3.0,Gen. Defender
-1,Brody Mihocek,Collingwood,9.0,4.0,5.0,0.44,0.56,3.0,3.0,2.0,Key Forward
-1,Dan Houston,Collingwood,27.0,14.0,13.0,0.52,0.48,2.0,0.0,5.0,Gen. Defender
-1,Daniel McStay,Collingwood,21.0,10.0,11.0,0.48,0.52,7.0,3.0,5.0,Key Forward
-1,Darcy Cameron,Collingwood,14.0,9.0,5.0,0.64,0.36,1.0,0.0,3.0,Ruck
-1,Darcy Moore,Collingwood,10.0,8.0,2.0,0.8,0.2,7.0,0.0,2.0,Key Defender
-1,Harry Perryman,Collingwood,13.0,7.0,6.0,0.54,0.46,1.0,0.0,4.0,Gen. Defender
-1,Isaac Quaynor,Collingwood,16.0,10.0,6.0,0.62,0.38,5.0,0.0,0.0,Gen. Defender
-1,Jack Crisp,Collingwood,26.0,11.0,15.0,0.42,0.58,3.0,0.0,7.0,Midfielder
-1,Jamie Elliott,Collingwood,10.0,7.0,3.0,0.7,0.3,3.0,2.0,2.0,Gen. Forward
-1,Jeremy Howe,Collingwood,10.0,9.0,1.0,0.9,0.1,3.0,0.0,0.0,Gen. Defender
-1,Josh Daicos,Collingwood,26.0,11.0,15.0,0.42,0.58,5.0,0.0,5.0,Gen. Defender
-1,Lachie Schultz,Collingwood,17.0,5.0,12.0,0.29,0.71,4.0,1.0,7.0,Gen. Forward
-1,Lachlan Sullivan,Collingwood,12.0,5.0,7.0,0.42,0.58,1.0,1.0,4.0,Gen. Forward
-1,Ned Long,Collingwood,24.0,12.0,12.0,0.5,0.5,1.0,0.0,7.0,Midfielder
-1,Nick Daicos,Collingwood,26.0,19.0,7.0,0.73,0.27,6.0,1.0,1.0,Midfielder
-1,Patrick Lipinski,Collingwood,24.0,16.0,8.0,0.67,0.33,8.0,1.0,1.0,Mid-Forward
-1,Reef McInnes,Collingwood,11.0,9.0,2.0,0.82,0.18,6.0,0.0,1.0,Key Defender
-1,Scott Pendlebury,Collingwood,,,,,,,,,Midfielder
-1,Steele Sidebottom,Collingwood,31.0,16.0,15.0,0.52,0.48,3.0,1.0,6.0,Midfielder
-1,Tim Membrey,Collingwood,17.0,12.0,5.0,0.71,0.29,10.0,4.0,1.0,Key Forward
-2,Beau McCreery,Collingwood,10.0,8.0,2.0,0.8,0.2,0.0,1.0,4.0,Gen. Forward
-2,Bobby Hill,Collingwood,8.0,6.0,2.0,0.75,0.25,2.0,2.0,3.0,Gen. Forward
-2,Brayden Maynard,Collingwood,13.0,8.0,5.0,0.62,0.38,4.0,0.0,3.0,Gen. Defender
-2,Dan Houston,Collingwood,15.0,10.0,5.0,0.67,0.33,3.0,1.0,2.0,Gen. Defender
-2,Daniel McStay,Collingwood,14.0,10.0,4.0,0.71,0.29,5.0,1.0,0.0,Key Forward
-2,Darcy Cameron,Collingwood,19.0,9.0,10.0,0.47,0.53,4.0,0.0,3.0,Ruck
-2,Darcy Moore,Collingwood,15.0,8.0,7.0,0.53,0.47,5.0,0.0,3.0,Key Defender
-2,Harry Perryman,Collingwood,12.0,8.0,4.0,0.67,0.33,4.0,0.0,0.0,Gen. Defender
-2,Isaac Quaynor,Collingwood,11.0,7.0,4.0,0.64,0.36,1.0,0.0,2.0,Gen. Defender
-2,Jack Crisp,Collingwood,21.0,12.0,9.0,0.57,0.43,5.0,0.0,3.0,Midfielder
-2,Jamie Elliott,Collingwood,14.0,7.0,7.0,0.5,0.5,5.0,1.0,3.0,Gen. Forward
-2,Jeremy Howe,Collingwood,17.0,14.0,3.0,0.82,0.18,7.0,0.0,1.0,Gen. Defender
-2,Jordan De Goey,Collingwood,15.0,11.0,4.0,0.73,0.27,4.0,0.0,3.0,Mid-Forward
-2,Josh Daicos,Collingwood,25.0,14.0,11.0,0.56,0.44,4.0,0.0,2.0,Gen. Defender
-2,Lachie Schultz,Collingwood,17.0,11.0,6.0,0.65,0.35,6.0,2.0,7.0,Gen. Forward
-2,Mason Cox,Collingwood,,,,,,,,,Key Forward
-2,Ned Long,Collingwood,13.0,5.0,8.0,0.38,0.62,1.0,0.0,9.0,Midfielder
-2,Nick Daicos,Collingwood,39.0,18.0,21.0,0.46,0.54,7.0,0.0,4.0,Midfielder
-2,Patrick Lipinski,Collingwood,22.0,7.0,15.0,0.32,0.68,1.0,0.0,2.0,Mid-Forward
-2,Reef McInnes,Collingwood,,,,,,,,,Key Defender
-2,Scott Pendlebury,Collingwood,26.0,5.0,21.0,0.19,0.81,3.0,0.0,1.0,Midfielder
-2,Steele Sidebottom,Collingwood,22.0,12.0,10.0,0.55,0.45,1.0,2.0,4.0,Midfielder
-2,Tim Membrey,Collingwood,8.0,7.0,1.0,0.88,0.12,2.0,0.0,2.0,Key Forward
-4,Beau McCreery,Collingwood,7.0,3.0,4.0,0.43,0.57,1.0,0.0,6.0,Gen. Forward
-4,Billy Frampton,Collingwood,9.0,5.0,4.0,0.56,0.44,3.0,0.0,1.0,Key Defender
-4,Bobby Hill,Collingwood,6.0,3.0,3.0,0.5,0.5,1.0,0.0,4.0,Gen. Forward
-4,Brayden Maynard,Collingwood,16.0,10.0,6.0,0.62,0.38,1.0,1.0,3.0,Gen. Defender
-4,Brody Mihocek,Collingwood,10.0,7.0,3.0,0.7,0.3,7.0,0.0,1.0,Key Forward
-4,Dan Houston,Collingwood,23.0,17.0,6.0,0.74,0.26,4.0,0.0,1.0,Gen. Defender
-4,Daniel McStay,Collingwood,9.0,7.0,2.0,0.78,0.22,2.0,0.0,7.0,Key Forward
-4,Darcy Cameron,Collingwood,22.0,16.0,6.0,0.73,0.27,6.0,0.0,5.0,Ruck
-4,Darcy Moore,Collingwood,17.0,8.0,9.0,0.47,0.53,3.0,0.0,0.0,Key Defender
-4,Harry Perryman,Collingwood,20.0,10.0,10.0,0.5,0.5,2.0,1.0,8.0,Gen. Defender
-4,Isaac Quaynor,Collingwood,5.0,4.0,1.0,0.8,0.2,3.0,0.0,4.0,Gen. Defender
-4,Jack Crisp,Collingwood,22.0,10.0,12.0,0.45,0.55,6.0,0.0,1.0,Midfielder
-4,Jamie Elliott,Collingwood,9.0,3.0,6.0,0.33,0.67,1.0,0.0,7.0,Gen. Forward
-4,Jeremy Howe,Collingwood,10.0,9.0,1.0,0.9,0.1,4.0,0.0,1.0,Gen. Defender
-4,Jordan De Goey,Collingwood,8.0,5.0,3.0,0.62,0.38,3.0,2.0,2.0,Mid-Forward
-4,Josh Daicos,Collingwood,31.0,16.0,15.0,0.52,0.48,5.0,0.0,3.0,Gen. Defender
-4,Lachie Schultz,Collingwood,18.0,11.0,7.0,0.61,0.39,7.0,2.0,7.0,Gen. Forward
-4,Ned Long,Collingwood,,,,,,,,,Midfielder
-4,Nick Daicos,Collingwood,27.0,12.0,15.0,0.44,0.56,1.0,0.0,4.0,Midfielder
-4,Patrick Lipinski,Collingwood,20.0,9.0,11.0,0.45,0.55,3.0,0.0,2.0,Mid-Forward
-4,Scott Pendlebury,Collingwood,29.0,8.0,21.0,0.28,0.72,3.0,0.0,7.0,Midfielder
-4,Steele Sidebottom,Collingwood,24.0,14.0,10.0,0.58,0.42,2.0,0.0,7.0,Midfielder
-4,Tim Membrey,Collingwood,12.0,5.0,7.0,0.42,0.58,0.0,1.0,1.0,Key Forward
-5,Beau McCreery,Collingwood,9.0,9.0,0.0,1.0,0.0,3.0,2.0,4.0,Gen. Forward
-5,Billy Frampton,Collingwood,10.0,6.0,4.0,0.6,0.4,3.0,0.0,1.0,Key Defender
-5,Bobby Hill,Collingwood,12.0,7.0,5.0,0.58,0.42,1.0,3.0,1.0,Gen. Forward
-5,Brayden Maynard,Collingwood,11.0,10.0,1.0,0.91,0.09,4.0,0.0,2.0,Gen. Defender
-5,Brody Mihocek,Collingwood,8.0,6.0,2.0,0.75,0.25,4.0,3.0,2.0,Key Forward
-5,Daniel McStay,Collingwood,9.0,5.0,4.0,0.56,0.44,4.0,1.0,3.0,Key Forward
-5,Darcy Cameron,Collingwood,20.0,11.0,9.0,0.55,0.45,5.0,0.0,3.0,Ruck
-5,Darcy Moore,Collingwood,14.0,3.0,11.0,0.21,0.79,1.0,0.0,5.0,Key Defender
-5,Edward Allan,Collingwood,,,,,,,,,Midfielder
-5,Harry Perryman,Collingwood,17.0,11.0,6.0,0.65,0.35,6.0,0.0,3.0,Gen. Defender
-5,Isaac Quaynor,Collingwood,14.0,11.0,3.0,0.79,0.21,8.0,0.0,1.0,Gen. Defender
-5,Jack Crisp,Collingwood,19.0,11.0,8.0,0.58,0.42,6.0,1.0,3.0,Midfielder
-5,Jamie Elliott,Collingwood,11.0,10.0,1.0,0.91,0.09,5.0,3.0,1.0,Gen. Forward
-5,Jeremy Howe,Collingwood,11.0,7.0,4.0,0.64,0.36,2.0,0.0,0.0,Gen. Defender
-5,Josh Daicos,Collingwood,15.0,6.0,9.0,0.4,0.6,3.0,0.0,5.0,Gen. Defender
-5,Lachlan Sullivan,Collingwood,15.0,6.0,9.0,0.4,0.6,2.0,1.0,3.0,Gen. Forward
-5,Ned Long,Collingwood,29.0,13.0,16.0,0.45,0.55,4.0,0.0,6.0,Midfielder
-5,Nick Daicos,Collingwood,34.0,16.0,18.0,0.47,0.53,3.0,0.0,9.0,Midfielder
-5,Patrick Lipinski,Collingwood,24.0,15.0,9.0,0.62,0.38,4.0,0.0,1.0,Mid-Forward
-5,Scott Pendlebury,Collingwood,26.0,12.0,14.0,0.46,0.54,3.0,0.0,8.0,Midfielder
-5,Steele Sidebottom,Collingwood,28.0,17.0,11.0,0.61,0.39,5.0,0.0,6.0,Midfielder
-5,Tim Membrey,Collingwood,13.0,6.0,7.0,0.46,0.54,5.0,1.0,0.0,Key Forward
-5,Will Hoskin-Elliott,Collingwood,13.0,8.0,5.0,0.62,0.38,4.0,1.0,3.0,Gen. Forward
-6,Beau McCreery,Collingwood,11.0,5.0,6.0,0.45,0.55,3.0,1.0,1.0,Gen. Forward
-6,Billy Frampton,Collingwood,5.0,4.0,1.0,0.8,0.2,2.0,0.0,0.0,Key Defender
-6,Bobby Hill,Collingwood,8.0,5.0,3.0,0.62,0.38,1.0,2.0,1.0,Gen. Forward
-6,Brayden Maynard,Collingwood,15.0,11.0,4.0,0.73,0.27,5.0,0.0,1.0,Gen. Defender
-6,Brody Mihocek,Collingwood,10.0,8.0,2.0,0.8,0.2,6.0,2.0,3.0,Key Forward
-6,Daniel McStay,Collingwood,8.0,5.0,3.0,0.62,0.38,3.0,3.0,1.0,Key Forward
-6,Darcy Cameron,Collingwood,14.0,9.0,5.0,0.64,0.36,2.0,0.0,1.0,Ruck
-6,Darcy Moore,Collingwood,4.0,1.0,3.0,0.25,0.75,2.0,0.0,1.0,Key Defender
-6,Edward Allan,Collingwood,,,,,,,,,Midfielder
-6,Harry Perryman,Collingwood,9.0,7.0,2.0,0.78,0.22,2.0,0.0,2.0,Gen. Defender
-6,Isaac Quaynor,Collingwood,10.0,5.0,5.0,0.5,0.5,3.0,0.0,2.0,Gen. Defender
-6,Jack Crisp,Collingwood,20.0,12.0,8.0,0.6,0.4,4.0,0.0,0.0,Midfielder
-6,Jamie Elliott,Collingwood,13.0,8.0,5.0,0.62,0.38,7.0,2.0,1.0,Gen. Forward
-6,Jeremy Howe,Collingwood,16.0,13.0,3.0,0.81,0.19,7.0,0.0,0.0,Gen. Defender
-6,Jordan De Goey,Collingwood,12.0,9.0,3.0,0.75,0.25,1.0,2.0,1.0,Mid-Forward
-6,Josh Daicos,Collingwood,30.0,17.0,13.0,0.57,0.43,5.0,1.0,0.0,Gen. Defender
-6,Mason Cox,Collingwood,8.0,4.0,4.0,0.5,0.5,2.0,0.0,1.0,Key Forward
-6,Ned Long,Collingwood,21.0,6.0,15.0,0.29,0.71,2.0,1.0,6.0,Midfielder
-6,Nick Daicos,Collingwood,38.0,21.0,17.0,0.55,0.45,6.0,1.0,3.0,Midfielder
-6,Patrick Lipinski,Collingwood,18.0,8.0,10.0,0.44,0.56,7.0,0.0,1.0,Mid-Forward
-6,Scott Pendlebury,Collingwood,21.0,11.0,10.0,0.52,0.48,2.0,0.0,4.0,Midfielder
-6,Steele Sidebottom,Collingwood,26.0,17.0,9.0,0.65,0.35,7.0,0.0,1.0,Midfielder
-6,Will Hoskin-Elliott,Collingwood,9.0,6.0,3.0,0.67,0.33,7.0,1.0,2.0,Gen. Forward
-7,Beau McCreery,Collingwood,10.0,8.0,2.0,0.8,0.2,5.0,0.0,4.0,Gen. Forward
-7,Billy Frampton,Collingwood,15.0,7.0,8.0,0.47,0.53,6.0,0.0,2.0,Key Defender
-7,Bobby Hill,Collingwood,7.0,7.0,0.0,1.0,0.0,3.0,1.0,2.0,Gen. Forward
-7,Brayden Maynard,Collingwood,16.0,13.0,3.0,0.81,0.19,3.0,1.0,4.0,Gen. Defender
-7,Brody Mihocek,Collingwood,7.0,3.0,4.0,0.43,0.57,2.0,1.0,3.0,Key Forward
-7,Dan Houston,Collingwood,15.0,8.0,7.0,0.53,0.47,2.0,0.0,2.0,Gen. Defender
-7,Daniel McStay,Collingwood,,,,,,,,,Key Forward
-7,Darcy Cameron,Collingwood,16.0,10.0,6.0,0.62,0.38,6.0,1.0,0.0,Ruck
-7,Harry Perryman,Collingwood,13.0,7.0,6.0,0.54,0.46,1.0,1.0,6.0,Gen. Defender
-7,Isaac Quaynor,Collingwood,10.0,6.0,4.0,0.6,0.4,4.0,0.0,6.0,Gen. Defender
-7,Jack Crisp,Collingwood,17.0,9.0,8.0,0.53,0.47,6.0,0.0,2.0,Midfielder
-7,Jamie Elliott,Collingwood,19.0,13.0,6.0,0.68,0.32,8.0,5.0,1.0,Gen. Forward
-7,Jeremy Howe,Collingwood,21.0,16.0,5.0,0.76,0.24,9.0,0.0,0.0,Gen. Defender
-7,Jordan De Goey,Collingwood,14.0,9.0,5.0,0.64,0.36,4.0,1.0,5.0,Mid-Forward
-7,Josh Daicos,Collingwood,36.0,23.0,13.0,0.64,0.36,9.0,0.0,0.0,Gen. Defender
-7,Lachlan Sullivan,Collingwood,,,,,,,,,Gen. Forward
-7,Ned Long,Collingwood,22.0,11.0,11.0,0.5,0.5,7.0,1.0,4.0,Midfielder
-7,Nick Daicos,Collingwood,31.0,18.0,13.0,0.58,0.42,4.0,1.0,7.0,Midfielder
-7,Patrick Lipinski,Collingwood,20.0,11.0,9.0,0.55,0.45,4.0,0.0,3.0,Mid-Forward
-7,Scott Pendlebury,Collingwood,31.0,14.0,17.0,0.45,0.55,5.0,0.0,2.0,Midfielder
-7,Steele Sidebottom,Collingwood,35.0,18.0,17.0,0.51,0.49,2.0,0.0,4.0,Midfielder
-7,Tim Membrey,Collingwood,6.0,3.0,3.0,0.5,0.5,2.0,2.0,2.0,Key Forward
-7,Will Hoskin-Elliott,Collingwood,7.0,5.0,2.0,0.71,0.29,2.0,1.0,0.0,Gen. Forward
-8,Beau McCreery,Collingwood,6.0,3.0,3.0,0.5,0.5,1.0,0.0,2.0,Gen. Forward
-8,Billy Frampton,Collingwood,8.0,2.0,6.0,0.25,0.75,3.0,0.0,3.0,Key Defender
-8,Bobby Hill,Collingwood,7.0,5.0,2.0,0.71,0.29,2.0,1.0,1.0,Gen. Forward
-8,Brayden Maynard,Collingwood,20.0,17.0,3.0,0.85,0.15,9.0,0.0,4.0,Gen. Defender
-8,Brody Mihocek,Collingwood,10.0,8.0,2.0,0.8,0.2,6.0,4.0,2.0,Key Forward
-8,Dan Houston,Collingwood,20.0,14.0,6.0,0.7,0.3,6.0,1.0,1.0,Gen. Defender
-8,Darcy Cameron,Collingwood,23.0,13.0,10.0,0.57,0.43,7.0,1.0,4.0,Ruck
-8,Darcy Moore,Collingwood,8.0,4.0,4.0,0.5,0.5,5.0,0.0,1.0,Key Defender
-8,Harry Perryman,Collingwood,17.0,11.0,6.0,0.65,0.35,6.0,0.0,3.0,Gen. Defender
-8,Isaac Quaynor,Collingwood,13.0,7.0,6.0,0.54,0.46,5.0,0.0,1.0,Gen. Defender
-8,Jack Crisp,Collingwood,15.0,13.0,2.0,0.87,0.13,5.0,0.0,2.0,Midfielder
-8,Jamie Elliott,Collingwood,12.0,7.0,5.0,0.58,0.42,7.0,1.0,4.0,Gen. Forward
-8,Jordan De Goey,Collingwood,9.0,3.0,6.0,0.33,0.67,2.0,0.0,1.0,Mid-Forward
-8,Josh Daicos,Collingwood,32.0,23.0,9.0,0.72,0.28,3.0,0.0,2.0,Gen. Defender
-8,Lachie Schultz,Collingwood,15.0,9.0,6.0,0.6,0.4,7.0,0.0,7.0,Gen. Forward
-8,Mason Cox,Collingwood,,,,,,,,,Key Forward
-8,Ned Long,Collingwood,18.0,6.0,12.0,0.33,0.67,2.0,0.0,9.0,Midfielder
-8,Nick Daicos,Collingwood,28.0,13.0,15.0,0.46,0.54,2.0,1.0,3.0,Midfielder
-8,Patrick Lipinski,Collingwood,20.0,11.0,9.0,0.55,0.45,7.0,0.0,4.0,Mid-Forward
-8,Scott Pendlebury,Collingwood,26.0,19.0,7.0,0.73,0.27,9.0,1.0,4.0,Midfielder
-8,Steele Sidebottom,Collingwood,25.0,15.0,10.0,0.6,0.4,6.0,0.0,3.0,Midfielder
-8,Tim Membrey,Collingwood,10.0,7.0,3.0,0.7,0.3,6.0,1.0,3.0,Key Forward
-8,Will Hoskin-Elliott,Collingwood,,,,,,,,,Gen. Forward
-9,Beau McCreery,Collingwood,13.0,10.0,3.0,0.77,0.23,4.0,0.0,5.0,Gen. Forward
-9,Billy Frampton,Collingwood,15.0,10.0,5.0,0.67,0.33,9.0,0.0,0.0,Key Defender
-9,Bobby Hill,Collingwood,14.0,10.0,4.0,0.71,0.29,5.0,3.0,3.0,Gen. Forward
-9,Dan Houston,Collingwood,12.0,7.0,5.0,0.58,0.42,3.0,0.0,3.0,Gen. Defender
-9,Darcy Cameron,Collingwood,19.0,10.0,9.0,0.53,0.47,8.0,0.0,3.0,Ruck
-9,Darcy Moore,Collingwood,9.0,5.0,4.0,0.56,0.44,6.0,0.0,1.0,Key Defender
-9,Edward Allan,Collingwood,11.0,4.0,7.0,0.36,0.64,2.0,0.0,3.0,Midfielder
-9,Harry Perryman,Collingwood,16.0,10.0,6.0,0.62,0.38,6.0,0.0,6.0,Gen. Defender
-9,Isaac Quaynor,Collingwood,5.0,5.0,0.0,1.0,0.0,4.0,0.0,2.0,Gen. Defender
-9,Jack Crisp,Collingwood,29.0,16.0,13.0,0.55,0.45,3.0,2.0,6.0,Midfielder
-9,Jamie Elliott,Collingwood,14.0,13.0,1.0,0.93,0.07,8.0,6.0,1.0,Gen. Forward
-9,Jeremy Howe,Collingwood,17.0,16.0,1.0,0.94,0.06,7.0,0.0,2.0,Gen. Defender
-9,Josh Daicos,Collingwood,19.0,13.0,6.0,0.68,0.32,5.0,0.0,1.0,Gen. Defender
-9,Lachie Schultz,Collingwood,10.0,4.0,6.0,0.4,0.6,2.0,0.0,2.0,Gen. Forward
-9,Lachlan Sullivan,Collingwood,17.0,11.0,6.0,0.65,0.35,4.0,0.0,5.0,Gen. Forward
-9,Mason Cox,Collingwood,8.0,5.0,3.0,0.62,0.38,1.0,1.0,3.0,Key Forward
-9,Ned Long,Collingwood,12.0,5.0,7.0,0.42,0.58,2.0,1.0,7.0,Midfielder
-9,Nick Daicos,Collingwood,18.0,10.0,8.0,0.56,0.44,2.0,1.0,3.0,Midfielder
-9,Oleg Markov,Collingwood,,,,,,,,,Gen. Defender
-9,Patrick Lipinski,Collingwood,15.0,9.0,6.0,0.6,0.4,3.0,0.0,4.0,Mid-Forward
-9,Steele Sidebottom,Collingwood,,,,,,,,,Midfielder
-9,Tim Membrey,Collingwood,12.0,7.0,5.0,0.58,0.42,4.0,0.0,2.0,Key Forward
-9,Will Hoskin-Elliott,Collingwood,7.0,4.0,3.0,0.57,0.43,4.0,1.0,0.0,Gen. Forward
-10,Beau McCreery,Collingwood,12.0,9.0,3.0,0.75,0.25,2.0,1.0,6.0,Gen. Forward
-10,Billy Frampton,Collingwood,14.0,8.0,6.0,0.57,0.43,2.0,0.0,1.0,Key Defender
-10,Bobby Hill,Collingwood,6.0,6.0,0.0,1.0,0.0,1.0,1.0,4.0,Gen. Forward
-10,Brayden Maynard,Collingwood,24.0,14.0,10.0,0.58,0.42,4.0,0.0,4.0,Gen. Defender
-10,Brody Mihocek,Collingwood,6.0,3.0,3.0,0.5,0.5,3.0,1.0,0.0,Key Forward
-10,Dan Houston,Collingwood,15.0,10.0,5.0,0.67,0.33,6.0,1.0,3.0,Gen. Defender
-10,Darcy Cameron,Collingwood,13.0,9.0,4.0,0.69,0.31,5.0,1.0,2.0,Ruck
-10,Edward Allan,Collingwood,13.0,9.0,4.0,0.69,0.31,4.0,0.0,3.0,Midfielder
-10,Harry Perryman,Collingwood,16.0,9.0,7.0,0.56,0.44,4.0,0.0,0.0,Gen. Defender
-10,Isaac Quaynor,Collingwood,17.0,8.0,9.0,0.47,0.53,1.0,0.0,2.0,Gen. Defender
-10,Jack Crisp,Collingwood,16.0,6.0,10.0,0.38,0.62,1.0,1.0,5.0,Midfielder
-10,Jamie Elliott,Collingwood,14.0,10.0,4.0,0.71,0.29,4.0,1.0,1.0,Gen. Forward
-10,Jeremy Howe,Collingwood,17.0,10.0,7.0,0.59,0.41,5.0,0.0,4.0,Gen. Defender
-10,Josh Daicos,Collingwood,29.0,14.0,15.0,0.48,0.52,4.0,0.0,1.0,Gen. Defender
-10,Lachlan Sullivan,Collingwood,10.0,6.0,4.0,0.6,0.4,0.0,0.0,3.0,Gen. Forward
-10,Mason Cox,Collingwood,,,,,,,,,Key Forward
-10,Ned Long,Collingwood,19.0,6.0,13.0,0.32,0.68,0.0,0.0,9.0,Midfielder
-10,Nick Daicos,Collingwood,28.0,11.0,17.0,0.39,0.61,3.0,0.0,3.0,Midfielder
-10,Patrick Lipinski,Collingwood,,,,,,,,,Mid-Forward
-10,Scott Pendlebury,Collingwood,22.0,11.0,11.0,0.5,0.5,3.0,0.0,2.0,Midfielder
-10,Steele Sidebottom,Collingwood,22.0,13.0,9.0,0.59,0.41,3.0,1.0,3.0,Midfielder
-10,Tim Membrey,Collingwood,10.0,8.0,2.0,0.8,0.2,5.0,1.0,1.0,Key Forward
-10,Will Hoskin-Elliott,Collingwood,11.0,9.0,2.0,0.82,0.18,5.0,2.0,1.0,Gen. Forward
-11,Beau McCreery,Collingwood,14.0,9.0,5.0,0.64,0.36,4.0,0.0,4.0,Gen. Forward
-11,Billy Frampton,Collingwood,8.0,5.0,3.0,0.62,0.38,4.0,0.0,0.0,Key Defender
-11,Brayden Maynard,Collingwood,,,,,,,,,Gen. Defender
-11,Brody Mihocek,Collingwood,16.0,9.0,7.0,0.56,0.44,2.0,2.0,3.0,Key Forward
-11,Dan Houston,Collingwood,15.0,10.0,5.0,0.67,0.33,6.0,0.0,4.0,Gen. Defender
-11,Darcy Cameron,Collingwood,15.0,7.0,8.0,0.47,0.53,3.0,0.0,3.0,Ruck
-11,Edward Allan,Collingwood,24.0,8.0,16.0,0.33,0.67,3.0,0.0,8.0,Midfielder
-11,Harry Perryman,Collingwood,18.0,8.0,10.0,0.44,0.56,1.0,1.0,5.0,Gen. Defender
-11,Isaac Quaynor,Collingwood,23.0,12.0,11.0,0.52,0.48,8.0,0.0,5.0,Gen. Defender
-11,Jack Crisp,Collingwood,16.0,10.0,6.0,0.62,0.38,5.0,1.0,10.0,Midfielder
-11,Jamie Elliott,Collingwood,11.0,9.0,2.0,0.82,0.18,5.0,5.0,5.0,Gen. Forward
-11,Jeremy Howe,Collingwood,11.0,10.0,1.0,0.91,0.09,0.0,0.0,2.0,Gen. Defender
-11,Josh Daicos,Collingwood,31.0,18.0,13.0,0.58,0.42,4.0,0.0,2.0,Gen. Defender
-11,Lachlan Sullivan,Collingwood,10.0,6.0,4.0,0.6,0.4,0.0,1.0,0.0,Gen. Forward
-11,Mason Cox,Collingwood,3.0,2.0,1.0,0.67,0.33,2.0,0.0,2.0,Key Forward
-11,Ned Long,Collingwood,29.0,8.0,21.0,0.28,0.72,2.0,0.0,14.0,Midfielder
-11,Nick Daicos,Collingwood,38.0,22.0,16.0,0.58,0.42,6.0,0.0,4.0,Midfielder
-11,Oleg Markov,Collingwood,13.0,6.0,7.0,0.46,0.54,3.0,1.0,1.0,Gen. Defender
-11,Patrick Lipinski,Collingwood,16.0,10.0,6.0,0.62,0.38,4.0,0.0,4.0,Mid-Forward
-11,Tim Membrey,Collingwood,10.0,8.0,2.0,0.8,0.2,7.0,3.0,2.0,Key Forward
-11,Wil Parker,Collingwood,7.0,4.0,3.0,0.57,0.43,2.0,0.0,1.0,Gen. Defender
-11,Will Hoskin-Elliott,Collingwood,9.0,5.0,4.0,0.56,0.44,2.0,1.0,4.0,Gen. Forward
-11,William Hayes,Collingwood,7.0,6.0,1.0,0.86,0.14,3.0,0.0,6.0,Gen. Forward
-12,Beau McCreery,Collingwood,11.0,4.0,7.0,0.36,0.64,0.0,0.0,6.0,Gen. Forward
-12,Billy Frampton,Collingwood,4.0,2.0,2.0,0.5,0.5,1.0,0.0,0.0,Key Defender
-12,Bobby Hill,Collingwood,14.0,8.0,6.0,0.57,0.43,5.0,1.0,1.0,Gen. Forward
-12,Brody Mihocek,Collingwood,12.0,10.0,2.0,0.83,0.17,6.0,4.0,4.0,Key Forward
-12,Dan Houston,Collingwood,21.0,16.0,5.0,0.76,0.24,4.0,0.0,2.0,Gen. Defender
-12,Darcy Cameron,Collingwood,16.0,11.0,5.0,0.69,0.31,4.0,0.0,6.0,Ruck
-12,Darcy Moore,Collingwood,7.0,3.0,4.0,0.43,0.57,2.0,0.0,2.0,Key Defender
-12,Edward Allan,Collingwood,23.0,11.0,12.0,0.48,0.52,5.0,0.0,2.0,Midfielder
-12,Harry Perryman,Collingwood,13.0,11.0,2.0,0.85,0.15,7.0,0.0,4.0,Gen. Defender
-12,Isaac Quaynor,Collingwood,20.0,10.0,10.0,0.5,0.5,6.0,0.0,2.0,Gen. Defender
-12,Jack Crisp,Collingwood,16.0,10.0,6.0,0.62,0.38,2.0,0.0,5.0,Midfielder
-12,Jamie Elliott,Collingwood,12.0,9.0,3.0,0.75,0.25,5.0,5.0,2.0,Gen. Forward
-12,Jeremy Howe,Collingwood,10.0,10.0,0.0,1.0,0.0,4.0,0.0,1.0,Gen. Defender
-12,Josh Daicos,Collingwood,24.0,15.0,9.0,0.62,0.38,8.0,0.0,3.0,Gen. Defender
-12,Lachie Schultz,Collingwood,13.0,6.0,7.0,0.46,0.54,4.0,0.0,6.0,Gen. Forward
-12,Lachlan Sullivan,Collingwood,,,,,,,,,Gen. Forward
-12,Ned Long,Collingwood,24.0,8.0,16.0,0.33,0.67,4.0,0.0,11.0,Midfielder
-12,Nick Daicos,Collingwood,32.0,16.0,16.0,0.5,0.5,7.0,1.0,6.0,Midfielder
-12,Patrick Lipinski,Collingwood,,,,,,,,,Mid-Forward
-12,Scott Pendlebury,Collingwood,22.0,11.0,11.0,0.5,0.5,7.0,0.0,8.0,Midfielder
-12,Steele Sidebottom,Collingwood,27.0,18.0,9.0,0.67,0.33,8.0,2.0,5.0,Midfielder
-12,Tim Membrey,Collingwood,9.0,5.0,4.0,0.56,0.44,5.0,1.0,0.0,Key Forward
-12,Will Hoskin-Elliott,Collingwood,8.0,4.0,4.0,0.5,0.5,3.0,0.0,2.0,Gen. Forward
-13,Beau McCreery,Collingwood,13.0,9.0,4.0,0.69,0.31,1.0,1.0,2.0,Gen. Forward
-13,Billy Frampton,Collingwood,15.0,10.0,5.0,0.67,0.33,8.0,0.0,0.0,Key Defender
-13,Bobby Hill,Collingwood,10.0,7.0,3.0,0.7,0.3,4.0,1.0,4.0,Gen. Forward
-13,Brody Mihocek,Collingwood,6.0,4.0,2.0,0.67,0.33,2.0,1.0,3.0,Key Forward
-13,Dan Houston,Collingwood,18.0,11.0,7.0,0.61,0.39,5.0,0.0,5.0,Gen. Defender
-13,Daniel McStay,Collingwood,6.0,4.0,2.0,0.67,0.33,2.0,2.0,3.0,Key Forward
-13,Darcy Cameron,Collingwood,16.0,10.0,6.0,0.62,0.38,9.0,0.0,2.0,Ruck
-13,Darcy Moore,Collingwood,10.0,4.0,6.0,0.4,0.6,6.0,0.0,1.0,Key Defender
-13,Edward Allan,Collingwood,,,,,,,,,Midfielder
-13,Harry Perryman,Collingwood,19.0,15.0,4.0,0.79,0.21,5.0,0.0,1.0,Gen. Defender
-13,Isaac Quaynor,Collingwood,25.0,15.0,10.0,0.6,0.4,9.0,0.0,4.0,Gen. Defender
-13,Jack Crisp,Collingwood,21.0,11.0,10.0,0.52,0.48,4.0,0.0,7.0,Midfielder
-13,Jamie Elliott,Collingwood,7.0,3.0,4.0,0.43,0.57,2.0,1.0,0.0,Gen. Forward
-13,Jeremy Howe,Collingwood,26.0,21.0,5.0,0.81,0.19,5.0,0.0,5.0,Gen. Defender
-13,Josh Daicos,Collingwood,34.0,25.0,9.0,0.74,0.26,11.0,0.0,2.0,Gen. Defender
-13,Lachlan Sullivan,Collingwood,9.0,3.0,6.0,0.33,0.67,1.0,0.0,4.0,Gen. Forward
-13,Ned Long,Collingwood,21.0,11.0,10.0,0.52,0.48,5.0,1.0,7.0,Midfielder
-13,Nick Daicos,Collingwood,19.0,14.0,5.0,0.74,0.26,3.0,1.0,4.0,Midfielder
-13,Scott Pendlebury,Collingwood,29.0,13.0,16.0,0.45,0.55,10.0,0.0,2.0,Midfielder
-13,Steele Sidebottom,Collingwood,25.0,13.0,12.0,0.52,0.48,8.0,1.0,1.0,Midfielder
-13,Tim Membrey,Collingwood,13.0,8.0,5.0,0.62,0.38,6.0,1.0,1.0,Key Forward
-13,Will Hoskin-Elliott,Collingwood,,,,,,,,,Gen. Forward
-13,William Hayes,Collingwood,9.0,7.0,2.0,0.78,0.22,3.0,1.0,0.0,Gen. Forward
-15,Beau McCreery,Collingwood,,,,,,,,,Gen. Forward
-15,Billy Frampton,Collingwood,7.0,4.0,3.0,0.57,0.43,3.0,0.0,1.0,Key Defender
-15,Bobby Hill,Collingwood,6.0,4.0,2.0,0.67,0.33,3.0,1.0,3.0,Gen. Forward
-15,Brody Mihocek,Collingwood,11.0,9.0,2.0,0.82,0.18,7.0,1.0,3.0,Key Forward
-15,Dan Houston,Collingwood,9.0,6.0,3.0,0.67,0.33,4.0,0.0,2.0,Gen. Defender
-15,Daniel McStay,Collingwood,10.0,6.0,4.0,0.6,0.4,3.0,2.0,2.0,Key Forward
-15,Darcy Cameron,Collingwood,19.0,16.0,3.0,0.84,0.16,8.0,2.0,2.0,Ruck
-15,Darcy Moore,Collingwood,10.0,6.0,4.0,0.6,0.4,8.0,0.0,2.0,Key Defender
-15,Edward Allan,Collingwood,17.0,9.0,8.0,0.53,0.47,7.0,0.0,2.0,Midfielder
-15,Harry Perryman,Collingwood,10.0,7.0,3.0,0.7,0.3,3.0,1.0,3.0,Gen. Defender
-15,Isaac Quaynor,Collingwood,8.0,7.0,1.0,0.88,0.12,5.0,0.0,1.0,Gen. Defender
-15,Jack Crisp,Collingwood,16.0,12.0,4.0,0.75,0.25,6.0,1.0,10.0,Midfielder
-15,Jamie Elliott,Collingwood,15.0,9.0,6.0,0.6,0.4,5.0,2.0,1.0,Gen. Forward
-15,Jeremy Howe,Collingwood,11.0,10.0,1.0,0.91,0.09,5.0,0.0,1.0,Gen. Defender
-15,Josh Daicos,Collingwood,30.0,23.0,7.0,0.77,0.23,6.0,0.0,0.0,Gen. Defender
-15,Lachlan Sullivan,Collingwood,6.0,2.0,4.0,0.33,0.67,1.0,0.0,4.0,Gen. Forward
-15,Ned Long,Collingwood,14.0,6.0,8.0,0.43,0.57,3.0,0.0,8.0,Midfielder
-15,Nick Daicos,Collingwood,30.0,17.0,13.0,0.57,0.43,3.0,1.0,3.0,Midfielder
-15,Patrick Lipinski,Collingwood,26.0,14.0,12.0,0.54,0.46,9.0,2.0,5.0,Mid-Forward
-15,Scott Pendlebury,Collingwood,22.0,14.0,8.0,0.64,0.36,7.0,1.0,5.0,Midfielder
-15,Steele Sidebottom,Collingwood,18.0,12.0,6.0,0.67,0.33,5.0,0.0,4.0,Midfielder
-15,Tim Membrey,Collingwood,10.0,5.0,5.0,0.5,0.5,4.0,2.0,0.0,Key Forward
-15,Will Hoskin-Elliott,Collingwood,11.0,8.0,3.0,0.73,0.27,3.0,0.0,3.0,Gen. Forward
-16,Brody Mihocek,Collingwood,10.0,9.0,1.0,0.9,0.1,7.0,2.0,1.0,Key Forward
-16,Charlie Dean,Collingwood,4.0,1.0,3.0,0.25,0.75,1.0,0.0,2.0,Key Defender
-16,Charlie West,Collingwood,4.0,1.0,3.0,0.25,0.75,0.0,1.0,1.0,Key Forward
-16,Dan Houston,Collingwood,18.0,9.0,9.0,0.5,0.5,6.0,1.0,0.0,Gen. Defender
-16,Daniel McStay,Collingwood,11.0,8.0,3.0,0.73,0.27,5.0,0.0,4.0,Key Forward
-16,Darcy Cameron,Collingwood,19.0,11.0,8.0,0.58,0.42,3.0,0.0,2.0,Ruck
-16,Darcy Moore,Collingwood,12.0,5.0,7.0,0.42,0.58,5.0,0.0,2.0,Key Defender
-16,Edward Allan,Collingwood,16.0,6.0,10.0,0.38,0.62,4.0,0.0,4.0,Midfielder
-16,Harry Perryman,Collingwood,13.0,8.0,5.0,0.62,0.38,5.0,0.0,3.0,Gen. Defender
-16,Isaac Quaynor,Collingwood,9.0,7.0,2.0,0.78,0.22,3.0,0.0,2.0,Gen. Defender
-16,Jack Crisp,Collingwood,27.0,17.0,10.0,0.63,0.37,7.0,0.0,6.0,Midfielder
-16,Jamie Elliott,Collingwood,8.0,8.0,0.0,1.0,0.0,4.0,1.0,4.0,Gen. Forward
-16,Jeremy Howe,Collingwood,17.0,14.0,3.0,0.82,0.18,8.0,0.0,3.0,Gen. Defender
-16,Josh Daicos,Collingwood,30.0,18.0,12.0,0.6,0.4,3.0,0.0,2.0,Gen. Defender
-16,Lachlan Sullivan,Collingwood,13.0,6.0,7.0,0.46,0.54,5.0,1.0,5.0,Gen. Forward
-16,Ned Long,Collingwood,21.0,9.0,12.0,0.43,0.57,3.0,0.0,6.0,Midfielder
-16,Nick Daicos,Collingwood,34.0,21.0,13.0,0.62,0.38,10.0,1.0,3.0,Midfielder
-16,Oleg Markov,Collingwood,,,,,,,,,Gen. Defender
-16,Patrick Lipinski,Collingwood,19.0,9.0,10.0,0.47,0.53,3.0,2.0,4.0,Mid-Forward
-16,Scott Pendlebury,Collingwood,28.0,17.0,11.0,0.61,0.39,4.0,1.0,6.0,Midfielder
-16,Steele Sidebottom,Collingwood,20.0,10.0,10.0,0.5,0.5,3.0,0.0,10.0,Midfielder
-16,Tim Membrey,Collingwood,6.0,4.0,2.0,0.67,0.33,3.0,2.0,2.0,Key Forward
-16,Will Hoskin-Elliott,Collingwood,11.0,10.0,1.0,0.91,0.09,4.0,1.0,2.0,Gen. Forward
-17,Brayden Maynard,Collingwood,21.0,17.0,4.0,0.81,0.19,9.0,0.0,4.0,Gen. Defender
-17,Brody Mihocek,Collingwood,12.0,10.0,2.0,0.83,0.17,6.0,2.0,4.0,Key Forward
-17,Dan Houston,Collingwood,11.0,7.0,4.0,0.64,0.36,3.0,0.0,1.0,Gen. Defender
-17,Daniel McStay,Collingwood,10.0,8.0,2.0,0.8,0.2,4.0,4.0,2.0,Key Forward
-17,Darcy Cameron,Collingwood,20.0,10.0,10.0,0.5,0.5,8.0,0.0,4.0,Ruck
-17,Darcy Moore,Collingwood,13.0,9.0,4.0,0.69,0.31,4.0,0.0,2.0,Key Defender
-17,Harry Perryman,Collingwood,15.0,10.0,5.0,0.67,0.33,3.0,0.0,1.0,Gen. Defender
-17,Isaac Quaynor,Collingwood,18.0,10.0,8.0,0.56,0.44,9.0,0.0,3.0,Gen. Defender
-17,Jack Crisp,Collingwood,24.0,17.0,7.0,0.71,0.29,8.0,1.0,5.0,Midfielder
-17,Jamie Elliott,Collingwood,15.0,11.0,4.0,0.73,0.27,8.0,4.0,1.0,Gen. Forward
-17,Jeremy Howe,Collingwood,7.0,5.0,2.0,0.71,0.29,0.0,0.0,1.0,Gen. Defender
-17,Josh Daicos,Collingwood,27.0,18.0,9.0,0.67,0.33,4.0,0.0,0.0,Gen. Defender
-17,Lachlan Sullivan,Collingwood,20.0,8.0,12.0,0.4,0.6,4.0,1.0,2.0,Gen. Forward
-17,Ned Long,Collingwood,16.0,5.0,11.0,0.31,0.69,3.0,1.0,7.0,Midfielder
-17,Nick Daicos,Collingwood,36.0,22.0,14.0,0.61,0.39,7.0,1.0,2.0,Midfielder
-17,Oleg Markov,Collingwood,12.0,6.0,6.0,0.5,0.5,1.0,0.0,0.0,Gen. Defender
-17,Patrick Lipinski,Collingwood,17.0,12.0,5.0,0.71,0.29,4.0,0.0,3.0,Mid-Forward
-17,Roan Steele,Collingwood,19.0,11.0,8.0,0.58,0.42,4.0,0.0,2.0,Midfielder
-17,Scott Pendlebury,Collingwood,22.0,12.0,10.0,0.55,0.45,4.0,0.0,7.0,Midfielder
-17,Tim Membrey,Collingwood,9.0,6.0,3.0,0.67,0.33,5.0,2.0,4.0,Key Forward
-17,Tom Mitchell,Collingwood,26.0,9.0,17.0,0.35,0.65,5.0,0.0,3.0,Midfielder
-17,Wil Parker,Collingwood,,,,,,,,,Gen. Defender
-17,Will Hoskin-Elliott,Collingwood,15.0,11.0,4.0,0.73,0.27,4.0,1.0,2.0,Gen. Forward
-18,Brayden Maynard,Collingwood,17.0,13.0,4.0,0.76,0.24,5.0,0.0,2.0,Gen. Defender
-18,Dan Houston,Collingwood,17.0,11.0,6.0,0.65,0.35,1.0,0.0,3.0,Gen. Defender
-18,Daniel McStay,Collingwood,11.0,7.0,4.0,0.64,0.36,6.0,0.0,2.0,Key Forward
-18,Darcy Cameron,Collingwood,18.0,9.0,9.0,0.5,0.5,1.0,0.0,3.0,Ruck
-18,Darcy Moore,Collingwood,9.0,3.0,6.0,0.33,0.67,4.0,0.0,1.0,Key Defender
-18,Harry Perryman,Collingwood,12.0,8.0,4.0,0.67,0.33,3.0,0.0,0.0,Gen. Defender
-18,Isaac Quaynor,Collingwood,17.0,8.0,9.0,0.47,0.53,0.0,0.0,5.0,Gen. Defender
-18,Jack Crisp,Collingwood,19.0,10.0,9.0,0.53,0.47,2.0,0.0,8.0,Midfielder
-18,Jamie Elliott,Collingwood,12.0,7.0,5.0,0.58,0.42,4.0,3.0,2.0,Gen. Forward
-18,Jeremy Howe,Collingwood,,,,,,,,,Gen. Defender
-18,Josh Daicos,Collingwood,32.0,16.0,16.0,0.5,0.5,4.0,2.0,7.0,Gen. Defender
-18,Lachie Schultz,Collingwood,10.0,5.0,5.0,0.5,0.5,3.0,1.0,7.0,Gen. Forward
-18,Lachlan Sullivan,Collingwood,9.0,4.0,5.0,0.44,0.56,0.0,0.0,3.0,Gen. Forward
-18,Mason Cox,Collingwood,8.0,0.0,8.0,0.0,1.0,6.0,0.0,2.0,Key Forward
-18,Ned Long,Collingwood,12.0,8.0,4.0,0.67,0.33,1.0,0.0,8.0,Midfielder
-18,Nick Daicos,Collingwood,26.0,16.0,10.0,0.62,0.38,2.0,0.0,1.0,Midfielder
-18,Oleg Markov,Collingwood,12.0,6.0,6.0,0.5,0.5,1.0,0.0,0.0,Gen. Defender
-18,Roan Steele,Collingwood,8.0,6.0,2.0,0.75,0.25,3.0,0.0,1.0,Midfielder
-18,Scott Pendlebury,Collingwood,,,,,,,,,Midfielder
-18,Steele Sidebottom,Collingwood,13.0,6.0,7.0,0.46,0.54,3.0,0.0,6.0,Midfielder
-18,Tim Membrey,Collingwood,12.0,5.0,7.0,0.42,0.58,5.0,2.0,0.0,Key Forward
-18,Tom Mitchell,Collingwood,20.0,5.0,15.0,0.25,0.75,0.0,0.0,11.0,Midfielder
-18,Will Hoskin-Elliott,Collingwood,13.0,9.0,4.0,0.69,0.31,2.0,0.0,2.0,Gen. Forward
-19,Beau McCreery,Collingwood,15.0,6.0,9.0,0.4,0.6,0.0,0.0,15.0,Gen. Forward
-19,Brayden Maynard,Collingwood,14.0,12.0,2.0,0.86,0.14,4.0,0.0,2.0,Gen. Defender
-19,Brody Mihocek,Collingwood,12.0,9.0,3.0,0.75,0.25,1.0,2.0,3.0,Key Forward
-19,Charlie Dean,Collingwood,11.0,1.0,10.0,0.09,0.91,0.0,0.0,1.0,Key Defender
-19,Daniel McStay,Collingwood,8.0,4.0,4.0,0.5,0.5,3.0,0.0,1.0,Key Forward
-19,Darcy Cameron,Collingwood,20.0,11.0,9.0,0.55,0.45,8.0,0.0,0.0,Ruck
-19,Darcy Moore,Collingwood,11.0,6.0,5.0,0.55,0.45,4.0,0.0,0.0,Key Defender
-19,Edward Allan,Collingwood,11.0,5.0,6.0,0.45,0.55,1.0,1.0,0.0,Midfielder
-19,Harry Perryman,Collingwood,16.0,14.0,2.0,0.88,0.12,3.0,0.0,3.0,Gen. Defender
-19,Isaac Quaynor,Collingwood,18.0,12.0,6.0,0.67,0.33,4.0,0.0,1.0,Gen. Defender
-19,Jack Crisp,Collingwood,23.0,15.0,8.0,0.65,0.35,3.0,0.0,5.0,Midfielder
-19,Jamie Elliott,Collingwood,9.0,7.0,2.0,0.78,0.22,2.0,2.0,5.0,Gen. Forward
-19,Josh Daicos,Collingwood,25.0,18.0,7.0,0.72,0.28,6.0,0.0,1.0,Gen. Defender
-19,Lachie Schultz,Collingwood,10.0,3.0,7.0,0.3,0.7,1.0,1.0,7.0,Gen. Forward
-19,Lachlan Sullivan,Collingwood,11.0,5.0,6.0,0.45,0.55,1.0,1.0,4.0,Gen. Forward
-19,Mason Cox,Collingwood,,,,,,,,,Key Forward
-19,Ned Long,Collingwood,19.0,6.0,13.0,0.32,0.68,2.0,0.0,12.0,Midfielder
-19,Nick Daicos,Collingwood,43.0,28.0,15.0,0.65,0.35,4.0,1.0,7.0,Midfielder
-19,Oleg Markov,Collingwood,12.0,4.0,8.0,0.33,0.67,2.0,0.0,5.0,Gen. Defender
-19,Patrick Lipinski,Collingwood,13.0,7.0,6.0,0.54,0.46,1.0,0.0,4.0,Mid-Forward
-19,Scott Pendlebury,Collingwood,21.0,4.0,17.0,0.19,0.81,3.0,0.0,5.0,Midfielder
-19,Steele Sidebottom,Collingwood,17.0,9.0,8.0,0.53,0.47,3.0,2.0,4.0,Midfielder
-19,Will Hoskin-Elliott,Collingwood,,,,,,,,,Gen. Forward
-20,Brayden Maynard,Collingwood,20.0,17.0,3.0,0.85,0.15,8.0,0.0,2.0,Gen. Defender
-20,Brody Mihocek,Collingwood,12.0,6.0,6.0,0.5,0.5,3.0,2.0,3.0,Key Forward
-20,Charlie Dean,Collingwood,19.0,9.0,10.0,0.47,0.53,6.0,0.0,0.0,Key Defender
-20,Dan Houston,Collingwood,17.0,12.0,5.0,0.71,0.29,3.0,1.0,3.0,Gen. Defender
-20,Daniel McStay,Collingwood,15.0,10.0,5.0,0.67,0.33,5.0,1.0,3.0,Key Forward
-20,Darcy Cameron,Collingwood,20.0,11.0,9.0,0.55,0.45,4.0,0.0,5.0,Ruck
-20,Darcy Moore,Collingwood,9.0,2.0,7.0,0.22,0.78,3.0,0.0,3.0,Key Defender
-20,Edward Allan,Collingwood,17.0,6.0,11.0,0.35,0.65,3.0,0.0,2.0,Midfielder
-20,Harry Perryman,Collingwood,19.0,12.0,7.0,0.63,0.37,6.0,0.0,0.0,Gen. Defender
-20,Isaac Quaynor,Collingwood,17.0,11.0,6.0,0.65,0.35,9.0,0.0,3.0,Gen. Defender
-20,Jack Crisp,Collingwood,16.0,8.0,8.0,0.5,0.5,3.0,0.0,2.0,Midfielder
-20,Jamie Elliott,Collingwood,15.0,10.0,5.0,0.67,0.33,6.0,1.0,2.0,Gen. Forward
-20,Josh Daicos,Collingwood,30.0,23.0,7.0,0.77,0.23,6.0,0.0,2.0,Gen. Defender
-20,Lachie Schultz,Collingwood,19.0,9.0,10.0,0.47,0.53,3.0,1.0,2.0,Gen. Forward
-20,Lachlan Sullivan,Collingwood,,,,,,,,,Gen. Forward
-20,Ned Long,Collingwood,23.0,8.0,15.0,0.35,0.65,3.0,0.0,6.0,Midfielder
-20,Nick Daicos,Collingwood,42.0,31.0,11.0,0.74,0.26,4.0,3.0,0.0,Midfielder
-20,Oleg Markov,Collingwood,,,,,,,,,Gen. Defender
-20,Patrick Lipinski,Collingwood,18.0,6.0,12.0,0.33,0.67,1.0,0.0,3.0,Mid-Forward
-20,Steele Sidebottom,Collingwood,24.0,7.0,17.0,0.29,0.71,3.0,0.0,7.0,Midfielder
-20,Tim Membrey,Collingwood,12.0,6.0,6.0,0.5,0.5,4.0,2.0,2.0,Key Forward
-20,Tom Mitchell,Collingwood,29.0,11.0,18.0,0.38,0.62,7.0,0.0,6.0,Midfielder
-20,Will Hoskin-Elliott,Collingwood,13.0,10.0,3.0,0.77,0.23,6.0,2.0,0.0,Gen. Forward
-21,Bobby Hill,Collingwood,,,,,,,,,Gen. Forward
-21,Brayden Maynard,Collingwood,15.0,7.0,8.0,0.47,0.53,3.0,0.0,3.0,Gen. Defender
-21,Brody Mihocek,Collingwood,6.0,5.0,1.0,0.83,0.17,2.0,1.0,6.0,Key Forward
-21,Charlie Dean,Collingwood,8.0,5.0,3.0,0.62,0.38,4.0,0.0,0.0,Key Defender
-21,Dan Houston,Collingwood,11.0,8.0,3.0,0.73,0.27,1.0,0.0,2.0,Gen. Defender
-21,Daniel McStay,Collingwood,3.0,2.0,1.0,0.67,0.33,1.0,1.0,1.0,Key Forward
-21,Darcy Cameron,Collingwood,12.0,8.0,4.0,0.67,0.33,5.0,0.0,1.0,Ruck
-21,Darcy Moore,Collingwood,8.0,5.0,3.0,0.62,0.38,1.0,0.0,0.0,Key Defender
-21,Harry Perryman,Collingwood,16.0,9.0,7.0,0.56,0.44,5.0,0.0,0.0,Gen. Defender
-21,Isaac Quaynor,Collingwood,10.0,7.0,3.0,0.7,0.3,5.0,0.0,4.0,Gen. Defender
-21,Jack Crisp,Collingwood,15.0,10.0,5.0,0.67,0.33,1.0,0.0,6.0,Midfielder
-21,Jamie Elliott,Collingwood,8.0,4.0,4.0,0.5,0.5,5.0,1.0,1.0,Gen. Forward
-21,Jordan De Goey,Collingwood,,,,,,,,,Mid-Forward
-21,Josh Daicos,Collingwood,29.0,21.0,8.0,0.72,0.28,4.0,0.0,5.0,Gen. Defender
-21,Lachie Schultz,Collingwood,17.0,12.0,5.0,0.71,0.29,6.0,1.0,7.0,Gen. Forward
-21,Ned Long,Collingwood,9.0,5.0,4.0,0.56,0.44,0.0,0.0,7.0,Midfielder
-21,Nick Daicos,Collingwood,29.0,11.0,18.0,0.38,0.62,4.0,1.0,2.0,Midfielder
-21,Oleg Markov,Collingwood,8.0,3.0,5.0,0.38,0.62,1.0,0.0,4.0,Gen. Defender
-21,Patrick Lipinski,Collingwood,17.0,6.0,11.0,0.35,0.65,1.0,0.0,4.0,Mid-Forward
-21,Scott Pendlebury,Collingwood,22.0,8.0,14.0,0.36,0.64,4.0,0.0,8.0,Midfielder
-21,Steele Sidebottom,Collingwood,21.0,14.0,7.0,0.67,0.33,7.0,2.0,3.0,Midfielder
-21,Tim Membrey,Collingwood,5.0,4.0,1.0,0.8,0.2,1.0,1.0,0.0,Key Forward
-21,Will Hoskin-Elliott,Collingwood,6.0,4.0,2.0,0.67,0.33,3.0,0.0,2.0,Gen. Forward
-22,Billy Frampton,Collingwood,9.0,4.0,5.0,0.44,0.56,3.0,0.0,1.0,Key Defender
-22,Brayden Maynard,Collingwood,18.0,12.0,6.0,0.67,0.33,3.0,0.0,3.0,Gen. Defender
-22,Brody Mihocek,Collingwood,11.0,8.0,3.0,0.73,0.27,3.0,2.0,2.0,Key Forward
-22,Dan Houston,Collingwood,22.0,13.0,9.0,0.59,0.41,1.0,0.0,0.0,Gen. Defender
-22,Daniel McStay,Collingwood,15.0,9.0,6.0,0.6,0.4,5.0,0.0,1.0,Key Forward
-22,Darcy Cameron,Collingwood,16.0,5.0,11.0,0.31,0.69,6.0,0.0,2.0,Ruck
-22,Darcy Moore,Collingwood,15.0,5.0,10.0,0.33,0.67,7.0,0.0,3.0,Key Defender
-22,Harry Perryman,Collingwood,17.0,11.0,6.0,0.65,0.35,5.0,0.0,2.0,Gen. Defender
-22,Isaac Quaynor,Collingwood,10.0,6.0,4.0,0.6,0.4,4.0,0.0,3.0,Gen. Defender
-22,Jack Crisp,Collingwood,22.0,11.0,11.0,0.5,0.5,2.0,0.0,3.0,Midfielder
-22,Jamie Elliott,Collingwood,6.0,4.0,2.0,0.67,0.33,2.0,0.0,0.0,Gen. Forward
-22,Jeremy Howe,Collingwood,,,,,,,,,Gen. Defender
-22,Jordan De Goey,Collingwood,15.0,5.0,10.0,0.33,0.67,1.0,1.0,1.0,Mid-Forward
-22,Josh Daicos,Collingwood,20.0,10.0,10.0,0.5,0.5,3.0,0.0,1.0,Gen. Defender
-22,Lachie Schultz,Collingwood,12.0,8.0,4.0,0.67,0.33,5.0,1.0,5.0,Gen. Forward
-22,Ned Long,Collingwood,10.0,3.0,7.0,0.3,0.7,2.0,0.0,3.0,Midfielder
-22,Nick Daicos,Collingwood,24.0,13.0,11.0,0.54,0.46,4.0,0.0,4.0,Midfielder
-22,Patrick Lipinski,Collingwood,16.0,6.0,10.0,0.38,0.62,1.0,1.0,3.0,Mid-Forward
-22,Scott Pendlebury,Collingwood,27.0,15.0,12.0,0.56,0.44,4.0,0.0,0.0,Midfielder
-22,Steele Sidebottom,Collingwood,18.0,13.0,5.0,0.72,0.28,7.0,0.0,0.0,Midfielder
-22,Tim Membrey,Collingwood,7.0,4.0,3.0,0.57,0.43,2.0,1.0,1.0,Key Forward
-22,Tom Mitchell,Collingwood,18.0,7.0,11.0,0.39,0.61,5.0,0.0,4.0,Midfielder
-22,Will Hoskin-Elliott,Collingwood,4.0,2.0,2.0,0.5,0.5,2.0,0.0,0.0,Gen. Forward
-23,Beau McCreery,Collingwood,11.0,9.0,2.0,0.82,0.18,3.0,0.0,8.0,Gen. Forward
-23,Billy Frampton,Collingwood,16.0,12.0,4.0,0.75,0.25,5.0,0.0,2.0,Key Defender
-23,Brayden Maynard,Collingwood,18.0,11.0,7.0,0.61,0.39,7.0,0.0,2.0,Gen. Defender
-23,Brody Mihocek,Collingwood,9.0,6.0,3.0,0.67,0.33,3.0,0.0,4.0,Key Forward
-23,Dan Houston,Collingwood,18.0,11.0,7.0,0.61,0.39,5.0,1.0,4.0,Gen. Defender
-23,Daniel McStay,Collingwood,6.0,4.0,2.0,0.67,0.33,0.0,0.0,2.0,Key Forward
-23,Darcy Cameron,Collingwood,24.0,13.0,11.0,0.54,0.46,5.0,1.0,2.0,Ruck
-23,Darcy Moore,Collingwood,11.0,6.0,5.0,0.55,0.45,3.0,0.0,0.0,Key Defender
-23,Edward Allan,Collingwood,,,,,,,,,Midfielder
-23,Harry Perryman,Collingwood,11.0,11.0,0.0,1.0,0.0,4.0,0.0,1.0,Gen. Defender
-23,Isaac Quaynor,Collingwood,13.0,8.0,5.0,0.62,0.38,5.0,0.0,3.0,Gen. Defender
-23,Jack Crisp,Collingwood,23.0,10.0,13.0,0.43,0.57,3.0,1.0,13.0,Midfielder
-23,Jamie Elliott,Collingwood,8.0,5.0,3.0,0.62,0.38,2.0,2.0,7.0,Gen. Forward
-23,Jordan De Goey,Collingwood,11.0,8.0,3.0,0.73,0.27,0.0,0.0,1.0,Mid-Forward
-23,Josh Daicos,Collingwood,19.0,12.0,7.0,0.63,0.37,3.0,0.0,2.0,Gen. Defender
-23,Lachie Schultz,Collingwood,17.0,8.0,9.0,0.47,0.53,7.0,0.0,4.0,Gen. Forward
-23,Ned Long,Collingwood,22.0,11.0,11.0,0.5,0.5,3.0,0.0,4.0,Midfielder
-23,Nick Daicos,Collingwood,29.0,18.0,11.0,0.62,0.38,2.0,1.0,6.0,Midfielder
-23,Patrick Lipinski,Collingwood,10.0,5.0,5.0,0.5,0.5,1.0,0.0,5.0,Mid-Forward
-23,Scott Pendlebury,Collingwood,24.0,15.0,9.0,0.62,0.38,4.0,0.0,5.0,Midfielder
-23,Steele Sidebottom,Collingwood,21.0,17.0,4.0,0.81,0.19,5.0,0.0,4.0,Midfielder
-23,Tim Membrey,Collingwood,7.0,5.0,2.0,0.71,0.29,3.0,2.0,2.0,Key Forward
-23,Wil Parker,Collingwood,10.0,6.0,4.0,0.6,0.4,2.0,0.0,3.0,Gen. Defender
-24,Beau McCreery,Collingwood,18.0,9.0,9.0,0.5,0.5,2.0,0.0,1.0,Gen. Forward
-24,Billy Frampton,Collingwood,12.0,8.0,4.0,0.67,0.33,9.0,0.0,1.0,Key Defender
-24,Brayden Maynard,Collingwood,16.0,11.0,5.0,0.69,0.31,7.0,1.0,0.0,Gen. Defender
-24,Brody Mihocek,Collingwood,8.0,7.0,1.0,0.88,0.12,4.0,1.0,0.0,Key Forward
-24,Dan Houston,Collingwood,22.0,17.0,5.0,0.77,0.23,7.0,0.0,2.0,Gen. Defender
-24,Daniel McStay,Collingwood,9.0,4.0,5.0,0.44,0.56,3.0,1.0,4.0,Key Forward
-24,Darcy Cameron,Collingwood,14.0,11.0,3.0,0.79,0.21,4.0,0.0,4.0,Ruck
-24,Darcy Moore,Collingwood,7.0,5.0,2.0,0.71,0.29,5.0,0.0,3.0,Key Defender
-24,Harry Perryman,Collingwood,16.0,14.0,2.0,0.88,0.12,7.0,0.0,2.0,Gen. Defender
-24,Isaac Quaynor,Collingwood,15.0,10.0,5.0,0.67,0.33,7.0,0.0,1.0,Gen. Defender
-24,Jack Crisp,Collingwood,18.0,9.0,9.0,0.5,0.5,6.0,1.0,7.0,Midfielder
-24,Jamie Elliott,Collingwood,15.0,11.0,4.0,0.73,0.27,9.0,2.0,0.0,Gen. Forward
-24,Jeremy Howe,Collingwood,,,,,,,,,Gen. Defender
-24,Jordan De Goey,Collingwood,26.0,17.0,9.0,0.65,0.35,6.0,1.0,1.0,Mid-Forward
-24,Josh Daicos,Collingwood,19.0,18.0,1.0,0.95,0.05,7.0,0.0,4.0,Gen. Defender
-24,Lachie Schultz,Collingwood,16.0,11.0,5.0,0.69,0.31,6.0,2.0,4.0,Gen. Forward
-24,Ned Long,Collingwood,17.0,10.0,7.0,0.59,0.41,6.0,1.0,5.0,Midfielder
-24,Nick Daicos,Collingwood,27.0,14.0,13.0,0.52,0.48,6.0,0.0,5.0,Midfielder
-24,Patrick Lipinski,Collingwood,15.0,9.0,6.0,0.6,0.4,6.0,0.0,0.0,Mid-Forward
-24,Roan Steele,Collingwood,,,,,,,,,Midfielder
-24,Scott Pendlebury,Collingwood,21.0,14.0,7.0,0.67,0.33,3.0,0.0,4.0,Midfielder
-24,Steele Sidebottom,Collingwood,16.0,11.0,5.0,0.69,0.31,6.0,1.0,0.0,Midfielder
-24,Tim Membrey,Collingwood,8.0,2.0,6.0,0.25,0.75,2.0,0.0,1.0,Key Forward
+Round,Player,Team,Position,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,DispDiff,KickDiff,HbDiff,MarkDiff
+1,Beau McCreery,Collingwood,Gen. Forward,12.0,8.0,4.0,0.67,0.33,5.0,0.0,2.0,0.74,1.11,-0.37,2.9
+1,Bobby Hill,Collingwood,Gen. Forward,10.0,6.0,4.0,0.6,0.4,2.0,2.0,0.0,1.14,-0.07,1.21,-0.57
+1,Brayden Maynard,Collingwood,Gen. Defender,14.0,12.0,2.0,0.86,0.14,3.0,2.0,3.0,-2.05,0.3,-2.35,-1.75
+1,Brody Mihocek,Collingwood,Key Forward,9.0,4.0,5.0,0.44,0.56,3.0,3.0,2.0,-0.59,-2.68,2.09,-0.77
+1,Dan Houston,Collingwood,Gen. Defender,27.0,14.0,13.0,0.52,0.48,2.0,0.0,5.0,10.14,3.05,7.1,-1.57
+1,Daniel McStay,Collingwood,Key Forward,21.0,10.0,11.0,0.48,0.52,7.0,3.0,5.0,11.28,4.0,7.28,3.56
+1,Darcy Cameron,Collingwood,Ruck,14.0,9.0,5.0,0.64,0.36,1.0,0.0,3.0,-3.64,-1.72,-1.92,-4.12
+1,Darcy Moore,Collingwood,Key Defender,10.0,8.0,2.0,0.8,0.2,7.0,0.0,2.0,-0.64,2.59,-3.23,2.5
+1,Harry Perryman,Collingwood,Gen. Defender,13.0,7.0,6.0,0.54,0.46,1.0,0.0,4.0,-2.32,-2.88,0.56,-3.08
+1,Isaac Quaynor,Collingwood,Gen. Defender,16.0,10.0,6.0,0.62,0.38,5.0,0.0,0.0,1.96,1.32,0.64,0.16
+1,Jack Crisp,Collingwood,Midfielder,26.0,11.0,15.0,0.42,0.58,3.0,0.0,7.0,5.96,-0.4,6.36,-1.24
+1,Jamie Elliott,Collingwood,Gen. Forward,10.0,7.0,3.0,0.7,0.3,3.0,2.0,2.0,-2.08,-1.24,-0.84,-2.08
+1,Jeremy Howe,Collingwood,Gen. Defender,10.0,9.0,1.0,0.9,0.1,3.0,0.0,0.0,-2.53,-1.16,-1.37,-1.16
+1,Josh Daicos,Collingwood,Gen. Defender,26.0,11.0,15.0,0.42,0.58,5.0,0.0,5.0,-0.84,-5.92,5.08,0.08
+1,Lachie Schultz,Collingwood,Gen. Forward,17.0,5.0,12.0,0.29,0.71,4.0,1.0,7.0,2.5,-3.0,5.5,-0.88
+1,Lachlan Sullivan,Collingwood,Gen. Forward,12.0,5.0,7.0,0.42,0.58,1.0,1.0,4.0,1.29,0.07,1.21,-0.57
+1,Ned Long,Collingwood,Midfielder,24.0,12.0,12.0,0.5,0.5,1.0,0.0,7.0,6.16,4.72,1.44,-1.48
+1,Nick Daicos,Collingwood,Midfielder,26.0,19.0,7.0,0.73,0.27,6.0,1.0,1.0,-4.0,2.24,-6.24,1.96
+1,Patrick Lipinski,Collingwood,Mid-Forward,24.0,16.0,8.0,0.67,0.33,8.0,1.0,1.0,6.83,7.13,-0.3,4.39
+1,Reef McInnes,Collingwood,Key Defender,11.0,9.0,2.0,0.82,0.18,6.0,0.0,1.0,3.0,3.33,-0.33,3.0
+1,Scott Pendlebury,Collingwood,Midfielder,,,,,,,,,,,,
+1,Steele Sidebottom,Collingwood,Midfielder,31.0,16.0,15.0,0.52,0.48,3.0,1.0,6.0,9.78,3.65,6.13,-1.22
+1,Tim Membrey,Collingwood,Key Forward,17.0,12.0,5.0,0.71,0.29,10.0,4.0,1.0,7.22,6.13,1.09,5.83
+2,Beau McCreery,Collingwood,Gen. Forward,10.0,8.0,2.0,0.8,0.2,0.0,1.0,4.0,-1.26,1.11,-2.37,-2.1
+2,Bobby Hill,Collingwood,Gen. Forward,8.0,6.0,2.0,0.75,0.25,2.0,2.0,3.0,-0.86,-0.07,-0.79,-0.57
+2,Brayden Maynard,Collingwood,Gen. Defender,13.0,8.0,5.0,0.62,0.38,4.0,0.0,3.0,-3.05,-3.7,0.65,-0.75
+2,Dan Houston,Collingwood,Gen. Defender,15.0,10.0,5.0,0.67,0.33,3.0,1.0,2.0,-1.86,-0.95,-0.91,-0.57
+2,Daniel McStay,Collingwood,Key Forward,14.0,10.0,4.0,0.71,0.29,5.0,1.0,0.0,4.28,4.0,0.28,1.56
+2,Darcy Cameron,Collingwood,Ruck,19.0,9.0,10.0,0.47,0.53,4.0,0.0,3.0,1.36,-1.72,3.08,-1.12
+2,Darcy Moore,Collingwood,Key Defender,15.0,8.0,7.0,0.53,0.47,5.0,0.0,3.0,4.36,2.59,1.77,0.5
+2,Harry Perryman,Collingwood,Gen. Defender,12.0,8.0,4.0,0.67,0.33,4.0,0.0,0.0,-3.32,-1.88,-1.44,-0.08
+2,Isaac Quaynor,Collingwood,Gen. Defender,11.0,7.0,4.0,0.64,0.36,1.0,0.0,2.0,-3.04,-1.68,-1.36,-3.84
+2,Jack Crisp,Collingwood,Midfielder,21.0,12.0,9.0,0.57,0.43,5.0,0.0,3.0,0.96,0.6,0.36,0.76
+2,Jamie Elliott,Collingwood,Gen. Forward,14.0,7.0,7.0,0.5,0.5,5.0,1.0,3.0,1.92,-1.24,3.16,-0.08
+2,Jeremy Howe,Collingwood,Gen. Defender,17.0,14.0,3.0,0.82,0.18,7.0,0.0,1.0,4.47,3.84,0.63,2.84
+2,Jordan De Goey,Collingwood,Mid-Forward,15.0,11.0,4.0,0.73,0.27,4.0,0.0,3.0,0.0,2.64,-2.64,1.54
+2,Josh Daicos,Collingwood,Gen. Defender,25.0,14.0,11.0,0.56,0.44,4.0,0.0,2.0,-1.84,-2.92,1.08,-0.92
+2,Lachie Schultz,Collingwood,Gen. Forward,17.0,11.0,6.0,0.65,0.35,6.0,2.0,7.0,2.5,3.0,-0.5,1.12
+2,Mason Cox,Collingwood,Key Forward,,,,,,,,,,,,
+2,Ned Long,Collingwood,Midfielder,13.0,5.0,8.0,0.38,0.62,1.0,0.0,9.0,-4.84,-2.28,-2.56,-1.48
+2,Nick Daicos,Collingwood,Midfielder,39.0,18.0,21.0,0.46,0.54,7.0,0.0,4.0,9.0,1.24,7.76,2.96
+2,Patrick Lipinski,Collingwood,Mid-Forward,22.0,7.0,15.0,0.32,0.68,1.0,0.0,2.0,4.83,-1.87,6.7,-2.61
+2,Reef McInnes,Collingwood,Key Defender,,,,,,,,,,,,
+2,Scott Pendlebury,Collingwood,Midfielder,26.0,5.0,21.0,0.19,0.81,3.0,0.0,1.0,3.91,-5.64,9.54,-1.04
+2,Steele Sidebottom,Collingwood,Midfielder,22.0,12.0,10.0,0.55,0.45,1.0,2.0,4.0,0.78,-0.35,1.13,-3.22
+2,Tim Membrey,Collingwood,Key Forward,8.0,7.0,1.0,0.88,0.12,2.0,0.0,2.0,-1.78,1.13,-2.91,-2.17
+4,Beau McCreery,Collingwood,Gen. Forward,7.0,3.0,4.0,0.43,0.57,1.0,0.0,6.0,-4.26,-3.89,-0.37,-1.1
+4,Billy Frampton,Collingwood,Key Defender,9.0,5.0,4.0,0.56,0.44,3.0,0.0,1.0,-1.44,-1.19,-0.25,-1.31
+4,Bobby Hill,Collingwood,Gen. Forward,6.0,3.0,3.0,0.5,0.5,1.0,0.0,4.0,-2.86,-3.07,0.21,-1.57
+4,Brayden Maynard,Collingwood,Gen. Defender,16.0,10.0,6.0,0.62,0.38,1.0,1.0,3.0,-0.05,-1.7,1.65,-3.75
+4,Brody Mihocek,Collingwood,Key Forward,10.0,7.0,3.0,0.7,0.3,7.0,0.0,1.0,0.41,0.32,0.09,3.23
+4,Dan Houston,Collingwood,Gen. Defender,23.0,17.0,6.0,0.74,0.26,4.0,0.0,1.0,6.14,6.05,0.09,0.43
+4,Daniel McStay,Collingwood,Key Forward,9.0,7.0,2.0,0.78,0.22,2.0,0.0,7.0,-0.72,1.0,-1.72,-1.44
+4,Darcy Cameron,Collingwood,Ruck,22.0,16.0,6.0,0.73,0.27,6.0,0.0,5.0,4.36,5.28,-0.92,0.88
+4,Darcy Moore,Collingwood,Key Defender,17.0,8.0,9.0,0.47,0.53,3.0,0.0,0.0,6.36,2.59,3.77,-1.5
+4,Harry Perryman,Collingwood,Gen. Defender,20.0,10.0,10.0,0.5,0.5,2.0,1.0,8.0,4.68,0.12,4.56,-2.08
+4,Isaac Quaynor,Collingwood,Gen. Defender,5.0,4.0,1.0,0.8,0.2,3.0,0.0,4.0,-9.04,-4.68,-4.36,-1.84
+4,Jack Crisp,Collingwood,Midfielder,22.0,10.0,12.0,0.45,0.55,6.0,0.0,1.0,1.96,-1.4,3.36,1.76
+4,Jamie Elliott,Collingwood,Gen. Forward,9.0,3.0,6.0,0.33,0.67,1.0,0.0,7.0,-3.08,-5.24,2.16,-4.08
+4,Jeremy Howe,Collingwood,Gen. Defender,10.0,9.0,1.0,0.9,0.1,4.0,0.0,1.0,-2.53,-1.16,-1.37,-0.16
+4,Jordan De Goey,Collingwood,Mid-Forward,8.0,5.0,3.0,0.62,0.38,3.0,2.0,2.0,-7.0,-3.36,-3.64,0.54
+4,Josh Daicos,Collingwood,Gen. Defender,31.0,16.0,15.0,0.52,0.48,5.0,0.0,3.0,4.16,-0.92,5.08,0.08
+4,Lachie Schultz,Collingwood,Gen. Forward,18.0,11.0,7.0,0.61,0.39,7.0,2.0,7.0,3.5,3.0,0.5,2.12
+4,Ned Long,Collingwood,Midfielder,,,,,,,,,,,,
+4,Nick Daicos,Collingwood,Midfielder,27.0,12.0,15.0,0.44,0.56,1.0,0.0,4.0,-3.0,-4.76,1.76,-3.04
+4,Patrick Lipinski,Collingwood,Mid-Forward,20.0,9.0,11.0,0.45,0.55,3.0,0.0,2.0,2.83,0.13,2.7,-0.61
+4,Scott Pendlebury,Collingwood,Midfielder,29.0,8.0,21.0,0.28,0.72,3.0,0.0,7.0,6.91,-2.64,9.54,-1.04
+4,Steele Sidebottom,Collingwood,Midfielder,24.0,14.0,10.0,0.58,0.42,2.0,0.0,7.0,2.78,1.65,1.13,-2.22
+4,Tim Membrey,Collingwood,Key Forward,12.0,5.0,7.0,0.42,0.58,0.0,1.0,1.0,2.22,-0.87,3.09,-4.17
+5,Beau McCreery,Collingwood,Gen. Forward,9.0,9.0,0.0,1.0,0.0,3.0,2.0,4.0,-2.26,2.11,-4.37,0.9
+5,Billy Frampton,Collingwood,Key Defender,10.0,6.0,4.0,0.6,0.4,3.0,0.0,1.0,-0.44,-0.19,-0.25,-1.31
+5,Bobby Hill,Collingwood,Gen. Forward,12.0,7.0,5.0,0.58,0.42,1.0,3.0,1.0,3.14,0.93,2.21,-1.57
+5,Brayden Maynard,Collingwood,Gen. Defender,11.0,10.0,1.0,0.91,0.09,4.0,0.0,2.0,-5.05,-1.7,-3.35,-0.75
+5,Brody Mihocek,Collingwood,Key Forward,8.0,6.0,2.0,0.75,0.25,4.0,3.0,2.0,-1.59,-0.68,-0.91,0.23
+5,Daniel McStay,Collingwood,Key Forward,9.0,5.0,4.0,0.56,0.44,4.0,1.0,3.0,-0.72,-1.0,0.28,0.56
+5,Darcy Cameron,Collingwood,Ruck,20.0,11.0,9.0,0.55,0.45,5.0,0.0,3.0,2.36,0.28,2.08,-0.12
+5,Darcy Moore,Collingwood,Key Defender,14.0,3.0,11.0,0.21,0.79,1.0,0.0,5.0,3.36,-2.41,5.77,-3.5
+5,Edward Allan,Collingwood,Midfielder,,,,,,,,,,,,
+5,Harry Perryman,Collingwood,Gen. Defender,17.0,11.0,6.0,0.65,0.35,6.0,0.0,3.0,1.68,1.12,0.56,1.92
+5,Isaac Quaynor,Collingwood,Gen. Defender,14.0,11.0,3.0,0.79,0.21,8.0,0.0,1.0,-0.04,2.32,-2.36,3.16
+5,Jack Crisp,Collingwood,Midfielder,19.0,11.0,8.0,0.58,0.42,6.0,1.0,3.0,-1.04,-0.4,-0.64,1.76
+5,Jamie Elliott,Collingwood,Gen. Forward,11.0,10.0,1.0,0.91,0.09,5.0,3.0,1.0,-1.08,1.76,-2.84,-0.08
+5,Jeremy Howe,Collingwood,Gen. Defender,11.0,7.0,4.0,0.64,0.36,2.0,0.0,0.0,-1.53,-3.16,1.63,-2.16
+5,Josh Daicos,Collingwood,Gen. Defender,15.0,6.0,9.0,0.4,0.6,3.0,0.0,5.0,-11.84,-10.92,-0.92,-1.92
+5,Lachlan Sullivan,Collingwood,Gen. Forward,15.0,6.0,9.0,0.4,0.6,2.0,1.0,3.0,4.29,1.07,3.21,0.43
+5,Ned Long,Collingwood,Midfielder,29.0,13.0,16.0,0.45,0.55,4.0,0.0,6.0,11.16,5.72,5.44,1.52
+5,Nick Daicos,Collingwood,Midfielder,34.0,16.0,18.0,0.47,0.53,3.0,0.0,9.0,4.0,-0.76,4.76,-1.04
+5,Patrick Lipinski,Collingwood,Mid-Forward,24.0,15.0,9.0,0.62,0.38,4.0,0.0,1.0,6.83,6.13,0.7,0.39
+5,Scott Pendlebury,Collingwood,Midfielder,26.0,12.0,14.0,0.46,0.54,3.0,0.0,8.0,3.91,1.36,2.54,-1.04
+5,Steele Sidebottom,Collingwood,Midfielder,28.0,17.0,11.0,0.61,0.39,5.0,0.0,6.0,6.78,4.65,2.13,0.78
+5,Tim Membrey,Collingwood,Key Forward,13.0,6.0,7.0,0.46,0.54,5.0,1.0,0.0,3.22,0.13,3.09,0.83
+5,Will Hoskin-Elliott,Collingwood,Gen. Forward,13.0,8.0,5.0,0.62,0.38,4.0,1.0,3.0,4.22,1.89,2.33,0.67
+6,Beau McCreery,Collingwood,Gen. Forward,11.0,5.0,6.0,0.45,0.55,3.0,1.0,1.0,-0.26,-1.89,1.63,0.9
+6,Billy Frampton,Collingwood,Key Defender,5.0,4.0,1.0,0.8,0.2,2.0,0.0,0.0,-5.44,-2.19,-3.25,-2.31
+6,Bobby Hill,Collingwood,Gen. Forward,8.0,5.0,3.0,0.62,0.38,1.0,2.0,1.0,-0.86,-1.07,0.21,-1.57
+6,Brayden Maynard,Collingwood,Gen. Defender,15.0,11.0,4.0,0.73,0.27,5.0,0.0,1.0,-1.05,-0.7,-0.35,0.25
+6,Brody Mihocek,Collingwood,Key Forward,10.0,8.0,2.0,0.8,0.2,6.0,2.0,3.0,0.41,1.32,-0.91,2.23
+6,Daniel McStay,Collingwood,Key Forward,8.0,5.0,3.0,0.62,0.38,3.0,3.0,1.0,-1.72,-1.0,-0.72,-0.44
+6,Darcy Cameron,Collingwood,Ruck,14.0,9.0,5.0,0.64,0.36,2.0,0.0,1.0,-3.64,-1.72,-1.92,-3.12
+6,Darcy Moore,Collingwood,Key Defender,4.0,1.0,3.0,0.25,0.75,2.0,0.0,1.0,-6.64,-4.41,-2.23,-2.5
+6,Edward Allan,Collingwood,Midfielder,,,,,,,,,,,,
+6,Harry Perryman,Collingwood,Gen. Defender,9.0,7.0,2.0,0.78,0.22,2.0,0.0,2.0,-6.32,-2.88,-3.44,-2.08
+6,Isaac Quaynor,Collingwood,Gen. Defender,10.0,5.0,5.0,0.5,0.5,3.0,0.0,2.0,-4.04,-3.68,-0.36,-1.84
+6,Jack Crisp,Collingwood,Midfielder,20.0,12.0,8.0,0.6,0.4,4.0,0.0,0.0,-0.04,0.6,-0.64,-0.24
+6,Jamie Elliott,Collingwood,Gen. Forward,13.0,8.0,5.0,0.62,0.38,7.0,2.0,1.0,0.92,-0.24,1.16,1.92
+6,Jeremy Howe,Collingwood,Gen. Defender,16.0,13.0,3.0,0.81,0.19,7.0,0.0,0.0,3.47,2.84,0.63,2.84
+6,Jordan De Goey,Collingwood,Mid-Forward,12.0,9.0,3.0,0.75,0.25,1.0,2.0,1.0,-3.0,0.64,-3.64,-1.46
+6,Josh Daicos,Collingwood,Gen. Defender,30.0,17.0,13.0,0.57,0.43,5.0,1.0,0.0,3.16,0.08,3.08,0.08
+6,Mason Cox,Collingwood,Key Forward,8.0,4.0,4.0,0.5,0.5,2.0,0.0,1.0,1.1,0.1,1.0,-0.7
+6,Ned Long,Collingwood,Midfielder,21.0,6.0,15.0,0.29,0.71,2.0,1.0,6.0,3.16,-1.28,4.44,-0.48
+6,Nick Daicos,Collingwood,Midfielder,38.0,21.0,17.0,0.55,0.45,6.0,1.0,3.0,8.0,4.24,3.76,1.96
+6,Patrick Lipinski,Collingwood,Mid-Forward,18.0,8.0,10.0,0.44,0.56,7.0,0.0,1.0,0.83,-0.87,1.7,3.39
+6,Scott Pendlebury,Collingwood,Midfielder,21.0,11.0,10.0,0.52,0.48,2.0,0.0,4.0,-1.09,0.36,-1.46,-2.04
+6,Steele Sidebottom,Collingwood,Midfielder,26.0,17.0,9.0,0.65,0.35,7.0,0.0,1.0,4.78,4.65,0.13,2.78
+6,Will Hoskin-Elliott,Collingwood,Gen. Forward,9.0,6.0,3.0,0.67,0.33,7.0,1.0,2.0,0.22,-0.11,0.33,3.67
+7,Beau McCreery,Collingwood,Gen. Forward,10.0,8.0,2.0,0.8,0.2,5.0,0.0,4.0,-1.26,1.11,-2.37,2.9
+7,Billy Frampton,Collingwood,Key Defender,15.0,7.0,8.0,0.47,0.53,6.0,0.0,2.0,4.56,0.81,3.75,1.69
+7,Bobby Hill,Collingwood,Gen. Forward,7.0,7.0,0.0,1.0,0.0,3.0,1.0,2.0,-1.86,0.93,-2.79,0.43
+7,Brayden Maynard,Collingwood,Gen. Defender,16.0,13.0,3.0,0.81,0.19,3.0,1.0,4.0,-0.05,1.3,-1.35,-1.75
+7,Brody Mihocek,Collingwood,Key Forward,7.0,3.0,4.0,0.43,0.57,2.0,1.0,3.0,-2.59,-3.68,1.09,-1.77
+7,Dan Houston,Collingwood,Gen. Defender,15.0,8.0,7.0,0.53,0.47,2.0,0.0,2.0,-1.86,-2.95,1.09,-1.57
+7,Daniel McStay,Collingwood,Key Forward,,,,,,,,,,,,
+7,Darcy Cameron,Collingwood,Ruck,16.0,10.0,6.0,0.62,0.38,6.0,1.0,0.0,-1.64,-0.72,-0.92,0.88
+7,Harry Perryman,Collingwood,Gen. Defender,13.0,7.0,6.0,0.54,0.46,1.0,1.0,6.0,-2.32,-2.88,0.56,-3.08
+7,Isaac Quaynor,Collingwood,Gen. Defender,10.0,6.0,4.0,0.6,0.4,4.0,0.0,6.0,-4.04,-2.68,-1.36,-0.84
+7,Jack Crisp,Collingwood,Midfielder,17.0,9.0,8.0,0.53,0.47,6.0,0.0,2.0,-3.04,-2.4,-0.64,1.76
+7,Jamie Elliott,Collingwood,Gen. Forward,19.0,13.0,6.0,0.68,0.32,8.0,5.0,1.0,6.92,4.76,2.16,2.92
+7,Jeremy Howe,Collingwood,Gen. Defender,21.0,16.0,5.0,0.76,0.24,9.0,0.0,0.0,8.47,5.84,2.63,4.84
+7,Jordan De Goey,Collingwood,Mid-Forward,14.0,9.0,5.0,0.64,0.36,4.0,1.0,5.0,-1.0,0.64,-1.64,1.54
+7,Josh Daicos,Collingwood,Gen. Defender,36.0,23.0,13.0,0.64,0.36,9.0,0.0,0.0,9.16,6.08,3.08,4.08
+7,Lachlan Sullivan,Collingwood,Gen. Forward,,,,,,,,,,,,
+7,Ned Long,Collingwood,Midfielder,22.0,11.0,11.0,0.5,0.5,7.0,1.0,4.0,4.16,3.72,0.44,4.52
+7,Nick Daicos,Collingwood,Midfielder,31.0,18.0,13.0,0.58,0.42,4.0,1.0,7.0,1.0,1.24,-0.24,-0.04
+7,Patrick Lipinski,Collingwood,Mid-Forward,20.0,11.0,9.0,0.55,0.45,4.0,0.0,3.0,2.83,2.13,0.7,0.39
+7,Scott Pendlebury,Collingwood,Midfielder,31.0,14.0,17.0,0.45,0.55,5.0,0.0,2.0,8.91,3.36,5.54,0.96
+7,Steele Sidebottom,Collingwood,Midfielder,35.0,18.0,17.0,0.51,0.49,2.0,0.0,4.0,13.78,5.65,8.13,-2.22
+7,Tim Membrey,Collingwood,Key Forward,6.0,3.0,3.0,0.5,0.5,2.0,2.0,2.0,-3.78,-2.87,-0.91,-2.17
+7,Will Hoskin-Elliott,Collingwood,Gen. Forward,7.0,5.0,2.0,0.71,0.29,2.0,1.0,0.0,-1.78,-1.11,-0.67,-1.33
+8,Beau McCreery,Collingwood,Gen. Forward,6.0,3.0,3.0,0.5,0.5,1.0,0.0,2.0,-5.26,-3.89,-1.37,-1.1
+8,Billy Frampton,Collingwood,Key Defender,8.0,2.0,6.0,0.25,0.75,3.0,0.0,3.0,-2.44,-4.19,1.75,-1.31
+8,Bobby Hill,Collingwood,Gen. Forward,7.0,5.0,2.0,0.71,0.29,2.0,1.0,1.0,-1.86,-1.07,-0.79,-0.57
+8,Brayden Maynard,Collingwood,Gen. Defender,20.0,17.0,3.0,0.85,0.15,9.0,0.0,4.0,3.95,5.3,-1.35,4.25
+8,Brody Mihocek,Collingwood,Key Forward,10.0,8.0,2.0,0.8,0.2,6.0,4.0,2.0,0.41,1.32,-0.91,2.23
+8,Dan Houston,Collingwood,Gen. Defender,20.0,14.0,6.0,0.7,0.3,6.0,1.0,1.0,3.14,3.05,0.09,2.43
+8,Darcy Cameron,Collingwood,Ruck,23.0,13.0,10.0,0.57,0.43,7.0,1.0,4.0,5.36,2.28,3.08,1.88
+8,Darcy Moore,Collingwood,Key Defender,8.0,4.0,4.0,0.5,0.5,5.0,0.0,1.0,-2.64,-1.41,-1.23,0.5
+8,Harry Perryman,Collingwood,Gen. Defender,17.0,11.0,6.0,0.65,0.35,6.0,0.0,3.0,1.68,1.12,0.56,1.92
+8,Isaac Quaynor,Collingwood,Gen. Defender,13.0,7.0,6.0,0.54,0.46,5.0,0.0,1.0,-1.04,-1.68,0.64,0.16
+8,Jack Crisp,Collingwood,Midfielder,15.0,13.0,2.0,0.87,0.13,5.0,0.0,2.0,-5.04,1.6,-6.64,0.76
+8,Jamie Elliott,Collingwood,Gen. Forward,12.0,7.0,5.0,0.58,0.42,7.0,1.0,4.0,-0.08,-1.24,1.16,1.92
+8,Jordan De Goey,Collingwood,Mid-Forward,9.0,3.0,6.0,0.33,0.67,2.0,0.0,1.0,-6.0,-5.36,-0.64,-0.46
+8,Josh Daicos,Collingwood,Gen. Defender,32.0,23.0,9.0,0.72,0.28,3.0,0.0,2.0,5.16,6.08,-0.92,-1.92
+8,Lachie Schultz,Collingwood,Gen. Forward,15.0,9.0,6.0,0.6,0.4,7.0,0.0,7.0,0.5,1.0,-0.5,2.12
+8,Mason Cox,Collingwood,Key Forward,,,,,,,,,,,,
+8,Ned Long,Collingwood,Midfielder,18.0,6.0,12.0,0.33,0.67,2.0,0.0,9.0,0.16,-1.28,1.44,-0.48
+8,Nick Daicos,Collingwood,Midfielder,28.0,13.0,15.0,0.46,0.54,2.0,1.0,3.0,-2.0,-3.76,1.76,-2.04
+8,Patrick Lipinski,Collingwood,Mid-Forward,20.0,11.0,9.0,0.55,0.45,7.0,0.0,4.0,2.83,2.13,0.7,3.39
+8,Scott Pendlebury,Collingwood,Midfielder,26.0,19.0,7.0,0.73,0.27,9.0,1.0,4.0,3.91,8.36,-4.46,4.96
+8,Steele Sidebottom,Collingwood,Midfielder,25.0,15.0,10.0,0.6,0.4,6.0,0.0,3.0,3.78,2.65,1.13,1.78
+8,Tim Membrey,Collingwood,Key Forward,10.0,7.0,3.0,0.7,0.3,6.0,1.0,3.0,0.22,1.13,-0.91,1.83
+8,Will Hoskin-Elliott,Collingwood,Gen. Forward,,,,,,,,,,,,
+9,Beau McCreery,Collingwood,Gen. Forward,13.0,10.0,3.0,0.77,0.23,4.0,0.0,5.0,1.74,3.11,-1.37,1.9
+9,Billy Frampton,Collingwood,Key Defender,15.0,10.0,5.0,0.67,0.33,9.0,0.0,0.0,4.56,3.81,0.75,4.69
+9,Bobby Hill,Collingwood,Gen. Forward,14.0,10.0,4.0,0.71,0.29,5.0,3.0,3.0,5.14,3.93,1.21,2.43
+9,Dan Houston,Collingwood,Gen. Defender,12.0,7.0,5.0,0.58,0.42,3.0,0.0,3.0,-4.86,-3.95,-0.91,-0.57
+9,Darcy Cameron,Collingwood,Ruck,19.0,10.0,9.0,0.53,0.47,8.0,0.0,3.0,1.36,-0.72,2.08,2.88
+9,Darcy Moore,Collingwood,Key Defender,9.0,5.0,4.0,0.56,0.44,6.0,0.0,1.0,-1.64,-0.41,-1.23,1.5
+9,Edward Allan,Collingwood,Midfielder,11.0,4.0,7.0,0.36,0.64,2.0,0.0,3.0,-2.15,-1.38,-0.77,-0.54
+9,Harry Perryman,Collingwood,Gen. Defender,16.0,10.0,6.0,0.62,0.38,6.0,0.0,6.0,0.68,0.12,0.56,1.92
+9,Isaac Quaynor,Collingwood,Gen. Defender,5.0,5.0,0.0,1.0,0.0,4.0,0.0,2.0,-9.04,-3.68,-5.36,-0.84
+9,Jack Crisp,Collingwood,Midfielder,29.0,16.0,13.0,0.55,0.45,3.0,2.0,6.0,8.96,4.6,4.36,-1.24
+9,Jamie Elliott,Collingwood,Gen. Forward,14.0,13.0,1.0,0.93,0.07,8.0,6.0,1.0,1.92,4.76,-2.84,2.92
+9,Jeremy Howe,Collingwood,Gen. Defender,17.0,16.0,1.0,0.94,0.06,7.0,0.0,2.0,4.47,5.84,-1.37,2.84
+9,Josh Daicos,Collingwood,Gen. Defender,19.0,13.0,6.0,0.68,0.32,5.0,0.0,1.0,-7.84,-3.92,-3.92,0.08
+9,Lachie Schultz,Collingwood,Gen. Forward,10.0,4.0,6.0,0.4,0.6,2.0,0.0,2.0,-4.5,-4.0,-0.5,-2.88
+9,Lachlan Sullivan,Collingwood,Gen. Forward,17.0,11.0,6.0,0.65,0.35,4.0,0.0,5.0,6.29,6.07,0.21,2.43
+9,Mason Cox,Collingwood,Key Forward,8.0,5.0,3.0,0.62,0.38,1.0,1.0,3.0,1.1,1.1,0.0,-1.7
+9,Ned Long,Collingwood,Midfielder,12.0,5.0,7.0,0.42,0.58,2.0,1.0,7.0,-5.84,-2.28,-3.56,-0.48
+9,Nick Daicos,Collingwood,Midfielder,18.0,10.0,8.0,0.56,0.44,2.0,1.0,3.0,-12.0,-6.76,-5.24,-2.04
+9,Oleg Markov,Collingwood,Gen. Defender,,,,,,,,,,,,
+9,Patrick Lipinski,Collingwood,Mid-Forward,15.0,9.0,6.0,0.6,0.4,3.0,0.0,4.0,-2.17,0.13,-2.3,-0.61
+9,Steele Sidebottom,Collingwood,Midfielder,,,,,,,,,,,,
+9,Tim Membrey,Collingwood,Key Forward,12.0,7.0,5.0,0.58,0.42,4.0,0.0,2.0,2.22,1.13,1.09,-0.17
+9,Will Hoskin-Elliott,Collingwood,Gen. Forward,7.0,4.0,3.0,0.57,0.43,4.0,1.0,0.0,-1.78,-2.11,0.33,0.67
+10,Beau McCreery,Collingwood,Gen. Forward,12.0,9.0,3.0,0.75,0.25,2.0,1.0,6.0,0.74,2.11,-1.37,-0.1
+10,Billy Frampton,Collingwood,Key Defender,14.0,8.0,6.0,0.57,0.43,2.0,0.0,1.0,3.56,1.81,1.75,-2.31
+10,Bobby Hill,Collingwood,Gen. Forward,6.0,6.0,0.0,1.0,0.0,1.0,1.0,4.0,-2.86,-0.07,-2.79,-1.57
+10,Brayden Maynard,Collingwood,Gen. Defender,24.0,14.0,10.0,0.58,0.42,4.0,0.0,4.0,7.95,2.3,5.65,-0.75
+10,Brody Mihocek,Collingwood,Key Forward,6.0,3.0,3.0,0.5,0.5,3.0,1.0,0.0,-3.59,-3.68,0.09,-0.77
+10,Dan Houston,Collingwood,Gen. Defender,15.0,10.0,5.0,0.67,0.33,6.0,1.0,3.0,-1.86,-0.95,-0.91,2.43
+10,Darcy Cameron,Collingwood,Ruck,13.0,9.0,4.0,0.69,0.31,5.0,1.0,2.0,-4.64,-1.72,-2.92,-0.12
+10,Edward Allan,Collingwood,Midfielder,13.0,9.0,4.0,0.69,0.31,4.0,0.0,3.0,-0.15,3.62,-3.77,1.46
+10,Harry Perryman,Collingwood,Gen. Defender,16.0,9.0,7.0,0.56,0.44,4.0,0.0,0.0,0.68,-0.88,1.56,-0.08
+10,Isaac Quaynor,Collingwood,Gen. Defender,17.0,8.0,9.0,0.47,0.53,1.0,0.0,2.0,2.96,-0.68,3.64,-3.84
+10,Jack Crisp,Collingwood,Midfielder,16.0,6.0,10.0,0.38,0.62,1.0,1.0,5.0,-4.04,-5.4,1.36,-3.24
+10,Jamie Elliott,Collingwood,Gen. Forward,14.0,10.0,4.0,0.71,0.29,4.0,1.0,1.0,1.92,1.76,0.16,-1.08
+10,Jeremy Howe,Collingwood,Gen. Defender,17.0,10.0,7.0,0.59,0.41,5.0,0.0,4.0,4.47,-0.16,4.63,0.84
+10,Josh Daicos,Collingwood,Gen. Defender,29.0,14.0,15.0,0.48,0.52,4.0,0.0,1.0,2.16,-2.92,5.08,-0.92
+10,Lachlan Sullivan,Collingwood,Gen. Forward,10.0,6.0,4.0,0.6,0.4,0.0,0.0,3.0,-0.71,1.07,-1.79,-1.57
+10,Mason Cox,Collingwood,Key Forward,,,,,,,,,,,,
+10,Ned Long,Collingwood,Midfielder,19.0,6.0,13.0,0.32,0.68,0.0,0.0,9.0,1.16,-1.28,2.44,-2.48
+10,Nick Daicos,Collingwood,Midfielder,28.0,11.0,17.0,0.39,0.61,3.0,0.0,3.0,-2.0,-5.76,3.76,-1.04
+10,Patrick Lipinski,Collingwood,Mid-Forward,,,,,,,,,,,,
+10,Scott Pendlebury,Collingwood,Midfielder,22.0,11.0,11.0,0.5,0.5,3.0,0.0,2.0,-0.09,0.36,-0.46,-1.04
+10,Steele Sidebottom,Collingwood,Midfielder,22.0,13.0,9.0,0.59,0.41,3.0,1.0,3.0,0.78,0.65,0.13,-1.22
+10,Tim Membrey,Collingwood,Key Forward,10.0,8.0,2.0,0.8,0.2,5.0,1.0,1.0,0.22,2.13,-1.91,0.83
+10,Will Hoskin-Elliott,Collingwood,Gen. Forward,11.0,9.0,2.0,0.82,0.18,5.0,2.0,1.0,2.22,2.89,-0.67,1.67
+11,Beau McCreery,Collingwood,Gen. Forward,14.0,9.0,5.0,0.64,0.36,4.0,0.0,4.0,2.74,2.11,0.63,1.9
+11,Billy Frampton,Collingwood,Key Defender,8.0,5.0,3.0,0.62,0.38,4.0,0.0,0.0,-2.44,-1.19,-1.25,-0.31
+11,Brayden Maynard,Collingwood,Gen. Defender,,,,,,,,,,,,
+11,Brody Mihocek,Collingwood,Key Forward,16.0,9.0,7.0,0.56,0.44,2.0,2.0,3.0,6.41,2.32,4.09,-1.77
+11,Dan Houston,Collingwood,Gen. Defender,15.0,10.0,5.0,0.67,0.33,6.0,0.0,4.0,-1.86,-0.95,-0.91,2.43
+11,Darcy Cameron,Collingwood,Ruck,15.0,7.0,8.0,0.47,0.53,3.0,0.0,3.0,-2.64,-3.72,1.08,-2.12
+11,Edward Allan,Collingwood,Midfielder,24.0,8.0,16.0,0.33,0.67,3.0,0.0,8.0,10.85,2.62,8.23,0.46
+11,Harry Perryman,Collingwood,Gen. Defender,18.0,8.0,10.0,0.44,0.56,1.0,1.0,5.0,2.68,-1.88,4.56,-3.08
+11,Isaac Quaynor,Collingwood,Gen. Defender,23.0,12.0,11.0,0.52,0.48,8.0,0.0,5.0,8.96,3.32,5.64,3.16
+11,Jack Crisp,Collingwood,Midfielder,16.0,10.0,6.0,0.62,0.38,5.0,1.0,10.0,-4.04,-1.4,-2.64,0.76
+11,Jamie Elliott,Collingwood,Gen. Forward,11.0,9.0,2.0,0.82,0.18,5.0,5.0,5.0,-1.08,0.76,-1.84,-0.08
+11,Jeremy Howe,Collingwood,Gen. Defender,11.0,10.0,1.0,0.91,0.09,0.0,0.0,2.0,-1.53,-0.16,-1.37,-4.16
+11,Josh Daicos,Collingwood,Gen. Defender,31.0,18.0,13.0,0.58,0.42,4.0,0.0,2.0,4.16,1.08,3.08,-0.92
+11,Lachlan Sullivan,Collingwood,Gen. Forward,10.0,6.0,4.0,0.6,0.4,0.0,1.0,0.0,-0.71,1.07,-1.79,-1.57
+11,Mason Cox,Collingwood,Key Forward,3.0,2.0,1.0,0.67,0.33,2.0,0.0,2.0,-3.9,-1.9,-2.0,-0.7
+11,Ned Long,Collingwood,Midfielder,29.0,8.0,21.0,0.28,0.72,2.0,0.0,14.0,11.16,0.72,10.44,-0.48
+11,Nick Daicos,Collingwood,Midfielder,38.0,22.0,16.0,0.58,0.42,6.0,0.0,4.0,8.0,5.24,2.76,1.96
+11,Oleg Markov,Collingwood,Gen. Defender,13.0,6.0,7.0,0.46,0.54,3.0,1.0,1.0,4.38,2.0,2.38,1.75
+11,Patrick Lipinski,Collingwood,Mid-Forward,16.0,10.0,6.0,0.62,0.38,4.0,0.0,4.0,-1.17,1.13,-2.3,0.39
+11,Tim Membrey,Collingwood,Key Forward,10.0,8.0,2.0,0.8,0.2,7.0,3.0,2.0,0.22,2.13,-1.91,2.83
+11,Wil Parker,Collingwood,Gen. Defender,7.0,4.0,3.0,0.57,0.43,2.0,0.0,1.0,-1.5,-2.0,0.5,-1.25
+11,Will Hoskin-Elliott,Collingwood,Gen. Forward,9.0,5.0,4.0,0.56,0.44,2.0,1.0,4.0,0.22,-1.11,1.33,-1.33
+11,William Hayes,Collingwood,Gen. Forward,7.0,6.0,1.0,0.86,0.14,3.0,0.0,6.0,-1.0,-0.5,-0.5,0.0
+12,Beau McCreery,Collingwood,Gen. Forward,11.0,4.0,7.0,0.36,0.64,0.0,0.0,6.0,-0.26,-2.89,2.63,-2.1
+12,Billy Frampton,Collingwood,Key Defender,4.0,2.0,2.0,0.5,0.5,1.0,0.0,0.0,-6.44,-4.19,-2.25,-3.31
+12,Bobby Hill,Collingwood,Gen. Forward,14.0,8.0,6.0,0.57,0.43,5.0,1.0,1.0,5.14,1.93,3.21,2.43
+12,Brody Mihocek,Collingwood,Key Forward,12.0,10.0,2.0,0.83,0.17,6.0,4.0,4.0,2.41,3.32,-0.91,2.23
+12,Dan Houston,Collingwood,Gen. Defender,21.0,16.0,5.0,0.76,0.24,4.0,0.0,2.0,4.14,5.05,-0.91,0.43
+12,Darcy Cameron,Collingwood,Ruck,16.0,11.0,5.0,0.69,0.31,4.0,0.0,6.0,-1.64,0.28,-1.92,-1.12
+12,Darcy Moore,Collingwood,Key Defender,7.0,3.0,4.0,0.43,0.57,2.0,0.0,2.0,-3.64,-2.41,-1.23,-2.5
+12,Edward Allan,Collingwood,Midfielder,23.0,11.0,12.0,0.48,0.52,5.0,0.0,2.0,9.85,5.62,4.23,2.46
+12,Harry Perryman,Collingwood,Gen. Defender,13.0,11.0,2.0,0.85,0.15,7.0,0.0,4.0,-2.32,1.12,-3.44,2.92
+12,Isaac Quaynor,Collingwood,Gen. Defender,20.0,10.0,10.0,0.5,0.5,6.0,0.0,2.0,5.96,1.32,4.64,1.16
+12,Jack Crisp,Collingwood,Midfielder,16.0,10.0,6.0,0.62,0.38,2.0,0.0,5.0,-4.04,-1.4,-2.64,-2.24
+12,Jamie Elliott,Collingwood,Gen. Forward,12.0,9.0,3.0,0.75,0.25,5.0,5.0,2.0,-0.08,0.76,-0.84,-0.08
+12,Jeremy Howe,Collingwood,Gen. Defender,10.0,10.0,0.0,1.0,0.0,4.0,0.0,1.0,-2.53,-0.16,-2.37,-0.16
+12,Josh Daicos,Collingwood,Gen. Defender,24.0,15.0,9.0,0.62,0.38,8.0,0.0,3.0,-2.84,-1.92,-0.92,3.08
+12,Lachie Schultz,Collingwood,Gen. Forward,13.0,6.0,7.0,0.46,0.54,4.0,0.0,6.0,-1.5,-2.0,0.5,-0.88
+12,Lachlan Sullivan,Collingwood,Gen. Forward,,,,,,,,,,,,
+12,Ned Long,Collingwood,Midfielder,24.0,8.0,16.0,0.33,0.67,4.0,0.0,11.0,6.16,0.72,5.44,1.52
+12,Nick Daicos,Collingwood,Midfielder,32.0,16.0,16.0,0.5,0.5,7.0,1.0,6.0,2.0,-0.76,2.76,2.96
+12,Patrick Lipinski,Collingwood,Mid-Forward,,,,,,,,,,,,
+12,Scott Pendlebury,Collingwood,Midfielder,22.0,11.0,11.0,0.5,0.5,7.0,0.0,8.0,-0.09,0.36,-0.46,2.96
+12,Steele Sidebottom,Collingwood,Midfielder,27.0,18.0,9.0,0.67,0.33,8.0,2.0,5.0,5.78,5.65,0.13,3.78
+12,Tim Membrey,Collingwood,Key Forward,9.0,5.0,4.0,0.56,0.44,5.0,1.0,0.0,-0.78,-0.87,0.09,0.83
+12,Will Hoskin-Elliott,Collingwood,Gen. Forward,8.0,4.0,4.0,0.5,0.5,3.0,0.0,2.0,-0.78,-2.11,1.33,-0.33
+13,Beau McCreery,Collingwood,Gen. Forward,13.0,9.0,4.0,0.69,0.31,1.0,1.0,2.0,1.74,2.11,-0.37,-1.1
+13,Billy Frampton,Collingwood,Key Defender,15.0,10.0,5.0,0.67,0.33,8.0,0.0,0.0,4.56,3.81,0.75,3.69
+13,Bobby Hill,Collingwood,Gen. Forward,10.0,7.0,3.0,0.7,0.3,4.0,1.0,4.0,1.14,0.93,0.21,1.43
+13,Brody Mihocek,Collingwood,Key Forward,6.0,4.0,2.0,0.67,0.33,2.0,1.0,3.0,-3.59,-2.68,-0.91,-1.77
+13,Dan Houston,Collingwood,Gen. Defender,18.0,11.0,7.0,0.61,0.39,5.0,0.0,5.0,1.14,0.05,1.09,1.43
+13,Daniel McStay,Collingwood,Key Forward,6.0,4.0,2.0,0.67,0.33,2.0,2.0,3.0,-3.72,-2.0,-1.72,-1.44
+13,Darcy Cameron,Collingwood,Ruck,16.0,10.0,6.0,0.62,0.38,9.0,0.0,2.0,-1.64,-0.72,-0.92,3.88
+13,Darcy Moore,Collingwood,Key Defender,10.0,4.0,6.0,0.4,0.6,6.0,0.0,1.0,-0.64,-1.41,0.77,1.5
+13,Edward Allan,Collingwood,Midfielder,,,,,,,,,,,,
+13,Harry Perryman,Collingwood,Gen. Defender,19.0,15.0,4.0,0.79,0.21,5.0,0.0,1.0,3.68,5.12,-1.44,0.92
+13,Isaac Quaynor,Collingwood,Gen. Defender,25.0,15.0,10.0,0.6,0.4,9.0,0.0,4.0,10.96,6.32,4.64,4.16
+13,Jack Crisp,Collingwood,Midfielder,21.0,11.0,10.0,0.52,0.48,4.0,0.0,7.0,0.96,-0.4,1.36,-0.24
+13,Jamie Elliott,Collingwood,Gen. Forward,7.0,3.0,4.0,0.43,0.57,2.0,1.0,0.0,-5.08,-5.24,0.16,-3.08
+13,Jeremy Howe,Collingwood,Gen. Defender,26.0,21.0,5.0,0.81,0.19,5.0,0.0,5.0,13.47,10.84,2.63,0.84
+13,Josh Daicos,Collingwood,Gen. Defender,34.0,25.0,9.0,0.74,0.26,11.0,0.0,2.0,7.16,8.08,-0.92,6.08
+13,Lachlan Sullivan,Collingwood,Gen. Forward,9.0,3.0,6.0,0.33,0.67,1.0,0.0,4.0,-1.71,-1.93,0.21,-0.57
+13,Ned Long,Collingwood,Midfielder,21.0,11.0,10.0,0.52,0.48,5.0,1.0,7.0,3.16,3.72,-0.56,2.52
+13,Nick Daicos,Collingwood,Midfielder,19.0,14.0,5.0,0.74,0.26,3.0,1.0,4.0,-11.0,-2.76,-8.24,-1.04
+13,Scott Pendlebury,Collingwood,Midfielder,29.0,13.0,16.0,0.45,0.55,10.0,0.0,2.0,6.91,2.36,4.54,5.96
+13,Steele Sidebottom,Collingwood,Midfielder,25.0,13.0,12.0,0.52,0.48,8.0,1.0,1.0,3.78,0.65,3.13,3.78
+13,Tim Membrey,Collingwood,Key Forward,13.0,8.0,5.0,0.62,0.38,6.0,1.0,1.0,3.22,2.13,1.09,1.83
+13,Will Hoskin-Elliott,Collingwood,Gen. Forward,,,,,,,,,,,,
+13,William Hayes,Collingwood,Gen. Forward,9.0,7.0,2.0,0.78,0.22,3.0,1.0,0.0,1.0,0.5,0.5,0.0
+15,Beau McCreery,Collingwood,Gen. Forward,,,,,,,,,,,,
+15,Billy Frampton,Collingwood,Key Defender,7.0,4.0,3.0,0.57,0.43,3.0,0.0,1.0,-3.44,-2.19,-1.25,-1.31
+15,Bobby Hill,Collingwood,Gen. Forward,6.0,4.0,2.0,0.67,0.33,3.0,1.0,3.0,-2.86,-2.07,-0.79,0.43
+15,Brody Mihocek,Collingwood,Key Forward,11.0,9.0,2.0,0.82,0.18,7.0,1.0,3.0,1.41,2.32,-0.91,3.23
+15,Dan Houston,Collingwood,Gen. Defender,9.0,6.0,3.0,0.67,0.33,4.0,0.0,2.0,-7.86,-4.95,-2.9,0.43
+15,Daniel McStay,Collingwood,Key Forward,10.0,6.0,4.0,0.6,0.4,3.0,2.0,2.0,0.28,0.0,0.28,-0.44
+15,Darcy Cameron,Collingwood,Ruck,19.0,16.0,3.0,0.84,0.16,8.0,2.0,2.0,1.36,5.28,-3.92,2.88
+15,Darcy Moore,Collingwood,Key Defender,10.0,6.0,4.0,0.6,0.4,8.0,0.0,2.0,-0.64,0.59,-1.23,3.5
+15,Edward Allan,Collingwood,Midfielder,17.0,9.0,8.0,0.53,0.47,7.0,0.0,2.0,3.85,3.62,0.23,4.46
+15,Harry Perryman,Collingwood,Gen. Defender,10.0,7.0,3.0,0.7,0.3,3.0,1.0,3.0,-5.32,-2.88,-2.44,-1.08
+15,Isaac Quaynor,Collingwood,Gen. Defender,8.0,7.0,1.0,0.88,0.12,5.0,0.0,1.0,-6.04,-1.68,-4.36,0.16
+15,Jack Crisp,Collingwood,Midfielder,16.0,12.0,4.0,0.75,0.25,6.0,1.0,10.0,-4.04,0.6,-4.64,1.76
+15,Jamie Elliott,Collingwood,Gen. Forward,15.0,9.0,6.0,0.6,0.4,5.0,2.0,1.0,2.92,0.76,2.16,-0.08
+15,Jeremy Howe,Collingwood,Gen. Defender,11.0,10.0,1.0,0.91,0.09,5.0,0.0,1.0,-1.53,-0.16,-1.37,0.84
+15,Josh Daicos,Collingwood,Gen. Defender,30.0,23.0,7.0,0.77,0.23,6.0,0.0,0.0,3.16,6.08,-2.92,1.08
+15,Lachlan Sullivan,Collingwood,Gen. Forward,6.0,2.0,4.0,0.33,0.67,1.0,0.0,4.0,-4.71,-2.93,-1.79,-0.57
+15,Ned Long,Collingwood,Midfielder,14.0,6.0,8.0,0.43,0.57,3.0,0.0,8.0,-3.84,-1.28,-2.56,0.52
+15,Nick Daicos,Collingwood,Midfielder,30.0,17.0,13.0,0.57,0.43,3.0,1.0,3.0,0.0,0.24,-0.24,-1.04
+15,Patrick Lipinski,Collingwood,Mid-Forward,26.0,14.0,12.0,0.54,0.46,9.0,2.0,5.0,8.83,5.13,3.7,5.39
+15,Scott Pendlebury,Collingwood,Midfielder,22.0,14.0,8.0,0.64,0.36,7.0,1.0,5.0,-0.09,3.36,-3.46,2.96
+15,Steele Sidebottom,Collingwood,Midfielder,18.0,12.0,6.0,0.67,0.33,5.0,0.0,4.0,-3.22,-0.35,-2.87,0.78
+15,Tim Membrey,Collingwood,Key Forward,10.0,5.0,5.0,0.5,0.5,4.0,2.0,0.0,0.22,-0.87,1.09,-0.17
+15,Will Hoskin-Elliott,Collingwood,Gen. Forward,11.0,8.0,3.0,0.73,0.27,3.0,0.0,3.0,2.22,1.89,0.33,-0.33
+16,Brody Mihocek,Collingwood,Key Forward,10.0,9.0,1.0,0.9,0.1,7.0,2.0,1.0,0.41,2.32,-1.91,3.23
+16,Charlie Dean,Collingwood,Key Defender,4.0,1.0,3.0,0.25,0.75,1.0,0.0,2.0,-6.5,-3.0,-3.5,-1.75
+16,Charlie West,Collingwood,Key Forward,4.0,1.0,3.0,0.25,0.75,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+16,Dan Houston,Collingwood,Gen. Defender,18.0,9.0,9.0,0.5,0.5,6.0,1.0,0.0,1.14,-1.95,3.1,2.43
+16,Daniel McStay,Collingwood,Key Forward,11.0,8.0,3.0,0.73,0.27,5.0,0.0,4.0,1.28,2.0,-0.72,1.56
+16,Darcy Cameron,Collingwood,Ruck,19.0,11.0,8.0,0.58,0.42,3.0,0.0,2.0,1.36,0.28,1.08,-2.12
+16,Darcy Moore,Collingwood,Key Defender,12.0,5.0,7.0,0.42,0.58,5.0,0.0,2.0,1.36,-0.41,1.77,0.5
+16,Edward Allan,Collingwood,Midfielder,16.0,6.0,10.0,0.38,0.62,4.0,0.0,4.0,2.85,0.62,2.23,1.46
+16,Harry Perryman,Collingwood,Gen. Defender,13.0,8.0,5.0,0.62,0.38,5.0,0.0,3.0,-2.32,-1.88,-0.44,0.92
+16,Isaac Quaynor,Collingwood,Gen. Defender,9.0,7.0,2.0,0.78,0.22,3.0,0.0,2.0,-5.04,-1.68,-3.36,-1.84
+16,Jack Crisp,Collingwood,Midfielder,27.0,17.0,10.0,0.63,0.37,7.0,0.0,6.0,6.96,5.6,1.36,2.76
+16,Jamie Elliott,Collingwood,Gen. Forward,8.0,8.0,0.0,1.0,0.0,4.0,1.0,4.0,-4.08,-0.24,-3.84,-1.08
+16,Jeremy Howe,Collingwood,Gen. Defender,17.0,14.0,3.0,0.82,0.18,8.0,0.0,3.0,4.47,3.84,0.63,3.84
+16,Josh Daicos,Collingwood,Gen. Defender,30.0,18.0,12.0,0.6,0.4,3.0,0.0,2.0,3.16,1.08,2.08,-1.92
+16,Lachlan Sullivan,Collingwood,Gen. Forward,13.0,6.0,7.0,0.46,0.54,5.0,1.0,5.0,2.29,1.07,1.21,3.43
+16,Ned Long,Collingwood,Midfielder,21.0,9.0,12.0,0.43,0.57,3.0,0.0,6.0,3.16,1.72,1.44,0.52
+16,Nick Daicos,Collingwood,Midfielder,34.0,21.0,13.0,0.62,0.38,10.0,1.0,3.0,4.0,4.24,-0.24,5.96
+16,Oleg Markov,Collingwood,Gen. Defender,,,,,,,,,,,,
+16,Patrick Lipinski,Collingwood,Mid-Forward,19.0,9.0,10.0,0.47,0.53,3.0,2.0,4.0,1.83,0.13,1.7,-0.61
+16,Scott Pendlebury,Collingwood,Midfielder,28.0,17.0,11.0,0.61,0.39,4.0,1.0,6.0,5.91,6.36,-0.46,-0.04
+16,Steele Sidebottom,Collingwood,Midfielder,20.0,10.0,10.0,0.5,0.5,3.0,0.0,10.0,-1.22,-2.35,1.13,-1.22
+16,Tim Membrey,Collingwood,Key Forward,6.0,4.0,2.0,0.67,0.33,3.0,2.0,2.0,-3.78,-1.87,-1.91,-1.17
+16,Will Hoskin-Elliott,Collingwood,Gen. Forward,11.0,10.0,1.0,0.91,0.09,4.0,1.0,2.0,2.22,3.89,-1.67,0.67
+17,Brayden Maynard,Collingwood,Gen. Defender,21.0,17.0,4.0,0.81,0.19,9.0,0.0,4.0,4.95,5.3,-0.35,4.25
+17,Brody Mihocek,Collingwood,Key Forward,12.0,10.0,2.0,0.83,0.17,6.0,2.0,4.0,2.41,3.32,-0.91,2.23
+17,Dan Houston,Collingwood,Gen. Defender,11.0,7.0,4.0,0.64,0.36,3.0,0.0,1.0,-5.86,-3.95,-1.91,-0.57
+17,Daniel McStay,Collingwood,Key Forward,10.0,8.0,2.0,0.8,0.2,4.0,4.0,2.0,0.28,2.0,-1.72,0.56
+17,Darcy Cameron,Collingwood,Ruck,20.0,10.0,10.0,0.5,0.5,8.0,0.0,4.0,2.36,-0.72,3.08,2.88
+17,Darcy Moore,Collingwood,Key Defender,13.0,9.0,4.0,0.69,0.31,4.0,0.0,2.0,2.36,3.59,-1.23,-0.5
+17,Harry Perryman,Collingwood,Gen. Defender,15.0,10.0,5.0,0.67,0.33,3.0,0.0,1.0,-0.32,0.12,-0.44,-1.08
+17,Isaac Quaynor,Collingwood,Gen. Defender,18.0,10.0,8.0,0.56,0.44,9.0,0.0,3.0,3.96,1.32,2.64,4.16
+17,Jack Crisp,Collingwood,Midfielder,24.0,17.0,7.0,0.71,0.29,8.0,1.0,5.0,3.96,5.6,-1.64,3.76
+17,Jamie Elliott,Collingwood,Gen. Forward,15.0,11.0,4.0,0.73,0.27,8.0,4.0,1.0,2.92,2.76,0.16,2.92
+17,Jeremy Howe,Collingwood,Gen. Defender,7.0,5.0,2.0,0.71,0.29,0.0,0.0,1.0,-5.53,-5.16,-0.37,-4.16
+17,Josh Daicos,Collingwood,Gen. Defender,27.0,18.0,9.0,0.67,0.33,4.0,0.0,0.0,0.16,1.08,-0.92,-0.92
+17,Lachlan Sullivan,Collingwood,Gen. Forward,20.0,8.0,12.0,0.4,0.6,4.0,1.0,2.0,9.29,3.07,6.21,2.43
+17,Ned Long,Collingwood,Midfielder,16.0,5.0,11.0,0.31,0.69,3.0,1.0,7.0,-1.84,-2.28,0.44,0.52
+17,Nick Daicos,Collingwood,Midfielder,36.0,22.0,14.0,0.61,0.39,7.0,1.0,2.0,6.0,5.24,0.76,2.96
+17,Oleg Markov,Collingwood,Gen. Defender,12.0,6.0,6.0,0.5,0.5,1.0,0.0,0.0,3.38,2.0,1.38,-0.25
+17,Patrick Lipinski,Collingwood,Mid-Forward,17.0,12.0,5.0,0.71,0.29,4.0,0.0,3.0,-0.17,3.13,-3.3,0.39
+17,Roan Steele,Collingwood,Midfielder,19.0,11.0,8.0,0.58,0.42,4.0,0.0,2.0,9.4,4.4,5.0,1.0
+17,Scott Pendlebury,Collingwood,Midfielder,22.0,12.0,10.0,0.55,0.45,4.0,0.0,7.0,-0.09,1.36,-1.46,-0.04
+17,Tim Membrey,Collingwood,Key Forward,9.0,6.0,3.0,0.67,0.33,5.0,2.0,4.0,-0.78,0.13,-0.91,0.83
+17,Tom Mitchell,Collingwood,Midfielder,26.0,9.0,17.0,0.35,0.65,5.0,0.0,3.0,2.75,1.0,1.75,0.75
+17,Wil Parker,Collingwood,Gen. Defender,,,,,,,,,,,,
+17,Will Hoskin-Elliott,Collingwood,Gen. Forward,15.0,11.0,4.0,0.73,0.27,4.0,1.0,2.0,6.22,4.89,1.33,0.67
+18,Brayden Maynard,Collingwood,Gen. Defender,17.0,13.0,4.0,0.76,0.24,5.0,0.0,2.0,0.95,1.3,-0.35,0.25
+18,Dan Houston,Collingwood,Gen. Defender,17.0,11.0,6.0,0.65,0.35,1.0,0.0,3.0,0.14,0.05,0.09,-2.57
+18,Daniel McStay,Collingwood,Key Forward,11.0,7.0,4.0,0.64,0.36,6.0,0.0,2.0,1.28,1.0,0.28,2.56
+18,Darcy Cameron,Collingwood,Ruck,18.0,9.0,9.0,0.5,0.5,1.0,0.0,3.0,0.36,-1.72,2.08,-4.12
+18,Darcy Moore,Collingwood,Key Defender,9.0,3.0,6.0,0.33,0.67,4.0,0.0,1.0,-1.64,-2.41,0.77,-0.5
+18,Harry Perryman,Collingwood,Gen. Defender,12.0,8.0,4.0,0.67,0.33,3.0,0.0,0.0,-3.32,-1.88,-1.44,-1.08
+18,Isaac Quaynor,Collingwood,Gen. Defender,17.0,8.0,9.0,0.47,0.53,0.0,0.0,5.0,2.96,-0.68,3.64,-4.84
+18,Jack Crisp,Collingwood,Midfielder,19.0,10.0,9.0,0.53,0.47,2.0,0.0,8.0,-1.04,-1.4,0.36,-2.24
+18,Jamie Elliott,Collingwood,Gen. Forward,12.0,7.0,5.0,0.58,0.42,4.0,3.0,2.0,-0.08,-1.24,1.16,-1.08
+18,Jeremy Howe,Collingwood,Gen. Defender,,,,,,,,,,,,
+18,Josh Daicos,Collingwood,Gen. Defender,32.0,16.0,16.0,0.5,0.5,4.0,2.0,7.0,5.16,-0.92,6.08,-0.92
+18,Lachie Schultz,Collingwood,Gen. Forward,10.0,5.0,5.0,0.5,0.5,3.0,1.0,7.0,-4.5,-3.0,-1.5,-1.88
+18,Lachlan Sullivan,Collingwood,Gen. Forward,9.0,4.0,5.0,0.44,0.56,0.0,0.0,3.0,-1.71,-0.93,-0.79,-1.57
+18,Mason Cox,Collingwood,Key Forward,8.0,0.0,8.0,0.0,1.0,6.0,0.0,2.0,1.1,-3.9,5.0,3.3
+18,Ned Long,Collingwood,Midfielder,12.0,8.0,4.0,0.67,0.33,1.0,0.0,8.0,-5.84,0.72,-6.56,-1.48
+18,Nick Daicos,Collingwood,Midfielder,26.0,16.0,10.0,0.62,0.38,2.0,0.0,1.0,-4.0,-0.76,-3.24,-2.04
+18,Oleg Markov,Collingwood,Gen. Defender,12.0,6.0,6.0,0.5,0.5,1.0,0.0,0.0,3.38,2.0,1.38,-0.25
+18,Roan Steele,Collingwood,Midfielder,8.0,6.0,2.0,0.75,0.25,3.0,0.0,1.0,-1.6,-0.6,-1.0,0.0
+18,Scott Pendlebury,Collingwood,Midfielder,,,,,,,,,,,,
+18,Steele Sidebottom,Collingwood,Midfielder,13.0,6.0,7.0,0.46,0.54,3.0,0.0,6.0,-8.22,-6.35,-1.87,-1.22
+18,Tim Membrey,Collingwood,Key Forward,12.0,5.0,7.0,0.42,0.58,5.0,2.0,0.0,2.22,-0.87,3.09,0.83
+18,Tom Mitchell,Collingwood,Midfielder,20.0,5.0,15.0,0.25,0.75,0.0,0.0,11.0,-3.25,-3.0,-0.25,-4.25
+18,Will Hoskin-Elliott,Collingwood,Gen. Forward,13.0,9.0,4.0,0.69,0.31,2.0,0.0,2.0,4.22,2.89,1.33,-1.33
+19,Beau McCreery,Collingwood,Gen. Forward,15.0,6.0,9.0,0.4,0.6,0.0,0.0,15.0,3.74,-0.89,4.63,-2.1
+19,Brayden Maynard,Collingwood,Gen. Defender,14.0,12.0,2.0,0.86,0.14,4.0,0.0,2.0,-2.05,0.3,-2.35,-0.75
+19,Brody Mihocek,Collingwood,Key Forward,12.0,9.0,3.0,0.75,0.25,1.0,2.0,3.0,2.41,2.32,0.09,-2.77
+19,Charlie Dean,Collingwood,Key Defender,11.0,1.0,10.0,0.09,0.91,0.0,0.0,1.0,0.5,-3.0,3.5,-2.75
+19,Daniel McStay,Collingwood,Key Forward,8.0,4.0,4.0,0.5,0.5,3.0,0.0,1.0,-1.72,-2.0,0.28,-0.44
+19,Darcy Cameron,Collingwood,Ruck,20.0,11.0,9.0,0.55,0.45,8.0,0.0,0.0,2.36,0.28,2.08,2.88
+19,Darcy Moore,Collingwood,Key Defender,11.0,6.0,5.0,0.55,0.45,4.0,0.0,0.0,0.36,0.59,-0.23,-0.5
+19,Edward Allan,Collingwood,Midfielder,11.0,5.0,6.0,0.45,0.55,1.0,1.0,0.0,-2.15,-0.38,-1.77,-1.54
+19,Harry Perryman,Collingwood,Gen. Defender,16.0,14.0,2.0,0.88,0.12,3.0,0.0,3.0,0.68,4.12,-3.44,-1.08
+19,Isaac Quaynor,Collingwood,Gen. Defender,18.0,12.0,6.0,0.67,0.33,4.0,0.0,1.0,3.96,3.32,0.64,-0.84
+19,Jack Crisp,Collingwood,Midfielder,23.0,15.0,8.0,0.65,0.35,3.0,0.0,5.0,2.96,3.6,-0.64,-1.24
+19,Jamie Elliott,Collingwood,Gen. Forward,9.0,7.0,2.0,0.78,0.22,2.0,2.0,5.0,-3.08,-1.24,-1.84,-3.08
+19,Josh Daicos,Collingwood,Gen. Defender,25.0,18.0,7.0,0.72,0.28,6.0,0.0,1.0,-1.84,1.08,-2.92,1.08
+19,Lachie Schultz,Collingwood,Gen. Forward,10.0,3.0,7.0,0.3,0.7,1.0,1.0,7.0,-4.5,-5.0,0.5,-3.88
+19,Lachlan Sullivan,Collingwood,Gen. Forward,11.0,5.0,6.0,0.45,0.55,1.0,1.0,4.0,0.29,0.07,0.21,-0.57
+19,Mason Cox,Collingwood,Key Forward,,,,,,,,,,,,
+19,Ned Long,Collingwood,Midfielder,19.0,6.0,13.0,0.32,0.68,2.0,0.0,12.0,1.16,-1.28,2.44,-0.48
+19,Nick Daicos,Collingwood,Midfielder,43.0,28.0,15.0,0.65,0.35,4.0,1.0,7.0,13.0,11.24,1.76,-0.04
+19,Oleg Markov,Collingwood,Gen. Defender,12.0,4.0,8.0,0.33,0.67,2.0,0.0,5.0,3.38,0.0,3.38,0.75
+19,Patrick Lipinski,Collingwood,Mid-Forward,13.0,7.0,6.0,0.54,0.46,1.0,0.0,4.0,-4.17,-1.87,-2.3,-2.61
+19,Scott Pendlebury,Collingwood,Midfielder,21.0,4.0,17.0,0.19,0.81,3.0,0.0,5.0,-1.09,-6.64,5.54,-1.04
+19,Steele Sidebottom,Collingwood,Midfielder,17.0,9.0,8.0,0.53,0.47,3.0,2.0,4.0,-4.22,-3.35,-0.87,-1.22
+19,Will Hoskin-Elliott,Collingwood,Gen. Forward,,,,,,,,,,,,
+20,Brayden Maynard,Collingwood,Gen. Defender,20.0,17.0,3.0,0.85,0.15,8.0,0.0,2.0,3.95,5.3,-1.35,3.25
+20,Brody Mihocek,Collingwood,Key Forward,12.0,6.0,6.0,0.5,0.5,3.0,2.0,3.0,2.41,-0.68,3.09,-0.77
+20,Charlie Dean,Collingwood,Key Defender,19.0,9.0,10.0,0.47,0.53,6.0,0.0,0.0,8.5,5.0,3.5,3.25
+20,Dan Houston,Collingwood,Gen. Defender,17.0,12.0,5.0,0.71,0.29,3.0,1.0,3.0,0.14,1.05,-0.91,-0.57
+20,Daniel McStay,Collingwood,Key Forward,15.0,10.0,5.0,0.67,0.33,5.0,1.0,3.0,5.28,4.0,1.28,1.56
+20,Darcy Cameron,Collingwood,Ruck,20.0,11.0,9.0,0.55,0.45,4.0,0.0,5.0,2.36,0.28,2.08,-1.12
+20,Darcy Moore,Collingwood,Key Defender,9.0,2.0,7.0,0.22,0.78,3.0,0.0,3.0,-1.64,-3.41,1.77,-1.5
+20,Edward Allan,Collingwood,Midfielder,17.0,6.0,11.0,0.35,0.65,3.0,0.0,2.0,3.85,0.62,3.23,0.46
+20,Harry Perryman,Collingwood,Gen. Defender,19.0,12.0,7.0,0.63,0.37,6.0,0.0,0.0,3.68,2.12,1.56,1.92
+20,Isaac Quaynor,Collingwood,Gen. Defender,17.0,11.0,6.0,0.65,0.35,9.0,0.0,3.0,2.96,2.32,0.64,4.16
+20,Jack Crisp,Collingwood,Midfielder,16.0,8.0,8.0,0.5,0.5,3.0,0.0,2.0,-4.04,-3.4,-0.64,-1.24
+20,Jamie Elliott,Collingwood,Gen. Forward,15.0,10.0,5.0,0.67,0.33,6.0,1.0,2.0,2.92,1.76,1.16,0.92
+20,Josh Daicos,Collingwood,Gen. Defender,30.0,23.0,7.0,0.77,0.23,6.0,0.0,2.0,3.16,6.08,-2.92,1.08
+20,Lachie Schultz,Collingwood,Gen. Forward,19.0,9.0,10.0,0.47,0.53,3.0,1.0,2.0,4.5,1.0,3.5,-1.88
+20,Lachlan Sullivan,Collingwood,Gen. Forward,,,,,,,,,,,,
+20,Ned Long,Collingwood,Midfielder,23.0,8.0,15.0,0.35,0.65,3.0,0.0,6.0,5.16,0.72,4.44,0.52
+20,Nick Daicos,Collingwood,Midfielder,42.0,31.0,11.0,0.74,0.26,4.0,3.0,0.0,12.0,14.24,-2.24,-0.04
+20,Oleg Markov,Collingwood,Gen. Defender,,,,,,,,,,,,
+20,Patrick Lipinski,Collingwood,Mid-Forward,18.0,6.0,12.0,0.33,0.67,1.0,0.0,3.0,0.83,-2.87,3.7,-2.61
+20,Steele Sidebottom,Collingwood,Midfielder,24.0,7.0,17.0,0.29,0.71,3.0,0.0,7.0,2.78,-5.35,8.13,-1.22
+20,Tim Membrey,Collingwood,Key Forward,12.0,6.0,6.0,0.5,0.5,4.0,2.0,2.0,2.22,0.13,2.09,-0.17
+20,Tom Mitchell,Collingwood,Midfielder,29.0,11.0,18.0,0.38,0.62,7.0,0.0,6.0,5.75,3.0,2.75,2.75
+20,Will Hoskin-Elliott,Collingwood,Gen. Forward,13.0,10.0,3.0,0.77,0.23,6.0,2.0,0.0,4.22,3.89,0.33,2.67
+21,Bobby Hill,Collingwood,Gen. Forward,,,,,,,,,,,,
+21,Brayden Maynard,Collingwood,Gen. Defender,15.0,7.0,8.0,0.47,0.53,3.0,0.0,3.0,-1.05,-4.7,3.65,-1.75
+21,Brody Mihocek,Collingwood,Key Forward,6.0,5.0,1.0,0.83,0.17,2.0,1.0,6.0,-3.59,-1.68,-1.91,-1.77
+21,Charlie Dean,Collingwood,Key Defender,8.0,5.0,3.0,0.62,0.38,4.0,0.0,0.0,-2.5,1.0,-3.5,1.25
+21,Dan Houston,Collingwood,Gen. Defender,11.0,8.0,3.0,0.73,0.27,1.0,0.0,2.0,-5.86,-2.95,-2.9,-2.57
+21,Daniel McStay,Collingwood,Key Forward,3.0,2.0,1.0,0.67,0.33,1.0,1.0,1.0,-6.72,-4.0,-2.72,-2.44
+21,Darcy Cameron,Collingwood,Ruck,12.0,8.0,4.0,0.67,0.33,5.0,0.0,1.0,-5.64,-2.72,-2.92,-0.12
+21,Darcy Moore,Collingwood,Key Defender,8.0,5.0,3.0,0.62,0.38,1.0,0.0,0.0,-2.64,-0.41,-2.23,-3.5
+21,Harry Perryman,Collingwood,Gen. Defender,16.0,9.0,7.0,0.56,0.44,5.0,0.0,0.0,0.68,-0.88,1.56,0.92
+21,Isaac Quaynor,Collingwood,Gen. Defender,10.0,7.0,3.0,0.7,0.3,5.0,0.0,4.0,-4.04,-1.68,-2.36,0.16
+21,Jack Crisp,Collingwood,Midfielder,15.0,10.0,5.0,0.67,0.33,1.0,0.0,6.0,-5.04,-1.4,-3.64,-3.24
+21,Jamie Elliott,Collingwood,Gen. Forward,8.0,4.0,4.0,0.5,0.5,5.0,1.0,1.0,-4.08,-4.24,0.16,-0.08
+21,Jordan De Goey,Collingwood,Mid-Forward,,,,,,,,,,,,
+21,Josh Daicos,Collingwood,Gen. Defender,29.0,21.0,8.0,0.72,0.28,4.0,0.0,5.0,2.16,4.08,-1.92,-0.92
+21,Lachie Schultz,Collingwood,Gen. Forward,17.0,12.0,5.0,0.71,0.29,6.0,1.0,7.0,2.5,4.0,-1.5,1.12
+21,Ned Long,Collingwood,Midfielder,9.0,5.0,4.0,0.56,0.44,0.0,0.0,7.0,-8.84,-2.28,-6.56,-2.48
+21,Nick Daicos,Collingwood,Midfielder,29.0,11.0,18.0,0.38,0.62,4.0,1.0,2.0,-1.0,-5.76,4.76,-0.04
+21,Oleg Markov,Collingwood,Gen. Defender,8.0,3.0,5.0,0.38,0.62,1.0,0.0,4.0,-0.62,-1.0,0.38,-0.25
+21,Patrick Lipinski,Collingwood,Mid-Forward,17.0,6.0,11.0,0.35,0.65,1.0,0.0,4.0,-0.17,-2.87,2.7,-2.61
+21,Scott Pendlebury,Collingwood,Midfielder,22.0,8.0,14.0,0.36,0.64,4.0,0.0,8.0,-0.09,-2.64,2.54,-0.04
+21,Steele Sidebottom,Collingwood,Midfielder,21.0,14.0,7.0,0.67,0.33,7.0,2.0,3.0,-0.22,1.65,-1.87,2.78
+21,Tim Membrey,Collingwood,Key Forward,5.0,4.0,1.0,0.8,0.2,1.0,1.0,0.0,-4.78,-1.87,-2.91,-3.17
+21,Will Hoskin-Elliott,Collingwood,Gen. Forward,6.0,4.0,2.0,0.67,0.33,3.0,0.0,2.0,-2.78,-2.11,-0.67,-0.33
+22,Billy Frampton,Collingwood,Key Defender,9.0,4.0,5.0,0.44,0.56,3.0,0.0,1.0,-1.44,-2.19,0.75,-1.31
+22,Brayden Maynard,Collingwood,Gen. Defender,18.0,12.0,6.0,0.67,0.33,3.0,0.0,3.0,1.95,0.3,1.65,-1.75
+22,Brody Mihocek,Collingwood,Key Forward,11.0,8.0,3.0,0.73,0.27,3.0,2.0,2.0,1.41,1.32,0.09,-0.77
+22,Dan Houston,Collingwood,Gen. Defender,22.0,13.0,9.0,0.59,0.41,1.0,0.0,0.0,5.14,2.05,3.1,-2.57
+22,Daniel McStay,Collingwood,Key Forward,15.0,9.0,6.0,0.6,0.4,5.0,0.0,1.0,5.28,3.0,2.28,1.56
+22,Darcy Cameron,Collingwood,Ruck,16.0,5.0,11.0,0.31,0.69,6.0,0.0,2.0,-1.64,-5.72,4.08,0.88
+22,Darcy Moore,Collingwood,Key Defender,15.0,5.0,10.0,0.33,0.67,7.0,0.0,3.0,4.36,-0.41,4.77,2.5
+22,Harry Perryman,Collingwood,Gen. Defender,17.0,11.0,6.0,0.65,0.35,5.0,0.0,2.0,1.68,1.12,0.56,0.92
+22,Isaac Quaynor,Collingwood,Gen. Defender,10.0,6.0,4.0,0.6,0.4,4.0,0.0,3.0,-4.04,-2.68,-1.36,-0.84
+22,Jack Crisp,Collingwood,Midfielder,22.0,11.0,11.0,0.5,0.5,2.0,0.0,3.0,1.96,-0.4,2.36,-2.24
+22,Jamie Elliott,Collingwood,Gen. Forward,6.0,4.0,2.0,0.67,0.33,2.0,0.0,0.0,-6.08,-4.24,-1.84,-3.08
+22,Jeremy Howe,Collingwood,Gen. Defender,,,,,,,,,,,,
+22,Jordan De Goey,Collingwood,Mid-Forward,15.0,5.0,10.0,0.33,0.67,1.0,1.0,1.0,0.0,-3.36,3.36,-1.46
+22,Josh Daicos,Collingwood,Gen. Defender,20.0,10.0,10.0,0.5,0.5,3.0,0.0,1.0,-6.84,-6.92,0.08,-1.92
+22,Lachie Schultz,Collingwood,Gen. Forward,12.0,8.0,4.0,0.67,0.33,5.0,1.0,5.0,-2.5,0.0,-2.5,0.12
+22,Ned Long,Collingwood,Midfielder,10.0,3.0,7.0,0.3,0.7,2.0,0.0,3.0,-7.84,-4.28,-3.56,-0.48
+22,Nick Daicos,Collingwood,Midfielder,24.0,13.0,11.0,0.54,0.46,4.0,0.0,4.0,-6.0,-3.76,-2.24,-0.04
+22,Patrick Lipinski,Collingwood,Mid-Forward,16.0,6.0,10.0,0.38,0.62,1.0,1.0,3.0,-1.17,-2.87,1.7,-2.61
+22,Scott Pendlebury,Collingwood,Midfielder,27.0,15.0,12.0,0.56,0.44,4.0,0.0,0.0,4.91,4.36,0.54,-0.04
+22,Steele Sidebottom,Collingwood,Midfielder,18.0,13.0,5.0,0.72,0.28,7.0,0.0,0.0,-3.22,0.65,-3.87,2.78
+22,Tim Membrey,Collingwood,Key Forward,7.0,4.0,3.0,0.57,0.43,2.0,1.0,1.0,-2.78,-1.87,-0.91,-2.17
+22,Tom Mitchell,Collingwood,Midfielder,18.0,7.0,11.0,0.39,0.61,5.0,0.0,4.0,-5.25,-1.0,-4.25,0.75
+22,Will Hoskin-Elliott,Collingwood,Gen. Forward,4.0,2.0,2.0,0.5,0.5,2.0,0.0,0.0,-4.78,-4.11,-0.67,-1.33
+23,Beau McCreery,Collingwood,Gen. Forward,11.0,9.0,2.0,0.82,0.18,3.0,0.0,8.0,-0.26,2.11,-2.37,0.9
+23,Billy Frampton,Collingwood,Key Defender,16.0,12.0,4.0,0.75,0.25,5.0,0.0,2.0,5.56,5.81,-0.25,0.69
+23,Brayden Maynard,Collingwood,Gen. Defender,18.0,11.0,7.0,0.61,0.39,7.0,0.0,2.0,1.95,-0.7,2.65,2.25
+23,Brody Mihocek,Collingwood,Key Forward,9.0,6.0,3.0,0.67,0.33,3.0,0.0,4.0,-0.59,-0.68,0.09,-0.77
+23,Dan Houston,Collingwood,Gen. Defender,18.0,11.0,7.0,0.61,0.39,5.0,1.0,4.0,1.14,0.05,1.09,1.43
+23,Daniel McStay,Collingwood,Key Forward,6.0,4.0,2.0,0.67,0.33,0.0,0.0,2.0,-3.72,-2.0,-1.72,-3.44
+23,Darcy Cameron,Collingwood,Ruck,24.0,13.0,11.0,0.54,0.46,5.0,1.0,2.0,6.36,2.28,4.08,-0.12
+23,Darcy Moore,Collingwood,Key Defender,11.0,6.0,5.0,0.55,0.45,3.0,0.0,0.0,0.36,0.59,-0.23,-1.5
+23,Edward Allan,Collingwood,Midfielder,,,,,,,,,,,,
+23,Harry Perryman,Collingwood,Gen. Defender,11.0,11.0,0.0,1.0,0.0,4.0,0.0,1.0,-4.32,1.12,-5.44,-0.08
+23,Isaac Quaynor,Collingwood,Gen. Defender,13.0,8.0,5.0,0.62,0.38,5.0,0.0,3.0,-1.04,-0.68,-0.36,0.16
+23,Jack Crisp,Collingwood,Midfielder,23.0,10.0,13.0,0.43,0.57,3.0,1.0,13.0,2.96,-1.4,4.36,-1.24
+23,Jamie Elliott,Collingwood,Gen. Forward,8.0,5.0,3.0,0.62,0.38,2.0,2.0,7.0,-4.08,-3.24,-0.84,-3.08
+23,Jordan De Goey,Collingwood,Mid-Forward,11.0,8.0,3.0,0.73,0.27,0.0,0.0,1.0,-4.0,-0.36,-3.64,-2.46
+23,Josh Daicos,Collingwood,Gen. Defender,19.0,12.0,7.0,0.63,0.37,3.0,0.0,2.0,-7.84,-4.92,-2.92,-1.92
+23,Lachie Schultz,Collingwood,Gen. Forward,17.0,8.0,9.0,0.47,0.53,7.0,0.0,4.0,2.5,0.0,2.5,2.12
+23,Ned Long,Collingwood,Midfielder,22.0,11.0,11.0,0.5,0.5,3.0,0.0,4.0,4.16,3.72,0.44,0.52
+23,Nick Daicos,Collingwood,Midfielder,29.0,18.0,11.0,0.62,0.38,2.0,1.0,6.0,-1.0,1.24,-2.24,-2.04
+23,Patrick Lipinski,Collingwood,Mid-Forward,10.0,5.0,5.0,0.5,0.5,1.0,0.0,5.0,-7.17,-3.87,-3.3,-2.61
+23,Scott Pendlebury,Collingwood,Midfielder,24.0,15.0,9.0,0.62,0.38,4.0,0.0,5.0,1.91,4.36,-2.46,-0.04
+23,Steele Sidebottom,Collingwood,Midfielder,21.0,17.0,4.0,0.81,0.19,5.0,0.0,4.0,-0.22,4.65,-4.87,0.78
+23,Tim Membrey,Collingwood,Key Forward,7.0,5.0,2.0,0.71,0.29,3.0,2.0,2.0,-2.78,-0.87,-1.91,-1.17
+23,Wil Parker,Collingwood,Gen. Defender,10.0,6.0,4.0,0.6,0.4,2.0,0.0,3.0,1.5,0.0,1.5,-1.25
+24,Beau McCreery,Collingwood,Gen. Forward,18.0,9.0,9.0,0.5,0.5,2.0,0.0,1.0,6.74,2.11,4.63,-0.1
+24,Billy Frampton,Collingwood,Key Defender,12.0,8.0,4.0,0.67,0.33,9.0,0.0,1.0,1.56,1.81,-0.25,4.69
+24,Brayden Maynard,Collingwood,Gen. Defender,16.0,11.0,5.0,0.69,0.31,7.0,1.0,0.0,-0.05,-0.7,0.65,2.25
+24,Brody Mihocek,Collingwood,Key Forward,8.0,7.0,1.0,0.88,0.12,4.0,1.0,0.0,-1.59,0.32,-1.91,0.23
+24,Dan Houston,Collingwood,Gen. Defender,22.0,17.0,5.0,0.77,0.23,7.0,0.0,2.0,5.14,6.05,-0.91,3.43
+24,Daniel McStay,Collingwood,Key Forward,9.0,4.0,5.0,0.44,0.56,3.0,1.0,4.0,-0.72,-2.0,1.28,-0.44
+24,Darcy Cameron,Collingwood,Ruck,14.0,11.0,3.0,0.79,0.21,4.0,0.0,4.0,-3.64,0.28,-3.92,-1.12
+24,Darcy Moore,Collingwood,Key Defender,7.0,5.0,2.0,0.71,0.29,5.0,0.0,3.0,-3.64,-0.41,-3.23,0.5
+24,Harry Perryman,Collingwood,Gen. Defender,16.0,14.0,2.0,0.88,0.12,7.0,0.0,2.0,0.68,4.12,-3.44,2.92
+24,Isaac Quaynor,Collingwood,Gen. Defender,15.0,10.0,5.0,0.67,0.33,7.0,0.0,1.0,0.96,1.32,-0.36,2.16
+24,Jack Crisp,Collingwood,Midfielder,18.0,9.0,9.0,0.5,0.5,6.0,1.0,7.0,-2.04,-2.4,0.36,1.76
+24,Jamie Elliott,Collingwood,Gen. Forward,15.0,11.0,4.0,0.73,0.27,9.0,2.0,0.0,2.92,2.76,0.16,3.92
+24,Jeremy Howe,Collingwood,Gen. Defender,,,,,,,,,,,,
+24,Jordan De Goey,Collingwood,Mid-Forward,26.0,17.0,9.0,0.65,0.35,6.0,1.0,1.0,11.0,8.64,2.36,3.54
+24,Josh Daicos,Collingwood,Gen. Defender,19.0,18.0,1.0,0.95,0.05,7.0,0.0,4.0,-7.84,1.08,-8.92,2.08
+24,Lachie Schultz,Collingwood,Gen. Forward,16.0,11.0,5.0,0.69,0.31,6.0,2.0,4.0,1.5,3.0,-1.5,1.12
+24,Ned Long,Collingwood,Midfielder,17.0,10.0,7.0,0.59,0.41,6.0,1.0,5.0,-0.84,2.72,-3.56,3.52
+24,Nick Daicos,Collingwood,Midfielder,27.0,14.0,13.0,0.52,0.48,6.0,0.0,5.0,-3.0,-2.76,-0.24,1.96
+24,Patrick Lipinski,Collingwood,Mid-Forward,15.0,9.0,6.0,0.6,0.4,6.0,0.0,0.0,-2.17,0.13,-2.3,2.39
+24,Roan Steele,Collingwood,Midfielder,,,,,,,,,,,,
+24,Scott Pendlebury,Collingwood,Midfielder,21.0,14.0,7.0,0.67,0.33,3.0,0.0,4.0,-1.09,3.36,-4.46,-1.04
+24,Steele Sidebottom,Collingwood,Midfielder,16.0,11.0,5.0,0.69,0.31,6.0,1.0,0.0,-5.22,-1.35,-3.87,1.78
+24,Tim Membrey,Collingwood,Key Forward,8.0,2.0,6.0,0.25,0.75,2.0,0.0,1.0,-1.78,-3.87,2.09,-2.17

@@ -1,530 +1,530 @@
-Round,Player,Team,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,Position
-1,Aliir Aliir,Port Adelaide,12.0,8.0,4.0,0.67,0.33,3.0,0.0,2.0,Key Defender
-1,Connor Rozee,Port Adelaide,35.0,19.0,16.0,0.54,0.46,3.0,0.0,4.0,Gen. Defender
-1,Darcy Byrne-Jones,Port Adelaide,9.0,5.0,4.0,0.56,0.44,3.0,1.0,1.0,Gen. Forward
-1,Jack Lukosius,Port Adelaide,11.0,8.0,3.0,0.73,0.27,4.0,1.0,1.0,Key Forward
-1,Jackson Mead,Port Adelaide,16.0,6.0,10.0,0.38,0.62,5.0,0.0,2.0,Midfielder
-1,Jase Burgoyne,Port Adelaide,16.0,5.0,11.0,0.31,0.69,2.0,0.0,2.0,Midfielder
-1,Jason Horne-Francis,Port Adelaide,25.0,19.0,6.0,0.76,0.24,1.0,1.0,1.0,Midfielder
-1,Jeremy Finlayson,Port Adelaide,19.0,16.0,3.0,0.84,0.16,10.0,0.0,0.0,Key Forward
-1,Joe Berry,Port Adelaide,9.0,6.0,3.0,0.67,0.33,6.0,0.0,0.0,Gen. Forward
-1,Joe Richards,Port Adelaide,15.0,8.0,7.0,0.53,0.47,4.0,0.0,2.0,Gen. Forward
-1,Jordon Sweet,Port Adelaide,14.0,6.0,8.0,0.43,0.57,3.0,1.0,3.0,Ruck
-1,Josh Sinn,Port Adelaide,13.0,8.0,5.0,0.62,0.38,5.0,0.0,1.0,Gen. Defender
-1,Kane Farrell,Port Adelaide,23.0,14.0,9.0,0.61,0.39,6.0,0.0,3.0,Gen. Defender
-1,Lachie Jones,Port Adelaide,,,,,,,,,Gen. Defender
-1,Logan Evans,Port Adelaide,10.0,5.0,5.0,0.5,0.5,0.0,0.0,0.0,Gen. Defender
-1,Miles Bergman,Port Adelaide,16.0,10.0,6.0,0.62,0.38,5.0,0.0,3.0,Gen. Defender
-1,Mitch Georgiades,Port Adelaide,7.0,4.0,3.0,0.57,0.43,4.0,0.0,1.0,Key Forward
-1,Ollie Wines,Port Adelaide,34.0,8.0,26.0,0.24,0.76,3.0,0.0,4.0,Midfielder
-1,Ryan Burton,Port Adelaide,,,,,,,,,Gen. Defender
-1,Sam Powell-Pepper,Port Adelaide,8.0,4.0,4.0,0.5,0.5,3.0,0.0,0.0,Gen. Forward
-1,Travis Boak,Port Adelaide,28.0,9.0,19.0,0.32,0.68,8.0,1.0,6.0,Mid-Forward
-1,Willem Drew,Port Adelaide,16.0,6.0,10.0,0.38,0.62,0.0,0.0,5.0,Midfielder
-1,Willie Rioli,Port Adelaide,12.0,7.0,5.0,0.58,0.42,2.0,1.0,1.0,Gen. Forward
-2,Aliir Aliir,Port Adelaide,16.0,12.0,4.0,0.75,0.25,9.0,0.0,0.0,Key Defender
-2,Christian Moraes,Port Adelaide,17.0,8.0,9.0,0.47,0.53,6.0,0.0,0.0,Midfielder
-2,Connor Rozee,Port Adelaide,39.0,23.0,16.0,0.59,0.41,7.0,2.0,5.0,Gen. Defender
-2,Darcy Byrne-Jones,Port Adelaide,18.0,14.0,4.0,0.78,0.22,4.0,1.0,2.0,Gen. Forward
-2,Jack Lukosius,Port Adelaide,,,,,,,,,Key Forward
-2,Jackson Mead,Port Adelaide,30.0,8.0,22.0,0.27,0.73,6.0,0.0,3.0,Midfielder
-2,Jase Burgoyne,Port Adelaide,32.0,16.0,16.0,0.5,0.5,8.0,2.0,2.0,Midfielder
-2,Jason Horne-Francis,Port Adelaide,17.0,9.0,8.0,0.53,0.47,5.0,1.0,3.0,Midfielder
-2,Joe Berry,Port Adelaide,10.0,4.0,6.0,0.4,0.6,2.0,1.0,3.0,Gen. Forward
-2,Joe Richards,Port Adelaide,25.0,7.0,18.0,0.28,0.72,5.0,1.0,2.0,Gen. Forward
-2,Jordon Sweet,Port Adelaide,11.0,3.0,8.0,0.27,0.73,2.0,0.0,3.0,Ruck
-2,Josh Sinn,Port Adelaide,22.0,19.0,3.0,0.86,0.14,8.0,0.0,1.0,Gen. Defender
-2,Kane Farrell,Port Adelaide,31.0,17.0,14.0,0.55,0.45,8.0,1.0,1.0,Gen. Defender
-2,Lachie Jones,Port Adelaide,15.0,6.0,9.0,0.4,0.6,4.0,0.0,3.0,Gen. Defender
-2,Logan Evans,Port Adelaide,24.0,19.0,5.0,0.79,0.21,11.0,1.0,0.0,Gen. Defender
-2,Miles Bergman,Port Adelaide,21.0,13.0,8.0,0.62,0.38,9.0,0.0,1.0,Gen. Defender
-2,Mitch Georgiades,Port Adelaide,17.0,10.0,7.0,0.59,0.41,8.0,4.0,2.0,Key Forward
-2,Ollie Wines,Port Adelaide,33.0,8.0,25.0,0.24,0.76,1.0,1.0,4.0,Midfielder
-2,Ryan Burton,Port Adelaide,17.0,9.0,8.0,0.53,0.47,7.0,0.0,1.0,Gen. Defender
-2,Sam Powell-Pepper,Port Adelaide,16.0,10.0,6.0,0.62,0.38,9.0,3.0,1.0,Gen. Forward
-2,Travis Boak,Port Adelaide,28.0,9.0,19.0,0.32,0.68,6.0,0.0,0.0,Mid-Forward
-2,Willem Drew,Port Adelaide,22.0,5.0,17.0,0.23,0.77,3.0,0.0,12.0,Midfielder
-2,Willie Rioli,Port Adelaide,17.0,10.0,7.0,0.59,0.41,5.0,3.0,3.0,Gen. Forward
-3,Aliir Aliir,Port Adelaide,15.0,10.0,5.0,0.67,0.33,8.0,0.0,1.0,Key Defender
-3,Christian Moraes,Port Adelaide,27.0,13.0,14.0,0.48,0.52,7.0,0.0,1.0,Midfielder
-3,Connor Rozee,Port Adelaide,22.0,8.0,14.0,0.36,0.64,5.0,0.0,4.0,Gen. Defender
-3,Darcy Byrne-Jones,Port Adelaide,15.0,12.0,3.0,0.8,0.2,4.0,2.0,2.0,Gen. Forward
-3,Esava Ratugolea,Port Adelaide,12.0,7.0,5.0,0.58,0.42,8.0,0.0,1.0,Key Defender
-3,Ivan Soldo,Port Adelaide,5.0,3.0,2.0,0.6,0.4,1.0,0.0,1.0,Ruck
-3,Jackson Mead,Port Adelaide,14.0,5.0,9.0,0.36,0.64,3.0,0.0,3.0,Midfielder
-3,Jase Burgoyne,Port Adelaide,27.0,16.0,11.0,0.59,0.41,10.0,0.0,3.0,Midfielder
-3,Jason Horne-Francis,Port Adelaide,22.0,9.0,13.0,0.41,0.59,4.0,1.0,1.0,Midfielder
-3,Joe Berry,Port Adelaide,15.0,10.0,5.0,0.67,0.33,5.0,0.0,0.0,Gen. Forward
-3,Joe Richards,Port Adelaide,13.0,7.0,6.0,0.54,0.46,6.0,1.0,1.0,Gen. Forward
-3,Jordon Sweet,Port Adelaide,14.0,7.0,7.0,0.5,0.5,5.0,0.0,4.0,Ruck
-3,Josh Sinn,Port Adelaide,18.0,16.0,2.0,0.89,0.11,4.0,0.0,1.0,Gen. Defender
-3,Kane Farrell,Port Adelaide,18.0,15.0,3.0,0.83,0.17,2.0,0.0,1.0,Gen. Defender
-3,Logan Evans,Port Adelaide,10.0,8.0,2.0,0.8,0.2,3.0,0.0,2.0,Gen. Defender
-3,Miles Bergman,Port Adelaide,26.0,19.0,7.0,0.73,0.27,10.0,0.0,0.0,Gen. Defender
-3,Mitch Georgiades,Port Adelaide,13.0,9.0,4.0,0.69,0.31,6.0,2.0,0.0,Key Forward
-3,Ollie Wines,Port Adelaide,31.0,13.0,18.0,0.42,0.58,4.0,1.0,3.0,Midfielder
-3,Sam Powell-Pepper,Port Adelaide,14.0,8.0,6.0,0.57,0.43,6.0,0.0,4.0,Gen. Forward
-3,Tom Cochrane,Port Adelaide,,,,,,,,,Gen. Forward
-3,Travis Boak,Port Adelaide,18.0,10.0,8.0,0.56,0.44,6.0,1.0,3.0,Mid-Forward
-3,Willem Drew,Port Adelaide,15.0,6.0,9.0,0.4,0.6,3.0,0.0,4.0,Midfielder
-3,Willie Rioli,Port Adelaide,16.0,11.0,5.0,0.69,0.31,4.0,0.0,1.0,Gen. Forward
-4,Aliir Aliir,Port Adelaide,18.0,12.0,6.0,0.67,0.33,9.0,0.0,2.0,Key Defender
-4,Christian Moraes,Port Adelaide,14.0,8.0,6.0,0.57,0.43,4.0,0.0,1.0,Midfielder
-4,Connor Rozee,Port Adelaide,20.0,12.0,8.0,0.6,0.4,2.0,0.0,6.0,Gen. Defender
-4,Darcy Byrne-Jones,Port Adelaide,7.0,1.0,6.0,0.14,0.86,0.0,0.0,2.0,Gen. Forward
-4,Esava Ratugolea,Port Adelaide,9.0,8.0,1.0,0.89,0.11,5.0,0.0,0.0,Key Defender
-4,Jackson Mead,Port Adelaide,16.0,7.0,9.0,0.44,0.56,2.0,0.0,3.0,Midfielder
-4,Jase Burgoyne,Port Adelaide,13.0,9.0,4.0,0.69,0.31,4.0,0.0,3.0,Midfielder
-4,Jason Horne-Francis,Port Adelaide,28.0,13.0,15.0,0.46,0.54,6.0,3.0,6.0,Midfielder
-4,Joe Berry,Port Adelaide,,,,,,,,,Gen. Forward
-4,Joe Richards,Port Adelaide,16.0,4.0,12.0,0.25,0.75,4.0,0.0,6.0,Gen. Forward
-4,Jordon Sweet,Port Adelaide,10.0,2.0,8.0,0.2,0.8,0.0,0.0,4.0,Ruck
-4,Josh Sinn,Port Adelaide,12.0,11.0,1.0,0.92,0.08,3.0,0.0,1.0,Gen. Defender
-4,Kane Farrell,Port Adelaide,15.0,13.0,2.0,0.87,0.13,3.0,0.0,3.0,Gen. Defender
-4,Lachie Jones,Port Adelaide,13.0,7.0,6.0,0.54,0.46,3.0,0.0,2.0,Gen. Defender
-4,Logan Evans,Port Adelaide,,,,,,,,,Gen. Defender
-4,Miles Bergman,Port Adelaide,26.0,17.0,9.0,0.65,0.35,9.0,0.0,4.0,Gen. Defender
-4,Mitch Georgiades,Port Adelaide,14.0,11.0,3.0,0.79,0.21,8.0,3.0,3.0,Key Forward
-4,Ollie Lord,Port Adelaide,8.0,7.0,1.0,0.88,0.12,4.0,3.0,0.0,Key Forward
-4,Ollie Wines,Port Adelaide,23.0,7.0,16.0,0.3,0.7,1.0,0.0,5.0,Midfielder
-4,Sam Powell-Pepper,Port Adelaide,15.0,6.0,9.0,0.4,0.6,2.0,1.0,6.0,Gen. Forward
-4,Willem Drew,Port Adelaide,18.0,12.0,6.0,0.67,0.33,2.0,0.0,3.0,Midfielder
-4,Willie Rioli,Port Adelaide,9.0,7.0,2.0,0.78,0.22,2.0,0.0,1.0,Gen. Forward
-4,Zak Butters,Port Adelaide,30.0,11.0,19.0,0.37,0.63,3.0,0.0,5.0,Midfielder
-5,Aliir Aliir,Port Adelaide,13.0,7.0,6.0,0.54,0.46,7.0,0.0,1.0,Key Defender
-5,Christian Moraes,Port Adelaide,12.0,6.0,6.0,0.5,0.5,1.0,0.0,2.0,Midfielder
-5,Connor Rozee,Port Adelaide,28.0,20.0,8.0,0.71,0.29,7.0,2.0,4.0,Gen. Defender
-5,Esava Ratugolea,Port Adelaide,9.0,5.0,4.0,0.56,0.44,5.0,0.0,1.0,Key Defender
-5,Jackson Mead,Port Adelaide,14.0,9.0,5.0,0.64,0.36,1.0,2.0,1.0,Midfielder
-5,Jase Burgoyne,Port Adelaide,23.0,17.0,6.0,0.74,0.26,6.0,0.0,2.0,Midfielder
-5,Jason Horne-Francis,Port Adelaide,29.0,21.0,8.0,0.72,0.28,4.0,0.0,2.0,Midfielder
-5,Joe Berry,Port Adelaide,,,,,,,,,Gen. Forward
-5,Joe Richards,Port Adelaide,16.0,9.0,7.0,0.56,0.44,3.0,2.0,3.0,Gen. Forward
-5,Jordon Sweet,Port Adelaide,12.0,3.0,9.0,0.25,0.75,1.0,0.0,6.0,Ruck
-5,Josh Sinn,Port Adelaide,12.0,8.0,4.0,0.67,0.33,3.0,0.0,0.0,Gen. Defender
-5,Kane Farrell,Port Adelaide,18.0,14.0,4.0,0.78,0.22,2.0,0.0,2.0,Gen. Defender
-5,Lachie Jones,Port Adelaide,15.0,8.0,7.0,0.53,0.47,6.0,0.0,1.0,Gen. Defender
-5,Miles Bergman,Port Adelaide,,,,,,,,,Gen. Defender
-5,Mitch Georgiades,Port Adelaide,14.0,11.0,3.0,0.79,0.21,6.0,3.0,2.0,Key Forward
-5,Ollie Lord,Port Adelaide,9.0,5.0,4.0,0.56,0.44,4.0,1.0,0.0,Key Forward
-5,Ollie Wines,Port Adelaide,26.0,7.0,19.0,0.27,0.73,2.0,0.0,6.0,Midfielder
-5,Sam Powell-Pepper,Port Adelaide,12.0,7.0,5.0,0.58,0.42,3.0,2.0,6.0,Gen. Forward
-5,Tom Cochrane,Port Adelaide,11.0,7.0,4.0,0.64,0.36,1.0,1.0,2.0,Gen. Forward
-5,Travis Boak,Port Adelaide,20.0,9.0,11.0,0.45,0.55,2.0,0.0,1.0,Mid-Forward
-5,Willem Drew,Port Adelaide,26.0,10.0,16.0,0.38,0.62,1.0,1.0,4.0,Midfielder
-5,Willie Rioli,Port Adelaide,13.0,9.0,4.0,0.69,0.31,3.0,3.0,2.0,Gen. Forward
-5,Zak Butters,Port Adelaide,33.0,14.0,19.0,0.42,0.58,5.0,0.0,4.0,Midfielder
-6,Aliir Aliir,Port Adelaide,16.0,12.0,4.0,0.75,0.25,5.0,0.0,0.0,Key Defender
-6,Christian Moraes,Port Adelaide,10.0,3.0,7.0,0.3,0.7,1.0,0.0,1.0,Midfielder
-6,Connor Rozee,Port Adelaide,27.0,21.0,6.0,0.78,0.22,4.0,1.0,3.0,Gen. Defender
-6,Darcy Byrne-Jones,Port Adelaide,13.0,7.0,6.0,0.54,0.46,2.0,1.0,1.0,Gen. Forward
-6,Esava Ratugolea,Port Adelaide,7.0,5.0,2.0,0.71,0.29,7.0,0.0,2.0,Key Defender
-6,Jackson Mead,Port Adelaide,15.0,9.0,6.0,0.6,0.4,2.0,0.0,1.0,Midfielder
-6,Jase Burgoyne,Port Adelaide,15.0,10.0,5.0,0.67,0.33,5.0,0.0,3.0,Midfielder
-6,Jason Horne-Francis,Port Adelaide,20.0,18.0,2.0,0.9,0.1,9.0,0.0,5.0,Midfielder
-6,Jordon Sweet,Port Adelaide,9.0,5.0,4.0,0.56,0.44,1.0,0.0,3.0,Ruck
-6,Josh Sinn,Port Adelaide,9.0,8.0,1.0,0.89,0.11,4.0,0.0,2.0,Gen. Defender
-6,Kane Farrell,Port Adelaide,26.0,23.0,3.0,0.88,0.12,11.0,0.0,1.0,Gen. Defender
-6,Lachie Jones,Port Adelaide,11.0,6.0,5.0,0.55,0.45,2.0,0.0,4.0,Gen. Defender
-6,Miles Bergman,Port Adelaide,12.0,5.0,7.0,0.42,0.58,1.0,0.0,1.0,Gen. Defender
-6,Mitch Georgiades,Port Adelaide,9.0,7.0,2.0,0.78,0.22,5.0,3.0,0.0,Key Forward
-6,Ollie Lord,Port Adelaide,6.0,2.0,4.0,0.33,0.67,1.0,1.0,0.0,Key Forward
-6,Ollie Wines,Port Adelaide,,,,,,,,,Midfielder
-6,Rory Atkins,Port Adelaide,,,,,,,,,Gen. Defender
-6,Sam Powell-Pepper,Port Adelaide,15.0,10.0,5.0,0.67,0.33,3.0,2.0,3.0,Gen. Forward
-6,Tom Cochrane,Port Adelaide,,,,,,,,,Gen. Forward
-6,Travis Boak,Port Adelaide,12.0,6.0,6.0,0.5,0.5,4.0,0.0,3.0,Mid-Forward
-6,Willem Drew,Port Adelaide,9.0,5.0,4.0,0.56,0.44,0.0,1.0,10.0,Midfielder
-6,Willie Rioli,Port Adelaide,14.0,13.0,1.0,0.93,0.07,7.0,3.0,1.0,Gen. Forward
-6,Zak Butters,Port Adelaide,27.0,13.0,14.0,0.48,0.52,5.0,0.0,8.0,Midfielder
-7,Aliir Aliir,Port Adelaide,11.0,7.0,4.0,0.64,0.36,1.0,0.0,3.0,Key Defender
-7,Christian Moraes,Port Adelaide,10.0,2.0,8.0,0.2,0.8,2.0,0.0,6.0,Midfielder
-7,Connor Rozee,Port Adelaide,27.0,20.0,7.0,0.74,0.26,7.0,1.0,1.0,Gen. Defender
-7,Darcy Byrne-Jones,Port Adelaide,13.0,10.0,3.0,0.77,0.23,5.0,3.0,1.0,Gen. Forward
-7,Esava Ratugolea,Port Adelaide,9.0,7.0,2.0,0.78,0.22,6.0,0.0,3.0,Key Defender
-7,Jackson Mead,Port Adelaide,14.0,8.0,6.0,0.57,0.43,3.0,0.0,7.0,Midfielder
-7,Jase Burgoyne,Port Adelaide,22.0,9.0,13.0,0.41,0.59,5.0,0.0,1.0,Midfielder
-7,Jason Horne-Francis,Port Adelaide,27.0,15.0,12.0,0.56,0.44,3.0,1.0,4.0,Midfielder
-7,Jeremy Finlayson,Port Adelaide,,,,,,,,,Key Forward
-7,Joe Berry,Port Adelaide,,,,,,,,,Gen. Forward
-7,Joe Richards,Port Adelaide,10.0,4.0,6.0,0.4,0.6,1.0,2.0,0.0,Gen. Forward
-7,Jordon Sweet,Port Adelaide,8.0,7.0,1.0,0.88,0.12,0.0,0.0,6.0,Ruck
-7,Josh Sinn,Port Adelaide,,,,,,,,,Gen. Defender
-7,Kane Farrell,Port Adelaide,17.0,15.0,2.0,0.88,0.12,4.0,0.0,3.0,Gen. Defender
-7,Lachie Jones,Port Adelaide,5.0,2.0,3.0,0.4,0.6,1.0,0.0,3.0,Gen. Defender
-7,Miles Bergman,Port Adelaide,11.0,7.0,4.0,0.64,0.36,3.0,0.0,2.0,Gen. Defender
-7,Mitch Georgiades,Port Adelaide,17.0,14.0,3.0,0.82,0.18,10.0,2.0,1.0,Key Forward
-7,Ollie Lord,Port Adelaide,12.0,5.0,7.0,0.42,0.58,4.0,2.0,1.0,Key Forward
-7,Ollie Wines,Port Adelaide,24.0,13.0,11.0,0.54,0.46,3.0,0.0,4.0,Midfielder
-7,Sam Powell-Pepper,Port Adelaide,17.0,12.0,5.0,0.71,0.29,7.0,1.0,5.0,Gen. Forward
-7,Willem Drew,Port Adelaide,17.0,7.0,10.0,0.41,0.59,1.0,0.0,11.0,Midfielder
-7,Willie Rioli,Port Adelaide,10.0,7.0,3.0,0.7,0.3,3.0,1.0,3.0,Gen. Forward
-7,Zak Butters,Port Adelaide,27.0,14.0,13.0,0.52,0.48,1.0,0.0,13.0,Midfielder
-8,Aliir Aliir,Port Adelaide,7.0,5.0,2.0,0.71,0.29,3.0,0.0,0.0,Key Defender
-8,Connor Rozee,Port Adelaide,29.0,17.0,12.0,0.59,0.41,3.0,0.0,1.0,Gen. Defender
-8,Darcy Byrne-Jones,Port Adelaide,10.0,4.0,6.0,0.4,0.6,3.0,0.0,4.0,Gen. Forward
-8,Esava Ratugolea,Port Adelaide,11.0,4.0,7.0,0.36,0.64,3.0,0.0,4.0,Key Defender
-8,Jackson Mead,Port Adelaide,7.0,2.0,5.0,0.29,0.71,2.0,0.0,2.0,Midfielder
-8,Jase Burgoyne,Port Adelaide,21.0,10.0,11.0,0.48,0.52,4.0,0.0,4.0,Midfielder
-8,Jason Horne-Francis,Port Adelaide,22.0,14.0,8.0,0.64,0.36,4.0,0.0,3.0,Midfielder
-8,Jeremy Finlayson,Port Adelaide,,,,,,,,,Key Forward
-8,Joe Berry,Port Adelaide,,,,,,,,,Gen. Forward
-8,Joe Richards,Port Adelaide,13.0,7.0,6.0,0.54,0.46,3.0,0.0,5.0,Gen. Forward
-8,Jordon Sweet,Port Adelaide,9.0,3.0,6.0,0.33,0.67,2.0,1.0,4.0,Ruck
-8,Kane Farrell,Port Adelaide,15.0,15.0,0.0,1.0,0.0,3.0,0.0,3.0,Gen. Defender
-8,Lachie Jones,Port Adelaide,5.0,3.0,2.0,0.6,0.4,1.0,0.0,0.0,Gen. Defender
-8,Logan Evans,Port Adelaide,14.0,7.0,7.0,0.5,0.5,1.0,0.0,4.0,Gen. Defender
-8,Miles Bergman,Port Adelaide,14.0,11.0,3.0,0.79,0.21,6.0,0.0,1.0,Gen. Defender
-8,Mitch Georgiades,Port Adelaide,11.0,6.0,5.0,0.55,0.45,2.0,1.0,2.0,Key Forward
-8,Ollie Lord,Port Adelaide,7.0,4.0,3.0,0.57,0.43,2.0,0.0,2.0,Key Forward
-8,Ollie Wines,Port Adelaide,22.0,10.0,12.0,0.45,0.55,1.0,0.0,3.0,Midfielder
-8,Sam Powell-Pepper,Port Adelaide,18.0,6.0,12.0,0.33,0.67,2.0,1.0,3.0,Gen. Forward
-8,Will Lorenz,Port Adelaide,15.0,7.0,8.0,0.47,0.53,2.0,0.0,2.0,Midfielder
-8,Willem Drew,Port Adelaide,16.0,4.0,12.0,0.25,0.75,0.0,0.0,4.0,Midfielder
-8,Willie Rioli,Port Adelaide,6.0,4.0,2.0,0.67,0.33,2.0,2.0,5.0,Gen. Forward
-8,Zak Butters,Port Adelaide,24.0,12.0,12.0,0.5,0.5,3.0,0.0,9.0,Midfielder
-9,Aliir Aliir,Port Adelaide,8.0,7.0,1.0,0.88,0.12,6.0,0.0,2.0,Key Defender
-9,Christian Moraes,Port Adelaide,,,,,,,,,Midfielder
-9,Connor Rozee,Port Adelaide,32.0,24.0,8.0,0.75,0.25,4.0,1.0,5.0,Gen. Defender
-9,Dante Visentini,Port Adelaide,9.0,1.0,8.0,0.11,0.89,2.0,0.0,1.0,Ruck
-9,Darcy Byrne-Jones,Port Adelaide,15.0,9.0,6.0,0.6,0.4,4.0,2.0,1.0,Gen. Forward
-9,Esava Ratugolea,Port Adelaide,7.0,3.0,4.0,0.43,0.57,3.0,0.0,1.0,Key Defender
-9,Jackson Mead,Port Adelaide,11.0,8.0,3.0,0.73,0.27,4.0,0.0,3.0,Midfielder
-9,Jase Burgoyne,Port Adelaide,19.0,11.0,8.0,0.58,0.42,4.0,0.0,3.0,Midfielder
-9,Jason Horne-Francis,Port Adelaide,20.0,15.0,5.0,0.75,0.25,3.0,1.0,4.0,Midfielder
-9,Jed McEntee,Port Adelaide,,,,,,,,,Gen. Forward
-9,Jeremy Finlayson,Port Adelaide,11.0,10.0,1.0,0.91,0.09,3.0,3.0,0.0,Key Forward
-9,Joe Richards,Port Adelaide,18.0,6.0,12.0,0.33,0.67,1.0,0.0,2.0,Gen. Forward
-9,Josh Sinn,Port Adelaide,16.0,11.0,5.0,0.69,0.31,2.0,0.0,1.0,Gen. Defender
-9,Kane Farrell,Port Adelaide,15.0,13.0,2.0,0.87,0.13,4.0,0.0,1.0,Gen. Defender
-9,Lachie Jones,Port Adelaide,13.0,8.0,5.0,0.62,0.38,4.0,0.0,1.0,Gen. Defender
-9,Miles Bergman,Port Adelaide,23.0,15.0,8.0,0.65,0.35,5.0,0.0,8.0,Gen. Defender
-9,Mitch Georgiades,Port Adelaide,10.0,8.0,2.0,0.8,0.2,3.0,2.0,1.0,Key Forward
-9,Ollie Lord,Port Adelaide,5.0,2.0,3.0,0.4,0.6,2.0,0.0,0.0,Key Forward
-9,Ollie Wines,Port Adelaide,31.0,13.0,18.0,0.42,0.58,4.0,0.0,3.0,Midfielder
-9,Ryan Burton,Port Adelaide,17.0,13.0,4.0,0.76,0.24,7.0,1.0,3.0,Gen. Defender
-9,Sam Powell-Pepper,Port Adelaide,8.0,4.0,4.0,0.5,0.5,1.0,2.0,0.0,Gen. Forward
-9,Willem Drew,Port Adelaide,18.0,11.0,7.0,0.61,0.39,3.0,0.0,9.0,Midfielder
-9,Zak Butters,Port Adelaide,33.0,10.0,23.0,0.3,0.7,2.0,0.0,3.0,Midfielder
-10,Aliir Aliir,Port Adelaide,20.0,11.0,9.0,0.55,0.45,10.0,0.0,1.0,Key Defender
-10,Christian Moraes,Port Adelaide,18.0,8.0,10.0,0.44,0.56,5.0,0.0,2.0,Midfielder
-10,Connor Rozee,Port Adelaide,32.0,22.0,10.0,0.69,0.31,7.0,0.0,2.0,Gen. Defender
-10,Dante Visentini,Port Adelaide,11.0,5.0,6.0,0.45,0.55,2.0,0.0,6.0,Ruck
-10,Darcy Byrne-Jones,Port Adelaide,11.0,10.0,1.0,0.91,0.09,5.0,1.0,1.0,Gen. Forward
-10,Esava Ratugolea,Port Adelaide,13.0,7.0,6.0,0.54,0.46,5.0,0.0,1.0,Key Defender
-10,Jackson Mead,Port Adelaide,20.0,10.0,10.0,0.5,0.5,4.0,0.0,2.0,Midfielder
-10,Jase Burgoyne,Port Adelaide,22.0,13.0,9.0,0.59,0.41,4.0,0.0,3.0,Midfielder
-10,Jason Horne-Francis,Port Adelaide,,,,,,,,,Midfielder
-10,Jeremy Finlayson,Port Adelaide,6.0,4.0,2.0,0.67,0.33,2.0,0.0,1.0,Key Forward
-10,Joe Richards,Port Adelaide,12.0,6.0,6.0,0.5,0.5,4.0,1.0,3.0,Gen. Forward
-10,Josh Sinn,Port Adelaide,,,,,,,,,Gen. Defender
-10,Lachie Jones,Port Adelaide,,,,,,,,,Gen. Defender
-10,Logan Evans,Port Adelaide,20.0,7.0,13.0,0.35,0.65,4.0,0.0,2.0,Gen. Defender
-10,Miles Bergman,Port Adelaide,19.0,14.0,5.0,0.74,0.26,6.0,0.0,2.0,Gen. Defender
-10,Mitch Georgiades,Port Adelaide,14.0,10.0,4.0,0.71,0.29,5.0,1.0,2.0,Key Forward
-10,Ollie Lord,Port Adelaide,5.0,1.0,4.0,0.2,0.8,2.0,0.0,2.0,Key Forward
-10,Ollie Wines,Port Adelaide,28.0,13.0,15.0,0.46,0.54,11.0,0.0,6.0,Midfielder
-10,Ryan Burton,Port Adelaide,26.0,15.0,11.0,0.58,0.42,3.0,0.0,1.0,Gen. Defender
-10,Sam Powell-Pepper,Port Adelaide,23.0,12.0,11.0,0.52,0.48,3.0,2.0,2.0,Gen. Forward
-10,Willem Drew,Port Adelaide,20.0,8.0,12.0,0.4,0.6,4.0,0.0,0.0,Midfielder
-10,Willie Rioli,Port Adelaide,15.0,9.0,6.0,0.6,0.4,2.0,0.0,5.0,Gen. Forward
-10,Zak Butters,Port Adelaide,20.0,6.0,14.0,0.3,0.7,0.0,0.0,1.0,Midfielder
-11,Aliir Aliir,Port Adelaide,12.0,8.0,4.0,0.67,0.33,7.0,0.0,4.0,Key Defender
-11,Brandon Zerk-Thatcher,Port Adelaide,13.0,10.0,3.0,0.77,0.23,8.0,0.0,1.0,Key Defender
-11,Christian Moraes,Port Adelaide,14.0,7.0,7.0,0.5,0.5,4.0,0.0,5.0,Midfielder
-11,Connor Rozee,Port Adelaide,27.0,17.0,10.0,0.63,0.37,3.0,0.0,6.0,Gen. Defender
-11,Dante Visentini,Port Adelaide,14.0,3.0,11.0,0.21,0.79,1.0,0.0,1.0,Ruck
-11,Darcy Byrne-Jones,Port Adelaide,,,,,,,,,Gen. Forward
-11,Hugh Jackson,Port Adelaide,,,,,,,,,Mid-Forward
-11,Jackson Mead,Port Adelaide,5.0,2.0,3.0,0.4,0.6,3.0,0.0,1.0,Midfielder
-11,Jase Burgoyne,Port Adelaide,18.0,13.0,5.0,0.72,0.28,4.0,0.0,2.0,Midfielder
-11,Jeremy Finlayson,Port Adelaide,11.0,6.0,5.0,0.55,0.45,1.0,1.0,1.0,Key Forward
-11,Joe Richards,Port Adelaide,13.0,7.0,6.0,0.54,0.46,3.0,0.0,1.0,Gen. Forward
-11,Logan Evans,Port Adelaide,21.0,10.0,11.0,0.48,0.52,4.0,0.0,5.0,Gen. Defender
-11,Miles Bergman,Port Adelaide,23.0,13.0,10.0,0.57,0.43,6.0,1.0,2.0,Gen. Defender
-11,Mitch Georgiades,Port Adelaide,8.0,6.0,2.0,0.75,0.25,3.0,3.0,0.0,Key Forward
-11,Ollie Lord,Port Adelaide,4.0,1.0,3.0,0.25,0.75,1.0,0.0,1.0,Key Forward
-11,Ollie Wines,Port Adelaide,33.0,12.0,21.0,0.36,0.64,0.0,0.0,8.0,Midfielder
-11,Rory Atkins,Port Adelaide,25.0,16.0,9.0,0.64,0.36,7.0,0.0,1.0,Gen. Defender
-11,Ryan Burton,Port Adelaide,18.0,14.0,4.0,0.78,0.22,3.0,0.0,0.0,Gen. Defender
-11,Sam Powell-Pepper,Port Adelaide,9.0,5.0,4.0,0.56,0.44,1.0,0.0,3.0,Gen. Forward
-11,Travis Boak,Port Adelaide,21.0,9.0,12.0,0.43,0.57,1.0,0.0,1.0,Mid-Forward
-11,Willem Drew,Port Adelaide,23.0,12.0,11.0,0.52,0.48,2.0,0.0,10.0,Midfielder
-11,Willie Rioli,Port Adelaide,9.0,8.0,1.0,0.89,0.11,2.0,2.0,4.0,Gen. Forward
-11,Zak Butters,Port Adelaide,24.0,13.0,11.0,0.54,0.46,1.0,0.0,6.0,Midfielder
-13,Aliir Aliir,Port Adelaide,14.0,12.0,2.0,0.86,0.14,4.0,0.0,0.0,Key Defender
-13,Brandon Zerk-Thatcher,Port Adelaide,11.0,5.0,6.0,0.45,0.55,2.0,0.0,2.0,Key Defender
-13,Christian Moraes,Port Adelaide,,,,,,,,,Midfielder
-13,Connor Rozee,Port Adelaide,28.0,17.0,11.0,0.61,0.39,7.0,1.0,6.0,Gen. Defender
-13,Dante Visentini,Port Adelaide,12.0,6.0,6.0,0.5,0.5,3.0,0.0,3.0,Ruck
-13,Darcy Byrne-Jones,Port Adelaide,9.0,7.0,2.0,0.78,0.22,3.0,0.0,1.0,Gen. Forward
-13,Esava Ratugolea,Port Adelaide,18.0,11.0,7.0,0.61,0.39,7.0,0.0,2.0,Key Defender
-13,Hugh Jackson,Port Adelaide,14.0,8.0,6.0,0.57,0.43,4.0,1.0,2.0,Mid-Forward
-13,Jackson Mead,Port Adelaide,8.0,5.0,3.0,0.62,0.38,0.0,0.0,1.0,Midfielder
-13,Jase Burgoyne,Port Adelaide,21.0,12.0,9.0,0.57,0.43,4.0,0.0,2.0,Midfielder
-13,Jeremy Finlayson,Port Adelaide,10.0,6.0,4.0,0.6,0.4,6.0,0.0,3.0,Key Forward
-13,Joe Richards,Port Adelaide,15.0,8.0,7.0,0.53,0.47,6.0,1.0,5.0,Gen. Forward
-13,Josh Sinn,Port Adelaide,8.0,7.0,1.0,0.88,0.12,1.0,0.0,2.0,Gen. Defender
-13,Kane Farrell,Port Adelaide,17.0,15.0,2.0,0.88,0.12,3.0,1.0,1.0,Gen. Defender
-13,Miles Bergman,Port Adelaide,23.0,17.0,6.0,0.74,0.26,8.0,0.0,4.0,Gen. Defender
-13,Mitch Georgiades,Port Adelaide,8.0,5.0,3.0,0.62,0.38,5.0,1.0,1.0,Key Forward
-13,Ollie Wines,Port Adelaide,23.0,10.0,13.0,0.43,0.57,8.0,1.0,3.0,Midfielder
-13,Ryan Burton,Port Adelaide,16.0,12.0,4.0,0.75,0.25,4.0,0.0,1.0,Gen. Defender
-13,Sam Powell-Pepper,Port Adelaide,9.0,3.0,6.0,0.33,0.67,3.0,0.0,2.0,Gen. Forward
-13,Travis Boak,Port Adelaide,22.0,11.0,11.0,0.5,0.5,4.0,0.0,5.0,Mid-Forward
-13,Willem Drew,Port Adelaide,18.0,10.0,8.0,0.56,0.44,2.0,0.0,10.0,Midfielder
-13,Willie Rioli,Port Adelaide,6.0,4.0,2.0,0.67,0.33,3.0,2.0,1.0,Gen. Forward
-13,Zak Butters,Port Adelaide,32.0,16.0,16.0,0.5,0.5,2.0,0.0,7.0,Midfielder
-14,Aliir Aliir,Port Adelaide,5.0,5.0,0.0,1.0,0.0,3.0,0.0,0.0,Key Defender
-14,Brandon Zerk-Thatcher,Port Adelaide,8.0,5.0,3.0,0.62,0.38,4.0,0.0,4.0,Key Defender
-14,Connor Rozee,Port Adelaide,32.0,25.0,7.0,0.78,0.22,5.0,0.0,4.0,Gen. Defender
-14,Dante Visentini,Port Adelaide,6.0,3.0,3.0,0.5,0.5,0.0,0.0,7.0,Ruck
-14,Darcy Byrne-Jones,Port Adelaide,13.0,7.0,6.0,0.54,0.46,3.0,2.0,2.0,Gen. Forward
-14,Esava Ratugolea,Port Adelaide,18.0,10.0,8.0,0.56,0.44,13.0,0.0,3.0,Key Defender
-14,Hugh Jackson,Port Adelaide,,,,,,,,,Mid-Forward
-14,Jackson Mead,Port Adelaide,16.0,7.0,9.0,0.44,0.56,6.0,0.0,2.0,Midfielder
-14,Jase Burgoyne,Port Adelaide,21.0,12.0,9.0,0.57,0.43,9.0,1.0,1.0,Midfielder
-14,Jason Horne-Francis,Port Adelaide,29.0,15.0,14.0,0.52,0.48,7.0,1.0,3.0,Midfielder
-14,Joe Richards,Port Adelaide,15.0,7.0,8.0,0.47,0.53,4.0,0.0,2.0,Gen. Forward
-14,Jordon Sweet,Port Adelaide,7.0,3.0,4.0,0.43,0.57,3.0,0.0,2.0,Ruck
-14,Josh Sinn,Port Adelaide,14.0,11.0,3.0,0.79,0.21,7.0,0.0,0.0,Gen. Defender
-14,Kane Farrell,Port Adelaide,18.0,14.0,4.0,0.78,0.22,8.0,0.0,2.0,Gen. Defender
-14,Mani Liddy,Port Adelaide,10.0,7.0,3.0,0.7,0.3,3.0,0.0,2.0,Midfielder
-14,Miles Bergman,Port Adelaide,22.0,17.0,5.0,0.77,0.23,7.0,1.0,4.0,Gen. Defender
-14,Mitch Georgiades,Port Adelaide,18.0,16.0,2.0,0.89,0.11,10.0,7.0,0.0,Key Forward
-14,Ollie Wines,Port Adelaide,22.0,7.0,15.0,0.32,0.68,5.0,0.0,5.0,Midfielder
-14,Ryan Burton,Port Adelaide,26.0,19.0,7.0,0.73,0.27,7.0,0.0,2.0,Gen. Defender
-14,Sam Powell-Pepper,Port Adelaide,17.0,10.0,7.0,0.59,0.41,6.0,1.0,4.0,Gen. Forward
-14,Willem Drew,Port Adelaide,17.0,9.0,8.0,0.53,0.47,4.0,0.0,7.0,Midfielder
-14,Willie Rioli,Port Adelaide,11.0,3.0,8.0,0.27,0.73,2.0,1.0,0.0,Gen. Forward
-14,Zak Butters,Port Adelaide,27.0,15.0,12.0,0.56,0.44,5.0,0.0,4.0,Midfielder
-15,Brandon Zerk-Thatcher,Port Adelaide,13.0,8.0,5.0,0.62,0.38,8.0,0.0,2.0,Key Defender
-15,Christian Moraes,Port Adelaide,11.0,5.0,6.0,0.45,0.55,2.0,0.0,2.0,Midfielder
-15,Connor Rozee,Port Adelaide,25.0,15.0,10.0,0.6,0.4,4.0,0.0,1.0,Gen. Defender
-15,Dante Visentini,Port Adelaide,5.0,2.0,3.0,0.4,0.6,1.0,0.0,2.0,Ruck
-15,Darcy Byrne-Jones,Port Adelaide,13.0,11.0,2.0,0.85,0.15,6.0,1.0,1.0,Gen. Forward
-15,Esava Ratugolea,Port Adelaide,16.0,9.0,7.0,0.56,0.44,7.0,0.0,2.0,Key Defender
-15,Jackson Mead,Port Adelaide,12.0,6.0,6.0,0.5,0.5,0.0,0.0,3.0,Midfielder
-15,Jase Burgoyne,Port Adelaide,20.0,10.0,10.0,0.5,0.5,7.0,0.0,4.0,Midfielder
-15,Jason Horne-Francis,Port Adelaide,16.0,13.0,3.0,0.81,0.19,6.0,1.0,1.0,Midfielder
-15,Jeremy Finlayson,Port Adelaide,,,,,,,,,Key Forward
-15,Joe Richards,Port Adelaide,19.0,8.0,11.0,0.42,0.58,5.0,1.0,4.0,Gen. Forward
-15,Jordon Sweet,Port Adelaide,,,,,,,,,Ruck
-15,Josh Sinn,Port Adelaide,15.0,9.0,6.0,0.6,0.4,6.0,0.0,4.0,Gen. Defender
-15,Kane Farrell,Port Adelaide,20.0,15.0,5.0,0.75,0.25,3.0,0.0,1.0,Gen. Defender
-15,Lachie Jones,Port Adelaide,10.0,2.0,8.0,0.2,0.8,3.0,0.0,0.0,Gen. Defender
-15,Mani Liddy,Port Adelaide,17.0,14.0,3.0,0.82,0.18,5.0,0.0,3.0,Midfielder
-15,Miles Bergman,Port Adelaide,14.0,10.0,4.0,0.71,0.29,3.0,0.0,2.0,Gen. Defender
-15,Mitch Georgiades,Port Adelaide,7.0,5.0,2.0,0.71,0.29,4.0,1.0,2.0,Key Forward
-15,Ryan Burton,Port Adelaide,21.0,18.0,3.0,0.86,0.14,3.0,0.0,1.0,Gen. Defender
-15,Sam Powell-Pepper,Port Adelaide,20.0,10.0,10.0,0.5,0.5,6.0,1.0,3.0,Gen. Forward
-15,Willem Drew,Port Adelaide,17.0,6.0,11.0,0.35,0.65,5.0,0.0,8.0,Midfielder
-15,Willie Rioli,Port Adelaide,7.0,6.0,1.0,0.86,0.14,2.0,1.0,1.0,Gen. Forward
-15,Zak Butters,Port Adelaide,28.0,9.0,19.0,0.32,0.68,8.0,1.0,3.0,Midfielder
-16,Aliir Aliir,Port Adelaide,9.0,7.0,2.0,0.78,0.22,3.0,0.0,0.0,Key Defender
-16,Brandon Zerk-Thatcher,Port Adelaide,8.0,4.0,4.0,0.5,0.5,5.0,0.0,0.0,Key Defender
-16,Connor Rozee,Port Adelaide,30.0,25.0,5.0,0.83,0.17,11.0,0.0,1.0,Gen. Defender
-16,Dante Visentini,Port Adelaide,12.0,7.0,5.0,0.58,0.42,4.0,1.0,2.0,Ruck
-16,Darcy Byrne-Jones,Port Adelaide,14.0,5.0,9.0,0.36,0.64,4.0,2.0,2.0,Gen. Forward
-16,Esava Ratugolea,Port Adelaide,13.0,10.0,3.0,0.77,0.23,6.0,0.0,0.0,Key Defender
-16,Hugh Jackson,Port Adelaide,17.0,9.0,8.0,0.53,0.47,3.0,0.0,2.0,Mid-Forward
-16,Jase Burgoyne,Port Adelaide,15.0,9.0,6.0,0.6,0.4,5.0,0.0,3.0,Midfielder
-16,Jason Horne-Francis,Port Adelaide,,,,,,,,,Midfielder
-16,Joe Richards,Port Adelaide,22.0,12.0,10.0,0.55,0.45,4.0,0.0,4.0,Gen. Forward
-16,Jordon Sweet,Port Adelaide,6.0,1.0,5.0,0.17,0.83,0.0,0.0,3.0,Ruck
-16,Josh Sinn,Port Adelaide,17.0,14.0,3.0,0.82,0.18,7.0,0.0,0.0,Gen. Defender
-16,Kane Farrell,Port Adelaide,22.0,18.0,4.0,0.82,0.18,9.0,1.0,0.0,Gen. Defender
-16,Lachie Jones,Port Adelaide,12.0,7.0,5.0,0.58,0.42,6.0,1.0,1.0,Gen. Defender
-16,Logan Evans,Port Adelaide,,,,,,,,,Gen. Defender
-16,Mani Liddy,Port Adelaide,11.0,6.0,5.0,0.55,0.45,4.0,0.0,5.0,Midfielder
-16,Miles Bergman,Port Adelaide,25.0,16.0,9.0,0.64,0.36,8.0,2.0,5.0,Gen. Defender
-16,Mitch Georgiades,Port Adelaide,11.0,10.0,1.0,0.91,0.09,6.0,5.0,1.0,Key Forward
-16,Sam Powell-Pepper,Port Adelaide,17.0,6.0,11.0,0.35,0.65,3.0,0.0,1.0,Gen. Forward
-16,Travis Boak,Port Adelaide,21.0,7.0,14.0,0.33,0.67,3.0,1.0,2.0,Mid-Forward
-16,Willem Drew,Port Adelaide,15.0,7.0,8.0,0.47,0.53,4.0,0.0,7.0,Midfielder
-16,Willie Rioli,Port Adelaide,6.0,4.0,2.0,0.67,0.33,2.0,3.0,1.0,Gen. Forward
-16,Zak Butters,Port Adelaide,30.0,11.0,19.0,0.37,0.63,4.0,0.0,1.0,Midfielder
-17,Aliir Aliir,Port Adelaide,12.0,6.0,6.0,0.5,0.5,4.0,0.0,3.0,Key Defender
-17,Brandon Zerk-Thatcher,Port Adelaide,8.0,6.0,2.0,0.75,0.25,6.0,0.0,0.0,Key Defender
-17,Connor Rozee,Port Adelaide,31.0,20.0,11.0,0.65,0.35,5.0,0.0,3.0,Gen. Defender
-17,Dante Visentini,Port Adelaide,,,,,,,,,Ruck
-17,Darcy Byrne-Jones,Port Adelaide,15.0,8.0,7.0,0.53,0.47,2.0,0.0,3.0,Gen. Forward
-17,Esava Ratugolea,Port Adelaide,,,,,,,,,Key Defender
-17,Hugh Jackson,Port Adelaide,,,,,,,,,Mid-Forward
-17,Jack Lukosius,Port Adelaide,14.0,11.0,3.0,0.79,0.21,9.0,3.0,0.0,Key Forward
-17,Jase Burgoyne,Port Adelaide,15.0,9.0,6.0,0.6,0.4,4.0,0.0,2.0,Midfielder
-17,Jason Horne-Francis,Port Adelaide,19.0,12.0,7.0,0.63,0.37,6.0,1.0,3.0,Midfielder
-17,Joe Richards,Port Adelaide,14.0,8.0,6.0,0.57,0.43,4.0,1.0,3.0,Gen. Forward
-17,Jordon Sweet,Port Adelaide,13.0,3.0,10.0,0.23,0.77,3.0,0.0,4.0,Ruck
-17,Josh Sinn,Port Adelaide,10.0,6.0,4.0,0.6,0.4,2.0,0.0,3.0,Gen. Defender
-17,Kane Farrell,Port Adelaide,19.0,10.0,9.0,0.53,0.47,3.0,0.0,1.0,Gen. Defender
-17,Lachie Jones,Port Adelaide,12.0,6.0,6.0,0.5,0.5,3.0,0.0,1.0,Gen. Defender
-17,Miles Bergman,Port Adelaide,17.0,10.0,7.0,0.59,0.41,2.0,0.0,4.0,Gen. Defender
-17,Mitch Georgiades,Port Adelaide,10.0,9.0,1.0,0.9,0.1,7.0,4.0,0.0,Key Forward
-17,Ollie Wines,Port Adelaide,22.0,10.0,12.0,0.45,0.55,5.0,0.0,6.0,Midfielder
-17,Sam Powell-Pepper,Port Adelaide,,,,,,,,,Gen. Forward
-17,Travis Boak,Port Adelaide,27.0,13.0,14.0,0.48,0.52,7.0,0.0,2.0,Mid-Forward
-17,Willem Drew,Port Adelaide,21.0,7.0,14.0,0.33,0.67,4.0,0.0,5.0,Midfielder
-17,Willie Rioli,Port Adelaide,8.0,7.0,1.0,0.88,0.12,1.0,3.0,0.0,Gen. Forward
-17,Zak Butters,Port Adelaide,31.0,20.0,11.0,0.65,0.35,5.0,0.0,6.0,Midfielder
-18,Aliir Aliir,Port Adelaide,13.0,8.0,5.0,0.62,0.38,5.0,0.0,1.0,Key Defender
-18,Brandon Zerk-Thatcher,Port Adelaide,11.0,6.0,5.0,0.55,0.45,4.0,0.0,3.0,Key Defender
-18,Connor Rozee,Port Adelaide,,,,,,,,,Gen. Defender
-18,Darcy Byrne-Jones,Port Adelaide,17.0,12.0,5.0,0.71,0.29,3.0,2.0,2.0,Gen. Forward
-18,Hugh Jackson,Port Adelaide,12.0,7.0,5.0,0.58,0.42,1.0,0.0,2.0,Mid-Forward
-18,Jack Lukosius,Port Adelaide,7.0,5.0,2.0,0.71,0.29,5.0,0.0,1.0,Key Forward
-18,Jase Burgoyne,Port Adelaide,9.0,6.0,3.0,0.67,0.33,1.0,0.0,5.0,Midfielder
-18,Jason Horne-Francis,Port Adelaide,27.0,19.0,8.0,0.7,0.3,2.0,3.0,6.0,Midfielder
-18,Joe Richards,Port Adelaide,23.0,14.0,9.0,0.61,0.39,6.0,2.0,7.0,Gen. Forward
-18,Jordon Sweet,Port Adelaide,5.0,2.0,3.0,0.4,0.6,1.0,0.0,5.0,Ruck
-18,Josh Sinn,Port Adelaide,9.0,6.0,3.0,0.67,0.33,2.0,0.0,1.0,Gen. Defender
-18,Kane Farrell,Port Adelaide,20.0,18.0,2.0,0.9,0.1,6.0,0.0,3.0,Gen. Defender
-18,Lachie Jones,Port Adelaide,12.0,8.0,4.0,0.67,0.33,2.0,0.0,5.0,Gen. Defender
-18,Mani Liddy,Port Adelaide,18.0,11.0,7.0,0.61,0.39,6.0,0.0,2.0,Midfielder
-18,Miles Bergman,Port Adelaide,13.0,11.0,2.0,0.85,0.15,3.0,1.0,6.0,Gen. Defender
-18,Mitch Georgiades,Port Adelaide,13.0,10.0,3.0,0.77,0.23,6.0,3.0,1.0,Key Forward
-18,Ollie Lord,Port Adelaide,9.0,2.0,7.0,0.22,0.78,1.0,0.0,3.0,Key Forward
-18,Ollie Wines,Port Adelaide,25.0,12.0,13.0,0.48,0.52,5.0,0.0,4.0,Midfielder
-18,Travis Boak,Port Adelaide,15.0,3.0,12.0,0.2,0.8,0.0,1.0,1.0,Mid-Forward
-18,Will Lorenz,Port Adelaide,,,,,,,,,Midfielder
-18,Willem Drew,Port Adelaide,13.0,6.0,7.0,0.46,0.54,0.0,0.0,5.0,Midfielder
-18,Willie Rioli,Port Adelaide,4.0,3.0,1.0,0.75,0.25,2.0,0.0,0.0,Gen. Forward
-18,Zak Butters,Port Adelaide,38.0,21.0,17.0,0.55,0.45,6.0,0.0,2.0,Midfielder
-19,Aliir Aliir,Port Adelaide,14.0,13.0,1.0,0.93,0.07,3.0,0.0,4.0,Key Defender
-19,Brandon Zerk-Thatcher,Port Adelaide,14.0,6.0,8.0,0.43,0.57,2.0,0.0,1.0,Key Defender
-19,Darcy Byrne-Jones,Port Adelaide,12.0,11.0,1.0,0.92,0.08,0.0,0.0,1.0,Gen. Forward
-19,Dylan Williams,Port Adelaide,,,,,,,,,Gen. Forward
-19,Hugh Jackson,Port Adelaide,13.0,7.0,6.0,0.54,0.46,0.0,0.0,3.0,Mid-Forward
-19,Jack Lukosius,Port Adelaide,14.0,11.0,3.0,0.79,0.21,4.0,2.0,6.0,Key Forward
-19,Jackson Mead,Port Adelaide,7.0,6.0,1.0,0.86,0.14,1.0,0.0,6.0,Midfielder
-19,Jase Burgoyne,Port Adelaide,26.0,17.0,9.0,0.65,0.35,2.0,0.0,3.0,Midfielder
-19,Joe Richards,Port Adelaide,11.0,8.0,3.0,0.73,0.27,0.0,0.0,10.0,Gen. Forward
-19,Jordon Sweet,Port Adelaide,22.0,13.0,9.0,0.59,0.41,1.0,1.0,7.0,Ruck
-19,Josh Sinn,Port Adelaide,9.0,8.0,1.0,0.89,0.11,1.0,0.0,4.0,Gen. Defender
-19,Kane Farrell,Port Adelaide,25.0,22.0,3.0,0.88,0.12,2.0,0.0,5.0,Gen. Defender
-19,Lachie Jones,Port Adelaide,11.0,10.0,1.0,0.91,0.09,0.0,0.0,2.0,Gen. Defender
-19,Logan Evans,Port Adelaide,11.0,7.0,4.0,0.64,0.36,1.0,0.0,3.0,Gen. Defender
-19,Mani Liddy,Port Adelaide,,,,,,,,,Midfielder
-19,Miles Bergman,Port Adelaide,12.0,10.0,2.0,0.83,0.17,2.0,0.0,14.0,Gen. Defender
-19,Mitch Georgiades,Port Adelaide,10.0,7.0,3.0,0.7,0.3,1.0,2.0,4.0,Key Forward
-19,Ollie Lord,Port Adelaide,4.0,1.0,3.0,0.25,0.75,1.0,1.0,2.0,Key Forward
-19,Ollie Wines,Port Adelaide,26.0,9.0,17.0,0.35,0.65,3.0,0.0,3.0,Midfielder
-19,Travis Boak,Port Adelaide,15.0,10.0,5.0,0.67,0.33,2.0,0.0,4.0,Mid-Forward
-19,Will Lorenz,Port Adelaide,11.0,8.0,3.0,0.73,0.27,1.0,1.0,4.0,Midfielder
-19,Willem Drew,Port Adelaide,17.0,7.0,10.0,0.41,0.59,0.0,0.0,7.0,Midfielder
-19,Zak Butters,Port Adelaide,18.0,11.0,7.0,0.61,0.39,3.0,0.0,5.0,Midfielder
-20,Aliir Aliir,Port Adelaide,14.0,13.0,1.0,0.93,0.07,5.0,0.0,2.0,Key Defender
-20,Brandon Zerk-Thatcher,Port Adelaide,12.0,10.0,2.0,0.83,0.17,4.0,0.0,3.0,Key Defender
-20,Connor Rozee,Port Adelaide,22.0,18.0,4.0,0.82,0.18,2.0,0.0,7.0,Gen. Defender
-20,Darcy Byrne-Jones,Port Adelaide,5.0,4.0,1.0,0.8,0.2,0.0,0.0,1.0,Gen. Forward
-20,Hugh Jackson,Port Adelaide,,,,,,,,,Mid-Forward
-20,Jack Lukosius,Port Adelaide,8.0,6.0,2.0,0.75,0.25,3.0,0.0,1.0,Key Forward
-20,Jackson Mead,Port Adelaide,9.0,8.0,1.0,0.89,0.11,2.0,1.0,6.0,Midfielder
-20,Jase Burgoyne,Port Adelaide,15.0,11.0,4.0,0.73,0.27,2.0,0.0,2.0,Midfielder
-20,Jed McEntee,Port Adelaide,4.0,4.0,0.0,1.0,0.0,1.0,2.0,4.0,Gen. Forward
-20,Joe Berry,Port Adelaide,6.0,2.0,4.0,0.33,0.67,1.0,0.0,4.0,Gen. Forward
-20,Joe Richards,Port Adelaide,12.0,9.0,3.0,0.75,0.25,1.0,0.0,5.0,Gen. Forward
-20,Jordon Sweet,Port Adelaide,11.0,6.0,5.0,0.55,0.45,1.0,1.0,4.0,Ruck
-20,Josh Sinn,Port Adelaide,12.0,7.0,5.0,0.58,0.42,3.0,0.0,1.0,Gen. Defender
-20,Kane Farrell,Port Adelaide,24.0,21.0,3.0,0.88,0.12,2.0,0.0,3.0,Gen. Defender
-20,Lachie Jones,Port Adelaide,,,,,,,,,Gen. Defender
-20,Logan Evans,Port Adelaide,8.0,7.0,1.0,0.88,0.12,1.0,0.0,2.0,Gen. Defender
-20,Miles Bergman,Port Adelaide,14.0,10.0,4.0,0.71,0.29,0.0,0.0,3.0,Gen. Defender
-20,Mitch Georgiades,Port Adelaide,18.0,13.0,5.0,0.72,0.28,4.0,1.0,1.0,Key Forward
-20,Ollie Lord,Port Adelaide,4.0,3.0,1.0,0.75,0.25,0.0,0.0,3.0,Key Forward
-20,Ollie Wines,Port Adelaide,25.0,9.0,16.0,0.36,0.64,1.0,0.0,2.0,Midfielder
-20,Travis Boak,Port Adelaide,11.0,5.0,6.0,0.45,0.55,2.0,0.0,1.0,Mid-Forward
-20,Willem Drew,Port Adelaide,18.0,9.0,9.0,0.5,0.5,1.0,0.0,8.0,Midfielder
-20,Zak Butters,Port Adelaide,34.0,22.0,12.0,0.65,0.35,1.0,0.0,4.0,Midfielder
-21,Aliir Aliir,Port Adelaide,13.0,12.0,1.0,0.92,0.08,6.0,0.0,0.0,Key Defender
-21,Brandon Zerk-Thatcher,Port Adelaide,8.0,3.0,5.0,0.38,0.62,3.0,0.0,2.0,Key Defender
-21,Darcy Byrne-Jones,Port Adelaide,14.0,7.0,7.0,0.5,0.5,4.0,0.0,4.0,Gen. Forward
-21,Dylan Williams,Port Adelaide,8.0,7.0,1.0,0.88,0.12,2.0,0.0,2.0,Gen. Forward
-21,Hugh Jackson,Port Adelaide,,,,,,,,,Mid-Forward
-21,Jack Whitlock,Port Adelaide,3.0,3.0,0.0,1.0,0.0,2.0,0.0,4.0,Key Forward
-21,Jackson Mead,Port Adelaide,18.0,9.0,9.0,0.5,0.5,4.0,0.0,5.0,Midfielder
-21,Jase Burgoyne,Port Adelaide,,,,,,,,,Midfielder
-21,Jed McEntee,Port Adelaide,15.0,10.0,5.0,0.67,0.33,3.0,1.0,0.0,Gen. Forward
-21,Joe Berry,Port Adelaide,12.0,10.0,2.0,0.83,0.17,3.0,1.0,2.0,Gen. Forward
-21,Joe Richards,Port Adelaide,13.0,4.0,9.0,0.31,0.69,3.0,0.0,5.0,Gen. Forward
-21,Jordon Sweet,Port Adelaide,16.0,6.0,10.0,0.38,0.62,2.0,0.0,5.0,Ruck
-21,Josh Sinn,Port Adelaide,,,,,,,,,Gen. Defender
-21,Kane Farrell,Port Adelaide,20.0,13.0,7.0,0.65,0.35,2.0,0.0,6.0,Gen. Defender
-21,Lachie Jones,Port Adelaide,8.0,5.0,3.0,0.62,0.38,3.0,0.0,1.0,Gen. Defender
-21,Mani Liddy,Port Adelaide,18.0,10.0,8.0,0.56,0.44,4.0,0.0,1.0,Midfielder
-21,Mitch Georgiades,Port Adelaide,12.0,8.0,4.0,0.67,0.33,3.0,3.0,2.0,Key Forward
-21,Ollie Lord,Port Adelaide,5.0,4.0,1.0,0.8,0.2,3.0,2.0,1.0,Key Forward
-21,Ollie Wines,Port Adelaide,32.0,11.0,21.0,0.34,0.66,4.0,0.0,8.0,Midfielder
-21,Travis Boak,Port Adelaide,24.0,7.0,17.0,0.29,0.71,4.0,1.0,5.0,Mid-Forward
-21,Will Lorenz,Port Adelaide,16.0,9.0,7.0,0.56,0.44,4.0,1.0,3.0,Midfielder
-21,Willem Drew,Port Adelaide,24.0,15.0,9.0,0.62,0.38,5.0,0.0,10.0,Midfielder
-21,Zak Butters,Port Adelaide,10.0,4.0,6.0,0.4,0.6,0.0,0.0,2.0,Midfielder
-22,Aliir Aliir,Port Adelaide,22.0,18.0,4.0,0.82,0.18,17.0,1.0,1.0,Key Defender
-22,Brandon Zerk-Thatcher,Port Adelaide,11.0,10.0,1.0,0.91,0.09,6.0,0.0,1.0,Key Defender
-22,Christian Moraes,Port Adelaide,,,,,,,,,Midfielder
-22,Connor Rozee,Port Adelaide,19.0,10.0,9.0,0.53,0.47,7.0,2.0,6.0,Gen. Defender
-22,Darcy Byrne-Jones,Port Adelaide,19.0,12.0,7.0,0.63,0.37,7.0,0.0,3.0,Gen. Forward
-22,Jack Lukosius,Port Adelaide,,,,,,,,,Key Forward
-22,Jack Whitlock,Port Adelaide,7.0,3.0,4.0,0.43,0.57,1.0,0.0,3.0,Key Forward
-22,Jackson Mead,Port Adelaide,14.0,7.0,7.0,0.5,0.5,2.0,0.0,2.0,Midfielder
-22,Jed McEntee,Port Adelaide,12.0,7.0,5.0,0.58,0.42,1.0,2.0,4.0,Gen. Forward
-22,Joe Berry,Port Adelaide,13.0,7.0,6.0,0.54,0.46,3.0,1.0,5.0,Gen. Forward
-22,Joe Richards,Port Adelaide,13.0,10.0,3.0,0.77,0.23,2.0,1.0,1.0,Gen. Forward
-22,Jordon Sweet,Port Adelaide,14.0,6.0,8.0,0.43,0.57,1.0,0.0,0.0,Ruck
-22,Josh Sinn,Port Adelaide,17.0,12.0,5.0,0.71,0.29,3.0,0.0,2.0,Gen. Defender
-22,Kane Farrell,Port Adelaide,25.0,21.0,4.0,0.84,0.16,7.0,0.0,3.0,Gen. Defender
-22,Mani Liddy,Port Adelaide,16.0,12.0,4.0,0.75,0.25,4.0,0.0,2.0,Midfielder
-22,Mitch Georgiades,Port Adelaide,12.0,10.0,2.0,0.83,0.17,9.0,2.0,0.0,Key Forward
-22,Ollie Lord,Port Adelaide,6.0,3.0,3.0,0.5,0.5,5.0,0.0,0.0,Key Forward
-22,Ollie Wines,Port Adelaide,25.0,10.0,15.0,0.4,0.6,3.0,0.0,4.0,Midfielder
-22,Travis Boak,Port Adelaide,22.0,11.0,11.0,0.5,0.5,10.0,0.0,5.0,Mid-Forward
-22,Will Lorenz,Port Adelaide,20.0,11.0,9.0,0.55,0.45,4.0,0.0,0.0,Midfielder
-22,Willem Drew,Port Adelaide,17.0,6.0,11.0,0.35,0.65,2.0,0.0,6.0,Midfielder
-22,Willie Rioli,Port Adelaide,8.0,6.0,2.0,0.75,0.25,0.0,2.0,3.0,Gen. Forward
-22,Zak Butters,Port Adelaide,29.0,20.0,9.0,0.69,0.31,8.0,0.0,4.0,Midfielder
-23,Aliir Aliir,Port Adelaide,15.0,11.0,4.0,0.73,0.27,6.0,0.0,2.0,Key Defender
-23,Brandon Zerk-Thatcher,Port Adelaide,12.0,7.0,5.0,0.58,0.42,5.0,0.0,2.0,Key Defender
-23,Christian Moraes,Port Adelaide,,,,,,,,,Midfielder
-23,Connor Rozee,Port Adelaide,22.0,12.0,10.0,0.55,0.45,1.0,0.0,1.0,Gen. Defender
-23,Darcy Byrne-Jones,Port Adelaide,11.0,8.0,3.0,0.73,0.27,2.0,1.0,5.0,Gen. Forward
-23,Jack Whitlock,Port Adelaide,8.0,5.0,3.0,0.62,0.38,5.0,3.0,1.0,Key Forward
-23,Jackson Mead,Port Adelaide,10.0,5.0,5.0,0.5,0.5,0.0,0.0,3.0,Midfielder
-23,Jed McEntee,Port Adelaide,7.0,5.0,2.0,0.71,0.29,1.0,0.0,1.0,Gen. Forward
-23,Joe Berry,Port Adelaide,9.0,5.0,4.0,0.56,0.44,3.0,0.0,3.0,Gen. Forward
-23,Joe Richards,Port Adelaide,13.0,9.0,4.0,0.69,0.31,4.0,1.0,0.0,Gen. Forward
-23,Jordon Sweet,Port Adelaide,18.0,8.0,10.0,0.44,0.56,6.0,0.0,1.0,Ruck
-23,Josh Sinn,Port Adelaide,,,,,,,,,Gen. Defender
-23,Kane Farrell,Port Adelaide,17.0,14.0,3.0,0.82,0.18,5.0,0.0,3.0,Gen. Defender
-23,Lachie Jones,Port Adelaide,14.0,10.0,4.0,0.71,0.29,4.0,0.0,4.0,Gen. Defender
-23,Mani Liddy,Port Adelaide,16.0,8.0,8.0,0.5,0.5,6.0,0.0,2.0,Midfielder
-23,Mitch Georgiades,Port Adelaide,10.0,5.0,5.0,0.5,0.5,5.0,1.0,0.0,Key Forward
-23,Ollie Lord,Port Adelaide,5.0,2.0,3.0,0.4,0.6,2.0,1.0,0.0,Key Forward
-23,Ollie Wines,Port Adelaide,15.0,9.0,6.0,0.6,0.4,9.0,0.0,3.0,Midfielder
-23,Travis Boak,Port Adelaide,22.0,14.0,8.0,0.64,0.36,5.0,1.0,4.0,Mid-Forward
-23,Will Lorenz,Port Adelaide,7.0,5.0,2.0,0.71,0.29,0.0,0.0,4.0,Midfielder
-23,Willem Drew,Port Adelaide,20.0,6.0,14.0,0.3,0.7,1.0,0.0,4.0,Midfielder
-23,Willie Rioli,Port Adelaide,4.0,4.0,0.0,1.0,0.0,4.0,0.0,0.0,Gen. Forward
-23,Zak Butters,Port Adelaide,29.0,11.0,18.0,0.38,0.62,1.0,0.0,7.0,Midfielder
-24,Aliir Aliir,Port Adelaide,11.0,11.0,0.0,1.0,0.0,6.0,0.0,0.0,Key Defender
-24,Brandon Zerk-Thatcher,Port Adelaide,14.0,11.0,3.0,0.79,0.21,5.0,0.0,0.0,Key Defender
-24,Christian Moraes,Port Adelaide,12.0,4.0,8.0,0.33,0.67,2.0,0.0,3.0,Midfielder
-24,Connor Rozee,Port Adelaide,34.0,26.0,8.0,0.76,0.24,5.0,1.0,7.0,Gen. Defender
-24,Darcy Byrne-Jones,Port Adelaide,18.0,10.0,8.0,0.56,0.44,5.0,0.0,1.0,Gen. Forward
-24,Ewan Mackinlay,Port Adelaide,15.0,12.0,3.0,0.8,0.2,4.0,1.0,4.0,Mid-Forward
-24,Harrison Ramm,Port Adelaide,5.0,5.0,0.0,1.0,0.0,4.0,0.0,2.0,Key Defender
-24,Jack Whitlock,Port Adelaide,8.0,3.0,5.0,0.38,0.62,2.0,1.0,5.0,Key Forward
-24,Jackson Mead,Port Adelaide,,,,,,,,,Midfielder
-24,Jed McEntee,Port Adelaide,10.0,6.0,4.0,0.6,0.4,1.0,0.0,4.0,Gen. Forward
-24,Joe Berry,Port Adelaide,14.0,7.0,7.0,0.5,0.5,3.0,0.0,0.0,Gen. Forward
-24,Joe Richards,Port Adelaide,14.0,8.0,6.0,0.57,0.43,1.0,1.0,0.0,Gen. Forward
-24,Jordon Sweet,Port Adelaide,9.0,3.0,6.0,0.33,0.67,2.0,0.0,3.0,Ruck
-24,Kane Farrell,Port Adelaide,21.0,20.0,1.0,0.95,0.05,3.0,0.0,2.0,Gen. Defender
-24,Lachie Jones,Port Adelaide,17.0,9.0,8.0,0.53,0.47,5.0,0.0,1.0,Gen. Defender
-24,Mani Liddy,Port Adelaide,17.0,9.0,8.0,0.53,0.47,5.0,1.0,1.0,Midfielder
-24,Mitch Georgiades,Port Adelaide,15.0,9.0,6.0,0.6,0.4,6.0,4.0,2.0,Key Forward
-24,Ollie Lord,Port Adelaide,3.0,3.0,0.0,1.0,0.0,2.0,1.0,1.0,Key Forward
-24,Rory Atkins,Port Adelaide,,,,,,,,,Gen. Defender
-24,Travis Boak,Port Adelaide,22.0,10.0,12.0,0.45,0.55,3.0,0.0,9.0,Mid-Forward
-24,Willem Drew,Port Adelaide,21.0,12.0,9.0,0.57,0.43,3.0,0.0,1.0,Midfielder
-24,Willie Rioli,Port Adelaide,11.0,6.0,5.0,0.55,0.45,1.0,0.0,2.0,Gen. Forward
-24,Zak Butters,Port Adelaide,35.0,19.0,16.0,0.54,0.46,8.0,0.0,8.0,Midfielder
+Round,Player,Team,Position,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,DispDiff,KickDiff,HbDiff,MarkDiff
+1,Aliir Aliir,Port Adelaide,Key Defender,12.0,8.0,4.0,0.67,0.33,3.0,0.0,2.0,-1.18,-1.77,0.59,-2.91
+1,Connor Rozee,Port Adelaide,Gen. Defender,35.0,19.0,16.0,0.54,0.46,3.0,0.0,4.0,7.57,1.0,6.57,-1.86
+1,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,9.0,5.0,4.0,0.56,0.44,3.0,1.0,1.0,-3.73,-3.18,-0.54,-0.23
+1,Jack Lukosius,Port Adelaide,Key Forward,11.0,8.0,3.0,0.73,0.27,4.0,1.0,1.0,2.0,1.29,0.71,-0.29
+1,Jackson Mead,Port Adelaide,Midfielder,16.0,6.0,10.0,0.38,0.62,5.0,0.0,2.0,2.8,-0.65,3.45,2.3
+1,Jase Burgoyne,Port Adelaide,Midfielder,16.0,5.0,11.0,0.31,0.69,2.0,0.0,2.0,-3.2,-6.2,3.0,-2.6
+1,Jason Horne-Francis,Port Adelaide,Midfielder,25.0,19.0,6.0,0.76,0.24,1.0,1.0,1.0,4.13,5.6,-1.47,-3.13
+1,Jeremy Finlayson,Port Adelaide,Key Forward,19.0,16.0,3.0,0.84,0.16,10.0,0.0,0.0,10.12,9.62,0.5,6.38
+1,Joe Berry,Port Adelaide,Gen. Forward,9.0,6.0,3.0,0.67,0.33,6.0,0.0,0.0,0.0,0.67,-0.67,3.58
+1,Joe Richards,Port Adelaide,Gen. Forward,15.0,8.0,7.0,0.53,0.47,4.0,0.0,2.0,-0.23,0.27,-0.5,0.64
+1,Jordon Sweet,Port Adelaide,Ruck,14.0,6.0,8.0,0.43,0.57,3.0,1.0,3.0,2.79,1.16,1.63,1.1
+1,Josh Sinn,Port Adelaide,Gen. Defender,13.0,8.0,5.0,0.62,0.38,5.0,0.0,1.0,1.55,-0.6,2.15,1.85
+1,Kane Farrell,Port Adelaide,Gen. Defender,23.0,14.0,9.0,0.61,0.39,6.0,0.0,3.0,2.71,-2.19,4.9,1.43
+1,Lachie Jones,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+1,Logan Evans,Port Adelaide,Gen. Defender,10.0,5.0,5.0,0.5,0.5,0.0,0.0,0.0,-2.9,-2.8,-0.1,-2.8
+1,Miles Bergman,Port Adelaide,Gen. Defender,16.0,10.0,6.0,0.62,0.38,5.0,0.0,3.0,-1.79,-2.21,0.42,-0.11
+1,Mitch Georgiades,Port Adelaide,Key Forward,7.0,4.0,3.0,0.57,0.43,4.0,0.0,1.0,-5.09,-4.83,-0.26,-1.48
+1,Ollie Wines,Port Adelaide,Midfielder,34.0,8.0,26.0,0.24,0.76,3.0,0.0,4.0,8.6,-1.85,10.45,-0.85
+1,Ryan Burton,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+1,Sam Powell-Pepper,Port Adelaide,Gen. Forward,8.0,4.0,4.0,0.5,0.5,3.0,0.0,0.0,-6.62,-3.38,-3.25,-0.88
+1,Travis Boak,Port Adelaide,Mid-Forward,28.0,9.0,19.0,0.32,0.68,8.0,1.0,6.0,7.5,0.06,7.44,3.81
+1,Willem Drew,Port Adelaide,Midfielder,16.0,6.0,10.0,0.38,0.62,0.0,0.0,5.0,-2.17,-2.09,-0.09,-2.17
+1,Willie Rioli,Port Adelaide,Gen. Forward,12.0,7.0,5.0,0.58,0.42,2.0,1.0,1.0,2.21,0.26,1.95,-0.58
+2,Aliir Aliir,Port Adelaide,Key Defender,16.0,12.0,4.0,0.75,0.25,9.0,0.0,0.0,2.82,2.23,0.59,3.09
+2,Christian Moraes,Port Adelaide,Midfielder,17.0,8.0,9.0,0.47,0.53,6.0,0.0,0.0,4.79,2.71,2.07,3.21
+2,Connor Rozee,Port Adelaide,Gen. Defender,39.0,23.0,16.0,0.59,0.41,7.0,2.0,5.0,11.57,5.0,6.57,2.14
+2,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,18.0,14.0,4.0,0.78,0.22,4.0,1.0,2.0,5.27,5.82,-0.54,0.77
+2,Jack Lukosius,Port Adelaide,Key Forward,,,,,,,,,,,,
+2,Jackson Mead,Port Adelaide,Midfielder,30.0,8.0,22.0,0.27,0.73,6.0,0.0,3.0,16.8,1.35,15.45,3.3
+2,Jase Burgoyne,Port Adelaide,Midfielder,32.0,16.0,16.0,0.5,0.5,8.0,2.0,2.0,12.8,4.8,8.0,3.4
+2,Jason Horne-Francis,Port Adelaide,Midfielder,17.0,9.0,8.0,0.53,0.47,5.0,1.0,3.0,-3.87,-4.4,0.53,0.87
+2,Joe Berry,Port Adelaide,Gen. Forward,10.0,4.0,6.0,0.4,0.6,2.0,1.0,3.0,1.0,-1.33,2.33,-0.42
+2,Joe Richards,Port Adelaide,Gen. Forward,25.0,7.0,18.0,0.28,0.72,5.0,1.0,2.0,9.77,-0.73,10.5,1.64
+2,Jordon Sweet,Port Adelaide,Ruck,11.0,3.0,8.0,0.27,0.73,2.0,0.0,3.0,-0.21,-1.84,1.63,0.1
+2,Josh Sinn,Port Adelaide,Gen. Defender,22.0,19.0,3.0,0.86,0.14,8.0,0.0,1.0,10.55,10.4,0.15,4.85
+2,Kane Farrell,Port Adelaide,Gen. Defender,31.0,17.0,14.0,0.55,0.45,8.0,1.0,1.0,10.71,0.81,9.91,3.43
+2,Lachie Jones,Port Adelaide,Gen. Defender,15.0,6.0,9.0,0.4,0.6,4.0,0.0,3.0,4.11,-0.11,4.22,1.22
+2,Logan Evans,Port Adelaide,Gen. Defender,24.0,19.0,5.0,0.79,0.21,11.0,1.0,0.0,11.1,11.2,-0.1,8.2
+2,Miles Bergman,Port Adelaide,Gen. Defender,21.0,13.0,8.0,0.62,0.38,9.0,0.0,1.0,3.21,0.79,2.42,3.89
+2,Mitch Georgiades,Port Adelaide,Key Forward,17.0,10.0,7.0,0.59,0.41,8.0,4.0,2.0,4.91,1.17,3.74,2.52
+2,Ollie Wines,Port Adelaide,Midfielder,33.0,8.0,25.0,0.24,0.76,1.0,1.0,4.0,7.6,-1.85,9.45,-2.85
+2,Ryan Burton,Port Adelaide,Gen. Defender,17.0,9.0,8.0,0.53,0.47,7.0,0.0,1.0,-2.25,-4.62,2.38,2.38
+2,Sam Powell-Pepper,Port Adelaide,Gen. Forward,16.0,10.0,6.0,0.62,0.38,9.0,3.0,1.0,1.38,2.62,-1.25,5.12
+2,Travis Boak,Port Adelaide,Mid-Forward,28.0,9.0,19.0,0.32,0.68,6.0,0.0,0.0,7.5,0.06,7.44,1.81
+2,Willem Drew,Port Adelaide,Midfielder,22.0,5.0,17.0,0.23,0.77,3.0,0.0,12.0,3.83,-3.09,6.91,0.83
+2,Willie Rioli,Port Adelaide,Gen. Forward,17.0,10.0,7.0,0.59,0.41,5.0,3.0,3.0,7.21,3.26,3.95,2.42
+3,Aliir Aliir,Port Adelaide,Key Defender,15.0,10.0,5.0,0.67,0.33,8.0,0.0,1.0,1.82,0.23,1.59,2.09
+3,Christian Moraes,Port Adelaide,Midfielder,27.0,13.0,14.0,0.48,0.52,7.0,0.0,1.0,14.79,7.71,7.07,4.21
+3,Connor Rozee,Port Adelaide,Gen. Defender,22.0,8.0,14.0,0.36,0.64,5.0,0.0,4.0,-5.43,-10.0,4.57,0.14
+3,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,15.0,12.0,3.0,0.8,0.2,4.0,2.0,2.0,2.27,3.82,-1.54,0.77
+3,Esava Ratugolea,Port Adelaide,Key Defender,12.0,7.0,5.0,0.58,0.42,8.0,0.0,1.0,1.08,0.38,0.69,2.23
+3,Ivan Soldo,Port Adelaide,Ruck,5.0,3.0,2.0,0.6,0.4,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,Jackson Mead,Port Adelaide,Midfielder,14.0,5.0,9.0,0.36,0.64,3.0,0.0,3.0,0.8,-1.65,2.45,0.3
+3,Jase Burgoyne,Port Adelaide,Midfielder,27.0,16.0,11.0,0.59,0.41,10.0,0.0,3.0,7.8,4.8,3.0,5.4
+3,Jason Horne-Francis,Port Adelaide,Midfielder,22.0,9.0,13.0,0.41,0.59,4.0,1.0,1.0,1.13,-4.4,5.53,-0.13
+3,Joe Berry,Port Adelaide,Gen. Forward,15.0,10.0,5.0,0.67,0.33,5.0,0.0,0.0,6.0,4.67,1.33,2.58
+3,Joe Richards,Port Adelaide,Gen. Forward,13.0,7.0,6.0,0.54,0.46,6.0,1.0,1.0,-2.23,-0.73,-1.5,2.64
+3,Jordon Sweet,Port Adelaide,Ruck,14.0,7.0,7.0,0.5,0.5,5.0,0.0,4.0,2.79,2.16,0.63,3.1
+3,Josh Sinn,Port Adelaide,Gen. Defender,18.0,16.0,2.0,0.89,0.11,4.0,0.0,1.0,6.55,7.4,-0.85,0.85
+3,Kane Farrell,Port Adelaide,Gen. Defender,18.0,15.0,3.0,0.83,0.17,2.0,0.0,1.0,-2.29,-1.19,-1.09,-2.57
+3,Logan Evans,Port Adelaide,Gen. Defender,10.0,8.0,2.0,0.8,0.2,3.0,0.0,2.0,-2.9,0.2,-3.1,0.2
+3,Miles Bergman,Port Adelaide,Gen. Defender,26.0,19.0,7.0,0.73,0.27,10.0,0.0,0.0,8.21,6.79,1.42,4.89
+3,Mitch Georgiades,Port Adelaide,Key Forward,13.0,9.0,4.0,0.69,0.31,6.0,2.0,0.0,0.91,0.17,0.74,0.52
+3,Ollie Wines,Port Adelaide,Midfielder,31.0,13.0,18.0,0.42,0.58,4.0,1.0,3.0,5.6,3.15,2.45,0.15
+3,Sam Powell-Pepper,Port Adelaide,Gen. Forward,14.0,8.0,6.0,0.57,0.43,6.0,0.0,4.0,-0.62,0.62,-1.25,2.12
+3,Tom Cochrane,Port Adelaide,Gen. Forward,,,,,,,,,,,,
+3,Travis Boak,Port Adelaide,Mid-Forward,18.0,10.0,8.0,0.56,0.44,6.0,1.0,3.0,-2.5,1.06,-3.56,1.81
+3,Willem Drew,Port Adelaide,Midfielder,15.0,6.0,9.0,0.4,0.6,3.0,0.0,4.0,-3.17,-2.09,-1.09,0.83
+3,Willie Rioli,Port Adelaide,Gen. Forward,16.0,11.0,5.0,0.69,0.31,4.0,0.0,1.0,6.21,4.26,1.95,1.42
+4,Aliir Aliir,Port Adelaide,Key Defender,18.0,12.0,6.0,0.67,0.33,9.0,0.0,2.0,4.82,2.23,2.59,3.09
+4,Christian Moraes,Port Adelaide,Midfielder,14.0,8.0,6.0,0.57,0.43,4.0,0.0,1.0,1.79,2.71,-0.93,1.21
+4,Connor Rozee,Port Adelaide,Gen. Defender,20.0,12.0,8.0,0.6,0.4,2.0,0.0,6.0,-7.43,-6.0,-1.43,-2.86
+4,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,7.0,1.0,6.0,0.14,0.86,0.0,0.0,2.0,-5.73,-7.18,1.46,-3.23
+4,Esava Ratugolea,Port Adelaide,Key Defender,9.0,8.0,1.0,0.89,0.11,5.0,0.0,0.0,-1.92,1.38,-3.31,-0.77
+4,Jackson Mead,Port Adelaide,Midfielder,16.0,7.0,9.0,0.44,0.56,2.0,0.0,3.0,2.8,0.35,2.45,-0.7
+4,Jase Burgoyne,Port Adelaide,Midfielder,13.0,9.0,4.0,0.69,0.31,4.0,0.0,3.0,-6.2,-2.2,-4.0,-0.6
+4,Jason Horne-Francis,Port Adelaide,Midfielder,28.0,13.0,15.0,0.46,0.54,6.0,3.0,6.0,7.13,-0.4,7.53,1.87
+4,Joe Berry,Port Adelaide,Gen. Forward,,,,,,,,,,,,
+4,Joe Richards,Port Adelaide,Gen. Forward,16.0,4.0,12.0,0.25,0.75,4.0,0.0,6.0,0.77,-3.73,4.5,0.64
+4,Jordon Sweet,Port Adelaide,Ruck,10.0,2.0,8.0,0.2,0.8,0.0,0.0,4.0,-1.21,-2.84,1.63,-1.9
+4,Josh Sinn,Port Adelaide,Gen. Defender,12.0,11.0,1.0,0.92,0.08,3.0,0.0,1.0,0.55,2.4,-1.85,-0.15
+4,Kane Farrell,Port Adelaide,Gen. Defender,15.0,13.0,2.0,0.87,0.13,3.0,0.0,3.0,-5.29,-3.19,-2.09,-1.57
+4,Lachie Jones,Port Adelaide,Gen. Defender,13.0,7.0,6.0,0.54,0.46,3.0,0.0,2.0,2.11,0.89,1.22,0.22
+4,Logan Evans,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+4,Miles Bergman,Port Adelaide,Gen. Defender,26.0,17.0,9.0,0.65,0.35,9.0,0.0,4.0,8.21,4.79,3.42,3.89
+4,Mitch Georgiades,Port Adelaide,Key Forward,14.0,11.0,3.0,0.79,0.21,8.0,3.0,3.0,1.91,2.17,-0.26,2.52
+4,Ollie Lord,Port Adelaide,Key Forward,8.0,7.0,1.0,0.88,0.12,4.0,3.0,0.0,1.87,4.0,-2.13,1.73
+4,Ollie Wines,Port Adelaide,Midfielder,23.0,7.0,16.0,0.3,0.7,1.0,0.0,5.0,-2.4,-2.85,0.45,-2.85
+4,Sam Powell-Pepper,Port Adelaide,Gen. Forward,15.0,6.0,9.0,0.4,0.6,2.0,1.0,6.0,0.38,-1.38,1.75,-1.88
+4,Willem Drew,Port Adelaide,Midfielder,18.0,12.0,6.0,0.67,0.33,2.0,0.0,3.0,-0.17,3.91,-4.09,-0.17
+4,Willie Rioli,Port Adelaide,Gen. Forward,9.0,7.0,2.0,0.78,0.22,2.0,0.0,1.0,-0.79,0.26,-1.05,-0.58
+4,Zak Butters,Port Adelaide,Midfielder,30.0,11.0,19.0,0.37,0.63,3.0,0.0,5.0,2.05,-2.6,4.65,-0.55
+5,Aliir Aliir,Port Adelaide,Key Defender,13.0,7.0,6.0,0.54,0.46,7.0,0.0,1.0,-0.18,-2.77,2.59,1.09
+5,Christian Moraes,Port Adelaide,Midfielder,12.0,6.0,6.0,0.5,0.5,1.0,0.0,2.0,-0.21,0.71,-0.93,-1.79
+5,Connor Rozee,Port Adelaide,Gen. Defender,28.0,20.0,8.0,0.71,0.29,7.0,2.0,4.0,0.57,2.0,-1.43,2.14
+5,Esava Ratugolea,Port Adelaide,Key Defender,9.0,5.0,4.0,0.56,0.44,5.0,0.0,1.0,-1.92,-1.62,-0.31,-0.77
+5,Jackson Mead,Port Adelaide,Midfielder,14.0,9.0,5.0,0.64,0.36,1.0,2.0,1.0,0.8,2.35,-1.55,-1.7
+5,Jase Burgoyne,Port Adelaide,Midfielder,23.0,17.0,6.0,0.74,0.26,6.0,0.0,2.0,3.8,5.8,-2.0,1.4
+5,Jason Horne-Francis,Port Adelaide,Midfielder,29.0,21.0,8.0,0.72,0.28,4.0,0.0,2.0,8.13,7.6,0.53,-0.13
+5,Joe Berry,Port Adelaide,Gen. Forward,,,,,,,,,,,,
+5,Joe Richards,Port Adelaide,Gen. Forward,16.0,9.0,7.0,0.56,0.44,3.0,2.0,3.0,0.77,1.27,-0.5,-0.36
+5,Jordon Sweet,Port Adelaide,Ruck,12.0,3.0,9.0,0.25,0.75,1.0,0.0,6.0,0.79,-1.84,2.63,-0.9
+5,Josh Sinn,Port Adelaide,Gen. Defender,12.0,8.0,4.0,0.67,0.33,3.0,0.0,0.0,0.55,-0.6,1.15,-0.15
+5,Kane Farrell,Port Adelaide,Gen. Defender,18.0,14.0,4.0,0.78,0.22,2.0,0.0,2.0,-2.29,-2.19,-0.09,-2.57
+5,Lachie Jones,Port Adelaide,Gen. Defender,15.0,8.0,7.0,0.53,0.47,6.0,0.0,1.0,4.11,1.89,2.22,3.22
+5,Miles Bergman,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+5,Mitch Georgiades,Port Adelaide,Key Forward,14.0,11.0,3.0,0.79,0.21,6.0,3.0,2.0,1.91,2.17,-0.26,0.52
+5,Ollie Lord,Port Adelaide,Key Forward,9.0,5.0,4.0,0.56,0.44,4.0,1.0,0.0,2.87,2.0,0.87,1.73
+5,Ollie Wines,Port Adelaide,Midfielder,26.0,7.0,19.0,0.27,0.73,2.0,0.0,6.0,0.6,-2.85,3.45,-1.85
+5,Sam Powell-Pepper,Port Adelaide,Gen. Forward,12.0,7.0,5.0,0.58,0.42,3.0,2.0,6.0,-2.62,-0.38,-2.25,-0.88
+5,Tom Cochrane,Port Adelaide,Gen. Forward,11.0,7.0,4.0,0.64,0.36,1.0,1.0,2.0,4.33,3.0,1.33,-0.67
+5,Travis Boak,Port Adelaide,Mid-Forward,20.0,9.0,11.0,0.45,0.55,2.0,0.0,1.0,-0.5,0.06,-0.56,-2.19
+5,Willem Drew,Port Adelaide,Midfielder,26.0,10.0,16.0,0.38,0.62,1.0,1.0,4.0,7.83,1.91,5.91,-1.17
+5,Willie Rioli,Port Adelaide,Gen. Forward,13.0,9.0,4.0,0.69,0.31,3.0,3.0,2.0,3.21,2.26,0.95,0.42
+5,Zak Butters,Port Adelaide,Midfielder,33.0,14.0,19.0,0.42,0.58,5.0,0.0,4.0,5.05,0.4,4.65,1.45
+6,Aliir Aliir,Port Adelaide,Key Defender,16.0,12.0,4.0,0.75,0.25,5.0,0.0,0.0,2.82,2.23,0.59,-0.91
+6,Christian Moraes,Port Adelaide,Midfielder,10.0,3.0,7.0,0.3,0.7,1.0,0.0,1.0,-2.21,-2.29,0.07,-1.79
+6,Connor Rozee,Port Adelaide,Gen. Defender,27.0,21.0,6.0,0.78,0.22,4.0,1.0,3.0,-0.43,3.0,-3.43,-0.86
+6,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,13.0,7.0,6.0,0.54,0.46,2.0,1.0,1.0,0.27,-1.18,1.46,-1.23
+6,Esava Ratugolea,Port Adelaide,Key Defender,7.0,5.0,2.0,0.71,0.29,7.0,0.0,2.0,-3.92,-1.62,-2.31,1.23
+6,Jackson Mead,Port Adelaide,Midfielder,15.0,9.0,6.0,0.6,0.4,2.0,0.0,1.0,1.8,2.35,-0.55,-0.7
+6,Jase Burgoyne,Port Adelaide,Midfielder,15.0,10.0,5.0,0.67,0.33,5.0,0.0,3.0,-4.2,-1.2,-3.0,0.4
+6,Jason Horne-Francis,Port Adelaide,Midfielder,20.0,18.0,2.0,0.9,0.1,9.0,0.0,5.0,-0.87,4.6,-5.47,4.87
+6,Jordon Sweet,Port Adelaide,Ruck,9.0,5.0,4.0,0.56,0.44,1.0,0.0,3.0,-2.21,0.16,-2.37,-0.9
+6,Josh Sinn,Port Adelaide,Gen. Defender,9.0,8.0,1.0,0.89,0.11,4.0,0.0,2.0,-2.45,-0.6,-1.85,0.85
+6,Kane Farrell,Port Adelaide,Gen. Defender,26.0,23.0,3.0,0.88,0.12,11.0,0.0,1.0,5.71,6.81,-1.09,6.43
+6,Lachie Jones,Port Adelaide,Gen. Defender,11.0,6.0,5.0,0.55,0.45,2.0,0.0,4.0,0.11,-0.11,0.22,-0.78
+6,Miles Bergman,Port Adelaide,Gen. Defender,12.0,5.0,7.0,0.42,0.58,1.0,0.0,1.0,-5.79,-7.21,1.42,-4.11
+6,Mitch Georgiades,Port Adelaide,Key Forward,9.0,7.0,2.0,0.78,0.22,5.0,3.0,0.0,-3.09,-1.83,-1.26,-0.48
+6,Ollie Lord,Port Adelaide,Key Forward,6.0,2.0,4.0,0.33,0.67,1.0,1.0,0.0,-0.13,-1.0,0.87,-1.27
+6,Ollie Wines,Port Adelaide,Midfielder,,,,,,,,,,,,
+6,Rory Atkins,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+6,Sam Powell-Pepper,Port Adelaide,Gen. Forward,15.0,10.0,5.0,0.67,0.33,3.0,2.0,3.0,0.38,2.62,-2.25,-0.88
+6,Tom Cochrane,Port Adelaide,Gen. Forward,,,,,,,,,,,,
+6,Travis Boak,Port Adelaide,Mid-Forward,12.0,6.0,6.0,0.5,0.5,4.0,0.0,3.0,-8.5,-2.94,-5.56,-0.19
+6,Willem Drew,Port Adelaide,Midfielder,9.0,5.0,4.0,0.56,0.44,0.0,1.0,10.0,-9.17,-3.09,-6.09,-2.17
+6,Willie Rioli,Port Adelaide,Gen. Forward,14.0,13.0,1.0,0.93,0.07,7.0,3.0,1.0,4.21,6.26,-2.05,4.42
+6,Zak Butters,Port Adelaide,Midfielder,27.0,13.0,14.0,0.48,0.52,5.0,0.0,8.0,-0.95,-0.6,-0.35,1.45
+7,Aliir Aliir,Port Adelaide,Key Defender,11.0,7.0,4.0,0.64,0.36,1.0,0.0,3.0,-2.18,-2.77,0.59,-4.91
+7,Christian Moraes,Port Adelaide,Midfielder,10.0,2.0,8.0,0.2,0.8,2.0,0.0,6.0,-2.21,-3.29,1.07,-0.79
+7,Connor Rozee,Port Adelaide,Gen. Defender,27.0,20.0,7.0,0.74,0.26,7.0,1.0,1.0,-0.43,2.0,-2.43,2.14
+7,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,13.0,10.0,3.0,0.77,0.23,5.0,3.0,1.0,0.27,1.82,-1.54,1.77
+7,Esava Ratugolea,Port Adelaide,Key Defender,9.0,7.0,2.0,0.78,0.22,6.0,0.0,3.0,-1.92,0.38,-2.31,0.23
+7,Jackson Mead,Port Adelaide,Midfielder,14.0,8.0,6.0,0.57,0.43,3.0,0.0,7.0,0.8,1.35,-0.55,0.3
+7,Jase Burgoyne,Port Adelaide,Midfielder,22.0,9.0,13.0,0.41,0.59,5.0,0.0,1.0,2.8,-2.2,5.0,0.4
+7,Jason Horne-Francis,Port Adelaide,Midfielder,27.0,15.0,12.0,0.56,0.44,3.0,1.0,4.0,6.13,1.6,4.53,-1.13
+7,Jeremy Finlayson,Port Adelaide,Key Forward,,,,,,,,,,,,
+7,Joe Berry,Port Adelaide,Gen. Forward,,,,,,,,,,,,
+7,Joe Richards,Port Adelaide,Gen. Forward,10.0,4.0,6.0,0.4,0.6,1.0,2.0,0.0,-5.23,-3.73,-1.5,-2.36
+7,Jordon Sweet,Port Adelaide,Ruck,8.0,7.0,1.0,0.88,0.12,0.0,0.0,6.0,-3.21,2.16,-5.37,-1.9
+7,Josh Sinn,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+7,Kane Farrell,Port Adelaide,Gen. Defender,17.0,15.0,2.0,0.88,0.12,4.0,0.0,3.0,-3.29,-1.19,-2.09,-0.57
+7,Lachie Jones,Port Adelaide,Gen. Defender,5.0,2.0,3.0,0.4,0.6,1.0,0.0,3.0,-5.89,-4.11,-1.78,-1.78
+7,Miles Bergman,Port Adelaide,Gen. Defender,11.0,7.0,4.0,0.64,0.36,3.0,0.0,2.0,-6.79,-5.21,-1.58,-2.11
+7,Mitch Georgiades,Port Adelaide,Key Forward,17.0,14.0,3.0,0.82,0.18,10.0,2.0,1.0,4.91,5.17,-0.26,4.52
+7,Ollie Lord,Port Adelaide,Key Forward,12.0,5.0,7.0,0.42,0.58,4.0,2.0,1.0,5.87,2.0,3.87,1.73
+7,Ollie Wines,Port Adelaide,Midfielder,24.0,13.0,11.0,0.54,0.46,3.0,0.0,4.0,-1.4,3.15,-4.55,-0.85
+7,Sam Powell-Pepper,Port Adelaide,Gen. Forward,17.0,12.0,5.0,0.71,0.29,7.0,1.0,5.0,2.38,4.62,-2.25,3.12
+7,Willem Drew,Port Adelaide,Midfielder,17.0,7.0,10.0,0.41,0.59,1.0,0.0,11.0,-1.17,-1.09,-0.09,-1.17
+7,Willie Rioli,Port Adelaide,Gen. Forward,10.0,7.0,3.0,0.7,0.3,3.0,1.0,3.0,0.21,0.26,-0.05,0.42
+7,Zak Butters,Port Adelaide,Midfielder,27.0,14.0,13.0,0.52,0.48,1.0,0.0,13.0,-0.95,0.4,-1.35,-2.55
+8,Aliir Aliir,Port Adelaide,Key Defender,7.0,5.0,2.0,0.71,0.29,3.0,0.0,0.0,-6.18,-4.77,-1.41,-2.91
+8,Connor Rozee,Port Adelaide,Gen. Defender,29.0,17.0,12.0,0.59,0.41,3.0,0.0,1.0,1.57,-1.0,2.57,-1.86
+8,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,10.0,4.0,6.0,0.4,0.6,3.0,0.0,4.0,-2.73,-4.18,1.46,-0.23
+8,Esava Ratugolea,Port Adelaide,Key Defender,11.0,4.0,7.0,0.36,0.64,3.0,0.0,4.0,0.08,-2.62,2.69,-2.77
+8,Jackson Mead,Port Adelaide,Midfielder,7.0,2.0,5.0,0.29,0.71,2.0,0.0,2.0,-6.2,-4.65,-1.55,-0.7
+8,Jase Burgoyne,Port Adelaide,Midfielder,21.0,10.0,11.0,0.48,0.52,4.0,0.0,4.0,1.8,-1.2,3.0,-0.6
+8,Jason Horne-Francis,Port Adelaide,Midfielder,22.0,14.0,8.0,0.64,0.36,4.0,0.0,3.0,1.13,0.6,0.53,-0.13
+8,Jeremy Finlayson,Port Adelaide,Key Forward,,,,,,,,,,,,
+8,Joe Berry,Port Adelaide,Gen. Forward,,,,,,,,,,,,
+8,Joe Richards,Port Adelaide,Gen. Forward,13.0,7.0,6.0,0.54,0.46,3.0,0.0,5.0,-2.23,-0.73,-1.5,-0.36
+8,Jordon Sweet,Port Adelaide,Ruck,9.0,3.0,6.0,0.33,0.67,2.0,1.0,4.0,-2.21,-1.84,-0.37,0.1
+8,Kane Farrell,Port Adelaide,Gen. Defender,15.0,15.0,0.0,1.0,0.0,3.0,0.0,3.0,-5.29,-1.19,-4.1,-1.57
+8,Lachie Jones,Port Adelaide,Gen. Defender,5.0,3.0,2.0,0.6,0.4,1.0,0.0,0.0,-5.89,-3.11,-2.78,-1.78
+8,Logan Evans,Port Adelaide,Gen. Defender,14.0,7.0,7.0,0.5,0.5,1.0,0.0,4.0,1.1,-0.8,1.9,-1.8
+8,Miles Bergman,Port Adelaide,Gen. Defender,14.0,11.0,3.0,0.79,0.21,6.0,0.0,1.0,-3.79,-1.21,-2.58,0.89
+8,Mitch Georgiades,Port Adelaide,Key Forward,11.0,6.0,5.0,0.55,0.45,2.0,1.0,2.0,-1.09,-2.83,1.74,-3.48
+8,Ollie Lord,Port Adelaide,Key Forward,7.0,4.0,3.0,0.57,0.43,2.0,0.0,2.0,0.87,1.0,-0.13,-0.27
+8,Ollie Wines,Port Adelaide,Midfielder,22.0,10.0,12.0,0.45,0.55,1.0,0.0,3.0,-3.4,0.15,-3.55,-2.85
+8,Sam Powell-Pepper,Port Adelaide,Gen. Forward,18.0,6.0,12.0,0.33,0.67,2.0,1.0,3.0,3.38,-1.38,4.75,-1.88
+8,Will Lorenz,Port Adelaide,Midfielder,15.0,7.0,8.0,0.47,0.53,2.0,0.0,2.0,3.33,0.33,3.0,0.17
+8,Willem Drew,Port Adelaide,Midfielder,16.0,4.0,12.0,0.25,0.75,0.0,0.0,4.0,-2.17,-4.09,1.91,-2.17
+8,Willie Rioli,Port Adelaide,Gen. Forward,6.0,4.0,2.0,0.67,0.33,2.0,2.0,5.0,-3.79,-2.74,-1.05,-0.58
+8,Zak Butters,Port Adelaide,Midfielder,24.0,12.0,12.0,0.5,0.5,3.0,0.0,9.0,-3.95,-1.6,-2.35,-0.55
+9,Aliir Aliir,Port Adelaide,Key Defender,8.0,7.0,1.0,0.88,0.12,6.0,0.0,2.0,-5.18,-2.77,-2.41,0.09
+9,Christian Moraes,Port Adelaide,Midfielder,,,,,,,,,,,,
+9,Connor Rozee,Port Adelaide,Gen. Defender,32.0,24.0,8.0,0.75,0.25,4.0,1.0,5.0,4.57,6.0,-1.43,-0.86
+9,Dante Visentini,Port Adelaide,Ruck,9.0,1.0,8.0,0.11,0.89,2.0,0.0,1.0,0.38,-2.38,2.75,0.38
+9,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,15.0,9.0,6.0,0.6,0.4,4.0,2.0,1.0,2.27,0.82,1.46,0.77
+9,Esava Ratugolea,Port Adelaide,Key Defender,7.0,3.0,4.0,0.43,0.57,3.0,0.0,1.0,-3.92,-3.62,-0.31,-2.77
+9,Jackson Mead,Port Adelaide,Midfielder,11.0,8.0,3.0,0.73,0.27,4.0,0.0,3.0,-2.2,1.35,-3.55,1.3
+9,Jase Burgoyne,Port Adelaide,Midfielder,19.0,11.0,8.0,0.58,0.42,4.0,0.0,3.0,-0.2,-0.2,0.0,-0.6
+9,Jason Horne-Francis,Port Adelaide,Midfielder,20.0,15.0,5.0,0.75,0.25,3.0,1.0,4.0,-0.87,1.6,-2.47,-1.13
+9,Jed McEntee,Port Adelaide,Gen. Forward,,,,,,,,,,,,
+9,Jeremy Finlayson,Port Adelaide,Key Forward,11.0,10.0,1.0,0.91,0.09,3.0,3.0,0.0,2.12,3.62,-1.5,-0.62
+9,Joe Richards,Port Adelaide,Gen. Forward,18.0,6.0,12.0,0.33,0.67,1.0,0.0,2.0,2.77,-1.73,4.5,-2.36
+9,Josh Sinn,Port Adelaide,Gen. Defender,16.0,11.0,5.0,0.69,0.31,2.0,0.0,1.0,4.55,2.4,2.15,-1.15
+9,Kane Farrell,Port Adelaide,Gen. Defender,15.0,13.0,2.0,0.87,0.13,4.0,0.0,1.0,-5.29,-3.19,-2.09,-0.57
+9,Lachie Jones,Port Adelaide,Gen. Defender,13.0,8.0,5.0,0.62,0.38,4.0,0.0,1.0,2.11,1.89,0.22,1.22
+9,Miles Bergman,Port Adelaide,Gen. Defender,23.0,15.0,8.0,0.65,0.35,5.0,0.0,8.0,5.21,2.79,2.42,-0.11
+9,Mitch Georgiades,Port Adelaide,Key Forward,10.0,8.0,2.0,0.8,0.2,3.0,2.0,1.0,-2.09,-0.83,-1.26,-2.48
+9,Ollie Lord,Port Adelaide,Key Forward,5.0,2.0,3.0,0.4,0.6,2.0,0.0,0.0,-1.13,-1.0,-0.13,-0.27
+9,Ollie Wines,Port Adelaide,Midfielder,31.0,13.0,18.0,0.42,0.58,4.0,0.0,3.0,5.6,3.15,2.45,0.15
+9,Ryan Burton,Port Adelaide,Gen. Defender,17.0,13.0,4.0,0.76,0.24,7.0,1.0,3.0,-2.25,-0.62,-1.62,2.38
+9,Sam Powell-Pepper,Port Adelaide,Gen. Forward,8.0,4.0,4.0,0.5,0.5,1.0,2.0,0.0,-6.62,-3.38,-3.25,-2.88
+9,Willem Drew,Port Adelaide,Midfielder,18.0,11.0,7.0,0.61,0.39,3.0,0.0,9.0,-0.17,2.91,-3.09,0.83
+9,Zak Butters,Port Adelaide,Midfielder,33.0,10.0,23.0,0.3,0.7,2.0,0.0,3.0,5.05,-3.6,8.65,-1.55
+10,Aliir Aliir,Port Adelaide,Key Defender,20.0,11.0,9.0,0.55,0.45,10.0,0.0,1.0,6.82,1.23,5.59,4.09
+10,Christian Moraes,Port Adelaide,Midfielder,18.0,8.0,10.0,0.44,0.56,5.0,0.0,2.0,5.79,2.71,3.07,2.21
+10,Connor Rozee,Port Adelaide,Gen. Defender,32.0,22.0,10.0,0.69,0.31,7.0,0.0,2.0,4.57,4.0,0.57,2.14
+10,Dante Visentini,Port Adelaide,Ruck,11.0,5.0,6.0,0.45,0.55,2.0,0.0,6.0,2.38,1.62,0.75,0.38
+10,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,11.0,10.0,1.0,0.91,0.09,5.0,1.0,1.0,-1.73,1.82,-3.54,1.77
+10,Esava Ratugolea,Port Adelaide,Key Defender,13.0,7.0,6.0,0.54,0.46,5.0,0.0,1.0,2.08,0.38,1.69,-0.77
+10,Jackson Mead,Port Adelaide,Midfielder,20.0,10.0,10.0,0.5,0.5,4.0,0.0,2.0,6.8,3.35,3.45,1.3
+10,Jase Burgoyne,Port Adelaide,Midfielder,22.0,13.0,9.0,0.59,0.41,4.0,0.0,3.0,2.8,1.8,1.0,-0.6
+10,Jason Horne-Francis,Port Adelaide,Midfielder,,,,,,,,,,,,
+10,Jeremy Finlayson,Port Adelaide,Key Forward,6.0,4.0,2.0,0.67,0.33,2.0,0.0,1.0,-2.88,-2.38,-0.5,-1.62
+10,Joe Richards,Port Adelaide,Gen. Forward,12.0,6.0,6.0,0.5,0.5,4.0,1.0,3.0,-3.23,-1.73,-1.5,0.64
+10,Josh Sinn,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+10,Lachie Jones,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+10,Logan Evans,Port Adelaide,Gen. Defender,20.0,7.0,13.0,0.35,0.65,4.0,0.0,2.0,7.1,-0.8,7.9,1.2
+10,Miles Bergman,Port Adelaide,Gen. Defender,19.0,14.0,5.0,0.74,0.26,6.0,0.0,2.0,1.21,1.79,-0.58,0.89
+10,Mitch Georgiades,Port Adelaide,Key Forward,14.0,10.0,4.0,0.71,0.29,5.0,1.0,2.0,1.91,1.17,0.74,-0.48
+10,Ollie Lord,Port Adelaide,Key Forward,5.0,1.0,4.0,0.2,0.8,2.0,0.0,2.0,-1.13,-2.0,0.87,-0.27
+10,Ollie Wines,Port Adelaide,Midfielder,28.0,13.0,15.0,0.46,0.54,11.0,0.0,6.0,2.6,3.15,-0.55,7.15
+10,Ryan Burton,Port Adelaide,Gen. Defender,26.0,15.0,11.0,0.58,0.42,3.0,0.0,1.0,6.75,1.38,5.38,-1.62
+10,Sam Powell-Pepper,Port Adelaide,Gen. Forward,23.0,12.0,11.0,0.52,0.48,3.0,2.0,2.0,8.38,4.62,3.75,-0.88
+10,Willem Drew,Port Adelaide,Midfielder,20.0,8.0,12.0,0.4,0.6,4.0,0.0,0.0,1.83,-0.09,1.91,1.83
+10,Willie Rioli,Port Adelaide,Gen. Forward,15.0,9.0,6.0,0.6,0.4,2.0,0.0,5.0,5.21,2.26,2.95,-0.58
+10,Zak Butters,Port Adelaide,Midfielder,20.0,6.0,14.0,0.3,0.7,0.0,0.0,1.0,-7.95,-7.6,-0.35,-3.55
+11,Aliir Aliir,Port Adelaide,Key Defender,12.0,8.0,4.0,0.67,0.33,7.0,0.0,4.0,-1.18,-1.77,0.59,1.09
+11,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,13.0,10.0,3.0,0.77,0.23,8.0,0.0,1.0,2.0,3.0,-1.0,3.23
+11,Christian Moraes,Port Adelaide,Midfielder,14.0,7.0,7.0,0.5,0.5,4.0,0.0,5.0,1.79,1.71,0.07,1.21
+11,Connor Rozee,Port Adelaide,Gen. Defender,27.0,17.0,10.0,0.63,0.37,3.0,0.0,6.0,-0.43,-1.0,0.57,-1.86
+11,Dante Visentini,Port Adelaide,Ruck,14.0,3.0,11.0,0.21,0.79,1.0,0.0,1.0,5.38,-0.38,5.75,-0.62
+11,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,,,,,,,,,,,,
+11,Hugh Jackson,Port Adelaide,Mid-Forward,,,,,,,,,,,,
+11,Jackson Mead,Port Adelaide,Midfielder,5.0,2.0,3.0,0.4,0.6,3.0,0.0,1.0,-8.2,-4.65,-3.55,0.3
+11,Jase Burgoyne,Port Adelaide,Midfielder,18.0,13.0,5.0,0.72,0.28,4.0,0.0,2.0,-1.2,1.8,-3.0,-0.6
+11,Jeremy Finlayson,Port Adelaide,Key Forward,11.0,6.0,5.0,0.55,0.45,1.0,1.0,1.0,2.12,-0.38,2.5,-2.62
+11,Joe Richards,Port Adelaide,Gen. Forward,13.0,7.0,6.0,0.54,0.46,3.0,0.0,1.0,-2.23,-0.73,-1.5,-0.36
+11,Logan Evans,Port Adelaide,Gen. Defender,21.0,10.0,11.0,0.48,0.52,4.0,0.0,5.0,8.1,2.2,5.9,1.2
+11,Miles Bergman,Port Adelaide,Gen. Defender,23.0,13.0,10.0,0.57,0.43,6.0,1.0,2.0,5.21,0.79,4.42,0.89
+11,Mitch Georgiades,Port Adelaide,Key Forward,8.0,6.0,2.0,0.75,0.25,3.0,3.0,0.0,-4.09,-2.83,-1.26,-2.48
+11,Ollie Lord,Port Adelaide,Key Forward,4.0,1.0,3.0,0.25,0.75,1.0,0.0,1.0,-2.13,-2.0,-0.13,-1.27
+11,Ollie Wines,Port Adelaide,Midfielder,33.0,12.0,21.0,0.36,0.64,0.0,0.0,8.0,7.6,2.15,5.45,-3.85
+11,Rory Atkins,Port Adelaide,Gen. Defender,25.0,16.0,9.0,0.64,0.36,7.0,0.0,1.0,12.33,8.33,4.0,4.0
+11,Ryan Burton,Port Adelaide,Gen. Defender,18.0,14.0,4.0,0.78,0.22,3.0,0.0,0.0,-1.25,0.38,-1.62,-1.62
+11,Sam Powell-Pepper,Port Adelaide,Gen. Forward,9.0,5.0,4.0,0.56,0.44,1.0,0.0,3.0,-5.62,-2.38,-3.25,-2.88
+11,Travis Boak,Port Adelaide,Mid-Forward,21.0,9.0,12.0,0.43,0.57,1.0,0.0,1.0,0.5,0.06,0.44,-3.19
+11,Willem Drew,Port Adelaide,Midfielder,23.0,12.0,11.0,0.52,0.48,2.0,0.0,10.0,4.83,3.91,0.91,-0.17
+11,Willie Rioli,Port Adelaide,Gen. Forward,9.0,8.0,1.0,0.89,0.11,2.0,2.0,4.0,-0.79,1.26,-2.05,-0.58
+11,Zak Butters,Port Adelaide,Midfielder,24.0,13.0,11.0,0.54,0.46,1.0,0.0,6.0,-3.95,-0.6,-3.35,-2.55
+13,Aliir Aliir,Port Adelaide,Key Defender,14.0,12.0,2.0,0.86,0.14,4.0,0.0,0.0,0.82,2.23,-1.41,-1.91
+13,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,11.0,5.0,6.0,0.45,0.55,2.0,0.0,2.0,0.0,-2.0,2.0,-2.77
+13,Christian Moraes,Port Adelaide,Midfielder,,,,,,,,,,,,
+13,Connor Rozee,Port Adelaide,Gen. Defender,28.0,17.0,11.0,0.61,0.39,7.0,1.0,6.0,0.57,-1.0,1.57,2.14
+13,Dante Visentini,Port Adelaide,Ruck,12.0,6.0,6.0,0.5,0.5,3.0,0.0,3.0,3.38,2.62,0.75,1.38
+13,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,9.0,7.0,2.0,0.78,0.22,3.0,0.0,1.0,-3.73,-1.18,-2.54,-0.23
+13,Esava Ratugolea,Port Adelaide,Key Defender,18.0,11.0,7.0,0.61,0.39,7.0,0.0,2.0,7.08,4.38,2.69,1.23
+13,Hugh Jackson,Port Adelaide,Mid-Forward,14.0,8.0,6.0,0.57,0.43,4.0,1.0,2.0,4.67,3.22,1.44,2.67
+13,Jackson Mead,Port Adelaide,Midfielder,8.0,5.0,3.0,0.62,0.38,0.0,0.0,1.0,-5.2,-1.65,-3.55,-2.7
+13,Jase Burgoyne,Port Adelaide,Midfielder,21.0,12.0,9.0,0.57,0.43,4.0,0.0,2.0,1.8,0.8,1.0,-0.6
+13,Jeremy Finlayson,Port Adelaide,Key Forward,10.0,6.0,4.0,0.6,0.4,6.0,0.0,3.0,1.12,-0.38,1.5,2.38
+13,Joe Richards,Port Adelaide,Gen. Forward,15.0,8.0,7.0,0.53,0.47,6.0,1.0,5.0,-0.23,0.27,-0.5,2.64
+13,Josh Sinn,Port Adelaide,Gen. Defender,8.0,7.0,1.0,0.88,0.12,1.0,0.0,2.0,-3.45,-1.6,-1.85,-2.15
+13,Kane Farrell,Port Adelaide,Gen. Defender,17.0,15.0,2.0,0.88,0.12,3.0,1.0,1.0,-3.29,-1.19,-2.09,-1.57
+13,Miles Bergman,Port Adelaide,Gen. Defender,23.0,17.0,6.0,0.74,0.26,8.0,0.0,4.0,5.21,4.79,0.42,2.89
+13,Mitch Georgiades,Port Adelaide,Key Forward,8.0,5.0,3.0,0.62,0.38,5.0,1.0,1.0,-4.09,-3.83,-0.26,-0.48
+13,Ollie Wines,Port Adelaide,Midfielder,23.0,10.0,13.0,0.43,0.57,8.0,1.0,3.0,-2.4,0.15,-2.55,4.15
+13,Ryan Burton,Port Adelaide,Gen. Defender,16.0,12.0,4.0,0.75,0.25,4.0,0.0,1.0,-3.25,-1.62,-1.62,-0.62
+13,Sam Powell-Pepper,Port Adelaide,Gen. Forward,9.0,3.0,6.0,0.33,0.67,3.0,0.0,2.0,-5.62,-4.38,-1.25,-0.88
+13,Travis Boak,Port Adelaide,Mid-Forward,22.0,11.0,11.0,0.5,0.5,4.0,0.0,5.0,1.5,2.06,-0.56,-0.19
+13,Willem Drew,Port Adelaide,Midfielder,18.0,10.0,8.0,0.56,0.44,2.0,0.0,10.0,-0.17,1.91,-2.09,-0.17
+13,Willie Rioli,Port Adelaide,Gen. Forward,6.0,4.0,2.0,0.67,0.33,3.0,2.0,1.0,-3.79,-2.74,-1.05,0.42
+13,Zak Butters,Port Adelaide,Midfielder,32.0,16.0,16.0,0.5,0.5,2.0,0.0,7.0,4.05,2.4,1.65,-1.55
+14,Aliir Aliir,Port Adelaide,Key Defender,5.0,5.0,0.0,1.0,0.0,3.0,0.0,0.0,-8.18,-4.77,-3.41,-2.91
+14,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,8.0,5.0,3.0,0.62,0.38,4.0,0.0,4.0,-3.0,-2.0,-1.0,-0.77
+14,Connor Rozee,Port Adelaide,Gen. Defender,32.0,25.0,7.0,0.78,0.22,5.0,0.0,4.0,4.57,7.0,-2.43,0.14
+14,Dante Visentini,Port Adelaide,Ruck,6.0,3.0,3.0,0.5,0.5,0.0,0.0,7.0,-2.62,-0.38,-2.25,-1.62
+14,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,13.0,7.0,6.0,0.54,0.46,3.0,2.0,2.0,0.27,-1.18,1.46,-0.23
+14,Esava Ratugolea,Port Adelaide,Key Defender,18.0,10.0,8.0,0.56,0.44,13.0,0.0,3.0,7.08,3.38,3.69,7.23
+14,Hugh Jackson,Port Adelaide,Mid-Forward,,,,,,,,,,,,
+14,Jackson Mead,Port Adelaide,Midfielder,16.0,7.0,9.0,0.44,0.56,6.0,0.0,2.0,2.8,0.35,2.45,3.3
+14,Jase Burgoyne,Port Adelaide,Midfielder,21.0,12.0,9.0,0.57,0.43,9.0,1.0,1.0,1.8,0.8,1.0,4.4
+14,Jason Horne-Francis,Port Adelaide,Midfielder,29.0,15.0,14.0,0.52,0.48,7.0,1.0,3.0,8.13,1.6,6.53,2.87
+14,Joe Richards,Port Adelaide,Gen. Forward,15.0,7.0,8.0,0.47,0.53,4.0,0.0,2.0,-0.23,-0.73,0.5,0.64
+14,Jordon Sweet,Port Adelaide,Ruck,7.0,3.0,4.0,0.43,0.57,3.0,0.0,2.0,-4.21,-1.84,-2.37,1.1
+14,Josh Sinn,Port Adelaide,Gen. Defender,14.0,11.0,3.0,0.79,0.21,7.0,0.0,0.0,2.55,2.4,0.15,3.85
+14,Kane Farrell,Port Adelaide,Gen. Defender,18.0,14.0,4.0,0.78,0.22,8.0,0.0,2.0,-2.29,-2.19,-0.09,3.43
+14,Mani Liddy,Port Adelaide,Midfielder,10.0,7.0,3.0,0.7,0.3,3.0,0.0,2.0,-4.11,-1.89,-2.22,-1.11
+14,Miles Bergman,Port Adelaide,Gen. Defender,22.0,17.0,5.0,0.77,0.23,7.0,1.0,4.0,4.21,4.79,-0.58,1.89
+14,Mitch Georgiades,Port Adelaide,Key Forward,18.0,16.0,2.0,0.89,0.11,10.0,7.0,0.0,5.91,7.17,-1.26,4.52
+14,Ollie Wines,Port Adelaide,Midfielder,22.0,7.0,15.0,0.32,0.68,5.0,0.0,5.0,-3.4,-2.85,-0.55,1.15
+14,Ryan Burton,Port Adelaide,Gen. Defender,26.0,19.0,7.0,0.73,0.27,7.0,0.0,2.0,6.75,5.38,1.38,2.38
+14,Sam Powell-Pepper,Port Adelaide,Gen. Forward,17.0,10.0,7.0,0.59,0.41,6.0,1.0,4.0,2.38,2.62,-0.25,2.12
+14,Willem Drew,Port Adelaide,Midfielder,17.0,9.0,8.0,0.53,0.47,4.0,0.0,7.0,-1.17,0.91,-2.09,1.83
+14,Willie Rioli,Port Adelaide,Gen. Forward,11.0,3.0,8.0,0.27,0.73,2.0,1.0,0.0,1.21,-3.74,4.95,-0.58
+14,Zak Butters,Port Adelaide,Midfielder,27.0,15.0,12.0,0.56,0.44,5.0,0.0,4.0,-0.95,1.4,-2.35,1.45
+15,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,13.0,8.0,5.0,0.62,0.38,8.0,0.0,2.0,2.0,1.0,1.0,3.23
+15,Christian Moraes,Port Adelaide,Midfielder,11.0,5.0,6.0,0.45,0.55,2.0,0.0,2.0,-1.21,-0.29,-0.93,-0.79
+15,Connor Rozee,Port Adelaide,Gen. Defender,25.0,15.0,10.0,0.6,0.4,4.0,0.0,1.0,-2.43,-3.0,0.57,-0.86
+15,Dante Visentini,Port Adelaide,Ruck,5.0,2.0,3.0,0.4,0.6,1.0,0.0,2.0,-3.62,-1.38,-2.25,-0.62
+15,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,13.0,11.0,2.0,0.85,0.15,6.0,1.0,1.0,0.27,2.82,-2.54,2.77
+15,Esava Ratugolea,Port Adelaide,Key Defender,16.0,9.0,7.0,0.56,0.44,7.0,0.0,2.0,5.08,2.38,2.69,1.23
+15,Jackson Mead,Port Adelaide,Midfielder,12.0,6.0,6.0,0.5,0.5,0.0,0.0,3.0,-1.2,-0.65,-0.55,-2.7
+15,Jase Burgoyne,Port Adelaide,Midfielder,20.0,10.0,10.0,0.5,0.5,7.0,0.0,4.0,0.8,-1.2,2.0,2.4
+15,Jason Horne-Francis,Port Adelaide,Midfielder,16.0,13.0,3.0,0.81,0.19,6.0,1.0,1.0,-4.87,-0.4,-4.47,1.87
+15,Jeremy Finlayson,Port Adelaide,Key Forward,,,,,,,,,,,,
+15,Joe Richards,Port Adelaide,Gen. Forward,19.0,8.0,11.0,0.42,0.58,5.0,1.0,4.0,3.77,0.27,3.5,1.64
+15,Jordon Sweet,Port Adelaide,Ruck,,,,,,,,,,,,
+15,Josh Sinn,Port Adelaide,Gen. Defender,15.0,9.0,6.0,0.6,0.4,6.0,0.0,4.0,3.55,0.4,3.15,2.85
+15,Kane Farrell,Port Adelaide,Gen. Defender,20.0,15.0,5.0,0.75,0.25,3.0,0.0,1.0,-0.29,-1.19,0.91,-1.57
+15,Lachie Jones,Port Adelaide,Gen. Defender,10.0,2.0,8.0,0.2,0.8,3.0,0.0,0.0,-0.89,-4.11,3.22,0.22
+15,Mani Liddy,Port Adelaide,Midfielder,17.0,14.0,3.0,0.82,0.18,5.0,0.0,3.0,2.89,5.11,-2.22,0.89
+15,Miles Bergman,Port Adelaide,Gen. Defender,14.0,10.0,4.0,0.71,0.29,3.0,0.0,2.0,-3.79,-2.21,-1.58,-2.11
+15,Mitch Georgiades,Port Adelaide,Key Forward,7.0,5.0,2.0,0.71,0.29,4.0,1.0,2.0,-5.09,-3.83,-1.26,-1.48
+15,Ryan Burton,Port Adelaide,Gen. Defender,21.0,18.0,3.0,0.86,0.14,3.0,0.0,1.0,1.75,4.38,-2.62,-1.62
+15,Sam Powell-Pepper,Port Adelaide,Gen. Forward,20.0,10.0,10.0,0.5,0.5,6.0,1.0,3.0,5.38,2.62,2.75,2.12
+15,Willem Drew,Port Adelaide,Midfielder,17.0,6.0,11.0,0.35,0.65,5.0,0.0,8.0,-1.17,-2.09,0.91,2.83
+15,Willie Rioli,Port Adelaide,Gen. Forward,7.0,6.0,1.0,0.86,0.14,2.0,1.0,1.0,-2.79,-0.74,-2.05,-0.58
+15,Zak Butters,Port Adelaide,Midfielder,28.0,9.0,19.0,0.32,0.68,8.0,1.0,3.0,0.05,-4.6,4.65,4.45
+16,Aliir Aliir,Port Adelaide,Key Defender,9.0,7.0,2.0,0.78,0.22,3.0,0.0,0.0,-4.18,-2.77,-1.41,-2.91
+16,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,8.0,4.0,4.0,0.5,0.5,5.0,0.0,0.0,-3.0,-3.0,0.0,0.23
+16,Connor Rozee,Port Adelaide,Gen. Defender,30.0,25.0,5.0,0.83,0.17,11.0,0.0,1.0,2.57,7.0,-4.43,6.14
+16,Dante Visentini,Port Adelaide,Ruck,12.0,7.0,5.0,0.58,0.42,4.0,1.0,2.0,3.38,3.62,-0.25,2.38
+16,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,14.0,5.0,9.0,0.36,0.64,4.0,2.0,2.0,1.27,-3.18,4.46,0.77
+16,Esava Ratugolea,Port Adelaide,Key Defender,13.0,10.0,3.0,0.77,0.23,6.0,0.0,0.0,2.08,3.38,-1.31,0.23
+16,Hugh Jackson,Port Adelaide,Mid-Forward,17.0,9.0,8.0,0.53,0.47,3.0,0.0,2.0,7.67,4.22,3.44,1.67
+16,Jase Burgoyne,Port Adelaide,Midfielder,15.0,9.0,6.0,0.6,0.4,5.0,0.0,3.0,-4.2,-2.2,-2.0,0.4
+16,Jason Horne-Francis,Port Adelaide,Midfielder,,,,,,,,,,,,
+16,Joe Richards,Port Adelaide,Gen. Forward,22.0,12.0,10.0,0.55,0.45,4.0,0.0,4.0,6.77,4.27,2.5,0.64
+16,Jordon Sweet,Port Adelaide,Ruck,6.0,1.0,5.0,0.17,0.83,0.0,0.0,3.0,-5.21,-3.84,-1.37,-1.9
+16,Josh Sinn,Port Adelaide,Gen. Defender,17.0,14.0,3.0,0.82,0.18,7.0,0.0,0.0,5.55,5.4,0.15,3.85
+16,Kane Farrell,Port Adelaide,Gen. Defender,22.0,18.0,4.0,0.82,0.18,9.0,1.0,0.0,1.71,1.81,-0.09,4.43
+16,Lachie Jones,Port Adelaide,Gen. Defender,12.0,7.0,5.0,0.58,0.42,6.0,1.0,1.0,1.11,0.89,0.22,3.22
+16,Logan Evans,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+16,Mani Liddy,Port Adelaide,Midfielder,11.0,6.0,5.0,0.55,0.45,4.0,0.0,5.0,-3.11,-2.89,-0.22,-0.11
+16,Miles Bergman,Port Adelaide,Gen. Defender,25.0,16.0,9.0,0.64,0.36,8.0,2.0,5.0,7.21,3.79,3.42,2.89
+16,Mitch Georgiades,Port Adelaide,Key Forward,11.0,10.0,1.0,0.91,0.09,6.0,5.0,1.0,-1.09,1.17,-2.26,0.52
+16,Sam Powell-Pepper,Port Adelaide,Gen. Forward,17.0,6.0,11.0,0.35,0.65,3.0,0.0,1.0,2.38,-1.38,3.75,-0.88
+16,Travis Boak,Port Adelaide,Mid-Forward,21.0,7.0,14.0,0.33,0.67,3.0,1.0,2.0,0.5,-1.94,2.44,-1.19
+16,Willem Drew,Port Adelaide,Midfielder,15.0,7.0,8.0,0.47,0.53,4.0,0.0,7.0,-3.17,-1.09,-2.09,1.83
+16,Willie Rioli,Port Adelaide,Gen. Forward,6.0,4.0,2.0,0.67,0.33,2.0,3.0,1.0,-3.79,-2.74,-1.05,-0.58
+16,Zak Butters,Port Adelaide,Midfielder,30.0,11.0,19.0,0.37,0.63,4.0,0.0,1.0,2.05,-2.6,4.65,0.45
+17,Aliir Aliir,Port Adelaide,Key Defender,12.0,6.0,6.0,0.5,0.5,4.0,0.0,3.0,-1.18,-3.77,2.59,-1.91
+17,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,8.0,6.0,2.0,0.75,0.25,6.0,0.0,0.0,-3.0,-1.0,-2.0,1.23
+17,Connor Rozee,Port Adelaide,Gen. Defender,31.0,20.0,11.0,0.65,0.35,5.0,0.0,3.0,3.57,2.0,1.57,0.14
+17,Dante Visentini,Port Adelaide,Ruck,,,,,,,,,,,,
+17,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,15.0,8.0,7.0,0.53,0.47,2.0,0.0,3.0,2.27,-0.18,2.46,-1.23
+17,Esava Ratugolea,Port Adelaide,Key Defender,,,,,,,,,,,,
+17,Hugh Jackson,Port Adelaide,Mid-Forward,,,,,,,,,,,,
+17,Jack Lukosius,Port Adelaide,Key Forward,14.0,11.0,3.0,0.79,0.21,9.0,3.0,0.0,5.0,4.29,0.71,4.71
+17,Jase Burgoyne,Port Adelaide,Midfielder,15.0,9.0,6.0,0.6,0.4,4.0,0.0,2.0,-4.2,-2.2,-2.0,-0.6
+17,Jason Horne-Francis,Port Adelaide,Midfielder,19.0,12.0,7.0,0.63,0.37,6.0,1.0,3.0,-1.87,-1.4,-0.47,1.87
+17,Joe Richards,Port Adelaide,Gen. Forward,14.0,8.0,6.0,0.57,0.43,4.0,1.0,3.0,-1.23,0.27,-1.5,0.64
+17,Jordon Sweet,Port Adelaide,Ruck,13.0,3.0,10.0,0.23,0.77,3.0,0.0,4.0,1.79,-1.84,3.63,1.1
+17,Josh Sinn,Port Adelaide,Gen. Defender,10.0,6.0,4.0,0.6,0.4,2.0,0.0,3.0,-1.45,-2.6,1.15,-1.15
+17,Kane Farrell,Port Adelaide,Gen. Defender,19.0,10.0,9.0,0.53,0.47,3.0,0.0,1.0,-1.29,-6.19,4.9,-1.57
+17,Lachie Jones,Port Adelaide,Gen. Defender,12.0,6.0,6.0,0.5,0.5,3.0,0.0,1.0,1.11,-0.11,1.22,0.22
+17,Miles Bergman,Port Adelaide,Gen. Defender,17.0,10.0,7.0,0.59,0.41,2.0,0.0,4.0,-0.79,-2.21,1.42,-3.11
+17,Mitch Georgiades,Port Adelaide,Key Forward,10.0,9.0,1.0,0.9,0.1,7.0,4.0,0.0,-2.09,0.17,-2.26,1.52
+17,Ollie Wines,Port Adelaide,Midfielder,22.0,10.0,12.0,0.45,0.55,5.0,0.0,6.0,-3.4,0.15,-3.55,1.15
+17,Sam Powell-Pepper,Port Adelaide,Gen. Forward,,,,,,,,,,,,
+17,Travis Boak,Port Adelaide,Mid-Forward,27.0,13.0,14.0,0.48,0.52,7.0,0.0,2.0,6.5,4.06,2.44,2.81
+17,Willem Drew,Port Adelaide,Midfielder,21.0,7.0,14.0,0.33,0.67,4.0,0.0,5.0,2.83,-1.09,3.91,1.83
+17,Willie Rioli,Port Adelaide,Gen. Forward,8.0,7.0,1.0,0.88,0.12,1.0,3.0,0.0,-1.79,0.26,-2.05,-1.58
+17,Zak Butters,Port Adelaide,Midfielder,31.0,20.0,11.0,0.65,0.35,5.0,0.0,6.0,3.05,6.4,-3.35,1.45
+18,Aliir Aliir,Port Adelaide,Key Defender,13.0,8.0,5.0,0.62,0.38,5.0,0.0,1.0,-0.18,-1.77,1.59,-0.91
+18,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,11.0,6.0,5.0,0.55,0.45,4.0,0.0,3.0,0.0,-1.0,1.0,-0.77
+18,Connor Rozee,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+18,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,17.0,12.0,5.0,0.71,0.29,3.0,2.0,2.0,4.27,3.82,0.46,-0.23
+18,Hugh Jackson,Port Adelaide,Mid-Forward,12.0,7.0,5.0,0.58,0.42,1.0,0.0,2.0,2.67,2.22,0.44,-0.33
+18,Jack Lukosius,Port Adelaide,Key Forward,7.0,5.0,2.0,0.71,0.29,5.0,0.0,1.0,-2.0,-1.71,-0.29,0.71
+18,Jase Burgoyne,Port Adelaide,Midfielder,9.0,6.0,3.0,0.67,0.33,1.0,0.0,5.0,-10.2,-5.2,-5.0,-3.6
+18,Jason Horne-Francis,Port Adelaide,Midfielder,27.0,19.0,8.0,0.7,0.3,2.0,3.0,6.0,6.13,5.6,0.53,-2.13
+18,Joe Richards,Port Adelaide,Gen. Forward,23.0,14.0,9.0,0.61,0.39,6.0,2.0,7.0,7.77,6.27,1.5,2.64
+18,Jordon Sweet,Port Adelaide,Ruck,5.0,2.0,3.0,0.4,0.6,1.0,0.0,5.0,-6.21,-2.84,-3.37,-0.9
+18,Josh Sinn,Port Adelaide,Gen. Defender,9.0,6.0,3.0,0.67,0.33,2.0,0.0,1.0,-2.45,-2.6,0.15,-1.15
+18,Kane Farrell,Port Adelaide,Gen. Defender,20.0,18.0,2.0,0.9,0.1,6.0,0.0,3.0,-0.29,1.81,-2.09,1.43
+18,Lachie Jones,Port Adelaide,Gen. Defender,12.0,8.0,4.0,0.67,0.33,2.0,0.0,5.0,1.11,1.89,-0.78,-0.78
+18,Mani Liddy,Port Adelaide,Midfielder,18.0,11.0,7.0,0.61,0.39,6.0,0.0,2.0,3.89,2.11,1.78,1.89
+18,Miles Bergman,Port Adelaide,Gen. Defender,13.0,11.0,2.0,0.85,0.15,3.0,1.0,6.0,-4.79,-1.21,-3.58,-2.11
+18,Mitch Georgiades,Port Adelaide,Key Forward,13.0,10.0,3.0,0.77,0.23,6.0,3.0,1.0,0.91,1.17,-0.26,0.52
+18,Ollie Lord,Port Adelaide,Key Forward,9.0,2.0,7.0,0.22,0.78,1.0,0.0,3.0,2.87,-1.0,3.87,-1.27
+18,Ollie Wines,Port Adelaide,Midfielder,25.0,12.0,13.0,0.48,0.52,5.0,0.0,4.0,-0.4,2.15,-2.55,1.15
+18,Travis Boak,Port Adelaide,Mid-Forward,15.0,3.0,12.0,0.2,0.8,0.0,1.0,1.0,-5.5,-5.94,0.44,-4.19
+18,Will Lorenz,Port Adelaide,Midfielder,,,,,,,,,,,,
+18,Willem Drew,Port Adelaide,Midfielder,13.0,6.0,7.0,0.46,0.54,0.0,0.0,5.0,-5.17,-2.09,-3.09,-2.17
+18,Willie Rioli,Port Adelaide,Gen. Forward,4.0,3.0,1.0,0.75,0.25,2.0,0.0,0.0,-5.79,-3.74,-2.05,-0.58
+18,Zak Butters,Port Adelaide,Midfielder,38.0,21.0,17.0,0.55,0.45,6.0,0.0,2.0,10.05,7.4,2.65,2.45
+19,Aliir Aliir,Port Adelaide,Key Defender,14.0,13.0,1.0,0.93,0.07,3.0,0.0,4.0,0.82,3.23,-2.41,-2.91
+19,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,14.0,6.0,8.0,0.43,0.57,2.0,0.0,1.0,3.0,-1.0,4.0,-2.77
+19,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,12.0,11.0,1.0,0.92,0.08,0.0,0.0,1.0,-0.73,2.82,-3.54,-3.23
+19,Dylan Williams,Port Adelaide,Gen. Forward,,,,,,,,,,,,
+19,Hugh Jackson,Port Adelaide,Mid-Forward,13.0,7.0,6.0,0.54,0.46,0.0,0.0,3.0,3.67,2.22,1.44,-1.33
+19,Jack Lukosius,Port Adelaide,Key Forward,14.0,11.0,3.0,0.79,0.21,4.0,2.0,6.0,5.0,4.29,0.71,-0.29
+19,Jackson Mead,Port Adelaide,Midfielder,7.0,6.0,1.0,0.86,0.14,1.0,0.0,6.0,-6.2,-0.65,-5.55,-1.7
+19,Jase Burgoyne,Port Adelaide,Midfielder,26.0,17.0,9.0,0.65,0.35,2.0,0.0,3.0,6.8,5.8,1.0,-2.6
+19,Joe Richards,Port Adelaide,Gen. Forward,11.0,8.0,3.0,0.73,0.27,0.0,0.0,10.0,-4.23,0.27,-4.5,-3.36
+19,Jordon Sweet,Port Adelaide,Ruck,22.0,13.0,9.0,0.59,0.41,1.0,1.0,7.0,10.79,8.16,2.63,-0.9
+19,Josh Sinn,Port Adelaide,Gen. Defender,9.0,8.0,1.0,0.89,0.11,1.0,0.0,4.0,-2.45,-0.6,-1.85,-2.15
+19,Kane Farrell,Port Adelaide,Gen. Defender,25.0,22.0,3.0,0.88,0.12,2.0,0.0,5.0,4.71,5.81,-1.09,-2.57
+19,Lachie Jones,Port Adelaide,Gen. Defender,11.0,10.0,1.0,0.91,0.09,0.0,0.0,2.0,0.11,3.89,-3.78,-2.78
+19,Logan Evans,Port Adelaide,Gen. Defender,11.0,7.0,4.0,0.64,0.36,1.0,0.0,3.0,-1.9,-0.8,-1.1,-1.8
+19,Mani Liddy,Port Adelaide,Midfielder,,,,,,,,,,,,
+19,Miles Bergman,Port Adelaide,Gen. Defender,12.0,10.0,2.0,0.83,0.17,2.0,0.0,14.0,-5.79,-2.21,-3.58,-3.11
+19,Mitch Georgiades,Port Adelaide,Key Forward,10.0,7.0,3.0,0.7,0.3,1.0,2.0,4.0,-2.09,-1.83,-0.26,-4.48
+19,Ollie Lord,Port Adelaide,Key Forward,4.0,1.0,3.0,0.25,0.75,1.0,1.0,2.0,-2.13,-2.0,-0.13,-1.27
+19,Ollie Wines,Port Adelaide,Midfielder,26.0,9.0,17.0,0.35,0.65,3.0,0.0,3.0,0.6,-0.85,1.45,-0.85
+19,Travis Boak,Port Adelaide,Mid-Forward,15.0,10.0,5.0,0.67,0.33,2.0,0.0,4.0,-5.5,1.06,-6.56,-2.19
+19,Will Lorenz,Port Adelaide,Midfielder,11.0,8.0,3.0,0.73,0.27,1.0,1.0,4.0,-0.67,1.33,-2.0,-0.83
+19,Willem Drew,Port Adelaide,Midfielder,17.0,7.0,10.0,0.41,0.59,0.0,0.0,7.0,-1.17,-1.09,-0.09,-2.17
+19,Zak Butters,Port Adelaide,Midfielder,18.0,11.0,7.0,0.61,0.39,3.0,0.0,5.0,-9.95,-2.6,-7.35,-0.55
+20,Aliir Aliir,Port Adelaide,Key Defender,14.0,13.0,1.0,0.93,0.07,5.0,0.0,2.0,0.82,3.23,-2.41,-0.91
+20,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,12.0,10.0,2.0,0.83,0.17,4.0,0.0,3.0,1.0,3.0,-2.0,-0.77
+20,Connor Rozee,Port Adelaide,Gen. Defender,22.0,18.0,4.0,0.82,0.18,2.0,0.0,7.0,-5.43,0.0,-5.43,-2.86
+20,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,5.0,4.0,1.0,0.8,0.2,0.0,0.0,1.0,-7.73,-4.18,-3.54,-3.23
+20,Hugh Jackson,Port Adelaide,Mid-Forward,,,,,,,,,,,,
+20,Jack Lukosius,Port Adelaide,Key Forward,8.0,6.0,2.0,0.75,0.25,3.0,0.0,1.0,-1.0,-0.71,-0.29,-1.29
+20,Jackson Mead,Port Adelaide,Midfielder,9.0,8.0,1.0,0.89,0.11,2.0,1.0,6.0,-4.2,1.35,-5.55,-0.7
+20,Jase Burgoyne,Port Adelaide,Midfielder,15.0,11.0,4.0,0.73,0.27,2.0,0.0,2.0,-4.2,-0.2,-4.0,-2.6
+20,Jed McEntee,Port Adelaide,Gen. Forward,4.0,4.0,0.0,1.0,0.0,1.0,2.0,4.0,-4.67,-1.5,-3.17,-0.33
+20,Joe Berry,Port Adelaide,Gen. Forward,6.0,2.0,4.0,0.33,0.67,1.0,0.0,4.0,-3.0,-3.33,0.33,-1.42
+20,Joe Richards,Port Adelaide,Gen. Forward,12.0,9.0,3.0,0.75,0.25,1.0,0.0,5.0,-3.23,1.27,-4.5,-2.36
+20,Jordon Sweet,Port Adelaide,Ruck,11.0,6.0,5.0,0.55,0.45,1.0,1.0,4.0,-0.21,1.16,-1.37,-0.9
+20,Josh Sinn,Port Adelaide,Gen. Defender,12.0,7.0,5.0,0.58,0.42,3.0,0.0,1.0,0.55,-1.6,2.15,-0.15
+20,Kane Farrell,Port Adelaide,Gen. Defender,24.0,21.0,3.0,0.88,0.12,2.0,0.0,3.0,3.71,4.81,-1.09,-2.57
+20,Lachie Jones,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+20,Logan Evans,Port Adelaide,Gen. Defender,8.0,7.0,1.0,0.88,0.12,1.0,0.0,2.0,-4.9,-0.8,-4.1,-1.8
+20,Miles Bergman,Port Adelaide,Gen. Defender,14.0,10.0,4.0,0.71,0.29,0.0,0.0,3.0,-3.79,-2.21,-1.58,-5.11
+20,Mitch Georgiades,Port Adelaide,Key Forward,18.0,13.0,5.0,0.72,0.28,4.0,1.0,1.0,5.91,4.17,1.74,-1.48
+20,Ollie Lord,Port Adelaide,Key Forward,4.0,3.0,1.0,0.75,0.25,0.0,0.0,3.0,-2.13,0.0,-2.13,-2.27
+20,Ollie Wines,Port Adelaide,Midfielder,25.0,9.0,16.0,0.36,0.64,1.0,0.0,2.0,-0.4,-0.85,0.45,-2.85
+20,Travis Boak,Port Adelaide,Mid-Forward,11.0,5.0,6.0,0.45,0.55,2.0,0.0,1.0,-9.5,-3.94,-5.56,-2.19
+20,Willem Drew,Port Adelaide,Midfielder,18.0,9.0,9.0,0.5,0.5,1.0,0.0,8.0,-0.17,0.91,-1.09,-1.17
+20,Zak Butters,Port Adelaide,Midfielder,34.0,22.0,12.0,0.65,0.35,1.0,0.0,4.0,6.05,8.4,-2.35,-2.55
+21,Aliir Aliir,Port Adelaide,Key Defender,13.0,12.0,1.0,0.92,0.08,6.0,0.0,0.0,-0.18,2.23,-2.41,0.09
+21,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,8.0,3.0,5.0,0.38,0.62,3.0,0.0,2.0,-3.0,-4.0,1.0,-1.77
+21,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,14.0,7.0,7.0,0.5,0.5,4.0,0.0,4.0,1.27,-1.18,2.46,0.77
+21,Dylan Williams,Port Adelaide,Gen. Forward,8.0,7.0,1.0,0.88,0.12,2.0,0.0,2.0,3.5,3.0,0.5,1.0
+21,Hugh Jackson,Port Adelaide,Mid-Forward,,,,,,,,,,,,
+21,Jack Whitlock,Port Adelaide,Key Forward,3.0,3.0,0.0,1.0,0.0,2.0,0.0,4.0,-3.5,-0.5,-3.0,-0.5
+21,Jackson Mead,Port Adelaide,Midfielder,18.0,9.0,9.0,0.5,0.5,4.0,0.0,5.0,4.8,2.35,2.45,1.3
+21,Jase Burgoyne,Port Adelaide,Midfielder,,,,,,,,,,,,
+21,Jed McEntee,Port Adelaide,Gen. Forward,15.0,10.0,5.0,0.67,0.33,3.0,1.0,0.0,6.33,4.5,1.83,1.67
+21,Joe Berry,Port Adelaide,Gen. Forward,12.0,10.0,2.0,0.83,0.17,3.0,1.0,2.0,3.0,4.67,-1.67,0.58
+21,Joe Richards,Port Adelaide,Gen. Forward,13.0,4.0,9.0,0.31,0.69,3.0,0.0,5.0,-2.23,-3.73,1.5,-0.36
+21,Jordon Sweet,Port Adelaide,Ruck,16.0,6.0,10.0,0.38,0.62,2.0,0.0,5.0,4.79,1.16,3.63,0.1
+21,Josh Sinn,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+21,Kane Farrell,Port Adelaide,Gen. Defender,20.0,13.0,7.0,0.65,0.35,2.0,0.0,6.0,-0.29,-3.19,2.9,-2.57
+21,Lachie Jones,Port Adelaide,Gen. Defender,8.0,5.0,3.0,0.62,0.38,3.0,0.0,1.0,-2.89,-1.11,-1.78,0.22
+21,Mani Liddy,Port Adelaide,Midfielder,18.0,10.0,8.0,0.56,0.44,4.0,0.0,1.0,3.89,1.11,2.78,-0.11
+21,Mitch Georgiades,Port Adelaide,Key Forward,12.0,8.0,4.0,0.67,0.33,3.0,3.0,2.0,-0.09,-0.83,0.74,-2.48
+21,Ollie Lord,Port Adelaide,Key Forward,5.0,4.0,1.0,0.8,0.2,3.0,2.0,1.0,-1.13,1.0,-2.13,0.73
+21,Ollie Wines,Port Adelaide,Midfielder,32.0,11.0,21.0,0.34,0.66,4.0,0.0,8.0,6.6,1.15,5.45,0.15
+21,Travis Boak,Port Adelaide,Mid-Forward,24.0,7.0,17.0,0.29,0.71,4.0,1.0,5.0,3.5,-1.94,5.44,-0.19
+21,Will Lorenz,Port Adelaide,Midfielder,16.0,9.0,7.0,0.56,0.44,4.0,1.0,3.0,4.33,2.33,2.0,2.17
+21,Willem Drew,Port Adelaide,Midfielder,24.0,15.0,9.0,0.62,0.38,5.0,0.0,10.0,5.83,6.91,-1.09,2.83
+21,Zak Butters,Port Adelaide,Midfielder,10.0,4.0,6.0,0.4,0.6,0.0,0.0,2.0,-17.95,-9.6,-8.35,-3.55
+22,Aliir Aliir,Port Adelaide,Key Defender,22.0,18.0,4.0,0.82,0.18,17.0,1.0,1.0,8.82,8.23,0.59,11.09
+22,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,11.0,10.0,1.0,0.91,0.09,6.0,0.0,1.0,0.0,3.0,-3.0,1.23
+22,Christian Moraes,Port Adelaide,Midfielder,,,,,,,,,,,,
+22,Connor Rozee,Port Adelaide,Gen. Defender,19.0,10.0,9.0,0.53,0.47,7.0,2.0,6.0,-8.43,-8.0,-0.43,2.14
+22,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,19.0,12.0,7.0,0.63,0.37,7.0,0.0,3.0,6.27,3.82,2.46,3.77
+22,Jack Lukosius,Port Adelaide,Key Forward,,,,,,,,,,,,
+22,Jack Whitlock,Port Adelaide,Key Forward,7.0,3.0,4.0,0.43,0.57,1.0,0.0,3.0,0.5,-0.5,1.0,-1.5
+22,Jackson Mead,Port Adelaide,Midfielder,14.0,7.0,7.0,0.5,0.5,2.0,0.0,2.0,0.8,0.35,0.45,-0.7
+22,Jed McEntee,Port Adelaide,Gen. Forward,12.0,7.0,5.0,0.58,0.42,1.0,2.0,4.0,3.33,1.5,1.83,-0.33
+22,Joe Berry,Port Adelaide,Gen. Forward,13.0,7.0,6.0,0.54,0.46,3.0,1.0,5.0,4.0,1.67,2.33,0.58
+22,Joe Richards,Port Adelaide,Gen. Forward,13.0,10.0,3.0,0.77,0.23,2.0,1.0,1.0,-2.23,2.27,-4.5,-1.36
+22,Jordon Sweet,Port Adelaide,Ruck,14.0,6.0,8.0,0.43,0.57,1.0,0.0,0.0,2.79,1.16,1.63,-0.9
+22,Josh Sinn,Port Adelaide,Gen. Defender,17.0,12.0,5.0,0.71,0.29,3.0,0.0,2.0,5.55,3.4,2.15,-0.15
+22,Kane Farrell,Port Adelaide,Gen. Defender,25.0,21.0,4.0,0.84,0.16,7.0,0.0,3.0,4.71,4.81,-0.09,2.43
+22,Mani Liddy,Port Adelaide,Midfielder,16.0,12.0,4.0,0.75,0.25,4.0,0.0,2.0,1.89,3.11,-1.22,-0.11
+22,Mitch Georgiades,Port Adelaide,Key Forward,12.0,10.0,2.0,0.83,0.17,9.0,2.0,0.0,-0.09,1.17,-1.26,3.52
+22,Ollie Lord,Port Adelaide,Key Forward,6.0,3.0,3.0,0.5,0.5,5.0,0.0,0.0,-0.13,0.0,-0.13,2.73
+22,Ollie Wines,Port Adelaide,Midfielder,25.0,10.0,15.0,0.4,0.6,3.0,0.0,4.0,-0.4,0.15,-0.55,-0.85
+22,Travis Boak,Port Adelaide,Mid-Forward,22.0,11.0,11.0,0.5,0.5,10.0,0.0,5.0,1.5,2.06,-0.56,5.81
+22,Will Lorenz,Port Adelaide,Midfielder,20.0,11.0,9.0,0.55,0.45,4.0,0.0,0.0,8.33,4.33,4.0,2.17
+22,Willem Drew,Port Adelaide,Midfielder,17.0,6.0,11.0,0.35,0.65,2.0,0.0,6.0,-1.17,-2.09,0.91,-0.17
+22,Willie Rioli,Port Adelaide,Gen. Forward,8.0,6.0,2.0,0.75,0.25,0.0,2.0,3.0,-1.79,-0.74,-1.05,-2.58
+22,Zak Butters,Port Adelaide,Midfielder,29.0,20.0,9.0,0.69,0.31,8.0,0.0,4.0,1.05,6.4,-5.35,4.45
+23,Aliir Aliir,Port Adelaide,Key Defender,15.0,11.0,4.0,0.73,0.27,6.0,0.0,2.0,1.82,1.23,0.59,0.09
+23,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,12.0,7.0,5.0,0.58,0.42,5.0,0.0,2.0,1.0,0.0,1.0,0.23
+23,Christian Moraes,Port Adelaide,Midfielder,,,,,,,,,,,,
+23,Connor Rozee,Port Adelaide,Gen. Defender,22.0,12.0,10.0,0.55,0.45,1.0,0.0,1.0,-5.43,-6.0,0.57,-3.86
+23,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,11.0,8.0,3.0,0.73,0.27,2.0,1.0,5.0,-1.73,-0.18,-1.54,-1.23
+23,Jack Whitlock,Port Adelaide,Key Forward,8.0,5.0,3.0,0.62,0.38,5.0,3.0,1.0,1.5,1.5,0.0,2.5
+23,Jackson Mead,Port Adelaide,Midfielder,10.0,5.0,5.0,0.5,0.5,0.0,0.0,3.0,-3.2,-1.65,-1.55,-2.7
+23,Jed McEntee,Port Adelaide,Gen. Forward,7.0,5.0,2.0,0.71,0.29,1.0,0.0,1.0,-1.67,-0.5,-1.17,-0.33
+23,Joe Berry,Port Adelaide,Gen. Forward,9.0,5.0,4.0,0.56,0.44,3.0,0.0,3.0,0.0,-0.33,0.33,0.58
+23,Joe Richards,Port Adelaide,Gen. Forward,13.0,9.0,4.0,0.69,0.31,4.0,1.0,0.0,-2.23,1.27,-3.5,0.64
+23,Jordon Sweet,Port Adelaide,Ruck,18.0,8.0,10.0,0.44,0.56,6.0,0.0,1.0,6.79,3.16,3.63,4.11
+23,Josh Sinn,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+23,Kane Farrell,Port Adelaide,Gen. Defender,17.0,14.0,3.0,0.82,0.18,5.0,0.0,3.0,-3.29,-2.19,-1.09,0.43
+23,Lachie Jones,Port Adelaide,Gen. Defender,14.0,10.0,4.0,0.71,0.29,4.0,0.0,4.0,3.11,3.89,-0.78,1.22
+23,Mani Liddy,Port Adelaide,Midfielder,16.0,8.0,8.0,0.5,0.5,6.0,0.0,2.0,1.89,-0.89,2.78,1.89
+23,Mitch Georgiades,Port Adelaide,Key Forward,10.0,5.0,5.0,0.5,0.5,5.0,1.0,0.0,-2.09,-3.83,1.74,-0.48
+23,Ollie Lord,Port Adelaide,Key Forward,5.0,2.0,3.0,0.4,0.6,2.0,1.0,0.0,-1.13,-1.0,-0.13,-0.27
+23,Ollie Wines,Port Adelaide,Midfielder,15.0,9.0,6.0,0.6,0.4,9.0,0.0,3.0,-10.4,-0.85,-9.55,5.15
+23,Travis Boak,Port Adelaide,Mid-Forward,22.0,14.0,8.0,0.64,0.36,5.0,1.0,4.0,1.5,5.06,-3.56,0.81
+23,Will Lorenz,Port Adelaide,Midfielder,7.0,5.0,2.0,0.71,0.29,0.0,0.0,4.0,-4.67,-1.67,-3.0,-1.83
+23,Willem Drew,Port Adelaide,Midfielder,20.0,6.0,14.0,0.3,0.7,1.0,0.0,4.0,1.83,-2.09,3.91,-1.17
+23,Willie Rioli,Port Adelaide,Gen. Forward,4.0,4.0,0.0,1.0,0.0,4.0,0.0,0.0,-5.79,-2.74,-3.05,1.42
+23,Zak Butters,Port Adelaide,Midfielder,29.0,11.0,18.0,0.38,0.62,1.0,0.0,7.0,1.05,-2.6,3.65,-2.55
+24,Aliir Aliir,Port Adelaide,Key Defender,11.0,11.0,0.0,1.0,0.0,6.0,0.0,0.0,-2.18,1.23,-3.41,0.09
+24,Brandon Zerk-Thatcher,Port Adelaide,Key Defender,14.0,11.0,3.0,0.79,0.21,5.0,0.0,0.0,3.0,4.0,-1.0,0.23
+24,Christian Moraes,Port Adelaide,Midfielder,12.0,4.0,8.0,0.33,0.67,2.0,0.0,3.0,-0.21,-1.29,1.07,-0.79
+24,Connor Rozee,Port Adelaide,Gen. Defender,34.0,26.0,8.0,0.76,0.24,5.0,1.0,7.0,6.57,8.0,-1.43,0.14
+24,Darcy Byrne-Jones,Port Adelaide,Gen. Forward,18.0,10.0,8.0,0.56,0.44,5.0,0.0,1.0,5.27,1.82,3.46,1.77
+24,Ewan Mackinlay,Port Adelaide,Mid-Forward,15.0,12.0,3.0,0.8,0.2,4.0,1.0,4.0,0.0,0.0,0.0,0.0
+24,Harrison Ramm,Port Adelaide,Key Defender,5.0,5.0,0.0,1.0,0.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0
+24,Jack Whitlock,Port Adelaide,Key Forward,8.0,3.0,5.0,0.38,0.62,2.0,1.0,5.0,1.5,-0.5,2.0,-0.5
+24,Jackson Mead,Port Adelaide,Midfielder,,,,,,,,,,,,
+24,Jed McEntee,Port Adelaide,Gen. Forward,10.0,6.0,4.0,0.6,0.4,1.0,0.0,4.0,1.33,0.5,0.83,-0.33
+24,Joe Berry,Port Adelaide,Gen. Forward,14.0,7.0,7.0,0.5,0.5,3.0,0.0,0.0,5.0,1.67,3.33,0.58
+24,Joe Richards,Port Adelaide,Gen. Forward,14.0,8.0,6.0,0.57,0.43,1.0,1.0,0.0,-1.23,0.27,-1.5,-2.36
+24,Jordon Sweet,Port Adelaide,Ruck,9.0,3.0,6.0,0.33,0.67,2.0,0.0,3.0,-2.21,-1.84,-0.37,0.1
+24,Kane Farrell,Port Adelaide,Gen. Defender,21.0,20.0,1.0,0.95,0.05,3.0,0.0,2.0,0.71,3.81,-3.1,-1.57
+24,Lachie Jones,Port Adelaide,Gen. Defender,17.0,9.0,8.0,0.53,0.47,5.0,0.0,1.0,6.11,2.89,3.22,2.22
+24,Mani Liddy,Port Adelaide,Midfielder,17.0,9.0,8.0,0.53,0.47,5.0,1.0,1.0,2.89,0.11,2.78,0.89
+24,Mitch Georgiades,Port Adelaide,Key Forward,15.0,9.0,6.0,0.6,0.4,6.0,4.0,2.0,2.91,0.17,2.74,0.52
+24,Ollie Lord,Port Adelaide,Key Forward,3.0,3.0,0.0,1.0,0.0,2.0,1.0,1.0,-3.13,0.0,-3.13,-0.27
+24,Rory Atkins,Port Adelaide,Gen. Defender,,,,,,,,,,,,
+24,Travis Boak,Port Adelaide,Mid-Forward,22.0,10.0,12.0,0.45,0.55,3.0,0.0,9.0,1.5,1.06,0.44,-1.19
+24,Willem Drew,Port Adelaide,Midfielder,21.0,12.0,9.0,0.57,0.43,3.0,0.0,1.0,2.83,3.91,-1.09,0.83
+24,Willie Rioli,Port Adelaide,Gen. Forward,11.0,6.0,5.0,0.55,0.45,1.0,0.0,2.0,1.21,-0.74,1.95,-1.58
+24,Zak Butters,Port Adelaide,Midfielder,35.0,19.0,16.0,0.54,0.46,8.0,0.0,8.0,7.05,5.4,1.65,4.45

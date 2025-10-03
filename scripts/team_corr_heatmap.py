@@ -1,4 +1,3 @@
-# team_corr_heatmap.py
 from pathlib import Path
 import pandas as pd
 import numpy as np
@@ -30,25 +29,40 @@ def _order_players_by_position(df: pd.DataFrame, players: list[str]) -> list[str
                .to_dict())
     return sorted(players, key=lambda p: (pos_idx.get(pos_map.get(p), len(POSITION_ORDER)), p.lower()))
 
-def build_heatmap(team: str,
-                  stat: str,
-                  min_games: int = 12,
-                  method: str = "spearman",
-                  mask_lower: bool = False,
-                  save_dir: str | Path = "results",
-                  return_df: bool = False):
+def build_heatmap(
+    team: str,
+    stat1: str,
+    stat2: str,
+    min_games_stat1: int = 12,
+    min_games_stat2: int = 12,
+    method: str = "pearson",
+    mask_lower: bool = False,
+    figsize: tuple[int, int] = (14, 12),
+    annotate: bool = True,
+    save_dir: str | Path = Path.home() / "Desktop" / "Results",  # ✅ Desktop/Results default
+    return_df: bool = False,
+):
+
     """
-    Build a player×player correlation heatmap for a single stat within one team.
+    Build a player-vs-player correlation heatmap for one team, comparing stat1 (rows) to stat2 (cols).
+
+    Examples:
+      build_heatmap("Hawthorn", "Disposals", "Disposals")
+      build_heatmap("Hawthorn", "Disposals", "Kicks")
 
     Parameters
     ----------
-    team : str            # e.g. "Hawthorn"
-    stat : str            # e.g. "Disposals", "Kicks", "Marks"
-    min_games : int       # drop players with < min_games non-null values of `stat`
-    method : {"pearson","spearman"}
-    mask_lower : bool     # if True, show only upper triangle
-    save_dir : str|Path   # base output directory
-    return_df : bool      # if True, return correlation DataFrame
+    team : str
+    stat1 : str   # series for row-players
+    stat2 : str   # series for column-players
+    min_games_stat1 : int  # drop row players with < this many non-null stat1 values
+    min_games_stat2 : int  # drop col players with < this many non-null stat2 values
+    method : {"pearson","spearman","kendall"}
+    mask_lower : bool  # only used when stat1 == stat2 (square matrix)
+    figsize : (w,h)
+    annotate : bool    # write correlation numbers in cells
+    save_dir : str|Path
+    return_df : bool   # return the correlation DataFrame
 
     Saves
     -----
@@ -61,90 +75,152 @@ def build_heatmap(team: str,
 
     df = pd.read_csv(csv_path)
 
-    required = {"Round", "Player", "Position", stat}
+    # validate
+    required = {"Round", "Player", "Position", stat1, stat2}
     missing = required - set(df.columns)
     if missing:
-        raise ValueError(f"Missing required columns: {sorted(missing)} in {csv_path}")
+        raise ValueError(f"Missing columns in {csv_path}: {sorted(missing)}")
 
-    # Normalise key strings to avoid duplicate-looking names
+    # normalize names to avoid near-duplicate players
     df["Player"] = _normalize_strings(df["Player"])
     df["Position"] = _normalize_strings(df["Position"])
 
-    # Collapse any accidental duplicate rows per (Round, Player, Position)
+    # collapse accidental duplicate rows per (Round, Player, Position)
+    agg_map = {}
+    if stat1 == stat2:
+        agg_map = {stat1: "sum"}
+    else:
+        agg_map = {stat1: "sum", stat2: "sum"}
     df = (df.groupby(["Round", "Player", "Position"], as_index=False)
-            .agg({stat: "sum"}))
+            .agg(agg_map))
 
-    # Drop players with too few valid rounds for this stat
-    counts = df.groupby("Player")[stat].apply(lambda s: s.notna().sum())
-    keep_players = counts[counts >= min_games].index
-    df = df[df["Player"].isin(keep_players)].copy()
+    # filter players separately by stat availability
+    counts1 = df.groupby("Player")[stat1].apply(lambda s: s.notna().sum())
+    counts2 = df.groupby("Player")[stat2].apply(lambda s: s.notna().sum())
+    row_players = counts1[counts1 >= min_games_stat1].index.tolist()
+    col_players = counts2[counts2 >= min_games_stat2].index.tolist()
 
-    if df["Player"].nunique() < 2:
-        raise RuntimeError("Not enough players after filtering (need ≥ 2).")
+    if len(row_players) < 1 or len(col_players) < 1:
+        raise RuntimeError("Not enough players after filtering. "
+                           "Lower min_games or check your CSV.")
 
-    # Pivot: rows=Round, cols=Player, values=stat
-    pivot = df.pivot_table(index="Round", columns="Player", values=stat, aggfunc="sum")
-    pivot = pivot.apply(pd.to_numeric, errors="coerce")
+    # pivot tables by round
+    pivot1 = df.pivot_table(index="Round", columns="Player", values=stat1, aggfunc="sum")
+    pivot2 = df.pivot_table(index="Round", columns="Player", values=stat2, aggfunc="sum")
+    # ensure numeric
+    pivot1 = pivot1.apply(pd.to_numeric, errors="coerce")
+    pivot2 = pivot2.apply(pd.to_numeric, errors="coerce")
 
-    # Drop players with no variance or all-NaN
-    nunique = pivot.nunique(dropna=True)
-    pivot = pivot.loc[:, nunique[nunique > 1].index]
+    # keep only requested players
+    pivot1 = pivot1[[p for p in row_players if p in pivot1.columns]]
+    pivot2 = pivot2[[p for p in col_players if p in pivot2.columns]]
 
-    players = pivot.columns.tolist()
-    if len(players) < 2:
-        raise RuntimeError("After variance filtering, < 2 players remain.")
+    # order by position
+    rows_ordered = _order_players_by_position(df, pivot1.columns.tolist())
+    cols_ordered = _order_players_by_position(df, pivot2.columns.tolist())
 
-    # Order by Position (then name)
-    ordered = _order_players_by_position(df, players)
-    pivot = pivot[ordered]
+    # compute cross-stat correlation matrix
+    # corr[i,j] = corr(pivot1[i], pivot2[j]) over rounds where both are non-null
+    corr = pd.DataFrame(index=rows_ordered, columns=cols_ordered, dtype=float)
+    for r in rows_ordered:
+        s1 = pivot1[r]
+        for c in cols_ordered:
+            s2 = pivot2[c]
+            valid = s1.notna() & s2.notna()
+            if valid.sum() >= 2:
+                corr.loc[r, c] = s1[valid].corr(s2[valid], method=method)
+            else:
+                corr.loc[r, c] = np.nan
 
-    # Compute pairwise correlations (pairwise complete obs)
-    corr = pivot.corr(method=method)
-    corr = corr.loc[ordered, ordered]
-
-    # Output paths
-    out_dir = Path(save_dir) / team
+    # outputs
+# Make Results/<Team>/<stat1>_vs_<stat2> folder
+    out_dir = Path(save_dir) / team / f"{stat1}_vs_{stat2}"
     out_dir.mkdir(parents=True, exist_ok=True)
-    out_csv = out_dir / f"{team.lower()}_{stat}_{method}.csv"
-    out_png = out_dir / f"{team.lower()}_{stat}_{method}.png"
 
-    # Save CSV
+    out_csv = out_dir / f"{team.lower()}_{stat1}_vs_{stat2}_corr.csv"
+    out_png = out_dir / f"{team.lower()}_{stat1}_vs_{stat2}_corr.png"
+
+
     corr.to_csv(out_csv, float_format="%.3f")
 
-    # Plot
+    # plotting
     sns.set_context("talk")
     sns.set_style("white")
-    mask = None
-    if mask_lower:
-        mask = np.zeros_like(corr, dtype=bool)
-        mask[np.tril_indices_from(mask)] = True
 
-        # Replace diagonal with NaN so it greys out
-    plot_corr = corr.copy()
-    np.fill_diagonal(plot_corr.values, np.nan)
+    # If same-stat square matrix: optional mask lower triangle
+        # If same-stat (square matrix): mask lower triangle if requested
+    
+    plot_matrix = corr.copy()
 
-    # Colormap with grey for NaN
+    if stat1 == stat2:
+        # Grey out diagonal
+        np.fill_diagonal(plot_matrix.values, np.nan)
+
+        # Mask lower triangle if requested
+        heatmap_mask = None
+        if mask_lower:
+            heatmap_mask = np.zeros_like(plot_matrix, dtype=bool)
+            tril = np.tril_indices_from(heatmap_mask, k=-1)
+            heatmap_mask[tril] = True
+
+        # Build annotations (leave diagonal blank)
+        annot_data = plot_matrix.round(2).astype(object) if annotate else None
+        if annot_data is not None:
+            annot_data = annot_data.where(~annot_data.isna(), other="")
+
+    else:
+        # Cross-stat: no diagonal greying, no mask
+        heatmap_mask = None
+        annot_data = plot_matrix.round(2) if annotate else None
+
+
+    # set cmap with grey for NaN
     cmap = sns.color_palette("RdBu_r", as_cmap=True)
     cmap.set_bad(color="lightgrey")
 
-    plt.figure(figsize=(14, 12))  # adjust size as needed
+    plt.figure(figsize=figsize)
     ax = sns.heatmap(
-        plot_corr,
+        plot_matrix,
         cmap=cmap,
         vmin=-1, vmax=1, center=0,
-        square=True,
-        mask=mask,
+        square=True if stat1 == stat2 else False,  # rectangular allowed for cross-stat
+        mask=heatmap_mask,
         linewidths=0.5,
         linecolor="white",
-        cbar_kws={"label": "Correlation"},
-        annot=True, fmt=".2f", annot_kws={"size":8}
+        cbar_kws={"label": f"{method.capitalize()} correlation"},
+        annot=annot_data is not None,
+        fmt="",
+        annot_kws={"size": 8},
+        # If annot_data is provided, seaborn uses it when annot=True and data is 2D of same shape
     )
-    ax.set_title(f"{method.capitalize()} correlation: {stat} ({team})")
+    if annot_data is not None:
+        # Re-draw with provided labels (seaborn uses 'data' for heatmap,
+        # but for annotations we can pass the array via 'ax.text' loop if needed.
+        # However, seaborn supports ndarray as `annot` argument directly:
+        plt.cla()
+        ax = sns.heatmap(
+            plot_matrix,
+            cmap=cmap,
+            vmin=-1, vmax=1, center=0,
+            square=True if stat1 == stat2 else False,
+            mask=heatmap_mask,
+            linewidths=0.5,
+            linecolor="white",
+            cbar_kws={"label": f"{method.capitalize()} correlation"},
+            annot=annot_data.values,
+            fmt="",
+            annot_kws={"size": 8},
+        )
+
+    title = f"{team}: {stat1} vs {stat2} ({method.capitalize()})"
+    ax.set_title(title)
     ax.set_xticklabels(ax.get_xticklabels(), rotation=90, ha="center", fontsize=9)
     ax.set_yticklabels(ax.get_yticklabels(), rotation=0, fontsize=9)
     plt.tight_layout()
     plt.savefig(out_png, dpi=300, bbox_inches="tight")
     plt.close()
+
+    
 
 
     print(f"✅ Heatmap: {out_png}")
