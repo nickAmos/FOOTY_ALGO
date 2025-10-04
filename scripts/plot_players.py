@@ -92,5 +92,5 @@ def plot_player_duo_points(
     return out_path
 
 
-plot_player_duo_points("Essendon", "Will Setterfield", "Mason Redman", stat="DispDiff")
+plot_player_duo_points("Greater Western Sydney", "Jacob Wehr", "Joe Fonti", stat="DispDiff")
 

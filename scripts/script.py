@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 """
-Build heatMAPS:
+Build heatMAPS:"""
 stats = [
     "DispDiff","KickDiff","HbDiff","MarkDiff",
 ]
@@ -26,4 +26,4 @@ for t in teams:
             triangle = (stat1 == stat2)
             print(f"Building {stat1} vs {stat2} for {t}...")
             build_heatmap(t, stat1, stat2, mask_lower=triangle)
-            print("✅")"""
+            print("✅")
