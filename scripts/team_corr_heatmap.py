@@ -21,6 +21,10 @@ def _normalize_strings(s: pd.Series) -> pd.Series:
               .str.replace(r"\s+", " ", regex=True)
               .str.strip())
 
+def _slugify_team_name(team: str) -> str:
+    normalized = unicodedata.normalize("NFKC", str(team)).strip()
+    return "-".join(normalized.split())
+
 def _order_players_by_position(df: pd.DataFrame, players: list[str]) -> list[str]:
     pos_idx = {p: i for i, p in enumerate(POSITION_ORDER)}
     pos_map = (df[df["Player"].isin(players)]
@@ -134,11 +138,12 @@ def build_heatmap(
 
     # outputs
 # Make Results/<Team>/<stat1>_vs_<stat2> folder
-    out_dir = Path(save_dir) / team / f"{stat1}_vs_{stat2}"
+    team_slug = _slugify_team_name(team)
+    out_dir = Path(save_dir) / team_slug / f"{stat1}_vs_{stat2}"
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    out_csv = out_dir / f"{team.lower()}_{stat1}_vs_{stat2}_corr.csv"
-    out_png = out_dir / f"{team.lower()}_{stat1}_vs_{stat2}_corr.png"
+    out_csv = out_dir / f"{team_slug.lower()}_{stat1}_vs_{stat2}_corr.csv"
+    out_png = out_dir / f"{team_slug.lower()}_{stat1}_vs_{stat2}_corr.png"
 
 
     corr.to_csv(out_csv, float_format="%.3f")
