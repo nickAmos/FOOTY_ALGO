@@ -1,0 +1,484 @@
+Round,Player,Team,Position,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,DispDiff,KickDiff,HbDiff,MarkDiff
+1,Andrew McGrath,Essendon,Gen. Defender,27.0,15.0,12.0,0.56,0.44,9.0,0.0,4.0,4.26,5.22,-0.96,5.48
+1,Archie Perkins,Essendon,Gen. Forward,22.0,13.0,9.0,0.59,0.41,5.0,1.0,2.0,7.95,5.67,2.29,2.19
+1,Archie Roberts,Essendon,Gen. Defender,19.0,12.0,7.0,0.63,0.37,4.0,0.0,4.0,-5.48,-1.22,-4.26,-1.3
+1,Ben Hobbs,Essendon,Gen. Forward,13.0,3.0,10.0,0.23,0.77,1.0,0.0,7.0,-1.89,-4.17,2.28,-1.11
+1,Ben McKay,Essendon,Key Defender,7.0,5.0,2.0,0.71,0.29,5.0,0.0,2.0,-1.8,-0.1,-1.7,0.6
+1,Dylan Shiel,Essendon,Midfielder,23.0,14.0,9.0,0.61,0.39,3.0,0.0,2.0,1.86,3.93,-2.07,-0.79
+1,Elijah Tsatas,Essendon,Midfielder,,,,,,,,,,,,
+1,Harrison Jones,Essendon,Mid-Forward,14.0,11.0,3.0,0.79,0.21,6.0,1.0,3.0,3.86,4.57,-0.71,2.29
+1,Isaac Kako,Essendon,Gen. Forward,14.0,8.0,6.0,0.57,0.43,2.0,1.0,1.0,2.83,2.48,0.35,0.04
+1,Jade Gresham,Essendon,Gen. Forward,,,,,,,,,,,,
+1,Jaxon Prior,Essendon,Gen. Defender,11.0,10.0,1.0,0.91,0.09,7.0,0.0,2.0,-4.74,-1.04,-3.7,2.09
+1,Jordan Ridley,Essendon,Gen. Defender,,,,,,,,,,,,
+1,Jye Caldwell,Essendon,Midfielder,36.0,18.0,18.0,0.5,0.5,4.0,1.0,11.0,10.09,5.54,4.54,0.0
+1,Kyle Langford,Essendon,Key Forward,11.0,5.0,6.0,0.45,0.55,0.0,2.0,1.0,-0.11,-1.67,1.56,-3.11
+1,Mason Redman,Essendon,Gen. Defender,19.0,12.0,7.0,0.63,0.37,2.0,0.0,7.0,-3.89,-5.05,1.16,-3.26
+1,Nate Caddy,Essendon,Key Forward,12.0,9.0,3.0,0.75,0.25,5.0,0.0,2.0,1.06,1.35,-0.29,1.06
+1,Nic Martin,Essendon,Mid-Forward,24.0,16.0,8.0,0.67,0.33,10.0,0.0,3.0,-0.31,2.0,-2.31,3.06
+1,Nick Bryan,Essendon,Ruck,10.0,8.0,2.0,0.8,0.2,4.0,0.0,3.0,0.25,0.5,-0.25,2.25
+1,Sam Draper,Essendon,Ruck,12.0,9.0,3.0,0.75,0.25,2.0,1.0,5.0,-1.4,1.8,-3.2,-1.6
+1,Sam Durham,Essendon,Midfielder,23.0,8.0,15.0,0.35,0.65,3.0,0.0,4.0,1.15,-2.05,3.2,0.05
+1,Xavier Duursma,Essendon,Midfielder,19.0,10.0,9.0,0.53,0.47,4.0,2.0,7.0,-0.45,0.04,-0.5,-1.18
+1,Zach Merrett,Essendon,Midfielder,26.0,14.0,12.0,0.54,0.46,3.0,2.0,3.0,-1.77,-1.23,-0.54,-0.73
+1,Zach Reid,Essendon,Key Defender,11.0,10.0,1.0,0.91,0.09,9.0,0.0,1.0,-4.4,-1.0,-3.4,1.3
+2,Andrew McGrath,Essendon,Gen. Defender,19.0,6.0,13.0,0.32,0.68,3.0,0.0,1.0,-3.74,-3.78,0.04,-0.52
+2,Archie Perkins,Essendon,Gen. Forward,17.0,6.0,11.0,0.35,0.65,2.0,0.0,4.0,2.95,-1.33,4.29,-0.81
+2,Archie Roberts,Essendon,Gen. Defender,19.0,11.0,8.0,0.58,0.42,3.0,0.0,2.0,-5.48,-2.22,-3.26,-2.3
+2,Ben Hobbs,Essendon,Gen. Forward,14.0,3.0,11.0,0.21,0.79,1.0,0.0,1.0,-0.89,-4.17,3.28,-1.11
+2,Ben McKay,Essendon,Key Defender,5.0,3.0,2.0,0.6,0.4,2.0,0.0,2.0,-3.8,-2.1,-1.7,-2.4
+2,Dylan Shiel,Essendon,Midfielder,21.0,8.0,13.0,0.38,0.62,1.0,0.0,2.0,-0.14,-2.07,1.93,-2.79
+2,Elijah Tsatas,Essendon,Midfielder,25.0,12.0,13.0,0.48,0.52,1.0,0.0,1.0,8.2,4.0,4.2,0.0
+2,Harrison Jones,Essendon,Mid-Forward,9.0,6.0,3.0,0.67,0.33,2.0,0.0,6.0,-1.14,-0.43,-0.71,-1.71
+2,Isaac Kako,Essendon,Gen. Forward,9.0,6.0,3.0,0.67,0.33,2.0,2.0,2.0,-2.17,0.48,-2.65,0.04
+2,Jade Gresham,Essendon,Gen. Forward,11.0,5.0,6.0,0.45,0.55,2.0,1.0,3.0,-2.11,-1.42,-0.68,-0.53
+2,Jaxon Prior,Essendon,Gen. Defender,17.0,13.0,4.0,0.76,0.24,3.0,0.0,1.0,1.26,1.96,-0.7,-1.91
+2,Jye Caldwell,Essendon,Midfielder,27.0,10.0,17.0,0.37,0.63,5.0,1.0,3.0,1.09,-2.46,3.54,1.0
+2,Jye Menzie,Essendon,Gen. Forward,,,,,,,,,,,,
+2,Mason Redman,Essendon,Gen. Defender,18.0,15.0,3.0,0.83,0.17,5.0,0.0,0.0,-4.89,-2.05,-2.84,-0.26
+2,Nate Caddy,Essendon,Key Forward,,,,,,,,,,,,
+2,Nic Martin,Essendon,Mid-Forward,20.0,9.0,11.0,0.45,0.55,5.0,1.0,1.0,-4.31,-5.0,0.69,-1.94
+2,Nick Bryan,Essendon,Ruck,14.0,12.0,2.0,0.86,0.14,1.0,0.0,2.0,4.25,4.5,-0.25,-0.75
+2,Sam Draper,Essendon,Ruck,10.0,5.0,5.0,0.5,0.5,3.0,3.0,1.0,-3.4,-2.2,-1.2,-0.6
+2,Sam Durham,Essendon,Midfielder,21.0,5.0,16.0,0.24,0.76,2.0,0.0,4.0,-0.85,-5.05,4.2,-0.95
+2,Thomas Edwards,Essendon,Key Forward,8.0,6.0,2.0,0.75,0.25,2.0,3.0,3.0,1.0,1.0,0.0,0.0
+2,Xavier Duursma,Essendon,Midfielder,13.0,6.0,7.0,0.46,0.54,5.0,0.0,2.0,-6.45,-3.96,-2.5,-0.18
+2,Zach Merrett,Essendon,Midfielder,36.0,20.0,16.0,0.56,0.44,2.0,4.0,3.0,8.23,4.77,3.46,-1.73
+2,Zach Reid,Essendon,Key Defender,10.0,6.0,4.0,0.6,0.4,4.0,0.0,3.0,-5.4,-5.0,-0.4,-3.7
+3,Andrew McGrath,Essendon,Gen. Defender,9.0,7.0,2.0,0.78,0.22,3.0,0.0,1.0,-13.74,-2.78,-10.96,-0.52
+3,Archie Roberts,Essendon,Gen. Defender,21.0,14.0,7.0,0.67,0.33,6.0,1.0,4.0,-3.48,0.78,-4.26,0.7
+3,Ben Hobbs,Essendon,Gen. Forward,21.0,8.0,13.0,0.38,0.62,1.0,0.0,4.0,6.11,0.83,5.28,-1.11
+3,Ben McKay,Essendon,Key Defender,10.0,6.0,4.0,0.6,0.4,5.0,0.0,0.0,1.2,0.9,0.3,0.6
+3,Dylan Shiel,Essendon,Midfielder,25.0,15.0,10.0,0.6,0.4,5.0,0.0,5.0,3.86,4.93,-1.07,1.21
+3,Harrison Jones,Essendon,Mid-Forward,13.0,6.0,7.0,0.46,0.54,5.0,0.0,2.0,2.86,-0.43,3.29,1.29
+3,Isaac Kako,Essendon,Gen. Forward,10.0,5.0,5.0,0.5,0.5,1.0,0.0,3.0,-1.17,-0.52,-0.65,-0.96
+3,Jade Gresham,Essendon,Gen. Forward,20.0,11.0,9.0,0.55,0.45,4.0,1.0,7.0,6.9,4.58,2.32,1.47
+3,Jaxon Prior,Essendon,Gen. Defender,19.0,15.0,4.0,0.79,0.21,6.0,0.0,1.0,3.26,3.96,-0.7,1.09
+3,Jordan Ridley,Essendon,Gen. Defender,22.0,15.0,7.0,0.68,0.32,5.0,0.0,0.0,5.0,2.9,2.1,-0.5
+3,Jye Caldwell,Essendon,Midfielder,23.0,11.0,12.0,0.48,0.52,7.0,0.0,5.0,-2.91,-1.46,-1.46,3.0
+3,Jye Menzie,Essendon,Gen. Forward,,,,,,,,,,,,
+3,Mason Redman,Essendon,Gen. Defender,22.0,19.0,3.0,0.86,0.14,3.0,1.0,4.0,-0.89,1.95,-2.84,-2.26
+3,Nate Caddy,Essendon,Key Forward,13.0,9.0,4.0,0.69,0.31,2.0,2.0,3.0,2.06,1.35,0.71,-1.94
+3,Nic Martin,Essendon,Mid-Forward,20.0,11.0,9.0,0.55,0.45,4.0,1.0,1.0,-4.31,-3.0,-1.31,-2.94
+3,Nick Bryan,Essendon,Ruck,12.0,8.0,4.0,0.67,0.33,2.0,0.0,2.0,2.25,0.5,1.75,0.25
+3,Saad El-Hawli,Essendon,Midfielder,,,,,,,,,,,,
+3,Sam Draper,Essendon,Ruck,9.0,6.0,3.0,0.67,0.33,2.0,2.0,2.0,-4.4,-1.2,-3.2,-1.6
+3,Sam Durham,Essendon,Midfielder,28.0,13.0,15.0,0.46,0.54,4.0,0.0,3.0,6.15,2.95,3.2,1.05
+3,Thomas Edwards,Essendon,Key Forward,,,,,,,,,,,,
+3,Xavier Duursma,Essendon,Midfielder,29.0,13.0,16.0,0.45,0.55,8.0,0.0,3.0,9.55,3.04,6.5,2.82
+3,Zach Merrett,Essendon,Midfielder,34.0,15.0,19.0,0.44,0.56,5.0,0.0,2.0,6.23,-0.23,6.46,1.27
+3,Zach Reid,Essendon,Key Defender,16.0,12.0,4.0,0.75,0.25,10.0,0.0,2.0,0.6,1.0,-0.4,2.3
+5,Andrew McGrath,Essendon,Gen. Defender,26.0,13.0,13.0,0.5,0.5,3.0,0.0,3.0,3.26,3.22,0.04,-0.52
+5,Archie Perkins,Essendon,Gen. Forward,17.0,10.0,7.0,0.59,0.41,4.0,1.0,0.0,2.95,2.67,0.29,1.19
+5,Archie Roberts,Essendon,Gen. Defender,28.0,15.0,13.0,0.54,0.46,8.0,0.0,6.0,3.52,1.78,1.74,2.7
+5,Ben Hobbs,Essendon,Gen. Forward,20.0,10.0,10.0,0.5,0.5,3.0,2.0,4.0,5.11,2.83,2.28,0.89
+5,Ben McKay,Essendon,Key Defender,16.0,8.0,8.0,0.5,0.5,4.0,0.0,1.0,7.2,2.9,4.3,-0.4
+5,Dylan Shiel,Essendon,Midfielder,30.0,12.0,18.0,0.4,0.6,3.0,1.0,1.0,8.86,1.93,6.93,-0.79
+5,Harrison Jones,Essendon,Mid-Forward,7.0,4.0,3.0,0.57,0.43,2.0,1.0,3.0,-3.14,-2.43,-0.71,-1.71
+5,Isaac Kako,Essendon,Gen. Forward,9.0,5.0,4.0,0.56,0.44,4.0,0.0,3.0,-2.17,-0.52,-1.65,2.04
+5,Jade Gresham,Essendon,Gen. Forward,18.0,6.0,12.0,0.33,0.67,5.0,1.0,3.0,4.89,-0.42,5.32,2.47
+5,Jaxon Prior,Essendon,Gen. Defender,12.0,8.0,4.0,0.67,0.33,4.0,0.0,1.0,-3.74,-3.04,-0.7,-0.91
+5,Jordan Ridley,Essendon,Gen. Defender,26.0,17.0,9.0,0.65,0.35,9.0,0.0,1.0,9.0,4.9,4.1,3.5
+5,Jye Menzie,Essendon,Gen. Forward,15.0,13.0,2.0,0.87,0.13,8.0,4.0,1.0,7.5,8.2,-0.7,4.8
+5,Mason Redman,Essendon,Gen. Defender,22.0,14.0,8.0,0.64,0.36,4.0,1.0,1.0,-0.89,-3.05,2.16,-1.26
+5,Nate Caddy,Essendon,Key Forward,7.0,5.0,2.0,0.71,0.29,4.0,2.0,1.0,-3.94,-2.65,-1.29,0.06
+5,Nic Martin,Essendon,Mid-Forward,28.0,18.0,10.0,0.64,0.36,11.0,1.0,2.0,3.69,4.0,-0.31,4.06
+5,Nick Bryan,Essendon,Ruck,,,,,,,,,,,,
+5,Saad El-Hawli,Essendon,Midfielder,18.0,8.0,10.0,0.44,0.56,5.0,0.0,4.0,6.89,1.0,5.89,1.89
+5,Sam Draper,Essendon,Ruck,22.0,12.0,10.0,0.55,0.45,5.0,0.0,2.0,8.6,4.8,3.8,1.4
+5,Sam Durham,Essendon,Midfielder,28.0,14.0,14.0,0.5,0.5,6.0,0.0,3.0,6.15,3.95,2.2,3.05
+5,Will Setterfield,Essendon,Midfielder,21.0,13.0,8.0,0.62,0.38,3.0,0.0,10.0,-0.69,1.62,-2.31,-1.15
+5,Xavier Duursma,Essendon,Midfielder,17.0,8.0,9.0,0.47,0.53,3.0,1.0,1.0,-2.45,-1.96,-0.5,-2.18
+5,Zach Merrett,Essendon,Midfielder,37.0,15.0,22.0,0.41,0.59,8.0,0.0,5.0,9.23,-0.23,9.46,4.27
+5,Zach Reid,Essendon,Key Defender,21.0,14.0,7.0,0.67,0.33,10.0,0.0,1.0,5.6,3.0,2.6,2.3
+6,Andrew McGrath,Essendon,Gen. Defender,25.0,14.0,11.0,0.56,0.44,5.0,0.0,1.0,2.26,4.22,-1.96,1.48
+6,Archie Perkins,Essendon,Gen. Forward,12.0,9.0,3.0,0.75,0.25,4.0,2.0,1.0,-2.05,1.67,-3.71,1.19
+6,Archie Roberts,Essendon,Gen. Defender,17.0,8.0,9.0,0.47,0.53,6.0,0.0,1.0,-7.48,-5.22,-2.26,0.7
+6,Ben Hobbs,Essendon,Gen. Forward,15.0,8.0,7.0,0.53,0.47,1.0,0.0,6.0,0.11,0.83,-0.72,-1.11
+6,Ben McKay,Essendon,Key Defender,8.0,6.0,2.0,0.75,0.25,4.0,0.0,0.0,-0.8,0.9,-1.7,-0.4
+6,Dylan Shiel,Essendon,Midfielder,23.0,11.0,12.0,0.48,0.52,4.0,1.0,7.0,1.86,0.93,0.93,0.21
+6,Harrison Jones,Essendon,Mid-Forward,9.0,6.0,3.0,0.67,0.33,5.0,0.0,3.0,-1.14,-0.43,-0.71,1.29
+6,Isaac Kako,Essendon,Gen. Forward,9.0,6.0,3.0,0.67,0.33,2.0,0.0,2.0,-2.17,0.48,-2.65,0.04
+6,Jade Gresham,Essendon,Gen. Forward,,,,,,,,,,,,
+6,Jaxon Prior,Essendon,Gen. Defender,18.0,14.0,4.0,0.78,0.22,4.0,0.0,1.0,2.26,2.96,-0.7,-0.91
+6,Jordan Ridley,Essendon,Gen. Defender,16.0,14.0,2.0,0.88,0.12,2.0,0.0,0.0,-1.0,1.9,-2.9,-3.5
+6,Jye Menzie,Essendon,Gen. Forward,10.0,7.0,3.0,0.7,0.3,4.0,0.0,0.0,2.5,2.2,0.3,0.8
+6,Mason Redman,Essendon,Gen. Defender,18.0,11.0,7.0,0.61,0.39,3.0,0.0,0.0,-4.89,-6.05,1.16,-2.26
+6,Nate Caddy,Essendon,Key Forward,8.0,4.0,4.0,0.5,0.5,3.0,0.0,1.0,-2.94,-3.65,0.71,-0.94
+6,Nic Martin,Essendon,Mid-Forward,26.0,13.0,13.0,0.5,0.5,12.0,1.0,4.0,1.69,-1.0,2.69,5.06
+6,Peter Wright,Essendon,Key Forward,17.0,11.0,6.0,0.65,0.35,7.0,6.0,3.0,5.16,3.53,1.63,2.37
+6,Saad El-Hawli,Essendon,Midfielder,,,,,,,,,,,,
+6,Sam Draper,Essendon,Ruck,14.0,4.0,10.0,0.29,0.71,6.0,1.0,4.0,0.6,-3.2,3.8,2.4
+6,Sam Durham,Essendon,Midfielder,19.0,8.0,11.0,0.42,0.58,2.0,0.0,4.0,-2.85,-2.05,-0.8,-0.95
+6,Will Setterfield,Essendon,Midfielder,20.0,12.0,8.0,0.6,0.4,5.0,0.0,9.0,-1.69,0.62,-2.31,0.85
+6,Xavier Duursma,Essendon,Midfielder,24.0,12.0,12.0,0.5,0.5,5.0,0.0,2.0,4.55,2.04,2.5,-0.18
+6,Zach Merrett,Essendon,Midfielder,26.0,12.0,14.0,0.46,0.54,4.0,0.0,1.0,-1.77,-3.23,1.46,0.27
+6,Zach Reid,Essendon,Key Defender,8.0,6.0,2.0,0.75,0.25,5.0,0.0,0.0,-7.4,-5.0,-2.4,-2.7
+7,Andrew McGrath,Essendon,Gen. Defender,18.0,9.0,9.0,0.5,0.5,3.0,0.0,0.0,-4.74,-0.78,-3.96,-0.52
+7,Archie Perkins,Essendon,Gen. Forward,14.0,9.0,5.0,0.64,0.36,5.0,1.0,4.0,-0.05,1.67,-1.71,2.19
+7,Archie Roberts,Essendon,Gen. Defender,25.0,15.0,10.0,0.6,0.4,3.0,0.0,1.0,0.52,1.78,-1.26,-2.3
+7,Ben Hobbs,Essendon,Gen. Forward,20.0,8.0,12.0,0.4,0.6,0.0,1.0,3.0,5.11,0.83,4.28,-2.11
+7,Ben McKay,Essendon,Key Defender,4.0,3.0,1.0,0.75,0.25,3.0,0.0,1.0,-4.8,-2.1,-2.7,-1.4
+7,Dylan Shiel,Essendon,Midfielder,19.0,7.0,12.0,0.37,0.63,3.0,0.0,3.0,-2.14,-3.07,0.93,-0.79
+7,Harrison Jones,Essendon,Mid-Forward,12.0,8.0,4.0,0.67,0.33,5.0,0.0,1.0,1.86,1.57,0.29,1.29
+7,Isaac Kako,Essendon,Gen. Forward,10.0,7.0,3.0,0.7,0.3,3.0,1.0,1.0,-1.17,1.48,-2.65,1.04
+7,Jade Gresham,Essendon,Gen. Forward,12.0,7.0,5.0,0.58,0.42,3.0,0.0,1.0,-1.11,0.58,-1.68,0.47
+7,Jaxon Prior,Essendon,Gen. Defender,9.0,8.0,1.0,0.89,0.11,4.0,0.0,4.0,-6.74,-3.04,-3.7,-0.91
+7,Jordan Ridley,Essendon,Gen. Defender,18.0,11.0,7.0,0.61,0.39,5.0,0.0,2.0,1.0,-1.1,2.1,-0.5
+7,Jye Menzie,Essendon,Gen. Forward,,,,,,,,,,,,
+7,Kyle Langford,Essendon,Key Forward,10.0,5.0,5.0,0.5,0.5,2.0,1.0,3.0,-1.11,-1.67,0.56,-1.11
+7,Mason Redman,Essendon,Gen. Defender,17.0,14.0,3.0,0.82,0.18,3.0,0.0,3.0,-5.9,-3.05,-2.84,-2.26
+7,Nate Caddy,Essendon,Key Forward,19.0,15.0,4.0,0.79,0.21,4.0,2.0,0.0,8.06,7.35,0.71,0.06
+7,Nic Martin,Essendon,Mid-Forward,17.0,12.0,5.0,0.71,0.29,7.0,0.0,1.0,-7.31,-2.0,-5.31,0.06
+7,Peter Wright,Essendon,Key Forward,11.0,6.0,5.0,0.55,0.45,2.0,2.0,3.0,-0.84,-1.47,0.63,-2.63
+7,Sam Durham,Essendon,Midfielder,19.0,10.0,9.0,0.53,0.47,3.0,2.0,5.0,-2.85,-0.05,-2.8,0.05
+7,Todd Goldstein,Essendon,Ruck,13.0,5.0,8.0,0.38,0.62,3.0,0.0,0.0,1.0,1.25,-0.25,0.38
+7,Will Setterfield,Essendon,Midfielder,19.0,16.0,3.0,0.84,0.16,2.0,0.0,2.0,-2.69,4.62,-7.31,-2.15
+7,Xavier Duursma,Essendon,Midfielder,19.0,9.0,10.0,0.47,0.53,3.0,0.0,1.0,-0.45,-0.96,0.5,-2.18
+7,Zach Merrett,Essendon,Midfielder,25.0,18.0,7.0,0.72,0.28,4.0,0.0,6.0,-2.77,2.77,-5.54,0.27
+7,Zach Reid,Essendon,Key Defender,16.0,12.0,4.0,0.75,0.25,7.0,0.0,2.0,0.6,1.0,-0.4,-0.7
+8,Andrew McGrath,Essendon,Gen. Defender,18.0,7.0,11.0,0.39,0.61,3.0,0.0,3.0,-4.74,-2.78,-1.96,-0.52
+8,Archie Perkins,Essendon,Gen. Forward,15.0,9.0,6.0,0.6,0.4,6.0,3.0,2.0,0.95,1.67,-0.71,3.19
+8,Archie Roberts,Essendon,Gen. Defender,26.0,11.0,15.0,0.42,0.58,6.0,0.0,3.0,1.52,-2.22,3.74,0.7
+8,Ben Hobbs,Essendon,Gen. Forward,12.0,8.0,4.0,0.67,0.33,3.0,1.0,4.0,-2.89,0.83,-3.72,0.89
+8,Ben McKay,Essendon,Key Defender,3.0,2.0,1.0,0.67,0.33,2.0,0.0,4.0,-5.8,-3.1,-2.7,-2.4
+8,Elijah Tsatas,Essendon,Midfielder,16.0,6.0,10.0,0.38,0.62,1.0,0.0,0.0,-0.8,-2.0,1.2,0.0
+8,Harrison Jones,Essendon,Mid-Forward,,,,,,,,,,,,
+8,Isaac Kako,Essendon,Gen. Forward,12.0,5.0,7.0,0.42,0.58,1.0,1.0,0.0,0.83,-0.52,1.35,-0.96
+8,Jade Gresham,Essendon,Gen. Forward,16.0,6.0,10.0,0.38,0.62,3.0,0.0,6.0,2.89,-0.42,3.32,0.47
+8,Jaxon Prior,Essendon,Gen. Defender,13.0,7.0,6.0,0.54,0.46,3.0,0.0,3.0,-2.74,-4.04,1.3,-1.91
+8,Jordan Ridley,Essendon,Gen. Defender,,,,,,,,,,,,
+8,Jye Menzie,Essendon,Gen. Forward,,,,,,,,,,,,
+8,Kyle Langford,Essendon,Key Forward,13.0,8.0,5.0,0.62,0.38,6.0,1.0,1.0,1.89,1.33,0.56,2.89
+8,Mason Redman,Essendon,Gen. Defender,21.0,16.0,5.0,0.76,0.24,6.0,0.0,3.0,-1.89,-1.05,-0.84,0.74
+8,Nate Caddy,Essendon,Key Forward,15.0,9.0,6.0,0.6,0.4,5.0,2.0,0.0,4.06,1.35,2.71,1.06
+8,Nic Martin,Essendon,Mid-Forward,21.0,11.0,10.0,0.52,0.48,5.0,1.0,3.0,-3.31,-3.0,-0.31,-1.94
+8,Peter Wright,Essendon,Key Forward,15.0,12.0,3.0,0.8,0.2,8.0,0.0,5.0,3.16,4.53,-1.37,3.37
+8,Sam Durham,Essendon,Midfielder,25.0,10.0,15.0,0.4,0.6,3.0,0.0,4.0,3.15,-0.05,3.2,0.05
+8,Todd Goldstein,Essendon,Ruck,11.0,2.0,9.0,0.18,0.82,4.0,0.0,1.0,-1.0,-1.75,0.75,1.38
+8,Will Setterfield,Essendon,Midfielder,21.0,14.0,7.0,0.67,0.33,6.0,0.0,9.0,-0.69,2.62,-3.31,1.85
+8,Xavier Duursma,Essendon,Midfielder,25.0,9.0,16.0,0.36,0.64,2.0,0.0,6.0,5.55,-0.96,6.5,-3.18
+8,Zach Merrett,Essendon,Midfielder,35.0,17.0,18.0,0.49,0.51,7.0,0.0,3.0,7.23,1.77,5.46,3.27
+8,Zach Reid,Essendon,Key Defender,15.0,12.0,3.0,0.8,0.2,6.0,0.0,7.0,-0.4,1.0,-1.4,-1.7
+9,Andrew McGrath,Essendon,Gen. Defender,35.0,18.0,17.0,0.51,0.49,11.0,0.0,1.0,12.26,8.22,4.04,7.48
+9,Archer Day-Wicks,Essendon,Gen. Forward,6.0,1.0,5.0,0.17,0.83,0.0,1.0,2.0,-2.6,-2.0,-0.6,-1.6
+9,Archie Perkins,Essendon,Gen. Forward,15.0,8.0,7.0,0.53,0.47,3.0,1.0,2.0,0.95,0.67,0.29,0.19
+9,Archie Roberts,Essendon,Gen. Defender,27.0,11.0,16.0,0.41,0.59,7.0,0.0,0.0,2.52,-2.22,4.74,1.7
+9,Ben Hobbs,Essendon,Gen. Forward,15.0,5.0,10.0,0.33,0.67,2.0,0.0,2.0,0.11,-2.17,2.28,-0.11
+9,Ben McKay,Essendon,Key Defender,12.0,6.0,6.0,0.5,0.5,7.0,0.0,1.0,3.2,0.9,2.3,2.6
+9,Dylan Shiel,Essendon,Midfielder,,,,,,,,,,,,
+9,Isaac Kako,Essendon,Gen. Forward,6.0,3.0,3.0,0.5,0.5,1.0,1.0,3.0,-5.17,-2.52,-2.65,-0.96
+9,Jaxon Prior,Essendon,Gen. Defender,23.0,17.0,6.0,0.74,0.26,14.0,0.0,2.0,7.26,5.96,1.3,9.09
+9,Jye Caldwell,Essendon,Midfielder,22.0,8.0,14.0,0.36,0.64,3.0,0.0,4.0,-3.91,-4.46,0.54,-1.0
+9,Kyle Langford,Essendon,Key Forward,11.0,5.0,6.0,0.45,0.55,2.0,0.0,4.0,-0.11,-1.67,1.56,-1.11
+9,Lewis Hayes,Essendon,Gen. Defender,16.0,6.0,10.0,0.38,0.62,3.0,0.0,2.0,0.0,0.0,0.0,0.0
+9,Mason Redman,Essendon,Gen. Defender,32.0,19.0,13.0,0.59,0.41,6.0,1.0,0.0,9.1,1.95,7.16,0.74
+9,Nate Caddy,Essendon,Key Forward,16.0,12.0,4.0,0.75,0.25,7.0,3.0,3.0,5.06,4.35,0.71,3.06
+9,Nic Martin,Essendon,Mid-Forward,38.0,22.0,16.0,0.58,0.42,8.0,0.0,5.0,13.69,8.0,5.69,1.06
+9,Peter Wright,Essendon,Key Forward,11.0,6.0,5.0,0.55,0.45,5.0,0.0,3.0,-0.84,-1.47,0.63,0.37
+9,Saad El-Hawli,Essendon,Midfielder,21.0,15.0,6.0,0.71,0.29,6.0,1.0,0.0,9.89,8.0,1.89,2.89
+9,Sam Durham,Essendon,Midfielder,21.0,8.0,13.0,0.38,0.62,2.0,1.0,8.0,-0.85,-2.05,1.2,-0.95
+9,Todd Goldstein,Essendon,Ruck,19.0,6.0,13.0,0.32,0.68,6.0,0.0,0.0,7.0,2.25,4.75,3.38
+9,Will Setterfield,Essendon,Midfielder,28.0,11.0,17.0,0.39,0.61,9.0,0.0,8.0,6.31,-0.38,6.69,4.85
+9,Xavier Duursma,Essendon,Midfielder,19.0,11.0,8.0,0.58,0.42,5.0,0.0,4.0,-0.45,1.04,-1.5,-0.18
+9,Zach Merrett,Essendon,Midfielder,19.0,16.0,3.0,0.84,0.16,3.0,2.0,2.0,-8.77,0.77,-9.54,-0.73
+9,Zach Reid,Essendon,Key Defender,27.0,18.0,9.0,0.67,0.33,14.0,0.0,1.0,11.6,7.0,4.6,6.3
+10,Andrew McGrath,Essendon,Gen. Defender,25.0,13.0,12.0,0.52,0.48,3.0,0.0,2.0,2.26,3.22,-0.96,-0.52
+10,Archer Day-Wicks,Essendon,Gen. Forward,12.0,4.0,8.0,0.33,0.67,4.0,0.0,2.0,3.4,1.0,2.4,2.4
+10,Archie Perkins,Essendon,Gen. Forward,14.0,4.0,10.0,0.29,0.71,0.0,1.0,2.0,-0.05,-3.33,3.29,-2.81
+10,Archie Roberts,Essendon,Gen. Defender,29.0,10.0,19.0,0.34,0.66,6.0,0.0,2.0,4.52,-3.22,7.74,0.7
+10,Ben Hobbs,Essendon,Gen. Forward,15.0,9.0,6.0,0.6,0.4,4.0,0.0,2.0,0.11,1.83,-1.72,1.89
+10,Ben McKay,Essendon,Key Defender,15.0,8.0,7.0,0.53,0.47,8.0,0.0,2.0,6.2,2.9,3.3,3.6
+10,Dylan Shiel,Essendon,Midfielder,,,,,,,,,,,,
+10,Isaac Kako,Essendon,Gen. Forward,7.0,3.0,4.0,0.43,0.57,1.0,0.0,2.0,-4.17,-2.52,-1.65,-0.96
+10,Jaxon Prior,Essendon,Gen. Defender,17.0,11.0,6.0,0.65,0.35,3.0,0.0,1.0,1.26,-0.04,1.3,-1.91
+10,Jayden Laverde,Essendon,Key Defender,18.0,12.0,6.0,0.67,0.33,4.0,0.0,2.0,2.57,2.07,0.5,-2.93
+10,Jye Caldwell,Essendon,Midfielder,17.0,9.0,8.0,0.53,0.47,5.0,0.0,2.0,-8.91,-3.46,-5.46,1.0
+10,Kyle Langford,Essendon,Key Forward,10.0,7.0,3.0,0.7,0.3,2.0,0.0,2.0,-1.11,0.33,-1.44,-1.11
+10,Mason Redman,Essendon,Gen. Defender,27.0,17.0,10.0,0.63,0.37,4.0,0.0,4.0,4.11,-0.05,4.16,-1.26
+10,Nate Caddy,Essendon,Key Forward,8.0,6.0,2.0,0.75,0.25,7.0,0.0,0.0,-2.94,-1.65,-1.29,3.06
+10,Nic Martin,Essendon,Mid-Forward,25.0,12.0,13.0,0.48,0.52,9.0,1.0,2.0,0.69,-2.0,2.69,2.06
+10,Peter Wright,Essendon,Key Forward,16.0,10.0,6.0,0.62,0.38,8.0,1.0,0.0,4.16,2.53,1.63,3.37
+10,Saad El-Hawli,Essendon,Midfielder,,,,,,,,,,,,
+10,Sam Durham,Essendon,Midfielder,24.0,8.0,16.0,0.33,0.67,2.0,1.0,4.0,2.15,-2.05,4.2,-0.95
+10,Todd Goldstein,Essendon,Ruck,8.0,2.0,6.0,0.25,0.75,4.0,0.0,1.0,-4.0,-1.75,-2.25,1.38
+10,Will Setterfield,Essendon,Midfielder,26.0,12.0,14.0,0.46,0.54,3.0,0.0,6.0,4.31,0.62,3.69,-1.15
+10,Xavier Duursma,Essendon,Midfielder,20.0,13.0,7.0,0.65,0.35,13.0,1.0,2.0,0.55,3.04,-2.5,7.82
+10,Zach Merrett,Essendon,Midfielder,20.0,10.0,10.0,0.5,0.5,2.0,0.0,0.0,-7.77,-5.23,-2.54,-1.73
+10,Zach Reid,Essendon,Key Defender,15.0,11.0,4.0,0.73,0.27,7.0,0.0,5.0,-0.4,0.0,-0.4,-0.7
+11,Andrew McGrath,Essendon,Gen. Defender,31.0,14.0,17.0,0.45,0.55,5.0,0.0,2.0,8.26,4.22,4.04,1.48
+11,Angus Clarke,Essendon,Gen. Defender,16.0,14.0,2.0,0.88,0.12,8.0,3.0,3.0,0.93,4.36,-3.43,2.93
+11,Archie Perkins,Essendon,Gen. Forward,24.0,13.0,11.0,0.54,0.46,2.0,1.0,4.0,9.95,5.67,4.29,-0.81
+11,Archie Roberts,Essendon,Gen. Defender,34.0,20.0,14.0,0.59,0.41,6.0,0.0,0.0,9.52,6.78,2.74,0.7
+11,Ben Hobbs,Essendon,Gen. Forward,,,,,,,,,,,,
+11,Ben McKay,Essendon,Key Defender,8.0,4.0,4.0,0.5,0.5,4.0,0.0,1.0,-0.8,-1.1,0.3,-0.4
+11,Isaac Kako,Essendon,Gen. Forward,15.0,5.0,10.0,0.33,0.67,3.0,0.0,1.0,3.83,-0.52,4.35,1.04
+11,Jade Gresham,Essendon,Gen. Forward,10.0,3.0,7.0,0.3,0.7,0.0,0.0,2.0,-3.11,-3.42,0.32,-2.53
+11,Jaxon Prior,Essendon,Gen. Defender,23.0,20.0,3.0,0.87,0.13,8.0,0.0,2.0,7.26,8.96,-1.7,3.09
+11,Jayden Laverde,Essendon,Key Defender,17.0,10.0,7.0,0.59,0.41,6.0,0.0,1.0,1.57,0.07,1.5,-0.93
+11,Jye Caldwell,Essendon,Midfielder,29.0,9.0,20.0,0.31,0.69,3.0,0.0,11.0,3.09,-3.46,6.54,-1.0
+11,Kyle Langford,Essendon,Key Forward,,,,,,,,,,,,
+11,Mason Redman,Essendon,Gen. Defender,15.0,10.0,5.0,0.67,0.33,6.0,0.0,0.0,-7.9,-7.05,-0.84,0.74
+11,Matt Guelfi,Essendon,Gen. Forward,9.0,2.0,7.0,0.22,0.78,0.0,1.0,5.0,-0.17,-2.58,2.42,-1.75
+11,Nate Caddy,Essendon,Key Forward,11.0,7.0,4.0,0.64,0.36,1.0,1.0,0.0,0.06,-0.65,0.71,-2.94
+11,Nic Martin,Essendon,Mid-Forward,35.0,26.0,9.0,0.74,0.26,9.0,2.0,8.0,10.69,12.0,-1.31,2.06
+11,Peter Wright,Essendon,Key Forward,18.0,14.0,4.0,0.78,0.22,5.0,2.0,4.0,6.16,6.53,-0.37,0.37
+11,Sam Durham,Essendon,Midfielder,26.0,12.0,14.0,0.46,0.54,4.0,1.0,5.0,4.15,1.95,2.2,1.05
+11,Todd Goldstein,Essendon,Ruck,11.0,2.0,9.0,0.18,0.82,0.0,0.0,2.0,-1.0,-1.75,0.75,-2.62
+11,Will Setterfield,Essendon,Midfielder,19.0,8.0,11.0,0.42,0.58,6.0,0.0,8.0,-2.69,-3.38,0.69,1.85
+11,Xavier Duursma,Essendon,Midfielder,27.0,17.0,10.0,0.63,0.37,9.0,0.0,2.0,7.55,7.04,0.5,3.82
+11,Zach Merrett,Essendon,Midfielder,37.0,22.0,15.0,0.59,0.41,8.0,0.0,7.0,9.23,6.77,2.46,4.27
+11,Zach Reid,Essendon,Key Defender,,,,,,,,,,,,
+12,Andrew McGrath,Essendon,Gen. Defender,15.0,4.0,11.0,0.27,0.73,1.0,0.0,1.0,-7.74,-5.78,-1.96,-2.52
+12,Angus Clarke,Essendon,Gen. Defender,11.0,5.0,6.0,0.45,0.55,3.0,0.0,3.0,-4.07,-4.64,0.57,-2.07
+12,Archer Day-Wicks,Essendon,Gen. Forward,9.0,4.0,5.0,0.44,0.56,2.0,0.0,4.0,0.4,1.0,-0.6,0.4
+12,Archie Perkins,Essendon,Gen. Forward,15.0,7.0,8.0,0.47,0.53,1.0,0.0,1.0,0.95,-0.33,1.29,-1.81
+12,Archie Roberts,Essendon,Gen. Defender,20.0,12.0,8.0,0.6,0.4,8.0,0.0,1.0,-4.48,-1.22,-3.26,2.7
+12,Ben Hobbs,Essendon,Gen. Forward,19.0,12.0,7.0,0.63,0.37,3.0,0.0,1.0,4.11,4.83,-0.72,0.89
+12,Elijah Tsatas,Essendon,Midfielder,,,,,,,,,,,,
+12,Isaac Kako,Essendon,Gen. Forward,11.0,6.0,5.0,0.55,0.45,2.0,0.0,2.0,-0.17,0.48,-0.65,0.04
+12,Jade Gresham,Essendon,Gen. Forward,13.0,9.0,4.0,0.69,0.31,7.0,1.0,1.0,-0.11,2.58,-2.68,4.47
+12,Jaxon Prior,Essendon,Gen. Defender,14.0,5.0,9.0,0.36,0.64,2.0,0.0,0.0,-1.74,-6.04,4.3,-2.91
+12,Jayden Laverde,Essendon,Key Defender,15.0,7.0,8.0,0.47,0.53,7.0,0.0,2.0,-0.43,-2.93,2.5,0.07
+12,Jye Caldwell,Essendon,Midfielder,30.0,16.0,14.0,0.53,0.47,4.0,1.0,8.0,4.09,3.54,0.54,0.0
+12,Mason Redman,Essendon,Gen. Defender,26.0,18.0,8.0,0.69,0.31,3.0,0.0,2.0,3.11,0.95,2.16,-2.26
+12,Matt Guelfi,Essendon,Gen. Forward,10.0,3.0,7.0,0.3,0.7,3.0,0.0,4.0,0.83,-1.58,2.42,1.25
+12,Nate Caddy,Essendon,Key Forward,10.0,8.0,2.0,0.8,0.2,5.0,2.0,1.0,-0.94,0.35,-1.29,1.06
+12,Nic Martin,Essendon,Mid-Forward,29.0,16.0,13.0,0.55,0.45,7.0,2.0,2.0,4.69,2.0,2.69,0.06
+12,Peter Wright,Essendon,Key Forward,15.0,10.0,5.0,0.67,0.33,6.0,2.0,2.0,3.16,2.53,0.63,1.37
+12,Sam Durham,Essendon,Midfielder,8.0,2.0,6.0,0.25,0.75,1.0,1.0,2.0,-13.85,-8.05,-5.8,-1.95
+12,Todd Goldstein,Essendon,Ruck,8.0,3.0,5.0,0.38,0.62,1.0,1.0,0.0,-4.0,-0.75,-3.25,-1.62
+12,Will Setterfield,Essendon,Midfielder,23.0,10.0,13.0,0.43,0.57,2.0,1.0,7.0,1.31,-1.38,2.69,-2.15
+12,Xavier Duursma,Essendon,Midfielder,12.0,7.0,5.0,0.58,0.42,4.0,0.0,3.0,-7.45,-2.96,-4.5,-1.18
+12,Zach Merrett,Essendon,Midfielder,28.0,17.0,11.0,0.61,0.39,4.0,0.0,2.0,0.23,1.77,-1.54,0.27
+12,Zak Johnson,Essendon,Gen. Defender,11.0,5.0,6.0,0.45,0.55,1.0,0.0,1.0,-2.11,-2.78,0.67,-2.56
+13,Andrew McGrath,Essendon,Gen. Defender,23.0,10.0,13.0,0.43,0.57,5.0,0.0,2.0,0.26,0.22,0.04,1.48
+13,Angus Clarke,Essendon,Gen. Defender,14.0,10.0,4.0,0.71,0.29,5.0,0.0,1.0,-1.07,0.36,-1.43,-0.07
+13,Archer Day-Wicks,Essendon,Gen. Forward,,,,,,,,,,,,
+13,Archie Perkins,Essendon,Gen. Forward,11.0,5.0,6.0,0.45,0.55,1.0,1.0,2.0,-3.05,-2.33,-0.71,-1.81
+13,Archie Roberts,Essendon,Gen. Defender,14.0,8.0,6.0,0.57,0.43,5.0,0.0,1.0,-10.48,-5.22,-5.26,-0.3
+13,Ben Hobbs,Essendon,Gen. Forward,8.0,5.0,3.0,0.62,0.38,0.0,0.0,5.0,-6.89,-2.17,-4.72,-2.11
+13,Darcy Parish,Essendon,Midfielder,31.0,12.0,19.0,0.39,0.61,2.0,0.0,2.0,1.67,1.67,0.0,-0.33
+13,Isaac Kako,Essendon,Gen. Forward,10.0,1.0,9.0,0.1,0.9,0.0,0.0,3.0,-1.17,-4.52,3.35,-1.96
+13,Jade Gresham,Essendon,Gen. Forward,19.0,9.0,10.0,0.47,0.53,4.0,2.0,4.0,5.9,2.58,3.32,1.47
+13,Jaxon Prior,Essendon,Gen. Defender,13.0,8.0,5.0,0.62,0.38,3.0,0.0,0.0,-2.74,-3.04,0.3,-1.91
+13,Jayden Laverde,Essendon,Key Defender,10.0,9.0,1.0,0.9,0.1,5.0,0.0,3.0,-5.43,-0.93,-4.5,-1.93
+13,Jye Caldwell,Essendon,Midfielder,26.0,16.0,10.0,0.62,0.38,2.0,1.0,8.0,0.09,3.54,-3.46,-2.0
+13,Luamon Lual,Essendon,Midfielder,11.0,5.0,6.0,0.45,0.55,3.0,1.0,5.0,2.42,0.83,1.58,0.08
+13,Matt Guelfi,Essendon,Gen. Forward,9.0,5.0,4.0,0.56,0.44,2.0,1.0,5.0,-0.17,0.42,-0.58,0.25
+13,Nate Caddy,Essendon,Key Forward,10.0,7.0,3.0,0.7,0.3,3.0,0.0,2.0,-0.94,-0.65,-0.29,-0.94
+13,Nic Martin,Essendon,Mid-Forward,32.0,16.0,16.0,0.5,0.5,3.0,1.0,4.0,7.69,2.0,5.69,-3.94
+13,Peter Wright,Essendon,Key Forward,10.0,7.0,3.0,0.7,0.3,4.0,3.0,4.0,-1.84,-0.47,-1.37,-0.63
+13,Sam Durham,Essendon,Midfielder,27.0,13.0,14.0,0.48,0.52,4.0,0.0,3.0,5.15,2.95,2.2,1.05
+13,Todd Goldstein,Essendon,Ruck,9.0,0.0,9.0,0.0,1.0,0.0,0.0,1.0,-3.0,-3.75,0.75,-2.62
+13,Will Setterfield,Essendon,Midfielder,17.0,8.0,9.0,0.47,0.53,3.0,0.0,7.0,-4.69,-3.38,-1.31,-1.15
+13,Xavier Duursma,Essendon,Midfielder,20.0,9.0,11.0,0.45,0.55,2.0,1.0,3.0,0.55,-0.96,1.5,-3.18
+13,Zach Merrett,Essendon,Midfielder,14.0,8.0,6.0,0.57,0.43,2.0,0.0,9.0,-13.77,-7.23,-6.54,-1.73
+13,Zak Johnson,Essendon,Gen. Defender,18.0,14.0,4.0,0.78,0.22,5.0,0.0,3.0,4.89,6.22,-1.33,1.44
+14,Andrew McGrath,Essendon,Gen. Defender,19.0,5.0,14.0,0.26,0.74,3.0,0.0,1.0,-3.74,-4.78,1.04,-0.52
+14,Angus Clarke,Essendon,Gen. Defender,10.0,8.0,2.0,0.8,0.2,4.0,0.0,0.0,-5.07,-1.64,-3.43,-1.07
+14,Archer Day-Wicks,Essendon,Gen. Forward,,,,,,,,,,,,
+14,Archer May,Essendon,Key Forward,7.0,5.0,2.0,0.71,0.29,3.0,0.0,3.0,-1.86,-1.14,-0.71,-0.29
+14,Archie Perkins,Essendon,Gen. Forward,,,,,,,,,,,,
+14,Archie Roberts,Essendon,Gen. Defender,27.0,13.0,14.0,0.48,0.52,5.0,1.0,2.0,2.52,-0.22,2.74,-0.3
+14,Darcy Parish,Essendon,Midfielder,26.0,8.0,18.0,0.31,0.69,1.0,0.0,2.0,-3.33,-2.33,-1.0,-1.33
+14,Isaac Kako,Essendon,Gen. Forward,13.0,3.0,10.0,0.23,0.77,4.0,1.0,2.0,1.83,-2.52,4.35,2.04
+14,Jade Gresham,Essendon,Gen. Forward,9.0,4.0,5.0,0.44,0.56,3.0,1.0,0.0,-4.11,-2.42,-1.68,0.47
+14,Jaxon Prior,Essendon,Gen. Defender,28.0,20.0,8.0,0.71,0.29,7.0,0.0,0.0,12.26,8.96,3.3,2.09
+14,Jayden Laverde,Essendon,Key Defender,19.0,16.0,3.0,0.84,0.16,13.0,0.0,1.0,3.57,6.07,-2.5,6.07
+14,Jye Caldwell,Essendon,Midfielder,28.0,14.0,14.0,0.5,0.5,5.0,0.0,10.0,2.09,1.54,0.54,1.0
+14,Lachlan Blakiston,Essendon,Key Defender,4.0,2.0,2.0,0.5,0.5,1.0,0.0,0.0,-5.91,-2.91,-3.0,-1.46
+14,Luamon Lual,Essendon,Midfielder,9.0,2.0,7.0,0.22,0.78,3.0,0.0,1.0,0.42,-2.17,2.58,0.08
+14,Matt Guelfi,Essendon,Gen. Forward,12.0,7.0,5.0,0.58,0.42,2.0,2.0,3.0,2.83,2.42,0.42,0.25
+14,Nate Caddy,Essendon,Key Forward,9.0,3.0,6.0,0.33,0.67,1.0,0.0,0.0,-1.94,-4.65,2.71,-2.94
+14,Nic Martin,Essendon,Mid-Forward,26.0,11.0,15.0,0.42,0.58,10.0,0.0,2.0,1.69,-3.0,4.69,3.06
+14,Peter Wright,Essendon,Key Forward,11.0,5.0,6.0,0.45,0.55,4.0,2.0,1.0,-0.84,-2.47,1.63,-0.63
+14,Todd Goldstein,Essendon,Ruck,21.0,7.0,14.0,0.33,0.67,4.0,0.0,0.0,9.0,3.25,5.75,1.38
+14,Will Setterfield,Essendon,Midfielder,31.0,17.0,14.0,0.55,0.45,7.0,0.0,10.0,9.31,5.62,3.69,2.85
+14,Xavier Duursma,Essendon,Midfielder,20.0,11.0,9.0,0.55,0.45,6.0,1.0,5.0,0.55,1.04,-0.5,0.82
+14,Zach Merrett,Essendon,Midfielder,29.0,16.0,13.0,0.55,0.45,1.0,0.0,5.0,1.23,0.77,0.46,-2.73
+14,Zak Johnson,Essendon,Gen. Defender,29.0,17.0,12.0,0.59,0.41,8.0,0.0,1.0,15.89,9.22,6.67,4.44
+15,Andrew McGrath,Essendon,Gen. Defender,22.0,8.0,14.0,0.36,0.64,3.0,0.0,0.0,-0.74,-1.78,1.04,-0.52
+15,Angus Clarke,Essendon,Gen. Defender,21.0,11.0,10.0,0.52,0.48,4.0,0.0,0.0,5.93,1.36,4.57,-1.07
+15,Archer May,Essendon,Key Forward,14.0,8.0,6.0,0.57,0.43,6.0,2.0,3.0,5.14,1.86,3.29,2.71
+15,Archie Perkins,Essendon,Gen. Forward,,,,,,,,,,,,
+15,Archie Roberts,Essendon,Gen. Defender,25.0,12.0,13.0,0.48,0.52,8.0,0.0,2.0,0.52,-1.22,1.74,2.7
+15,Ben Hobbs,Essendon,Gen. Forward,16.0,6.0,10.0,0.38,0.62,1.0,0.0,5.0,1.11,-1.17,2.28,-1.11
+15,Darcy Parish,Essendon,Midfielder,31.0,11.0,20.0,0.35,0.65,4.0,0.0,3.0,1.67,0.67,1.0,1.67
+15,Isaac Kako,Essendon,Gen. Forward,12.0,7.0,5.0,0.58,0.42,2.0,1.0,2.0,0.83,1.48,-0.65,0.04
+15,Jade Gresham,Essendon,Gen. Forward,9.0,7.0,2.0,0.78,0.22,3.0,1.0,3.0,-4.11,0.58,-4.68,0.47
+15,Jaxon Prior,Essendon,Gen. Defender,15.0,11.0,4.0,0.73,0.27,6.0,0.0,2.0,-0.74,-0.04,-0.7,1.09
+15,Jayden Laverde,Essendon,Key Defender,18.0,12.0,6.0,0.67,0.33,9.0,0.0,3.0,2.57,2.07,0.5,2.07
+15,Jye Caldwell,Essendon,Midfielder,32.0,17.0,15.0,0.53,0.47,2.0,0.0,5.0,6.09,4.54,1.54,-2.0
+15,Lachlan Blakiston,Essendon,Key Defender,11.0,3.0,8.0,0.27,0.73,0.0,0.0,2.0,1.09,-1.91,3.0,-2.46
+15,Luamon Lual,Essendon,Midfielder,9.0,5.0,4.0,0.56,0.44,2.0,2.0,2.0,0.42,0.83,-0.42,-0.92
+15,Matt Guelfi,Essendon,Gen. Forward,7.0,3.0,4.0,0.43,0.57,0.0,0.0,3.0,-2.17,-1.58,-0.58,-1.75
+15,Nate Caddy,Essendon,Key Forward,15.0,9.0,6.0,0.6,0.4,8.0,1.0,2.0,4.06,1.35,2.71,4.06
+15,Nic Martin,Essendon,Mid-Forward,21.0,14.0,7.0,0.67,0.33,7.0,0.0,2.0,-3.31,0.0,-3.31,0.06
+15,Peter Wright,Essendon,Key Forward,8.0,5.0,3.0,0.62,0.38,5.0,1.0,2.0,-3.84,-2.47,-1.37,0.37
+15,Vigo Visentini,Essendon,Ruck,15.0,5.0,10.0,0.33,0.67,3.0,0.0,2.0,2.5,1.0,1.5,1.0
+15,Will Setterfield,Essendon,Midfielder,17.0,11.0,6.0,0.65,0.35,4.0,0.0,5.0,-4.69,-0.38,-4.31,-0.15
+15,Xavier Duursma,Essendon,Midfielder,,,,,,,,,,,,
+15,Zach Merrett,Essendon,Midfielder,17.0,6.0,11.0,0.35,0.65,1.0,0.0,3.0,-10.77,-9.23,-1.54,-2.73
+15,Zak Johnson,Essendon,Gen. Defender,9.0,7.0,2.0,0.78,0.22,2.0,0.0,1.0,-4.11,-0.78,-3.33,-1.56
+17,Andrew McGrath,Essendon,Gen. Defender,12.0,4.0,8.0,0.33,0.67,0.0,0.0,3.0,-10.74,-5.78,-4.96,-3.52
+17,Angus Clarke,Essendon,Gen. Defender,13.0,10.0,3.0,0.77,0.23,5.0,1.0,2.0,-2.07,0.36,-2.43,-0.07
+17,Archer May,Essendon,Key Forward,8.0,7.0,1.0,0.88,0.12,3.0,3.0,3.0,-0.86,0.86,-1.71,-0.29
+17,Archie Perkins,Essendon,Gen. Forward,9.0,3.0,6.0,0.33,0.67,0.0,0.0,3.0,-5.05,-4.33,-0.71,-2.81
+17,Archie Roberts,Essendon,Gen. Defender,20.0,11.0,9.0,0.55,0.45,2.0,0.0,5.0,-4.48,-2.22,-2.26,-3.3
+17,Ben Hobbs,Essendon,Gen. Forward,19.0,8.0,11.0,0.42,0.58,4.0,1.0,4.0,4.11,0.83,3.28,1.89
+17,Isaac Kako,Essendon,Gen. Forward,17.0,8.0,9.0,0.47,0.53,3.0,1.0,5.0,5.83,2.48,3.35,1.04
+17,Jade Gresham,Essendon,Gen. Forward,,,,,,,,,,,,
+17,Jaxon Prior,Essendon,Gen. Defender,6.0,4.0,2.0,0.67,0.33,1.0,0.0,0.0,-9.74,-7.04,-2.7,-3.91
+17,Jayden Laverde,Essendon,Key Defender,9.0,8.0,1.0,0.89,0.11,5.0,0.0,0.0,-6.43,-1.93,-4.5,-1.93
+17,Jordan Ridley,Essendon,Gen. Defender,18.0,14.0,4.0,0.78,0.22,8.0,0.0,1.0,1.0,1.9,-0.9,2.5
+17,Jye Caldwell,Essendon,Midfielder,15.0,9.0,6.0,0.6,0.4,4.0,1.0,7.0,-10.91,-3.46,-7.46,0.0
+17,Lachlan Blakiston,Essendon,Key Defender,11.0,4.0,7.0,0.36,0.64,3.0,0.0,0.0,1.09,-0.91,2.0,0.54
+17,Luamon Lual,Essendon,Midfielder,10.0,5.0,5.0,0.5,0.5,4.0,0.0,1.0,1.42,0.83,0.58,1.08
+17,Nate Caddy,Essendon,Key Forward,12.0,10.0,2.0,0.83,0.17,5.0,3.0,1.0,1.06,2.35,-1.29,1.06
+17,Nic Martin,Essendon,Mid-Forward,22.0,14.0,8.0,0.64,0.36,4.0,0.0,1.0,-2.31,0.0,-2.31,-2.94
+17,Peter Wright,Essendon,Key Forward,9.0,5.0,4.0,0.56,0.44,1.0,1.0,3.0,-2.84,-2.47,-0.37,-3.63
+17,Sam Durham,Essendon,Midfielder,27.0,14.0,13.0,0.52,0.48,3.0,0.0,4.0,5.15,3.95,1.2,0.05
+17,Todd Goldstein,Essendon,Ruck,9.0,3.0,6.0,0.33,0.67,2.0,0.0,3.0,-3.0,-0.75,-2.25,-0.62
+17,Will Setterfield,Essendon,Midfielder,22.0,8.0,14.0,0.36,0.64,2.0,0.0,8.0,0.31,-3.38,3.69,-2.15
+17,Xavier Duursma,Essendon,Midfielder,16.0,10.0,6.0,0.62,0.38,5.0,0.0,4.0,-3.45,0.04,-3.5,-0.18
+17,Zach Merrett,Essendon,Midfielder,40.0,24.0,16.0,0.6,0.4,6.0,0.0,5.0,12.23,8.77,3.46,2.27
+17,Zak Johnson,Essendon,Gen. Defender,16.0,7.0,9.0,0.44,0.56,4.0,0.0,3.0,2.89,-0.78,3.67,0.44
+18,Andrew McGrath,Essendon,Gen. Defender,22.0,10.0,12.0,0.45,0.55,2.0,0.0,3.0,-0.74,0.22,-0.96,-1.52
+18,Angus Clarke,Essendon,Gen. Defender,6.0,2.0,4.0,0.33,0.67,4.0,0.0,1.0,-9.07,-7.64,-1.43,-1.07
+18,Archer May,Essendon,Key Forward,11.0,7.0,4.0,0.64,0.36,5.0,1.0,3.0,2.14,0.86,1.29,1.71
+18,Archie Roberts,Essendon,Gen. Defender,31.0,18.0,13.0,0.58,0.42,7.0,0.0,4.0,6.52,4.78,1.74,1.7
+18,Ben Hobbs,Essendon,Gen. Forward,18.0,11.0,7.0,0.61,0.39,4.0,0.0,6.0,3.11,3.83,-0.72,1.89
+18,Elijah Tsatas,Essendon,Midfielder,19.0,10.0,9.0,0.53,0.47,2.0,1.0,2.0,2.2,2.0,0.2,1.0
+18,Isaac Kako,Essendon,Gen. Forward,12.0,6.0,6.0,0.5,0.5,3.0,0.0,2.0,0.83,0.48,0.35,1.04
+18,Jaxon Prior,Essendon,Gen. Defender,14.0,10.0,4.0,0.71,0.29,5.0,0.0,2.0,-1.74,-1.04,-0.7,0.09
+18,Jayden Laverde,Essendon,Key Defender,20.0,12.0,8.0,0.6,0.4,9.0,0.0,3.0,4.57,2.07,2.5,2.07
+18,Jordan Ridley,Essendon,Gen. Defender,20.0,14.0,6.0,0.7,0.3,10.0,0.0,0.0,3.0,1.9,1.1,4.5
+18,Lachlan Blakiston,Essendon,Key Defender,10.0,9.0,1.0,0.9,0.1,5.0,0.0,2.0,0.09,4.09,-4.0,2.54
+18,Luamon Lual,Essendon,Midfielder,7.0,4.0,3.0,0.57,0.43,2.0,0.0,2.0,-1.58,-0.17,-1.42,-0.92
+18,Mason Redman,Essendon,Gen. Defender,17.0,13.0,4.0,0.76,0.24,3.0,0.0,1.0,-5.9,-4.05,-1.84,-2.26
+18,Nate Caddy,Essendon,Key Forward,4.0,4.0,0.0,1.0,0.0,1.0,1.0,0.0,-6.94,-3.65,-3.29,-2.94
+18,Nic Martin,Essendon,Mid-Forward,,,,,,,,,,,,
+18,Oskar Smartt,Essendon,Gen. Forward,6.0,6.0,0.0,1.0,0.0,2.0,0.0,3.0,0.5,1.75,-1.25,0.25
+18,Peter Wright,Essendon,Key Forward,7.0,5.0,2.0,0.71,0.29,4.0,0.0,1.0,-4.84,-2.47,-2.37,-0.63
+18,Sam Durham,Essendon,Midfielder,22.0,13.0,9.0,0.59,0.41,0.0,1.0,2.0,0.15,2.95,-2.8,-2.95
+18,Todd Goldstein,Essendon,Ruck,16.0,9.0,7.0,0.56,0.44,4.0,0.0,1.0,4.0,5.25,-1.25,1.38
+18,Will Setterfield,Essendon,Midfielder,18.0,8.0,10.0,0.44,0.56,2.0,0.0,7.0,-3.69,-3.38,-0.31,-2.15
+18,Xavier Duursma,Essendon,Midfielder,22.0,8.0,14.0,0.36,0.64,6.0,0.0,6.0,2.55,-1.96,4.5,0.82
+18,Zach Merrett,Essendon,Midfielder,31.0,18.0,13.0,0.58,0.42,3.0,0.0,3.0,3.23,2.77,0.46,-0.73
+18,Zak Johnson,Essendon,Gen. Defender,,,,,,,,,,,,
+19,Andrew McGrath,Essendon,Gen. Defender,20.0,7.0,13.0,0.35,0.65,1.0,0.0,1.0,-2.74,-2.78,0.04,-2.52
+19,Angus Clarke,Essendon,Gen. Defender,17.0,10.0,7.0,0.59,0.41,3.0,0.0,1.0,1.93,0.36,1.57,-2.07
+19,Archer May,Essendon,Key Forward,7.0,4.0,3.0,0.57,0.43,1.0,0.0,5.0,-1.86,-2.14,0.29,-2.29
+19,Archie Perkins,Essendon,Gen. Forward,16.0,9.0,7.0,0.56,0.44,4.0,1.0,4.0,1.95,1.67,0.29,1.19
+19,Archie Roberts,Essendon,Gen. Defender,17.0,9.0,8.0,0.53,0.47,5.0,0.0,2.0,-7.48,-4.22,-3.26,-0.3
+19,Dylan Shiel,Essendon,Midfielder,21.0,14.0,7.0,0.67,0.33,3.0,0.0,1.0,-0.14,3.93,-4.07,-0.79
+19,Isaac Kako,Essendon,Gen. Forward,8.0,4.0,4.0,0.5,0.5,1.0,1.0,1.0,-3.17,-1.52,-1.65,-0.96
+19,Jade Gresham,Essendon,Gen. Forward,17.0,10.0,7.0,0.59,0.41,1.0,0.0,4.0,3.89,3.58,0.32,-1.53
+19,Jaxon Prior,Essendon,Gen. Defender,10.0,10.0,0.0,1.0,0.0,5.0,0.0,2.0,-5.74,-1.04,-4.7,0.09
+19,Jayden Laverde,Essendon,Key Defender,13.0,5.0,8.0,0.38,0.62,4.0,0.0,3.0,-2.43,-4.93,2.5,-2.93
+19,Jordan Ridley,Essendon,Gen. Defender,23.0,16.0,7.0,0.7,0.3,8.0,0.0,1.0,6.0,3.9,2.1,2.5
+19,Lachlan Blakiston,Essendon,Key Defender,15.0,9.0,6.0,0.6,0.4,6.0,0.0,2.0,5.09,4.09,1.0,3.54
+19,Liam McMahon,Essendon,Key Forward,5.0,4.0,1.0,0.8,0.2,1.0,2.0,1.0,-1.57,-0.57,-1.0,-1.29
+19,Luamon Lual,Essendon,Midfielder,4.0,2.0,2.0,0.5,0.5,3.0,0.0,1.0,-4.58,-2.17,-2.42,0.08
+19,Mason Redman,Essendon,Gen. Defender,22.0,18.0,4.0,0.82,0.18,9.0,0.0,1.0,-0.89,0.95,-1.84,3.74
+19,Matt Guelfi,Essendon,Gen. Forward,14.0,6.0,8.0,0.43,0.57,3.0,0.0,2.0,4.83,1.42,3.42,1.25
+19,Oskar Smartt,Essendon,Gen. Forward,9.0,8.0,1.0,0.89,0.11,3.0,0.0,2.0,3.5,3.75,-0.25,1.25
+19,Peter Wright,Essendon,Key Forward,11.0,9.0,2.0,0.82,0.18,7.0,2.0,1.0,-0.84,1.53,-2.37,2.37
+19,Sam Durham,Essendon,Midfielder,11.0,6.0,5.0,0.55,0.45,0.0,0.0,6.0,-10.85,-4.05,-6.8,-2.95
+19,Vigo Visentini,Essendon,Ruck,,,,,,,,,,,,
+19,Xavier Duursma,Essendon,Midfielder,20.0,9.0,11.0,0.45,0.55,2.0,1.0,2.0,0.55,-0.96,1.5,-3.18
+19,Zach Merrett,Essendon,Midfielder,29.0,14.0,15.0,0.48,0.52,3.0,0.0,4.0,1.23,-1.23,2.46,-0.73
+19,Zak Johnson,Essendon,Gen. Defender,,,,,,,,,,,,
+20,Andrew McGrath,Essendon,Gen. Defender,22.0,6.0,16.0,0.27,0.73,1.0,0.0,4.0,-0.74,-3.78,3.04,-2.52
+20,Angus Clarke,Essendon,Gen. Defender,9.0,7.0,2.0,0.78,0.22,2.0,0.0,3.0,-6.07,-2.64,-3.43,-3.07
+20,Archie Perkins,Essendon,Gen. Forward,8.0,5.0,3.0,0.62,0.38,3.0,1.0,3.0,-6.05,-2.33,-3.71,0.19
+20,Archie Roberts,Essendon,Gen. Defender,26.0,12.0,14.0,0.46,0.54,2.0,0.0,3.0,1.52,-1.22,2.74,-3.3
+20,Dylan Shiel,Essendon,Midfielder,29.0,9.0,20.0,0.31,0.69,5.0,0.0,4.0,7.86,-1.07,8.93,1.21
+20,Isaac Kako,Essendon,Gen. Forward,7.0,4.0,3.0,0.57,0.43,1.0,1.0,5.0,-4.17,-1.52,-2.65,-0.96
+20,Jade Gresham,Essendon,Gen. Forward,12.0,4.0,8.0,0.33,0.67,2.0,0.0,3.0,-1.11,-2.42,1.32,-0.53
+20,Jaxon Prior,Essendon,Gen. Defender,17.0,8.0,9.0,0.47,0.53,4.0,0.0,1.0,1.26,-3.04,4.3,-0.91
+20,Jayden Laverde,Essendon,Key Defender,16.0,10.0,6.0,0.62,0.38,6.0,0.0,3.0,0.57,0.07,0.5,-0.93
+20,Jordan Ridley,Essendon,Gen. Defender,,,,,,,,,,,,
+20,Lachlan Blakiston,Essendon,Key Defender,10.0,3.0,7.0,0.3,0.7,2.0,0.0,1.0,0.09,-1.91,2.0,-0.46
+20,Liam McMahon,Essendon,Key Forward,8.0,7.0,1.0,0.88,0.12,4.0,2.0,0.0,1.43,2.43,-1.0,1.71
+20,Luamon Lual,Essendon,Midfielder,11.0,4.0,7.0,0.36,0.64,1.0,0.0,2.0,2.42,-0.17,2.58,-1.92
+20,Mason Redman,Essendon,Gen. Defender,23.0,19.0,4.0,0.83,0.17,6.0,0.0,3.0,0.11,1.95,-1.84,0.74
+20,Matt Guelfi,Essendon,Gen. Forward,11.0,6.0,5.0,0.55,0.45,2.0,0.0,3.0,1.83,1.42,0.42,0.25
+20,Nate Caddy,Essendon,Key Forward,12.0,9.0,3.0,0.75,0.25,4.0,1.0,0.0,1.06,1.35,-0.29,0.06
+20,Oskar Smartt,Essendon,Gen. Forward,,,,,,,,,,,,
+20,Peter Wright,Essendon,Key Forward,13.0,5.0,8.0,0.38,0.62,4.0,2.0,2.0,1.16,-2.47,3.63,-0.63
+20,Saad El-Hawli,Essendon,Midfielder,13.0,7.0,6.0,0.54,0.46,4.0,0.0,4.0,1.89,0.0,1.89,0.89
+20,Sam Durham,Essendon,Midfielder,27.0,13.0,14.0,0.48,0.52,4.0,0.0,1.0,5.15,2.95,2.2,1.05
+20,Todd Goldstein,Essendon,Ruck,8.0,1.0,7.0,0.12,0.88,1.0,0.0,1.0,-4.0,-2.75,-1.25,-1.62
+20,Zach Merrett,Essendon,Midfielder,30.0,14.0,16.0,0.47,0.53,4.0,0.0,7.0,2.23,-1.23,3.46,0.27
+20,Zak Johnson,Essendon,Gen. Defender,9.0,5.0,4.0,0.56,0.44,3.0,0.0,1.0,-4.11,-2.78,-1.33,-0.56
+21,Andrew McGrath,Essendon,Gen. Defender,26.0,13.0,13.0,0.5,0.5,2.0,0.0,5.0,3.26,3.22,0.04,-1.52
+21,Angus Clarke,Essendon,Gen. Defender,11.0,6.0,5.0,0.55,0.45,1.0,1.0,0.0,-4.07,-3.64,-0.43,-4.07
+21,Archer May,Essendon,Key Forward,8.0,6.0,2.0,0.75,0.25,1.0,1.0,0.0,-0.86,-0.14,-0.71,-2.29
+21,Archie Perkins,Essendon,Gen. Forward,10.0,4.0,6.0,0.4,0.6,1.0,1.0,2.0,-4.05,-3.33,-0.71,-1.81
+21,Archie Roberts,Essendon,Gen. Defender,21.0,12.0,9.0,0.57,0.43,2.0,0.0,1.0,-3.48,-1.22,-2.26,-3.3
+21,Ben Hobbs,Essendon,Gen. Forward,10.0,7.0,3.0,0.7,0.3,2.0,0.0,2.0,-4.89,-0.17,-4.72,-0.11
+21,Dylan Shiel,Essendon,Midfielder,11.0,7.0,4.0,0.64,0.36,0.0,0.0,5.0,-10.14,-3.07,-7.07,-3.79
+21,Isaac Kako,Essendon,Gen. Forward,7.0,5.0,2.0,0.71,0.29,0.0,1.0,1.0,-4.17,-0.52,-3.65,-1.96
+21,Jade Gresham,Essendon,Gen. Forward,20.0,11.0,9.0,0.55,0.45,2.0,0.0,4.0,6.9,4.58,2.32,-0.53
+21,Jaxon Prior,Essendon,Gen. Defender,19.0,13.0,6.0,0.68,0.32,4.0,0.0,3.0,3.26,1.96,1.3,-0.91
+21,Jayden Laverde,Essendon,Key Defender,22.0,9.0,13.0,0.41,0.59,4.0,0.0,2.0,6.57,-0.93,7.5,-2.93
+21,Jayden Nguyen,Essendon,Gen. Defender,5.0,2.0,3.0,0.4,0.6,0.0,0.0,3.0,-2.6,-1.8,-0.8,-2.2
+21,Lachlan Blakiston,Essendon,Key Defender,11.0,5.0,6.0,0.45,0.55,2.0,1.0,1.0,1.09,0.09,1.0,-0.46
+21,Liam McMahon,Essendon,Key Forward,,,,,,,,,,,,
+21,Luamon Lual,Essendon,Midfielder,10.0,4.0,6.0,0.4,0.6,3.0,0.0,3.0,1.42,-0.17,1.58,0.08
+21,Mason Redman,Essendon,Gen. Defender,20.0,19.0,1.0,0.95,0.05,4.0,1.0,1.0,-2.89,1.95,-4.84,-1.26
+21,Matt Guelfi,Essendon,Gen. Forward,3.0,3.0,0.0,1.0,0.0,0.0,1.0,3.0,-6.17,-1.58,-4.58,-1.75
+21,Oskar Smartt,Essendon,Gen. Forward,,,,,,,,,,,,
+21,Peter Wright,Essendon,Key Forward,14.0,8.0,6.0,0.57,0.43,2.0,0.0,3.0,2.16,0.53,1.63,-2.63
+21,Sam Durham,Essendon,Midfielder,22.0,15.0,7.0,0.68,0.32,5.0,0.0,1.0,0.15,4.95,-4.8,2.05
+21,Todd Goldstein,Essendon,Ruck,7.0,2.0,5.0,0.29,0.71,1.0,0.0,0.0,-5.0,-1.75,-3.25,-1.62
+21,Xavier Duursma,Essendon,Midfielder,21.0,10.0,11.0,0.48,0.52,2.0,0.0,4.0,1.55,0.04,1.5,-3.18
+21,Zach Merrett,Essendon,Midfielder,19.0,12.0,7.0,0.63,0.37,2.0,0.0,4.0,-8.77,-3.23,-5.54,-1.73
+22,Andrew McGrath,Essendon,Gen. Defender,23.0,8.0,15.0,0.35,0.65,7.0,1.0,5.0,0.26,-1.78,2.04,3.48
+22,Angus Clarke,Essendon,Gen. Defender,17.0,10.0,7.0,0.59,0.41,7.0,0.0,1.0,1.93,0.36,1.57,1.93
+22,Archer May,Essendon,Key Forward,7.0,6.0,1.0,0.86,0.14,4.0,0.0,2.0,-1.86,-0.14,-1.71,0.71
+22,Archie Perkins,Essendon,Gen. Forward,15.0,5.0,10.0,0.33,0.67,4.0,0.0,0.0,0.95,-2.33,3.29,1.19
+22,Archie Roberts,Essendon,Gen. Defender,33.0,18.0,15.0,0.55,0.45,7.0,0.0,1.0,8.52,4.78,3.74,1.7
+22,Ben Hobbs,Essendon,Gen. Forward,10.0,5.0,5.0,0.5,0.5,3.0,0.0,2.0,-4.89,-2.17,-2.72,0.89
+22,Dylan Shiel,Essendon,Midfielder,23.0,13.0,10.0,0.57,0.43,6.0,0.0,2.0,1.86,2.93,-1.07,2.21
+22,Isaac Kako,Essendon,Gen. Forward,11.0,6.0,5.0,0.55,0.45,1.0,0.0,5.0,-0.17,0.48,-0.65,-0.96
+22,Jade Gresham,Essendon,Gen. Forward,19.0,12.0,7.0,0.63,0.37,4.0,1.0,5.0,5.9,5.58,0.32,1.47
+22,Jaxon Prior,Essendon,Gen. Defender,14.0,11.0,3.0,0.79,0.21,5.0,0.0,2.0,-1.74,-0.04,-1.7,0.09
+22,Jayden Laverde,Essendon,Key Defender,15.0,11.0,4.0,0.73,0.27,9.0,0.0,2.0,-0.43,1.07,-1.5,2.07
+22,Jayden Nguyen,Essendon,Gen. Defender,5.0,2.0,3.0,0.4,0.6,1.0,0.0,7.0,-2.6,-1.8,-0.8,-1.2
+22,Jye Menzie,Essendon,Gen. Forward,,,,,,,,,,,,
+22,Lachlan Blakiston,Essendon,Key Defender,6.0,4.0,2.0,0.67,0.33,0.0,0.0,1.0,-3.91,-0.91,-3.0,-2.46
+22,Liam McMahon,Essendon,Key Forward,11.0,8.0,3.0,0.73,0.27,3.0,4.0,0.0,4.43,3.43,1.0,0.71
+22,Luamon Lual,Essendon,Midfielder,,,,,,,,,,,,
+22,Mason Redman,Essendon,Gen. Defender,24.0,22.0,2.0,0.92,0.08,7.0,0.0,2.0,1.11,4.95,-3.84,1.74
+22,Matt Guelfi,Essendon,Gen. Forward,9.0,5.0,4.0,0.56,0.44,3.0,1.0,3.0,-0.17,0.42,-0.58,1.25
+22,Peter Wright,Essendon,Key Forward,10.0,6.0,4.0,0.6,0.4,4.0,1.0,2.0,-1.84,-1.47,-0.37,-0.63
+22,Sam Durham,Essendon,Midfielder,18.0,8.0,10.0,0.44,0.56,2.0,0.0,7.0,-3.85,-2.05,-1.8,-0.95
+22,Todd Goldstein,Essendon,Ruck,17.0,5.0,12.0,0.29,0.71,3.0,0.0,1.0,5.0,1.25,3.75,0.38
+22,Xavier Duursma,Essendon,Midfielder,14.0,10.0,4.0,0.71,0.29,8.0,1.0,0.0,-5.45,0.04,-5.5,2.82
+22,Zach Merrett,Essendon,Midfielder,27.0,18.0,9.0,0.67,0.33,3.0,1.0,10.0,-0.77,2.77,-3.54,-0.73
+23,Andrew McGrath,Essendon,Gen. Defender,35.0,14.0,21.0,0.4,0.6,4.0,0.0,9.0,12.26,4.22,8.04,0.48
+23,Angus Clarke,Essendon,Gen. Defender,18.0,15.0,3.0,0.83,0.17,10.0,0.0,4.0,2.93,5.36,-2.43,4.93
+23,Archie Perkins,Essendon,Gen. Forward,13.0,8.0,5.0,0.62,0.38,4.0,2.0,4.0,-1.05,0.67,-1.71,1.19
+23,Archie Roberts,Essendon,Gen. Defender,27.0,19.0,8.0,0.7,0.3,9.0,0.0,0.0,2.52,5.78,-3.26,3.7
+23,Ben Hobbs,Essendon,Gen. Forward,14.0,8.0,6.0,0.57,0.43,3.0,0.0,7.0,-0.89,0.83,-1.72,0.89
+23,Isaac Kako,Essendon,Gen. Forward,12.0,6.0,6.0,0.5,0.5,0.0,0.0,4.0,0.83,0.48,0.35,-1.96
+23,Jade Gresham,Essendon,Gen. Forward,12.0,7.0,5.0,0.58,0.42,2.0,0.0,4.0,-1.11,0.58,-1.68,-0.53
+23,Jaxon Prior,Essendon,Gen. Defender,20.0,14.0,6.0,0.7,0.3,7.0,0.0,2.0,4.26,2.96,1.3,2.09
+23,Jayden Laverde,Essendon,Key Defender,,,,,,,,,,,,
+23,Jayden Nguyen,Essendon,Gen. Defender,10.0,5.0,5.0,0.5,0.5,5.0,0.0,0.0,2.4,1.2,1.2,2.8
+23,Jye Menzie,Essendon,Gen. Forward,11.0,5.0,6.0,0.45,0.55,4.0,1.0,4.0,3.5,0.2,3.3,0.8
+23,Kyle Langford,Essendon,Key Forward,15.0,12.0,3.0,0.8,0.2,6.0,2.0,1.0,3.89,5.33,-1.44,2.89
+23,Lachlan Blakiston,Essendon,Key Defender,14.0,7.0,7.0,0.5,0.5,4.0,0.0,1.0,4.09,2.09,2.0,1.54
+23,Liam McMahon,Essendon,Key Forward,8.0,5.0,3.0,0.62,0.38,3.0,3.0,0.0,1.43,0.43,1.0,0.71
+23,Luamon Lual,Essendon,Midfielder,10.0,8.0,2.0,0.8,0.2,6.0,1.0,3.0,1.42,3.83,-2.42,3.08
+23,Mason Redman,Essendon,Gen. Defender,36.0,29.0,7.0,0.81,0.19,12.0,0.0,1.0,13.1,11.95,1.16,6.74
+23,Matt Guelfi,Essendon,Gen. Forward,8.0,3.0,5.0,0.38,0.62,2.0,0.0,1.0,-1.17,-1.58,0.42,0.25
+23,Peter Wright,Essendon,Key Forward,10.0,5.0,5.0,0.5,0.5,3.0,1.0,3.0,-1.84,-2.47,0.63,-1.63
+23,Rhys Unwin,Essendon,Gen. Forward,9.0,6.0,3.0,0.67,0.33,2.0,1.0,2.0,2.33,1.0,1.33,-0.33
+23,Saad El-Hawli,Essendon,Midfielder,,,,,,,,,,,,
+23,Sam Durham,Essendon,Midfielder,28.0,13.0,15.0,0.46,0.54,3.0,0.0,7.0,6.15,2.95,3.2,0.05
+23,Todd Goldstein,Essendon,Ruck,14.0,4.0,10.0,0.29,0.71,3.0,0.0,4.0,2.0,0.25,1.75,0.38
+23,Xavier Duursma,Essendon,Midfielder,24.0,15.0,9.0,0.62,0.38,9.0,0.0,4.0,4.55,5.04,-0.5,3.82

@@ -1,0 +1,484 @@
+Round,Player,Team,Position,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,DispDiff,KickDiff,HbDiff,MarkDiff
+1,Blake Hardwick,Hawthorn,Gen. Defender,13.0,8.0,5.0,0.62,0.38,5.0,2.0,2.0,-1.73,-2.0,0.27,0.46
+1,Cam Mackenzie,Hawthorn,Midfielder,21.0,9.0,12.0,0.43,0.57,2.0,0.0,3.0,4.5,0.67,3.83,0.0
+1,Connor Macdonald,Hawthorn,Gen. Forward,23.0,13.0,10.0,0.57,0.43,8.0,1.0,1.0,8.12,3.96,4.17,4.0
+1,Conor Nash,Hawthorn,Midfielder,22.0,9.0,13.0,0.41,0.59,4.0,0.0,10.0,3.64,0.18,3.46,1.96
+1,Dylan Moore,Hawthorn,Gen. Forward,21.0,17.0,4.0,0.81,0.19,6.0,3.0,0.0,1.58,6.46,-4.88,1.73
+1,Finn Maginness,Hawthorn,Gen. Forward,15.0,6.0,9.0,0.4,0.6,6.0,1.0,1.0,1.69,-0.08,1.77,3.23
+1,Harry Morrison,Hawthorn,Midfielder,14.0,10.0,4.0,0.71,0.29,9.0,0.0,3.0,-3.4,0.55,-3.95,4.45
+1,Jack Ginnivan,Hawthorn,Gen. Forward,15.0,10.0,5.0,0.67,0.33,4.0,2.0,1.0,-3.64,-0.44,-3.2,0.44
+1,Jack Scrimshaw,Hawthorn,Gen. Defender,,,,,,,,,,,,
+1,Jai Newcombe,Hawthorn,Midfielder,25.0,20.0,5.0,0.8,0.2,3.0,0.0,3.0,2.08,9.81,-7.73,-0.5
+1,James Sicily,Hawthorn,Gen. Defender,24.0,18.0,6.0,0.75,0.25,7.0,0.0,0.0,4.48,4.74,-0.26,0.35
+1,Jarman Impey,Hawthorn,Gen. Defender,11.0,9.0,2.0,0.82,0.18,4.0,0.0,5.0,-8.29,-3.75,-4.54,-0.96
+1,Josh Battle,Hawthorn,Key Defender,19.0,14.0,5.0,0.74,0.26,6.0,0.0,3.0,0.54,2.62,-2.08,0.77
+1,Josh Ward,Hawthorn,Midfielder,22.0,16.0,6.0,0.73,0.27,5.0,0.0,3.0,1.44,5.56,-4.12,1.84
+1,Josh Weddle,Hawthorn,Gen. Defender,6.0,3.0,3.0,0.5,0.5,2.0,1.0,4.0,-10.11,-6.06,-4.06,-2.94
+1,Karl Amon,Hawthorn,Gen. Defender,28.0,21.0,7.0,0.75,0.25,10.0,0.0,2.0,4.0,3.96,0.04,5.36
+1,Lloyd Meek,Hawthorn,Ruck,11.0,3.0,8.0,0.27,0.73,1.0,0.0,2.0,-2.52,-2.24,-0.28,-1.72
+1,Mabior Chol,Hawthorn,Key Forward,8.0,8.0,0.0,1.0,0.0,6.0,2.0,1.0,-2.0,0.88,-2.88,2.08
+1,Massimo D'Ambrosio,Hawthorn,Midfielder,9.0,6.0,3.0,0.67,0.33,3.0,1.0,2.0,-9.15,-5.85,-3.31,-1.08
+1,Nick Watson,Hawthorn,Gen. Forward,13.0,8.0,5.0,0.62,0.38,3.0,3.0,2.0,2.12,2.2,-0.08,0.96
+1,Sam Frost,Hawthorn,Key Defender,,,,,,,,,,,,
+1,Tom Barrass,Hawthorn,Key Defender,12.0,8.0,4.0,0.67,0.33,3.0,0.0,3.0,2.32,2.32,0.0,-0.76
+1,Will Day,Hawthorn,Midfielder,16.0,9.0,7.0,0.56,0.44,5.0,1.0,4.0,-5.0,-1.5,-3.5,2.0
+2,Blake Hardwick,Hawthorn,Gen. Defender,13.0,10.0,3.0,0.77,0.23,5.0,2.0,3.0,-1.73,0.0,-1.73,0.46
+2,Cam Mackenzie,Hawthorn,Midfielder,19.0,13.0,6.0,0.68,0.32,6.0,0.0,3.0,2.5,4.67,-2.17,4.0
+2,Changkuoth Jiath,Hawthorn,Gen. Defender,20.0,12.0,8.0,0.6,0.4,3.0,0.0,3.0,6.2,4.35,1.85,0.3
+2,Connor Macdonald,Hawthorn,Gen. Forward,,,,,,,,,,,,
+2,Conor Nash,Hawthorn,Midfielder,16.0,9.0,7.0,0.56,0.44,2.0,0.0,7.0,-2.36,0.18,-2.54,-0.04
+2,Dylan Moore,Hawthorn,Gen. Forward,9.0,5.0,4.0,0.56,0.44,1.0,1.0,5.0,-10.42,-5.54,-4.88,-3.27
+2,Finn Maginness,Hawthorn,Gen. Forward,13.0,8.0,5.0,0.62,0.38,4.0,0.0,0.0,-0.31,1.92,-2.23,1.23
+2,Harry Morrison,Hawthorn,Midfielder,12.0,5.0,7.0,0.42,0.58,1.0,0.0,7.0,-5.4,-4.45,-0.95,-3.55
+2,Jack Ginnivan,Hawthorn,Gen. Forward,10.0,4.0,6.0,0.4,0.6,1.0,0.0,4.0,-8.64,-6.44,-2.2,-2.56
+2,Jack Gunston,Hawthorn,Key Forward,9.0,6.0,3.0,0.67,0.33,5.0,2.0,2.0,-3.56,-3.48,-0.09,-0.17
+2,Jai Newcombe,Hawthorn,Midfielder,32.0,16.0,16.0,0.5,0.5,5.0,0.0,11.0,9.08,5.81,3.27,1.5
+2,James Sicily,Hawthorn,Gen. Defender,19.0,16.0,3.0,0.84,0.16,5.0,1.0,2.0,-0.52,2.74,-3.26,-1.65
+2,Jarman Impey,Hawthorn,Gen. Defender,13.0,9.0,4.0,0.69,0.31,3.0,0.0,6.0,-6.29,-3.75,-2.54,-1.96
+2,Josh Battle,Hawthorn,Key Defender,21.0,10.0,11.0,0.48,0.52,5.0,0.0,2.0,2.54,-1.38,3.92,-0.23
+2,Josh Ward,Hawthorn,Midfielder,24.0,10.0,14.0,0.42,0.58,3.0,1.0,7.0,3.44,-0.44,3.88,-0.16
+2,Josh Weddle,Hawthorn,Gen. Defender,10.0,5.0,5.0,0.5,0.5,3.0,0.0,4.0,-6.11,-4.06,-2.06,-1.94
+2,Karl Amon,Hawthorn,Gen. Defender,22.0,11.0,11.0,0.5,0.5,3.0,0.0,6.0,-2.0,-6.04,4.04,-1.64
+2,Lloyd Meek,Hawthorn,Ruck,13.0,2.0,11.0,0.15,0.85,0.0,0.0,1.0,-0.52,-3.24,2.72,-2.72
+2,Mabior Chol,Hawthorn,Key Forward,11.0,10.0,1.0,0.91,0.09,4.0,3.0,0.0,1.0,2.88,-1.88,0.08
+2,Massimo D'Ambrosio,Hawthorn,Midfielder,25.0,14.0,11.0,0.56,0.44,4.0,0.0,4.0,6.85,2.15,4.69,-0.08
+2,Nick Watson,Hawthorn,Gen. Forward,16.0,10.0,6.0,0.62,0.38,6.0,2.0,2.0,5.12,4.2,0.92,3.96
+2,Tom Barrass,Hawthorn,Key Defender,10.0,5.0,5.0,0.5,0.5,3.0,0.0,3.0,0.32,-0.68,1.0,-0.76
+2,Will Day,Hawthorn,Midfielder,26.0,13.0,13.0,0.5,0.5,1.0,0.0,5.0,5.0,2.5,2.5,-2.0
+3,Blake Hardwick,Hawthorn,Gen. Defender,19.0,14.0,5.0,0.74,0.26,9.0,1.0,3.0,4.27,4.0,0.27,4.46
+3,Cam Mackenzie,Hawthorn,Midfielder,30.0,12.0,18.0,0.4,0.6,3.0,0.0,5.0,13.5,3.67,9.83,1.0
+3,Changkuoth Jiath,Hawthorn,Gen. Defender,14.0,8.0,6.0,0.57,0.43,4.0,0.0,1.0,0.2,0.35,-0.15,1.3
+3,Conor Nash,Hawthorn,Midfielder,17.0,11.0,6.0,0.65,0.35,4.0,0.0,7.0,-1.36,2.18,-3.54,1.96
+3,Dylan Moore,Hawthorn,Gen. Forward,22.0,9.0,13.0,0.41,0.59,2.0,1.0,0.0,2.58,-1.54,4.12,-2.27
+3,Finn Maginness,Hawthorn,Gen. Forward,25.0,11.0,14.0,0.44,0.56,1.0,0.0,3.0,11.69,4.92,6.77,-1.77
+3,Harry Morrison,Hawthorn,Midfielder,16.0,11.0,5.0,0.69,0.31,5.0,1.0,2.0,-1.4,1.55,-2.95,0.45
+3,Jack Ginnivan,Hawthorn,Gen. Forward,12.0,3.0,9.0,0.25,0.75,0.0,0.0,1.0,-6.64,-7.44,0.8,-3.56
+3,Jack Gunston,Hawthorn,Key Forward,16.0,10.0,6.0,0.62,0.38,4.0,2.0,3.0,3.44,0.52,2.91,-1.17
+3,Jai Newcombe,Hawthorn,Midfielder,21.0,10.0,11.0,0.48,0.52,4.0,1.0,2.0,-1.92,-0.19,-1.73,0.5
+3,James Sicily,Hawthorn,Gen. Defender,16.0,11.0,5.0,0.69,0.31,6.0,0.0,1.0,-3.52,-2.26,-1.26,-0.65
+3,Jarman Impey,Hawthorn,Gen. Defender,8.0,7.0,1.0,0.88,0.12,2.0,0.0,2.0,-11.29,-5.75,-5.54,-2.96
+3,Josh Battle,Hawthorn,Key Defender,13.0,8.0,5.0,0.62,0.38,5.0,0.0,1.0,-5.46,-3.38,-2.08,-0.23
+3,Josh Ward,Hawthorn,Midfielder,22.0,13.0,9.0,0.59,0.41,2.0,0.0,2.0,1.44,2.56,-1.12,-1.16
+3,Josh Weddle,Hawthorn,Gen. Defender,20.0,10.0,10.0,0.5,0.5,9.0,1.0,0.0,3.89,0.94,2.94,4.06
+3,Karl Amon,Hawthorn,Gen. Defender,21.0,15.0,6.0,0.71,0.29,1.0,0.0,0.0,-3.0,-2.04,-0.96,-3.64
+3,Lloyd Meek,Hawthorn,Ruck,14.0,7.0,7.0,0.5,0.5,4.0,1.0,4.0,0.48,1.76,-1.28,1.28
+3,Luke Breust,Hawthorn,Gen. Forward,,,,,,,,,,,,
+3,Mabior Chol,Hawthorn,Key Forward,5.0,3.0,2.0,0.6,0.4,2.0,0.0,3.0,-5.0,-4.12,-0.88,-1.92
+3,Massimo D'Ambrosio,Hawthorn,Midfielder,13.0,10.0,3.0,0.77,0.23,6.0,0.0,2.0,-5.15,-1.85,-3.31,1.92
+3,Nick Watson,Hawthorn,Gen. Forward,21.0,10.0,11.0,0.48,0.52,2.0,1.0,5.0,10.12,4.2,5.92,-0.04
+3,Tom Barrass,Hawthorn,Key Defender,8.0,5.0,3.0,0.62,0.38,4.0,0.0,1.0,-1.68,-0.68,-1.0,0.24
+3,Will Day,Hawthorn,Midfielder,24.0,10.0,14.0,0.42,0.58,3.0,1.0,2.0,3.0,-0.5,3.5,0.0
+5,Blake Hardwick,Hawthorn,Gen. Defender,7.0,6.0,1.0,0.86,0.14,4.0,0.0,1.0,-7.73,-4.0,-3.73,-0.54
+5,Cam Mackenzie,Hawthorn,Midfielder,18.0,10.0,8.0,0.56,0.44,1.0,0.0,2.0,1.5,1.67,-0.17,-1.0
+5,Changkuoth Jiath,Hawthorn,Gen. Defender,17.0,9.0,8.0,0.53,0.47,2.0,0.0,2.0,3.2,1.35,1.85,-0.7
+5,Conor Nash,Hawthorn,Midfielder,,,,,,,,,,,,
+5,Dylan Moore,Hawthorn,Gen. Forward,22.0,10.0,12.0,0.45,0.55,0.0,0.0,9.0,2.58,-0.54,3.12,-4.27
+5,Finn Maginness,Hawthorn,Gen. Forward,12.0,3.0,9.0,0.25,0.75,2.0,0.0,2.0,-1.31,-3.08,1.77,-0.77
+5,Harry Morrison,Hawthorn,Midfielder,16.0,7.0,9.0,0.44,0.56,2.0,0.0,5.0,-1.4,-2.45,1.05,-2.55
+5,Jack Ginnivan,Hawthorn,Gen. Forward,12.0,4.0,8.0,0.33,0.67,1.0,0.0,1.0,-6.64,-6.44,-0.2,-2.56
+5,Jack Gunston,Hawthorn,Key Forward,15.0,13.0,2.0,0.87,0.13,7.0,6.0,1.0,2.44,3.52,-1.09,1.83
+5,Jai Newcombe,Hawthorn,Midfielder,29.0,14.0,15.0,0.48,0.52,7.0,1.0,4.0,6.08,3.81,2.27,3.5
+5,James Sicily,Hawthorn,Gen. Defender,20.0,12.0,8.0,0.6,0.4,11.0,2.0,1.0,0.48,-1.26,1.74,4.35
+5,James Worpel,Hawthorn,Midfielder,23.0,10.0,13.0,0.43,0.57,2.0,1.0,5.0,2.95,-0.05,3.0,0.38
+5,Jarman Impey,Hawthorn,Gen. Defender,10.0,6.0,4.0,0.6,0.4,3.0,0.0,1.0,-9.29,-6.75,-2.54,-1.96
+5,Josh Battle,Hawthorn,Key Defender,19.0,10.0,9.0,0.53,0.47,3.0,0.0,2.0,0.54,-1.38,1.92,-2.23
+5,Josh Ward,Hawthorn,Midfielder,18.0,10.0,8.0,0.56,0.44,0.0,0.0,0.0,-2.56,-0.44,-2.12,-3.16
+5,Josh Weddle,Hawthorn,Gen. Defender,18.0,12.0,6.0,0.67,0.33,5.0,0.0,3.0,1.89,2.94,-1.06,0.06
+5,Karl Amon,Hawthorn,Gen. Defender,21.0,18.0,3.0,0.86,0.14,4.0,0.0,4.0,-3.0,0.96,-3.96,-0.64
+5,Lloyd Meek,Hawthorn,Ruck,13.0,4.0,9.0,0.31,0.69,0.0,2.0,7.0,-0.52,-1.24,0.72,-2.72
+5,Luke Breust,Hawthorn,Gen. Forward,,,,,,,,,,,,
+5,Mabior Chol,Hawthorn,Key Forward,5.0,4.0,1.0,0.8,0.2,1.0,1.0,3.0,-5.0,-3.12,-1.88,-2.92
+5,Massimo D'Ambrosio,Hawthorn,Midfielder,19.0,11.0,8.0,0.58,0.42,4.0,0.0,1.0,0.85,-0.85,1.69,-0.08
+5,Nick Watson,Hawthorn,Gen. Forward,9.0,5.0,4.0,0.56,0.44,1.0,0.0,3.0,-1.88,-0.8,-1.08,-1.04
+5,Tom Barrass,Hawthorn,Key Defender,13.0,12.0,1.0,0.92,0.08,6.0,0.0,1.0,3.32,6.32,-3.0,2.24
+6,Blake Hardwick,Hawthorn,Gen. Defender,11.0,5.0,6.0,0.45,0.55,2.0,1.0,2.0,-3.73,-5.0,1.27,-2.54
+6,Cam Mackenzie,Hawthorn,Midfielder,14.0,9.0,5.0,0.64,0.36,2.0,0.0,6.0,-2.5,0.67,-3.17,0.0
+6,Changkuoth Jiath,Hawthorn,Gen. Defender,,,,,,,,,,,,
+6,Connor Macdonald,Hawthorn,Gen. Forward,14.0,8.0,6.0,0.57,0.43,7.0,1.0,4.0,-0.88,-1.04,0.17,3.0
+6,Conor Nash,Hawthorn,Midfielder,12.0,2.0,10.0,0.17,0.83,1.0,0.0,10.0,-6.36,-6.82,0.46,-1.04
+6,Dylan Moore,Hawthorn,Gen. Forward,9.0,7.0,2.0,0.78,0.22,3.0,0.0,3.0,-10.42,-3.54,-6.88,-1.27
+6,Harry Morrison,Hawthorn,Midfielder,23.0,11.0,12.0,0.48,0.52,5.0,0.0,3.0,5.6,1.55,4.05,0.45
+6,Jack Gunston,Hawthorn,Key Forward,16.0,13.0,3.0,0.81,0.19,8.0,3.0,2.0,3.44,3.52,-0.09,2.83
+6,Jack Scrimshaw,Hawthorn,Gen. Defender,22.0,13.0,9.0,0.59,0.41,7.0,0.0,2.0,8.31,5.12,3.19,2.5
+6,Jai Newcombe,Hawthorn,Midfielder,28.0,7.0,21.0,0.25,0.75,6.0,0.0,9.0,5.08,-3.19,8.27,2.5
+6,James Sicily,Hawthorn,Gen. Defender,19.0,16.0,3.0,0.84,0.16,5.0,1.0,2.0,-0.52,2.74,-3.26,-1.65
+6,James Worpel,Hawthorn,Midfielder,22.0,8.0,14.0,0.36,0.64,2.0,0.0,13.0,1.95,-2.05,4.0,0.38
+6,Jarman Impey,Hawthorn,Gen. Defender,19.0,14.0,5.0,0.74,0.26,4.0,0.0,1.0,-0.29,1.25,-1.54,-0.96
+6,Josh Battle,Hawthorn,Key Defender,14.0,7.0,7.0,0.5,0.5,6.0,0.0,6.0,-4.46,-4.38,-0.08,0.77
+6,Josh Ward,Hawthorn,Midfielder,16.0,7.0,9.0,0.44,0.56,3.0,0.0,1.0,-4.56,-3.44,-1.12,-0.16
+6,Josh Weddle,Hawthorn,Gen. Defender,19.0,10.0,9.0,0.53,0.47,5.0,0.0,3.0,2.89,0.94,1.94,0.06
+6,Karl Amon,Hawthorn,Gen. Defender,29.0,21.0,8.0,0.72,0.28,5.0,0.0,4.0,5.0,3.96,1.04,0.36
+6,Lloyd Meek,Hawthorn,Ruck,19.0,6.0,13.0,0.32,0.68,2.0,0.0,4.0,5.48,0.76,4.72,-0.72
+6,Luke Breust,Hawthorn,Gen. Forward,,,,,,,,,,,,
+6,Mabior Chol,Hawthorn,Key Forward,15.0,13.0,2.0,0.87,0.13,4.0,3.0,2.0,5.0,5.88,-0.88,0.08
+6,Massimo D'Ambrosio,Hawthorn,Midfielder,14.0,7.0,7.0,0.5,0.5,4.0,0.0,2.0,-4.15,-4.85,0.69,-0.08
+6,Nick Watson,Hawthorn,Gen. Forward,13.0,7.0,6.0,0.54,0.46,2.0,2.0,2.0,2.12,1.2,0.92,-0.04
+6,Tom Barrass,Hawthorn,Key Defender,12.0,6.0,6.0,0.5,0.5,4.0,0.0,1.0,2.32,0.32,2.0,0.24
+7,Bailey Macdonald,Hawthorn,Gen. Defender,,,,,,,,,,,,
+7,Blake Hardwick,Hawthorn,Gen. Defender,13.0,8.0,5.0,0.62,0.38,6.0,1.0,1.0,-1.73,-2.0,0.27,1.46
+7,Cam Mackenzie,Hawthorn,Midfielder,20.0,11.0,9.0,0.55,0.45,0.0,0.0,9.0,3.5,2.67,0.83,-2.0
+7,Connor Macdonald,Hawthorn,Gen. Forward,16.0,12.0,4.0,0.75,0.25,5.0,2.0,4.0,1.12,2.96,-1.83,1.0
+7,Dylan Moore,Hawthorn,Gen. Forward,17.0,11.0,6.0,0.65,0.35,7.0,1.0,3.0,-2.42,0.46,-2.88,2.73
+7,Harry Morrison,Hawthorn,Midfielder,22.0,8.0,14.0,0.36,0.64,3.0,1.0,3.0,4.6,-1.45,6.05,-1.55
+7,Henry Hustwaite,Hawthorn,Midfielder,24.0,12.0,12.0,0.5,0.5,2.0,0.0,2.0,10.25,6.25,4.0,0.0
+7,Jack Ginnivan,Hawthorn,Gen. Forward,17.0,14.0,3.0,0.82,0.18,4.0,2.0,7.0,-1.64,3.56,-5.2,0.44
+7,Jack Gunston,Hawthorn,Key Forward,14.0,9.0,5.0,0.64,0.36,6.0,4.0,3.0,1.44,-0.48,1.91,0.83
+7,Jack Scrimshaw,Hawthorn,Gen. Defender,,,,,,,,,,,,
+7,Jai Newcombe,Hawthorn,Midfielder,20.0,7.0,13.0,0.35,0.65,3.0,1.0,8.0,-2.92,-3.19,0.27,-0.5
+7,James Sicily,Hawthorn,Gen. Defender,23.0,13.0,10.0,0.57,0.43,5.0,0.0,2.0,3.48,-0.26,3.74,-1.65
+7,James Worpel,Hawthorn,Midfielder,24.0,9.0,15.0,0.38,0.62,2.0,1.0,4.0,3.95,-1.05,5.0,0.38
+7,Jarman Impey,Hawthorn,Gen. Defender,17.0,7.0,10.0,0.41,0.59,3.0,0.0,3.0,-2.29,-5.75,3.46,-1.96
+7,Josh Battle,Hawthorn,Key Defender,29.0,15.0,14.0,0.52,0.48,7.0,0.0,3.0,10.54,3.62,6.92,1.77
+7,Josh Ward,Hawthorn,Midfielder,23.0,9.0,14.0,0.39,0.61,2.0,0.0,7.0,2.44,-1.44,3.88,-1.16
+7,Josh Weddle,Hawthorn,Gen. Defender,13.0,8.0,5.0,0.62,0.38,5.0,1.0,0.0,-3.11,-1.06,-2.06,0.06
+7,Karl Amon,Hawthorn,Gen. Defender,18.0,10.0,8.0,0.56,0.44,2.0,0.0,3.0,-6.0,-7.04,1.04,-2.64
+7,Lloyd Meek,Hawthorn,Ruck,19.0,8.0,11.0,0.42,0.58,3.0,0.0,4.0,5.48,2.76,2.72,0.28
+7,Mabior Chol,Hawthorn,Key Forward,17.0,15.0,2.0,0.88,0.12,9.0,3.0,4.0,7.0,7.88,-0.88,5.08
+7,Massimo D'Ambrosio,Hawthorn,Midfielder,15.0,13.0,2.0,0.87,0.13,4.0,0.0,3.0,-3.15,1.15,-4.31,-0.08
+7,Nick Watson,Hawthorn,Gen. Forward,10.0,5.0,5.0,0.5,0.5,4.0,1.0,4.0,-0.88,-0.8,-0.08,1.96
+7,Tom Barrass,Hawthorn,Key Defender,9.0,4.0,5.0,0.44,0.56,3.0,0.0,1.0,-0.68,-1.68,1.0,-0.76
+8,Bailey Macdonald,Hawthorn,Gen. Defender,,,,,,,,,,,,
+8,Blake Hardwick,Hawthorn,Gen. Defender,19.0,11.0,8.0,0.58,0.42,8.0,0.0,0.0,4.27,1.0,3.27,3.46
+8,Changkuoth Jiath,Hawthorn,Gen. Defender,32.0,22.0,10.0,0.69,0.31,7.0,0.0,1.0,18.2,14.35,3.85,4.3
+8,Connor Macdonald,Hawthorn,Gen. Forward,12.0,9.0,3.0,0.75,0.25,5.0,0.0,2.0,-2.88,-0.04,-2.83,1.0
+8,Dylan Moore,Hawthorn,Gen. Forward,11.0,5.0,6.0,0.45,0.55,5.0,0.0,0.0,-8.42,-5.54,-2.88,0.73
+8,Finn Maginness,Hawthorn,Gen. Forward,22.0,14.0,8.0,0.64,0.36,9.0,1.0,1.0,8.69,7.92,0.77,6.23
+8,Harry Morrison,Hawthorn,Midfielder,20.0,6.0,14.0,0.3,0.7,5.0,0.0,2.0,2.6,-3.45,6.05,0.45
+8,Henry Hustwaite,Hawthorn,Midfielder,19.0,4.0,15.0,0.21,0.79,5.0,0.0,8.0,5.25,-1.75,7.0,3.0
+8,Jack Ginnivan,Hawthorn,Gen. Forward,23.0,14.0,9.0,0.61,0.39,9.0,2.0,1.0,4.36,3.56,0.8,5.44
+8,Jack Gunston,Hawthorn,Key Forward,15.0,11.0,4.0,0.73,0.27,6.0,3.0,1.0,2.44,1.52,0.91,0.83
+8,Jai Newcombe,Hawthorn,Midfielder,27.0,12.0,15.0,0.44,0.56,4.0,0.0,5.0,4.08,1.81,2.27,0.5
+8,James Sicily,Hawthorn,Gen. Defender,24.0,18.0,6.0,0.75,0.25,4.0,1.0,4.0,4.48,4.74,-0.26,-2.65
+8,James Worpel,Hawthorn,Midfielder,18.0,6.0,12.0,0.33,0.67,1.0,0.0,3.0,-2.05,-4.05,2.0,-0.62
+8,Jarman Impey,Hawthorn,Gen. Defender,24.0,13.0,11.0,0.54,0.46,5.0,0.0,0.0,4.71,0.25,4.46,0.04
+8,Josh Battle,Hawthorn,Key Defender,33.0,20.0,13.0,0.61,0.39,12.0,0.0,0.0,14.54,8.62,5.92,6.77
+8,Josh Ward,Hawthorn,Midfielder,19.0,6.0,13.0,0.32,0.68,4.0,0.0,4.0,-1.56,-4.44,2.88,0.84
+8,Josh Weddle,Hawthorn,Gen. Defender,20.0,10.0,10.0,0.5,0.5,4.0,1.0,2.0,3.89,0.94,2.94,-0.94
+8,Lloyd Meek,Hawthorn,Ruck,10.0,3.0,7.0,0.3,0.7,0.0,0.0,5.0,-3.52,-2.24,-1.28,-2.72
+8,Luke Breust,Hawthorn,Gen. Forward,10.0,6.0,4.0,0.6,0.4,4.0,1.0,2.0,3.25,2.0,1.25,2.12
+8,Mabior Chol,Hawthorn,Key Forward,11.0,9.0,2.0,0.82,0.18,6.0,2.0,2.0,1.0,1.88,-0.88,2.08
+8,Massimo D'Ambrosio,Hawthorn,Midfielder,30.0,23.0,7.0,0.77,0.23,9.0,2.0,1.0,11.85,11.15,0.69,4.92
+8,Nick Watson,Hawthorn,Gen. Forward,10.0,6.0,4.0,0.6,0.4,2.0,3.0,1.0,-0.88,0.2,-1.08,-0.04
+8,Tom Barrass,Hawthorn,Key Defender,14.0,7.0,7.0,0.5,0.5,5.0,0.0,1.0,4.32,1.32,3.0,1.24
+9,Bailey Macdonald,Hawthorn,Gen. Defender,,,,,,,,,,,,
+9,Blake Hardwick,Hawthorn,Gen. Defender,16.0,10.0,6.0,0.62,0.38,4.0,0.0,2.0,1.27,0.0,1.27,-0.54
+9,Changkuoth Jiath,Hawthorn,Gen. Defender,25.0,16.0,9.0,0.64,0.36,9.0,0.0,3.0,11.2,8.35,2.85,6.3
+9,Connor Macdonald,Hawthorn,Gen. Forward,11.0,7.0,4.0,0.64,0.36,4.0,0.0,1.0,-3.88,-2.04,-1.83,0.0
+9,Dylan Moore,Hawthorn,Gen. Forward,18.0,10.0,8.0,0.56,0.44,5.0,1.0,1.0,-1.42,-0.54,-0.88,0.73
+9,Finn Maginness,Hawthorn,Gen. Forward,16.0,7.0,9.0,0.44,0.56,4.0,0.0,3.0,2.69,0.92,1.77,1.23
+9,Harry Morrison,Hawthorn,Midfielder,15.0,7.0,8.0,0.47,0.53,2.0,0.0,3.0,-2.4,-2.45,0.05,-2.55
+9,Henry Hustwaite,Hawthorn,Midfielder,,,,,,,,,,,,
+9,Jack Ginnivan,Hawthorn,Gen. Forward,17.0,10.0,7.0,0.59,0.41,4.0,1.0,1.0,-1.64,-0.44,-1.2,0.44
+9,Jack Gunston,Hawthorn,Key Forward,14.0,11.0,3.0,0.79,0.21,6.0,3.0,1.0,1.44,1.52,-0.09,0.83
+9,Jai Newcombe,Hawthorn,Midfielder,19.0,7.0,12.0,0.37,0.63,3.0,0.0,4.0,-3.92,-3.19,-0.73,-0.5
+9,James Sicily,Hawthorn,Gen. Defender,24.0,13.0,11.0,0.54,0.46,10.0,0.0,2.0,4.48,-0.26,4.74,3.35
+9,James Worpel,Hawthorn,Midfielder,28.0,8.0,20.0,0.29,0.71,2.0,0.0,10.0,7.95,-2.05,10.0,0.38
+9,Jarman Impey,Hawthorn,Gen. Defender,22.0,11.0,11.0,0.5,0.5,7.0,0.0,0.0,2.71,-1.75,4.46,2.04
+9,Josh Battle,Hawthorn,Key Defender,15.0,13.0,2.0,0.87,0.13,3.0,0.0,2.0,-3.46,1.62,-5.08,-2.23
+9,Josh Ward,Hawthorn,Midfielder,22.0,13.0,9.0,0.59,0.41,6.0,1.0,1.0,1.44,2.56,-1.12,2.84
+9,Josh Weddle,Hawthorn,Gen. Defender,22.0,9.0,13.0,0.41,0.59,6.0,1.0,0.0,5.89,-0.06,5.94,1.06
+9,Karl Amon,Hawthorn,Gen. Defender,18.0,13.0,5.0,0.72,0.28,7.0,0.0,2.0,-6.0,-4.04,-1.96,2.36
+9,Lloyd Meek,Hawthorn,Ruck,6.0,3.0,3.0,0.5,0.5,1.0,1.0,1.0,-7.52,-2.24,-5.28,-1.72
+9,Luke Breust,Hawthorn,Gen. Forward,,,,,,,,,,,,
+9,Mabior Chol,Hawthorn,Key Forward,6.0,3.0,3.0,0.5,0.5,2.0,2.0,1.0,-4.0,-4.12,0.12,-1.92
+9,Massimo D'Ambrosio,Hawthorn,Midfielder,26.0,17.0,9.0,0.65,0.35,6.0,0.0,1.0,7.85,5.15,2.69,1.92
+9,Nick Watson,Hawthorn,Gen. Forward,8.0,4.0,4.0,0.5,0.5,2.0,2.0,1.0,-2.88,-1.8,-1.08,-0.04
+10,Bailey Macdonald,Hawthorn,Gen. Defender,,,,,,,,,,,,
+10,Blake Hardwick,Hawthorn,Gen. Defender,11.0,4.0,7.0,0.36,0.64,3.0,3.0,2.0,-3.73,-6.0,2.27,-1.54
+10,Calsher Dear,Hawthorn,Key Forward,,,,,,,,,,,,
+10,Cam Mackenzie,Hawthorn,Midfielder,13.0,7.0,6.0,0.54,0.46,0.0,0.0,4.0,-3.5,-1.33,-2.17,-2.0
+10,Changkuoth Jiath,Hawthorn,Gen. Defender,12.0,6.0,6.0,0.5,0.5,1.0,0.0,1.0,-1.8,-1.65,-0.15,-1.7
+10,Connor Macdonald,Hawthorn,Gen. Forward,15.0,10.0,5.0,0.67,0.33,3.0,0.0,5.0,0.12,0.96,-0.83,-1.0
+10,Dylan Moore,Hawthorn,Gen. Forward,17.0,11.0,6.0,0.65,0.35,4.0,1.0,5.0,-2.42,0.46,-2.88,-0.27
+10,Finn Maginness,Hawthorn,Gen. Forward,14.0,6.0,8.0,0.43,0.57,0.0,0.0,0.0,0.69,-0.08,0.77,-2.77
+10,Harry Morrison,Hawthorn,Midfielder,17.0,12.0,5.0,0.71,0.29,4.0,1.0,5.0,-0.4,2.55,-2.95,-0.55
+10,Jack Ginnivan,Hawthorn,Gen. Forward,22.0,17.0,5.0,0.77,0.23,5.0,2.0,2.0,3.36,6.56,-3.2,1.44
+10,Jack Scrimshaw,Hawthorn,Gen. Defender,16.0,11.0,5.0,0.69,0.31,6.0,0.0,4.0,2.31,3.12,-0.81,1.5
+10,Jai Newcombe,Hawthorn,Midfielder,29.0,15.0,14.0,0.52,0.48,5.0,1.0,8.0,6.08,4.81,1.27,1.5
+10,James Sicily,Hawthorn,Gen. Defender,15.0,11.0,4.0,0.73,0.27,4.0,0.0,1.0,-4.52,-2.26,-2.26,-2.65
+10,James Worpel,Hawthorn,Midfielder,20.0,11.0,9.0,0.55,0.45,2.0,0.0,6.0,-0.05,0.95,-1.0,0.38
+10,Josh Battle,Hawthorn,Key Defender,13.0,6.0,7.0,0.46,0.54,4.0,0.0,1.0,-5.46,-5.38,-0.08,-1.23
+10,Josh Ward,Hawthorn,Midfielder,23.0,13.0,10.0,0.57,0.43,4.0,0.0,1.0,2.44,2.56,-0.12,0.84
+10,Josh Weddle,Hawthorn,Gen. Defender,19.0,10.0,9.0,0.53,0.47,4.0,0.0,1.0,2.89,0.94,1.94,-0.94
+10,Karl Amon,Hawthorn,Gen. Defender,30.0,20.0,10.0,0.67,0.33,2.0,1.0,0.0,6.0,2.96,3.04,-2.64
+10,Mabior Chol,Hawthorn,Key Forward,10.0,6.0,4.0,0.6,0.4,6.0,3.0,3.0,0.0,-1.12,1.12,2.08
+10,Massimo D'Ambrosio,Hawthorn,Midfielder,12.0,8.0,4.0,0.67,0.33,4.0,0.0,1.0,-6.15,-3.85,-2.31,-0.08
+10,Ned Reeves,Hawthorn,Ruck,6.0,4.0,2.0,0.67,0.33,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+10,Nick Watson,Hawthorn,Gen. Forward,12.0,9.0,3.0,0.75,0.25,4.0,3.0,4.0,1.12,3.2,-2.08,1.96
+10,Tom Barrass,Hawthorn,Key Defender,6.0,5.0,1.0,0.83,0.17,4.0,0.0,1.0,-3.68,-0.68,-3.0,0.24
+11,Blake Hardwick,Hawthorn,Gen. Defender,16.0,10.0,6.0,0.62,0.38,6.0,1.0,1.0,1.27,0.0,1.27,1.46
+11,Cam Mackenzie,Hawthorn,Midfielder,,,,,,,,,,,,
+11,Changkuoth Jiath,Hawthorn,Gen. Defender,21.0,10.0,11.0,0.48,0.52,4.0,0.0,0.0,7.2,2.35,4.85,1.3
+11,Connor Macdonald,Hawthorn,Gen. Forward,20.0,10.0,10.0,0.5,0.5,10.0,3.0,1.0,5.12,0.96,4.17,6.0
+11,Conor Nash,Hawthorn,Midfielder,13.0,5.0,8.0,0.38,0.62,3.0,1.0,5.0,-5.36,-3.82,-1.54,0.96
+11,Dylan Moore,Hawthorn,Gen. Forward,15.0,6.0,9.0,0.4,0.6,5.0,1.0,4.0,-4.42,-4.54,0.12,0.73
+11,Finn Maginness,Hawthorn,Gen. Forward,,,,,,,,,,,,
+11,Harry Morrison,Hawthorn,Midfielder,28.0,13.0,15.0,0.46,0.54,8.0,0.0,2.0,10.6,3.55,7.05,3.45
+11,Jack Ginnivan,Hawthorn,Gen. Forward,13.0,10.0,3.0,0.77,0.23,5.0,1.0,3.0,-5.64,-0.44,-5.2,1.44
+11,Jack Gunston,Hawthorn,Key Forward,8.0,6.0,2.0,0.75,0.25,5.0,0.0,1.0,-4.56,-3.48,-1.09,-0.17
+11,Jack Scrimshaw,Hawthorn,Gen. Defender,12.0,5.0,7.0,0.42,0.58,3.0,0.0,3.0,-1.69,-2.88,1.19,-1.5
+11,Jai Newcombe,Hawthorn,Midfielder,23.0,8.0,15.0,0.35,0.65,5.0,0.0,4.0,0.08,-2.19,2.27,1.5
+11,James Sicily,Hawthorn,Gen. Defender,17.0,9.0,8.0,0.53,0.47,5.0,0.0,0.0,-2.52,-4.26,1.74,-1.65
+11,James Worpel,Hawthorn,Midfielder,23.0,13.0,10.0,0.57,0.43,5.0,0.0,3.0,2.95,2.95,0.0,3.38
+11,Josh Battle,Hawthorn,Key Defender,23.0,14.0,9.0,0.61,0.39,6.0,0.0,0.0,4.54,2.62,1.92,0.77
+11,Josh Ward,Hawthorn,Midfielder,20.0,8.0,12.0,0.4,0.6,5.0,0.0,0.0,-0.56,-2.44,1.88,1.84
+11,Josh Weddle,Hawthorn,Gen. Defender,23.0,11.0,12.0,0.48,0.52,6.0,1.0,0.0,6.89,1.94,4.94,1.06
+11,Karl Amon,Hawthorn,Gen. Defender,29.0,26.0,3.0,0.9,0.1,7.0,0.0,0.0,5.0,8.96,-3.96,2.36
+11,Lloyd Meek,Hawthorn,Ruck,9.0,2.0,7.0,0.22,0.78,1.0,0.0,3.0,-4.52,-3.24,-1.28,-1.72
+11,Mabior Chol,Hawthorn,Key Forward,6.0,4.0,2.0,0.67,0.33,3.0,0.0,3.0,-4.0,-3.12,-0.88,-0.92
+11,Massimo D'Ambrosio,Hawthorn,Midfielder,19.0,10.0,9.0,0.53,0.47,3.0,0.0,1.0,0.85,-1.85,2.69,-1.08
+11,Nick Watson,Hawthorn,Gen. Forward,4.0,3.0,1.0,0.75,0.25,3.0,0.0,0.0,-6.88,-2.8,-4.08,0.96
+11,Tom Barrass,Hawthorn,Key Defender,12.0,10.0,2.0,0.83,0.17,7.0,0.0,0.0,2.32,4.32,-2.0,3.24
+12,Blake Hardwick,Hawthorn,Gen. Defender,9.0,5.0,4.0,0.56,0.44,4.0,0.0,1.0,-5.73,-5.0,-0.73,-0.54
+12,Changkuoth Jiath,Hawthorn,Gen. Defender,12.0,7.0,5.0,0.58,0.42,4.0,0.0,0.0,-1.8,-0.65,-1.15,1.3
+12,Connor Macdonald,Hawthorn,Gen. Forward,15.0,7.0,8.0,0.47,0.53,3.0,0.0,1.0,0.12,-2.04,2.17,-1.0
+12,Conor Nash,Hawthorn,Midfielder,25.0,12.0,13.0,0.48,0.52,3.0,0.0,3.0,6.64,3.18,3.46,0.96
+12,Dylan Moore,Hawthorn,Gen. Forward,18.0,12.0,6.0,0.67,0.33,8.0,0.0,3.0,-1.42,1.46,-2.88,3.73
+12,Finn Maginness,Hawthorn,Gen. Forward,,,,,,,,,,,,
+12,Harry Morrison,Hawthorn,Midfielder,12.0,6.0,6.0,0.5,0.5,4.0,0.0,1.0,-5.4,-3.45,-1.95,-0.55
+12,Jack Ginnivan,Hawthorn,Gen. Forward,31.0,18.0,13.0,0.58,0.42,4.0,3.0,1.0,12.36,7.56,4.8,0.44
+12,Jack Gunston,Hawthorn,Key Forward,10.0,8.0,2.0,0.8,0.2,5.0,2.0,0.0,-2.56,-1.48,-1.09,-0.17
+12,Jack Scrimshaw,Hawthorn,Gen. Defender,8.0,3.0,5.0,0.38,0.62,3.0,0.0,0.0,-5.69,-4.88,-0.81,-1.5
+12,Jai Newcombe,Hawthorn,Midfielder,18.0,10.0,8.0,0.56,0.44,3.0,0.0,3.0,-4.92,-0.19,-4.73,-0.5
+12,James Sicily,Hawthorn,Gen. Defender,6.0,4.0,2.0,0.67,0.33,3.0,0.0,1.0,-13.52,-9.26,-4.26,-3.65
+12,James Worpel,Hawthorn,Midfielder,21.0,14.0,7.0,0.67,0.33,2.0,1.0,4.0,0.95,3.95,-3.0,0.38
+12,Jarman Impey,Hawthorn,Gen. Defender,16.0,12.0,4.0,0.75,0.25,6.0,0.0,1.0,-3.29,-0.75,-2.54,1.04
+12,Josh Battle,Hawthorn,Key Defender,15.0,11.0,4.0,0.73,0.27,8.0,0.0,2.0,-3.46,-0.38,-3.08,2.77
+12,Josh Ward,Hawthorn,Midfielder,26.0,11.0,15.0,0.42,0.58,3.0,0.0,3.0,5.44,0.56,4.88,-0.16
+12,Josh Weddle,Hawthorn,Gen. Defender,12.0,8.0,4.0,0.67,0.33,7.0,1.0,1.0,-4.11,-1.06,-3.06,2.06
+12,Karl Amon,Hawthorn,Gen. Defender,22.0,16.0,6.0,0.73,0.27,3.0,0.0,0.0,-2.0,-1.04,-0.96,-1.64
+12,Lloyd Meek,Hawthorn,Ruck,15.0,4.0,11.0,0.27,0.73,1.0,0.0,4.0,1.48,-1.24,2.72,-1.72
+12,Mabior Chol,Hawthorn,Key Forward,11.0,9.0,2.0,0.82,0.18,6.0,0.0,2.0,1.0,1.88,-0.88,2.08
+12,Massimo D'Ambrosio,Hawthorn,Midfielder,18.0,15.0,3.0,0.83,0.17,4.0,0.0,2.0,-0.15,3.15,-3.31,-0.08
+12,Nick Watson,Hawthorn,Gen. Forward,9.0,4.0,5.0,0.44,0.56,2.0,1.0,0.0,-1.88,-1.8,-0.08,-0.04
+12,Tom Barrass,Hawthorn,Key Defender,9.0,3.0,6.0,0.33,0.67,4.0,0.0,2.0,-0.68,-2.68,2.0,0.24
+13,Blake Hardwick,Hawthorn,Gen. Defender,17.0,10.0,7.0,0.59,0.41,5.0,0.0,1.0,2.27,0.0,2.27,0.46
+13,Changkuoth Jiath,Hawthorn,Gen. Defender,,,,,,,,,,,,
+13,Connor Macdonald,Hawthorn,Gen. Forward,15.0,12.0,3.0,0.8,0.2,2.0,1.0,7.0,0.12,2.96,-2.83,-2.0
+13,Conor Nash,Hawthorn,Midfielder,21.0,12.0,9.0,0.57,0.43,3.0,1.0,7.0,2.64,3.18,-0.54,0.96
+13,Dylan Moore,Hawthorn,Gen. Forward,26.0,12.0,14.0,0.46,0.54,8.0,0.0,4.0,6.58,1.46,5.12,3.73
+13,Finn Maginness,Hawthorn,Gen. Forward,11.0,2.0,9.0,0.18,0.82,2.0,0.0,3.0,-2.31,-4.08,1.77,-0.77
+13,Harry Morrison,Hawthorn,Midfielder,21.0,11.0,10.0,0.52,0.48,6.0,0.0,5.0,3.6,1.55,2.05,1.45
+13,Jack Ginnivan,Hawthorn,Gen. Forward,23.0,11.0,12.0,0.48,0.52,6.0,2.0,2.0,4.36,0.56,3.8,2.44
+13,Jack Gunston,Hawthorn,Key Forward,11.0,9.0,2.0,0.82,0.18,6.0,1.0,1.0,-1.56,-0.48,-1.09,0.83
+13,Jai Newcombe,Hawthorn,Midfielder,27.0,19.0,8.0,0.7,0.3,3.0,1.0,6.0,4.08,8.81,-4.73,-0.5
+13,James Worpel,Hawthorn,Midfielder,,,,,,,,,,,,
+13,Jarman Impey,Hawthorn,Gen. Defender,23.0,13.0,10.0,0.57,0.43,4.0,1.0,3.0,3.71,0.25,3.46,-0.96
+13,Josh Battle,Hawthorn,Key Defender,16.0,11.0,5.0,0.69,0.31,5.0,0.0,0.0,-2.46,-0.38,-2.08,-0.23
+13,Josh Ward,Hawthorn,Midfielder,28.0,15.0,13.0,0.54,0.46,3.0,0.0,5.0,7.44,4.56,2.88,-0.16
+13,Josh Weddle,Hawthorn,Gen. Defender,18.0,13.0,5.0,0.72,0.28,6.0,1.0,4.0,1.89,3.94,-2.06,1.06
+13,Karl Amon,Hawthorn,Gen. Defender,19.0,13.0,6.0,0.68,0.32,5.0,0.0,4.0,-5.0,-4.04,-0.96,0.36
+13,Lloyd Meek,Hawthorn,Ruck,15.0,7.0,8.0,0.47,0.53,5.0,0.0,6.0,1.48,1.76,-0.28,2.28
+13,Mabior Chol,Hawthorn,Key Forward,11.0,5.0,6.0,0.45,0.55,3.0,4.0,2.0,1.0,-2.12,3.12,-0.92
+13,Massimo D'Ambrosio,Hawthorn,Midfielder,16.0,9.0,7.0,0.56,0.44,2.0,0.0,2.0,-2.15,-2.85,0.69,-2.08
+13,Max Ramsden,Hawthorn,Key Forward,9.0,5.0,4.0,0.56,0.44,4.0,0.0,3.0,0.0,-1.0,1.0,0.25
+13,Sam Butler,Hawthorn,Mid-Forward,14.0,7.0,7.0,0.5,0.5,3.0,0.0,5.0,2.17,0.5,1.67,0.83
+13,Seamus Mitchell,Hawthorn,Gen. Defender,10.0,7.0,3.0,0.7,0.3,4.0,0.0,6.0,3.75,3.5,0.25,2.0
+13,Tom Barrass,Hawthorn,Key Defender,7.0,3.0,4.0,0.43,0.57,2.0,0.0,1.0,-2.68,-2.68,0.0,-1.76
+14,Blake Hardwick,Hawthorn,Gen. Defender,17.0,14.0,3.0,0.82,0.18,5.0,0.0,2.0,2.27,4.0,-1.73,0.46
+14,Changkuoth Jiath,Hawthorn,Gen. Defender,,,,,,,,,,,,
+14,Connor Macdonald,Hawthorn,Gen. Forward,14.0,8.0,6.0,0.57,0.43,0.0,2.0,8.0,-0.88,-1.04,0.17,-4.0
+14,Conor Nash,Hawthorn,Midfielder,10.0,5.0,5.0,0.5,0.5,0.0,0.0,4.0,-8.36,-3.82,-4.54,-2.04
+14,Dylan Moore,Hawthorn,Gen. Forward,23.0,12.0,11.0,0.52,0.48,3.0,0.0,13.0,3.58,1.46,2.12,-1.27
+14,Harry Morrison,Hawthorn,Midfielder,12.0,10.0,2.0,0.83,0.17,5.0,0.0,3.0,-5.4,0.55,-5.95,0.45
+14,Henry Hustwaite,Hawthorn,Midfielder,,,,,,,,,,,,
+14,Jack Ginnivan,Hawthorn,Gen. Forward,12.0,7.0,5.0,0.58,0.42,0.0,0.0,3.0,-6.64,-3.44,-3.2,-3.56
+14,Jack Gunston,Hawthorn,Key Forward,12.0,9.0,3.0,0.75,0.25,5.0,2.0,0.0,-0.56,-0.48,-0.09,-0.17
+14,Jai Newcombe,Hawthorn,Midfielder,15.0,6.0,9.0,0.4,0.6,0.0,1.0,6.0,-7.92,-4.19,-3.73,-3.5
+14,Jarman Impey,Hawthorn,Gen. Defender,28.0,19.0,9.0,0.68,0.32,10.0,0.0,4.0,8.71,6.25,2.46,5.04
+14,Josh Battle,Hawthorn,Key Defender,15.0,10.0,5.0,0.67,0.33,3.0,0.0,1.0,-3.46,-1.38,-2.08,-2.23
+14,Josh Ward,Hawthorn,Midfielder,20.0,13.0,7.0,0.65,0.35,4.0,0.0,5.0,-0.56,2.56,-3.12,0.84
+14,Josh Weddle,Hawthorn,Gen. Defender,23.0,13.0,10.0,0.57,0.43,6.0,0.0,2.0,6.89,3.94,2.94,1.06
+14,Karl Amon,Hawthorn,Gen. Defender,17.0,14.0,3.0,0.82,0.18,3.0,0.0,5.0,-7.0,-3.04,-3.96,-1.64
+14,Lloyd Meek,Hawthorn,Ruck,15.0,11.0,4.0,0.73,0.27,3.0,0.0,1.0,1.48,5.76,-4.28,0.28
+14,Mabior Chol,Hawthorn,Key Forward,12.0,9.0,3.0,0.75,0.25,2.0,1.0,3.0,2.0,1.88,0.12,-1.92
+14,Massimo D'Ambrosio,Hawthorn,Midfielder,19.0,12.0,7.0,0.63,0.37,1.0,0.0,2.0,0.85,0.15,0.69,-3.08
+14,Max Ramsden,Hawthorn,Key Forward,10.0,6.0,4.0,0.6,0.4,2.0,0.0,3.0,1.0,0.0,1.0,-1.75
+14,Nick Watson,Hawthorn,Gen. Forward,10.0,4.0,6.0,0.4,0.6,0.0,0.0,2.0,-0.88,-1.8,0.92,-2.04
+14,Sam Butler,Hawthorn,Mid-Forward,20.0,10.0,10.0,0.5,0.5,1.0,0.0,6.0,8.17,3.5,4.67,-1.17
+14,Seamus Mitchell,Hawthorn,Gen. Defender,6.0,3.0,3.0,0.5,0.5,2.0,0.0,3.0,-0.25,-0.5,0.25,0.0
+14,Tom Barrass,Hawthorn,Key Defender,8.0,4.0,4.0,0.5,0.5,4.0,0.0,1.0,-1.68,-1.68,0.0,0.24
+16,Blake Hardwick,Hawthorn,Gen. Defender,10.0,8.0,2.0,0.8,0.2,3.0,0.0,4.0,-4.73,-2.0,-2.73,-1.54
+16,Cam Mackenzie,Hawthorn,Midfielder,20.0,11.0,9.0,0.55,0.45,3.0,0.0,4.0,3.5,2.67,0.83,1.0
+16,Changkuoth Jiath,Hawthorn,Gen. Defender,15.0,7.0,8.0,0.47,0.53,4.0,0.0,1.0,1.2,-0.65,1.85,1.3
+16,Connor Macdonald,Hawthorn,Gen. Forward,16.0,8.0,8.0,0.5,0.5,4.0,2.0,3.0,1.12,-1.04,2.17,0.0
+16,Conor Nash,Hawthorn,Midfielder,21.0,11.0,10.0,0.52,0.48,1.0,0.0,5.0,2.64,2.18,0.46,-1.04
+16,Dylan Moore,Hawthorn,Gen. Forward,,,,,,,,,,,,
+16,Harry Morrison,Hawthorn,Midfielder,12.0,8.0,4.0,0.67,0.33,4.0,0.0,3.0,-5.4,-1.45,-3.95,-0.55
+16,Jack Ginnivan,Hawthorn,Gen. Forward,19.0,8.0,11.0,0.42,0.58,8.0,2.0,1.0,0.36,-2.44,2.8,4.44
+16,Jack Gunston,Hawthorn,Key Forward,15.0,11.0,4.0,0.73,0.27,4.0,7.0,1.0,2.44,1.52,0.91,-1.17
+16,Jai Newcombe,Hawthorn,Midfielder,27.0,15.0,12.0,0.56,0.44,6.0,0.0,4.0,4.08,4.81,-0.73,2.5
+16,Jarman Impey,Hawthorn,Gen. Defender,17.0,9.0,8.0,0.53,0.47,3.0,0.0,3.0,-2.29,-3.75,1.46,-1.96
+16,Josh Battle,Hawthorn,Key Defender,18.0,11.0,7.0,0.61,0.39,4.0,0.0,3.0,-0.46,-0.38,-0.08,-1.23
+16,Josh Ward,Hawthorn,Midfielder,20.0,16.0,4.0,0.8,0.2,3.0,0.0,3.0,-0.56,5.56,-6.12,-0.16
+16,Josh Weddle,Hawthorn,Gen. Defender,12.0,5.0,7.0,0.42,0.58,3.0,0.0,1.0,-4.11,-4.06,-0.06,-1.94
+16,Karl Amon,Hawthorn,Gen. Defender,33.0,19.0,14.0,0.58,0.42,4.0,0.0,2.0,9.0,1.96,7.04,-0.64
+16,Lloyd Meek,Hawthorn,Ruck,11.0,6.0,5.0,0.55,0.45,3.0,0.0,6.0,-2.52,0.76,-3.28,0.28
+16,Mabior Chol,Hawthorn,Key Forward,14.0,9.0,5.0,0.64,0.36,7.0,5.0,1.0,4.0,1.88,2.12,3.08
+16,Massimo D'Ambrosio,Hawthorn,Midfielder,16.0,14.0,2.0,0.88,0.12,4.0,0.0,2.0,-2.15,2.15,-4.31,-0.08
+16,Max Ramsden,Hawthorn,Key Forward,12.0,8.0,4.0,0.67,0.33,4.0,3.0,1.0,3.0,2.0,1.0,0.25
+16,Nick Watson,Hawthorn,Gen. Forward,13.0,9.0,4.0,0.69,0.31,3.0,3.0,0.0,2.12,3.2,-1.08,0.96
+16,Sam Butler,Hawthorn,Mid-Forward,8.0,4.0,4.0,0.5,0.5,1.0,0.0,3.0,-3.83,-2.5,-1.33,-1.17
+16,Seamus Mitchell,Hawthorn,Gen. Defender,,,,,,,,,,,,
+16,Tom Barrass,Hawthorn,Key Defender,8.0,3.0,5.0,0.38,0.62,2.0,0.0,1.0,-1.68,-2.68,1.0,-1.76
+17,Blake Hardwick,Hawthorn,Gen. Defender,14.0,11.0,3.0,0.79,0.21,5.0,0.0,5.0,-0.73,1.0,-1.73,0.46
+17,Cam Mackenzie,Hawthorn,Midfielder,,,,,,,,,,,,
+17,Changkuoth Jiath,Hawthorn,Gen. Defender,18.0,13.0,5.0,0.72,0.28,7.0,0.0,0.0,4.2,5.35,-1.15,4.3
+17,Connor Macdonald,Hawthorn,Gen. Forward,9.0,4.0,5.0,0.44,0.56,4.0,1.0,4.0,-5.88,-5.04,-0.83,0.0
+17,Conor Nash,Hawthorn,Midfielder,19.0,11.0,8.0,0.58,0.42,1.0,0.0,6.0,0.64,2.18,-1.54,-1.04
+17,Dylan Moore,Hawthorn,Gen. Forward,17.0,11.0,6.0,0.65,0.35,4.0,1.0,2.0,-2.42,0.46,-2.88,-0.27
+17,Harry Morrison,Hawthorn,Midfielder,18.0,10.0,8.0,0.56,0.44,8.0,1.0,1.0,0.6,0.55,0.05,3.45
+17,Jack Ginnivan,Hawthorn,Gen. Forward,19.0,11.0,8.0,0.58,0.42,3.0,1.0,1.0,0.36,0.56,-0.2,-0.56
+17,Jack Gunston,Hawthorn,Key Forward,9.0,9.0,0.0,1.0,0.0,5.0,3.0,0.0,-3.56,-0.48,-3.09,-0.17
+17,Jai Newcombe,Hawthorn,Midfielder,22.0,9.0,13.0,0.41,0.59,3.0,1.0,7.0,-0.92,-1.19,0.27,-0.5
+17,James Sicily,Hawthorn,Gen. Defender,16.0,9.0,7.0,0.56,0.44,7.0,0.0,1.0,-3.52,-4.26,0.74,0.35
+17,James Worpel,Hawthorn,Midfielder,14.0,7.0,7.0,0.5,0.5,0.0,0.0,3.0,-6.05,-3.05,-3.0,-1.62
+17,Jarman Impey,Hawthorn,Gen. Defender,22.0,18.0,4.0,0.82,0.18,7.0,0.0,4.0,2.71,5.25,-2.54,2.04
+17,Josh Battle,Hawthorn,Key Defender,23.0,13.0,10.0,0.57,0.43,7.0,0.0,2.0,4.54,1.62,2.92,1.77
+17,Josh Ward,Hawthorn,Midfielder,14.0,6.0,8.0,0.43,0.57,4.0,0.0,6.0,-6.56,-4.44,-2.12,0.84
+17,Karl Amon,Hawthorn,Gen. Defender,21.0,17.0,4.0,0.81,0.19,9.0,0.0,0.0,-3.0,-0.04,-2.96,4.36
+17,Lloyd Meek,Hawthorn,Ruck,20.0,7.0,13.0,0.35,0.65,4.0,0.0,6.0,6.48,1.76,4.72,1.28
+17,Mabior Chol,Hawthorn,Key Forward,7.0,4.0,3.0,0.57,0.43,2.0,2.0,5.0,-3.0,-3.12,0.12,-1.92
+17,Massimo D'Ambrosio,Hawthorn,Midfielder,20.0,17.0,3.0,0.85,0.15,8.0,1.0,1.0,1.85,5.15,-3.31,3.92
+17,Max Ramsden,Hawthorn,Key Forward,,,,,,,,,,,,
+17,Nick Watson,Hawthorn,Gen. Forward,10.0,5.0,5.0,0.5,0.5,3.0,2.0,1.0,-0.88,-0.8,-0.08,0.96
+17,Seamus Mitchell,Hawthorn,Gen. Defender,,,,,,,,,,,,
+17,Tom Barrass,Hawthorn,Key Defender,13.0,8.0,5.0,0.62,0.38,5.0,0.0,1.0,3.32,2.32,1.0,1.24
+18,Blake Hardwick,Hawthorn,Gen. Defender,13.0,7.0,6.0,0.54,0.46,1.0,0.0,2.0,-1.73,-3.0,1.27,-3.54
+18,Calsher Dear,Hawthorn,Key Forward,9.0,5.0,4.0,0.56,0.44,3.0,3.0,1.0,1.67,0.78,0.89,0.67
+18,Cam Mackenzie,Hawthorn,Midfielder,,,,,,,,,,,,
+18,Changkuoth Jiath,Hawthorn,Gen. Defender,9.0,1.0,8.0,0.11,0.89,1.0,0.0,3.0,-4.8,-6.65,1.85,-1.7
+18,Connor Macdonald,Hawthorn,Gen. Forward,14.0,10.0,4.0,0.71,0.29,1.0,1.0,5.0,-0.88,0.96,-1.83,-3.0
+18,Conor Nash,Hawthorn,Midfielder,22.0,12.0,10.0,0.55,0.45,0.0,0.0,5.0,3.64,3.18,0.46,-2.04
+18,Dylan Moore,Hawthorn,Gen. Forward,17.0,11.0,6.0,0.65,0.35,1.0,1.0,5.0,-2.42,0.46,-2.88,-3.27
+18,Finn Maginness,Hawthorn,Gen. Forward,,,,,,,,,,,,
+18,Harry Morrison,Hawthorn,Midfielder,18.0,8.0,10.0,0.44,0.56,2.0,0.0,8.0,0.6,-1.45,2.05,-2.55
+18,Jack Ginnivan,Hawthorn,Gen. Forward,27.0,16.0,11.0,0.59,0.41,4.0,1.0,3.0,8.36,5.56,2.8,0.44
+18,Jack Gunston,Hawthorn,Key Forward,11.0,7.0,4.0,0.64,0.36,3.0,1.0,3.0,-1.56,-2.48,0.91,-2.17
+18,Jai Newcombe,Hawthorn,Midfielder,24.0,7.0,17.0,0.29,0.71,2.0,0.0,2.0,1.08,-3.19,4.27,-1.5
+18,James Sicily,Hawthorn,Gen. Defender,21.0,16.0,5.0,0.76,0.24,7.0,0.0,1.0,1.48,2.74,-1.26,0.35
+18,James Worpel,Hawthorn,Midfielder,22.0,10.0,12.0,0.45,0.55,1.0,0.0,8.0,1.95,-0.05,2.0,-0.62
+18,Jarman Impey,Hawthorn,Gen. Defender,21.0,16.0,5.0,0.76,0.24,4.0,0.0,1.0,1.71,3.25,-1.54,-0.96
+18,Josh Battle,Hawthorn,Key Defender,15.0,9.0,6.0,0.6,0.4,5.0,0.0,2.0,-3.46,-2.38,-1.08,-0.23
+18,Josh Ward,Hawthorn,Midfielder,17.0,7.0,10.0,0.41,0.59,4.0,0.0,5.0,-3.56,-3.44,-0.12,0.84
+18,Karl Amon,Hawthorn,Gen. Defender,30.0,21.0,9.0,0.7,0.3,9.0,0.0,3.0,6.0,3.96,2.04,4.36
+18,Lloyd Meek,Hawthorn,Ruck,11.0,4.0,7.0,0.36,0.64,3.0,0.0,13.0,-2.52,-1.24,-1.28,0.28
+18,Mabior Chol,Hawthorn,Key Forward,7.0,6.0,1.0,0.86,0.14,3.0,0.0,3.0,-3.0,-1.12,-1.88,-0.92
+18,Massimo D'Ambrosio,Hawthorn,Midfielder,20.0,15.0,5.0,0.75,0.25,5.0,0.0,1.0,1.85,3.15,-1.31,0.92
+18,Nick Watson,Hawthorn,Gen. Forward,8.0,4.0,4.0,0.5,0.5,0.0,1.0,1.0,-2.88,-1.8,-1.08,-2.04
+18,Tom Barrass,Hawthorn,Key Defender,13.0,8.0,5.0,0.62,0.38,3.0,0.0,1.0,3.32,2.32,1.0,-0.76
+19,Bailey Macdonald,Hawthorn,Gen. Defender,,,,,,,,,,,,
+19,Blake Hardwick,Hawthorn,Gen. Defender,27.0,22.0,5.0,0.81,0.19,8.0,0.0,4.0,12.27,12.0,0.27,3.46
+19,Calsher Dear,Hawthorn,Key Forward,10.0,6.0,4.0,0.6,0.4,3.0,2.0,1.0,2.67,1.78,0.89,0.67
+19,Connor Macdonald,Hawthorn,Gen. Forward,12.0,9.0,3.0,0.75,0.25,3.0,0.0,6.0,-2.88,-0.04,-2.83,-1.0
+19,Conor Nash,Hawthorn,Midfielder,19.0,9.0,10.0,0.47,0.53,1.0,0.0,13.0,0.64,0.18,0.46,-1.04
+19,Dylan Moore,Hawthorn,Gen. Forward,32.0,25.0,7.0,0.78,0.22,2.0,2.0,9.0,12.58,14.46,-1.88,-2.27
+19,Finn Maginness,Hawthorn,Gen. Forward,9.0,3.0,6.0,0.33,0.67,0.0,0.0,5.0,-4.31,-3.08,-1.23,-2.77
+19,Harry Morrison,Hawthorn,Midfielder,21.0,16.0,5.0,0.76,0.24,1.0,0.0,2.0,3.6,6.55,-2.95,-3.55
+19,Jack Ginnivan,Hawthorn,Gen. Forward,21.0,12.0,9.0,0.57,0.43,4.0,1.0,2.0,2.36,1.56,0.8,0.44
+19,Jack Gunston,Hawthorn,Key Forward,13.0,9.0,4.0,0.69,0.31,3.0,3.0,1.0,0.44,-0.48,0.91,-2.17
+19,Jack Scrimshaw,Hawthorn,Gen. Defender,18.0,9.0,9.0,0.5,0.5,2.0,0.0,5.0,4.31,1.12,3.19,-2.5
+19,Jai Newcombe,Hawthorn,Midfielder,11.0,2.0,9.0,0.18,0.82,0.0,0.0,4.0,-11.92,-8.19,-3.73,-3.5
+19,James Sicily,Hawthorn,Gen. Defender,21.0,13.0,8.0,0.62,0.38,6.0,0.0,3.0,1.48,-0.26,1.74,-0.65
+19,James Worpel,Hawthorn,Midfielder,26.0,19.0,7.0,0.73,0.27,2.0,0.0,7.0,5.95,8.95,-3.0,0.38
+19,Jarman Impey,Hawthorn,Gen. Defender,26.0,18.0,8.0,0.69,0.31,5.0,3.0,5.0,6.71,5.25,1.46,0.04
+19,Josh Battle,Hawthorn,Key Defender,17.0,11.0,6.0,0.65,0.35,2.0,0.0,3.0,-1.46,-0.38,-1.08,-3.23
+19,Josh Ward,Hawthorn,Midfielder,26.0,15.0,11.0,0.58,0.42,2.0,0.0,9.0,5.44,4.56,0.88,-1.16
+19,Karl Amon,Hawthorn,Gen. Defender,22.0,16.0,6.0,0.73,0.27,3.0,0.0,4.0,-2.0,-1.04,-0.96,-1.64
+19,Lloyd Meek,Hawthorn,Ruck,12.0,4.0,8.0,0.33,0.67,1.0,0.0,4.0,-1.52,-1.24,-0.28,-1.72
+19,Massimo D'Ambrosio,Hawthorn,Midfielder,17.0,11.0,6.0,0.65,0.35,2.0,0.0,4.0,-1.15,-0.85,-0.31,-2.08
+19,Mitch Lewis,Hawthorn,Key Forward,,,,,,,,,,,,
+19,Nick Watson,Hawthorn,Gen. Forward,13.0,7.0,6.0,0.54,0.46,0.0,1.0,2.0,2.12,1.2,0.92,-2.04
+19,Tom Barrass,Hawthorn,Key Defender,5.0,3.0,2.0,0.6,0.4,4.0,0.0,2.0,-4.68,-2.68,-2.0,0.24
+20,Bailey Macdonald,Hawthorn,Gen. Defender,,,,,,,,,,,,
+20,Blake Hardwick,Hawthorn,Gen. Defender,19.0,15.0,4.0,0.79,0.21,7.0,0.0,2.0,4.27,5.0,-0.73,2.46
+20,Calsher Dear,Hawthorn,Key Forward,11.0,7.0,4.0,0.64,0.36,5.0,2.0,4.0,3.67,2.78,0.89,2.67
+20,Connor Macdonald,Hawthorn,Gen. Forward,16.0,7.0,9.0,0.44,0.56,4.0,1.0,5.0,1.12,-2.04,3.17,0.0
+20,Conor Nash,Hawthorn,Midfielder,21.0,8.0,13.0,0.38,0.62,8.0,0.0,5.0,2.64,-0.82,3.46,5.96
+20,Dylan Moore,Hawthorn,Gen. Forward,27.0,13.0,14.0,0.48,0.52,6.0,0.0,4.0,7.58,2.46,5.12,1.73
+20,Harry Morrison,Hawthorn,Midfielder,17.0,8.0,9.0,0.47,0.53,5.0,1.0,1.0,-0.4,-1.45,1.05,0.45
+20,Jack Ginnivan,Hawthorn,Gen. Forward,18.0,9.0,9.0,0.5,0.5,3.0,1.0,6.0,-0.64,-1.44,0.8,-0.56
+20,Jack Gunston,Hawthorn,Key Forward,18.0,13.0,5.0,0.72,0.28,4.0,3.0,1.0,5.44,3.52,1.91,-1.17
+20,Jack Scrimshaw,Hawthorn,Gen. Defender,15.0,9.0,6.0,0.6,0.4,6.0,0.0,2.0,1.31,1.12,0.19,1.5
+20,Jai Newcombe,Hawthorn,Midfielder,,,,,,,,,,,,
+20,James Sicily,Hawthorn,Gen. Defender,25.0,17.0,8.0,0.68,0.32,11.0,0.0,3.0,5.48,3.74,1.74,4.35
+20,James Worpel,Hawthorn,Midfielder,17.0,8.0,9.0,0.47,0.53,2.0,0.0,9.0,-3.05,-2.05,-1.0,0.38
+20,Jarman Impey,Hawthorn,Gen. Defender,25.0,14.0,11.0,0.56,0.44,8.0,0.0,3.0,5.71,1.25,4.46,3.04
+20,Josh Battle,Hawthorn,Key Defender,14.0,9.0,5.0,0.64,0.36,7.0,0.0,1.0,-4.46,-2.38,-2.08,1.77
+20,Josh Ward,Hawthorn,Midfielder,22.0,7.0,15.0,0.32,0.68,4.0,1.0,4.0,1.44,-3.44,4.88,0.84
+20,Karl Amon,Hawthorn,Gen. Defender,17.0,15.0,2.0,0.88,0.12,3.0,0.0,0.0,-7.0,-2.04,-4.96,-1.64
+20,Lloyd Meek,Hawthorn,Ruck,13.0,6.0,7.0,0.46,0.54,3.0,0.0,2.0,-0.52,0.76,-1.28,0.28
+20,Massimo D'Ambrosio,Hawthorn,Midfielder,22.0,13.0,9.0,0.59,0.41,7.0,0.0,2.0,3.85,1.15,2.69,2.92
+20,Mitch Lewis,Hawthorn,Key Forward,14.0,9.0,5.0,0.64,0.36,6.0,2.0,2.0,6.12,3.75,2.38,2.75
+20,Nick Watson,Hawthorn,Gen. Forward,16.0,7.0,9.0,0.44,0.56,1.0,2.0,2.0,5.12,1.2,3.92,-1.04
+20,Tom Barrass,Hawthorn,Key Defender,13.0,9.0,4.0,0.69,0.31,7.0,0.0,0.0,3.32,3.32,0.0,3.24
+20,Will Day,Hawthorn,Midfielder,15.0,8.0,7.0,0.53,0.47,4.0,0.0,5.0,-6.0,-2.5,-3.5,1.0
+21,Blake Hardwick,Hawthorn,Gen. Defender,15.0,8.0,7.0,0.53,0.47,2.0,0.0,0.0,0.27,-2.0,2.27,-2.54
+21,Calsher Dear,Hawthorn,Key Forward,,,,,,,,,,,,
+21,Connor Macdonald,Hawthorn,Gen. Forward,15.0,7.0,8.0,0.47,0.53,3.0,0.0,4.0,0.12,-2.04,2.17,-1.0
+21,Conor Nash,Hawthorn,Midfielder,17.0,7.0,10.0,0.41,0.59,1.0,1.0,5.0,-1.36,-1.82,0.46,-1.04
+21,Dylan Moore,Hawthorn,Gen. Forward,15.0,3.0,12.0,0.2,0.8,1.0,1.0,5.0,-4.42,-7.54,3.12,-3.27
+21,Harry Morrison,Hawthorn,Midfielder,19.0,11.0,8.0,0.58,0.42,5.0,0.0,0.0,1.6,1.55,0.05,0.45
+21,Jack Ginnivan,Hawthorn,Gen. Forward,20.0,11.0,9.0,0.55,0.45,3.0,2.0,1.0,1.36,0.56,0.8,-0.56
+21,Jack Gunston,Hawthorn,Key Forward,10.0,7.0,3.0,0.7,0.3,2.0,4.0,0.0,-2.56,-2.48,-0.09,-3.17
+21,Jack Scrimshaw,Hawthorn,Gen. Defender,11.0,6.0,5.0,0.55,0.45,4.0,0.0,0.0,-2.69,-1.88,-0.81,-0.5
+21,Jai Newcombe,Hawthorn,Midfielder,19.0,7.0,12.0,0.37,0.63,3.0,0.0,6.0,-3.92,-3.19,-0.73,-0.5
+21,James Sicily,Hawthorn,Gen. Defender,18.0,15.0,3.0,0.83,0.17,11.0,0.0,1.0,-1.52,1.74,-3.26,4.35
+21,James Worpel,Hawthorn,Midfielder,,,,,,,,,,,,
+21,Jarman Impey,Hawthorn,Gen. Defender,22.0,13.0,9.0,0.59,0.41,5.0,0.0,3.0,2.71,0.25,2.46,0.04
+21,Josh Battle,Hawthorn,Key Defender,22.0,14.0,8.0,0.64,0.36,8.0,0.0,3.0,3.54,2.62,0.92,2.77
+21,Josh Ward,Hawthorn,Midfielder,15.0,10.0,5.0,0.67,0.33,2.0,0.0,2.0,-5.56,-0.44,-5.12,-1.16
+21,Karl Amon,Hawthorn,Gen. Defender,23.0,15.0,8.0,0.65,0.35,1.0,0.0,5.0,-1.0,-2.04,1.04,-3.64
+21,Lloyd Meek,Hawthorn,Ruck,17.0,7.0,10.0,0.41,0.59,3.0,0.0,5.0,3.48,1.76,1.72,0.28
+21,Mabior Chol,Hawthorn,Key Forward,9.0,7.0,2.0,0.78,0.22,1.0,1.0,2.0,-1.0,-0.12,-0.88,-2.92
+21,Massimo D'Ambrosio,Hawthorn,Midfielder,25.0,12.0,13.0,0.48,0.52,4.0,1.0,1.0,6.85,0.15,6.69,-0.08
+21,Mitch Lewis,Hawthorn,Key Forward,7.0,5.0,2.0,0.71,0.29,4.0,1.0,3.0,-0.88,-0.25,-0.62,0.75
+21,Nick Watson,Hawthorn,Gen. Forward,14.0,6.0,8.0,0.43,0.57,1.0,1.0,4.0,3.12,0.2,2.92,-1.04
+21,Tom Barrass,Hawthorn,Key Defender,7.0,3.0,4.0,0.43,0.57,2.0,0.0,2.0,-2.68,-2.68,0.0,-1.76
+21,Will Day,Hawthorn,Midfielder,19.0,6.0,13.0,0.32,0.68,1.0,1.0,9.0,-2.0,-4.5,2.5,-2.0
+22,Blake Hardwick,Hawthorn,Gen. Defender,11.0,7.0,4.0,0.64,0.36,2.0,0.0,1.0,-3.73,-3.0,-0.73,-2.54
+22,Calsher Dear,Hawthorn,Key Forward,,,,,,,,,,,,
+22,Changkuoth Jiath,Hawthorn,Gen. Defender,12.0,6.0,6.0,0.5,0.5,2.0,0.0,3.0,-1.8,-1.65,-0.15,-0.7
+22,Connor Macdonald,Hawthorn,Gen. Forward,18.0,12.0,6.0,0.67,0.33,2.0,0.0,0.0,3.12,2.96,0.17,-2.0
+22,Conor Nash,Hawthorn,Midfielder,23.0,12.0,11.0,0.52,0.48,5.0,0.0,3.0,4.64,3.18,1.46,2.96
+22,Dylan Moore,Hawthorn,Gen. Forward,25.0,12.0,13.0,0.48,0.52,6.0,1.0,2.0,5.58,1.46,4.12,1.73
+22,Jack Ginnivan,Hawthorn,Gen. Forward,26.0,13.0,13.0,0.5,0.5,4.0,0.0,1.0,7.36,2.56,4.8,0.44
+22,Jack Gunston,Hawthorn,Key Forward,11.0,8.0,3.0,0.73,0.27,5.0,4.0,2.0,-1.56,-1.48,-0.09,-0.17
+22,Jack Scrimshaw,Hawthorn,Gen. Defender,15.0,8.0,7.0,0.53,0.47,6.0,0.0,1.0,1.31,0.12,1.19,1.5
+22,Jai Newcombe,Hawthorn,Midfielder,28.0,10.0,18.0,0.36,0.64,5.0,1.0,2.0,5.08,-0.19,5.27,1.5
+22,James Sicily,Hawthorn,Gen. Defender,26.0,18.0,8.0,0.69,0.31,9.0,0.0,2.0,6.48,4.74,1.74,2.35
+22,James Worpel,Hawthorn,Midfielder,21.0,13.0,8.0,0.62,0.38,1.0,1.0,1.0,0.95,2.95,-2.0,-0.62
+22,Jarman Impey,Hawthorn,Gen. Defender,25.0,18.0,7.0,0.72,0.28,8.0,0.0,2.0,5.71,5.25,0.46,3.04
+22,Josh Battle,Hawthorn,Key Defender,26.0,19.0,7.0,0.73,0.27,7.0,0.0,0.0,7.54,7.62,-0.08,1.77
+22,Josh Ward,Hawthorn,Midfielder,21.0,14.0,7.0,0.67,0.33,6.0,0.0,3.0,0.44,3.56,-3.12,2.84
+22,Karl Amon,Hawthorn,Gen. Defender,27.0,15.0,12.0,0.56,0.44,8.0,0.0,1.0,3.0,-2.04,5.04,3.36
+22,Lloyd Meek,Hawthorn,Ruck,10.0,7.0,3.0,0.7,0.3,7.0,3.0,4.0,-3.52,1.76,-5.28,4.28
+22,Luke Breust,Hawthorn,Gen. Forward,,,,,,,,,,,,
+22,Mabior Chol,Hawthorn,Key Forward,14.0,10.0,4.0,0.71,0.29,5.0,3.0,3.0,4.0,2.88,1.12,1.08
+22,Massimo D'Ambrosio,Hawthorn,Midfielder,24.0,13.0,11.0,0.54,0.46,7.0,0.0,1.0,5.85,1.15,4.69,2.92
+22,Mitch Lewis,Hawthorn,Key Forward,11.0,8.0,3.0,0.73,0.27,6.0,1.0,4.0,3.12,2.75,0.38,2.75
+22,Nick Watson,Hawthorn,Gen. Forward,14.0,6.0,8.0,0.43,0.57,0.0,2.0,1.0,3.12,0.2,2.92,-2.04
+22,Tom Barrass,Hawthorn,Key Defender,8.0,6.0,2.0,0.75,0.25,4.0,0.0,0.0,-1.68,0.32,-2.0,0.24
+23,Blake Hardwick,Hawthorn,Gen. Defender,19.0,14.0,5.0,0.74,0.26,4.0,0.0,1.0,4.27,4.0,0.27,-0.54
+23,Calsher Dear,Hawthorn,Key Forward,9.0,5.0,4.0,0.56,0.44,3.0,1.0,6.0,1.67,0.78,0.89,0.67
+23,Changkuoth Jiath,Hawthorn,Gen. Defender,14.0,6.0,8.0,0.43,0.57,0.0,0.0,3.0,0.2,-1.65,1.85,-2.7
+23,Connor Macdonald,Hawthorn,Gen. Forward,28.0,21.0,7.0,0.75,0.25,10.0,1.0,0.0,13.12,11.96,1.17,6.0
+23,Conor Nash,Hawthorn,Midfielder,19.0,9.0,10.0,0.47,0.53,2.0,0.0,5.0,0.64,0.18,0.46,-0.04
+23,Dylan Moore,Hawthorn,Gen. Forward,32.0,16.0,16.0,0.5,0.5,9.0,2.0,1.0,12.58,5.46,7.12,4.73
+23,Jack Ginnivan,Hawthorn,Gen. Forward,21.0,9.0,12.0,0.43,0.57,4.0,0.0,2.0,2.36,-1.44,3.8,0.44
+23,Jack Gunston,Hawthorn,Key Forward,14.0,13.0,1.0,0.93,0.07,10.0,7.0,2.0,1.44,3.52,-2.09,4.83
+23,Jack Scrimshaw,Hawthorn,Gen. Defender,17.0,9.0,8.0,0.53,0.47,5.0,0.0,3.0,3.31,1.12,2.19,0.5
+23,Jai Newcombe,Hawthorn,Midfielder,22.0,8.0,14.0,0.36,0.64,5.0,0.0,5.0,-0.92,-2.19,1.27,1.5
+23,James Sicily,Hawthorn,Gen. Defender,22.0,15.0,7.0,0.68,0.32,7.0,0.0,1.0,2.48,1.74,0.74,0.35
+23,James Worpel,Hawthorn,Midfielder,27.0,12.0,15.0,0.44,0.56,2.0,0.0,4.0,6.95,1.95,5.0,0.38
+23,Jarman Impey,Hawthorn,Gen. Defender,29.0,20.0,9.0,0.69,0.31,6.0,0.0,5.0,9.71,7.25,2.46,1.04
+23,Josh Battle,Hawthorn,Key Defender,17.0,10.0,7.0,0.59,0.41,5.0,0.0,2.0,-1.46,-1.38,-0.08,-0.23
+23,Josh Ward,Hawthorn,Midfielder,22.0,8.0,14.0,0.36,0.64,3.0,0.0,2.0,1.44,-2.44,3.88,-0.16
+23,Karl Amon,Hawthorn,Gen. Defender,24.0,17.0,7.0,0.71,0.29,8.0,0.0,2.0,0.0,-0.04,0.04,3.36
+23,Lloyd Meek,Hawthorn,Ruck,10.0,5.0,5.0,0.5,0.5,3.0,0.0,2.0,-3.52,-0.24,-3.28,0.28
+23,Luke Breust,Hawthorn,Gen. Forward,,,,,,,,,,,,
+23,Mabior Chol,Hawthorn,Key Forward,8.0,5.0,3.0,0.62,0.38,3.0,0.0,0.0,-2.0,-2.12,0.12,-0.92
+23,Massimo D'Ambrosio,Hawthorn,Midfielder,19.0,11.0,8.0,0.58,0.42,3.0,0.0,2.0,0.85,-0.85,1.69,-1.08
+23,Mitch Lewis,Hawthorn,Key Forward,10.0,6.0,4.0,0.6,0.4,4.0,0.0,2.0,2.12,0.75,1.38,0.75
+23,Nick Watson,Hawthorn,Gen. Forward,,,,,,,,,,,,
+23,Tom Barrass,Hawthorn,Key Defender,11.0,5.0,6.0,0.45,0.55,1.0,0.0,1.0,1.32,-0.68,2.0,-2.76

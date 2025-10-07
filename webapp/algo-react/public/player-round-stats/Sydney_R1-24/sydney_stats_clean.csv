@@ -1,0 +1,484 @@
+Round,Player,Team,Position,Disposals,Kicks,Handballs,K%,H%,Marks,Goals,Tackles,DispDiff,KickDiff,HbDiff,MarkDiff
+1,Ben Paton,Sydney,Gen. Defender,,,,,,,,,,,,
+1,Braeden Campbell,Sydney,Gen. Forward,13.0,9.0,4.0,0.69,0.31,1.0,2.0,7.0,0.65,1.52,-0.87,-2.13
+1,Brodie Grundy,Sydney,Ruck,16.0,6.0,10.0,0.38,0.62,4.0,0.0,3.0,-3.45,-1.27,-2.18,0.64
+1,Chad Warner,Sydney,Midfielder,20.0,12.0,8.0,0.6,0.4,4.0,2.0,1.0,-2.17,-2.35,0.17,0.04
+1,Corey Warner,Sydney,Mid-Forward,15.0,11.0,4.0,0.73,0.27,6.0,2.0,1.0,3.0,3.5,-0.5,3.0
+1,Dane Rampe,Sydney,Gen. Defender,21.0,10.0,11.0,0.48,0.52,4.0,0.0,1.0,7.62,0.9,6.71,-0.33
+1,Isaac Heeney,Sydney,Midfielder,23.0,14.0,9.0,0.61,0.39,7.0,2.0,2.0,-0.57,1.04,-1.61,3.22
+1,Jake Lloyd,Sydney,Midfielder,19.0,9.0,10.0,0.47,0.53,4.0,1.0,2.0,-1.05,-3.59,2.54,-3.14
+1,James Jordon,Sydney,Midfielder,19.0,6.0,13.0,0.32,0.68,3.0,0.0,7.0,4.48,-0.78,5.26,1.0
+1,James Rowbottom,Sydney,Midfielder,11.0,7.0,4.0,0.64,0.36,0.0,0.0,11.0,-5.04,-2.48,-2.57,-2.35
+1,Joel Amartey,Sydney,Key Forward,8.0,6.0,2.0,0.75,0.25,4.0,0.0,2.0,-0.88,-0.12,-0.75,-0.25
+1,Joel Hamling,Sydney,Key Defender,11.0,5.0,6.0,0.45,0.55,4.0,0.0,1.0,3.43,0.93,2.5,1.43
+1,Justin McInerney,Sydney,Mid-Forward,23.0,8.0,15.0,0.35,0.65,4.0,0.0,1.0,1.53,-3.29,4.82,-1.24
+1,Lewis Melican,Sydney,Key Defender,13.0,9.0,4.0,0.69,0.31,6.0,0.0,1.0,3.29,2.12,1.18,1.59
+1,Matt Roberts,Sydney,Gen. Defender,19.0,14.0,5.0,0.74,0.26,3.0,0.0,4.0,-2.22,-0.61,-1.61,-3.0
+1,Nick Blakey,Sydney,Gen. Defender,24.0,19.0,5.0,0.79,0.21,4.0,0.0,1.0,2.61,1.61,1.0,-1.48
+1,Oliver Florent,Sydney,Midfielder,17.0,11.0,6.0,0.65,0.35,2.0,0.0,3.0,1.81,2.31,-0.5,-2.12
+1,Riley Bice,Sydney,Gen. Defender,,,,,,,,,,,,
+1,Sam Wicks,Sydney,Gen. Defender,14.0,8.0,6.0,0.57,0.43,2.0,0.0,3.0,-0.62,-1.95,1.33,-0.43
+1,Tom Hanily,Sydney,Gen. Forward,12.0,7.0,5.0,0.58,0.42,4.0,1.0,3.0,4.88,3.88,1.0,2.0
+1,Tom McCartin,Sydney,Key Defender,12.0,11.0,1.0,0.92,0.08,7.0,1.0,1.0,-1.25,1.95,-3.2,0.7
+1,Tom Papley,Sydney,Gen. Forward,8.0,4.0,4.0,0.5,0.5,0.0,0.0,1.0,-7.0,-6.18,-0.82,-3.91
+1,Will Hayward,Sydney,Gen. Forward,11.0,9.0,2.0,0.82,0.18,3.0,1.0,1.0,-0.29,2.43,-2.71,-0.24
+2,Angus Sheldrick,Sydney,Midfielder,,,,,,,,,,,,
+2,Braeden Campbell,Sydney,Gen. Forward,16.0,10.0,6.0,0.62,0.38,4.0,0.0,3.0,3.65,2.52,1.13,0.87
+2,Brodie Grundy,Sydney,Ruck,11.0,7.0,4.0,0.64,0.36,6.0,0.0,3.0,-8.45,-0.27,-8.18,2.64
+2,Chad Warner,Sydney,Midfielder,26.0,22.0,4.0,0.85,0.15,9.0,1.0,5.0,3.83,7.65,-3.83,5.04
+2,Corey Warner,Sydney,Mid-Forward,14.0,10.0,4.0,0.71,0.29,4.0,0.0,4.0,2.0,2.5,-0.5,1.0
+2,Dane Rampe,Sydney,Gen. Defender,12.0,12.0,0.0,1.0,0.0,9.0,0.0,4.0,-1.38,2.9,-4.29,4.67
+2,Hayden McLean,Sydney,Key Forward,9.0,6.0,3.0,0.67,0.33,1.0,2.0,5.0,-0.32,0.42,-0.74,-2.58
+2,Isaac Heeney,Sydney,Midfielder,21.0,12.0,9.0,0.57,0.43,3.0,0.0,5.0,-2.57,-0.96,-1.61,-0.78
+2,Jake Lloyd,Sydney,Midfielder,25.0,18.0,7.0,0.72,0.28,10.0,0.0,1.0,4.95,5.41,-0.46,2.86
+2,James Jordon,Sydney,Midfielder,24.0,7.0,17.0,0.29,0.71,1.0,0.0,2.0,9.48,0.22,9.26,-1.0
+2,James Rowbottom,Sydney,Midfielder,22.0,11.0,11.0,0.5,0.5,3.0,0.0,4.0,5.96,1.52,4.43,0.65
+2,Joel Amartey,Sydney,Key Forward,8.0,5.0,3.0,0.62,0.38,5.0,2.0,2.0,-0.88,-1.12,0.25,0.75
+2,Joel Hamling,Sydney,Key Defender,12.0,6.0,6.0,0.5,0.5,5.0,0.0,1.0,4.43,1.93,2.5,2.43
+2,Matt Roberts,Sydney,Gen. Defender,25.0,19.0,6.0,0.76,0.24,5.0,0.0,2.0,3.78,4.39,-0.61,-1.0
+2,Nick Blakey,Sydney,Gen. Defender,20.0,19.0,1.0,0.95,0.05,7.0,0.0,1.0,-1.39,1.61,-3.0,1.52
+2,Oliver Florent,Sydney,Midfielder,11.0,6.0,5.0,0.55,0.45,1.0,0.0,3.0,-4.19,-2.69,-1.5,-3.12
+2,Peter Ladhams,Sydney,Ruck,12.0,7.0,5.0,0.58,0.42,2.0,1.0,2.0,1.3,1.4,-0.1,-0.1
+2,Riley Bice,Sydney,Gen. Defender,14.0,8.0,6.0,0.57,0.43,3.0,1.0,4.0,0.19,-0.81,1.0,-1.5
+2,Sam Wicks,Sydney,Gen. Defender,15.0,7.0,8.0,0.47,0.53,1.0,0.0,1.0,0.38,-2.95,3.33,-1.43
+2,Tom Hanily,Sydney,Gen. Forward,7.0,2.0,5.0,0.29,0.71,2.0,1.0,0.0,-0.12,-1.12,1.0,0.0
+2,Tom McCartin,Sydney,Key Defender,15.0,10.0,5.0,0.67,0.33,5.0,0.0,1.0,1.75,0.95,0.8,-1.3
+2,Tom Papley,Sydney,Gen. Forward,19.0,15.0,4.0,0.79,0.21,4.0,0.0,2.0,4.0,4.82,-0.82,0.09
+2,Will Hayward,Sydney,Gen. Forward,7.0,5.0,2.0,0.71,0.29,3.0,1.0,2.0,-4.29,-1.57,-2.71,-0.24
+4,Angus Sheldrick,Sydney,Midfielder,,,,,,,,,,,,
+4,Braeden Campbell,Sydney,Gen. Forward,15.0,11.0,4.0,0.73,0.27,4.0,1.0,2.0,2.65,3.52,-0.87,0.87
+4,Brodie Grundy,Sydney,Ruck,20.0,8.0,12.0,0.4,0.6,1.0,0.0,4.0,0.55,0.73,-0.18,-2.36
+4,Caiden Cleary,Sydney,Gen. Forward,12.0,7.0,5.0,0.58,0.42,3.0,0.0,6.0,1.0,3.0,-2.0,0.5
+4,Chad Warner,Sydney,Midfielder,,,,,,,,,,,,
+4,Corey Warner,Sydney,Mid-Forward,11.0,8.0,3.0,0.73,0.27,2.0,0.0,2.0,-1.0,0.5,-1.5,-1.0
+4,Dane Rampe,Sydney,Gen. Defender,13.0,10.0,3.0,0.77,0.23,6.0,0.0,3.0,-0.38,0.9,-1.29,1.67
+4,Hayden McLean,Sydney,Key Forward,8.0,4.0,4.0,0.5,0.5,3.0,1.0,1.0,-1.32,-1.58,0.26,-0.58
+4,Isaac Heeney,Sydney,Midfielder,19.0,14.0,5.0,0.74,0.26,4.0,0.0,3.0,-4.57,1.04,-5.61,0.22
+4,Jake Lloyd,Sydney,Midfielder,24.0,19.0,5.0,0.79,0.21,12.0,0.0,2.0,3.95,6.41,-2.46,4.86
+4,James Jordon,Sydney,Midfielder,16.0,8.0,8.0,0.5,0.5,5.0,0.0,3.0,1.48,1.22,0.26,3.0
+4,James Rowbottom,Sydney,Midfielder,20.0,12.0,8.0,0.6,0.4,3.0,0.0,6.0,3.96,2.52,1.43,0.65
+4,Joel Amartey,Sydney,Key Forward,8.0,7.0,1.0,0.88,0.12,5.0,4.0,2.0,-0.88,0.88,-1.75,0.75
+4,Joel Hamling,Sydney,Key Defender,7.0,5.0,2.0,0.71,0.29,3.0,0.0,2.0,-0.57,0.93,-1.5,0.43
+4,Matt Roberts,Sydney,Gen. Defender,20.0,13.0,7.0,0.65,0.35,6.0,1.0,1.0,-1.22,-1.61,0.39,0.0
+4,Nick Blakey,Sydney,Gen. Defender,14.0,11.0,3.0,0.79,0.21,5.0,0.0,1.0,-7.39,-6.39,-1.0,-0.48
+4,Oliver Florent,Sydney,Midfielder,18.0,12.0,6.0,0.67,0.33,12.0,1.0,0.0,2.81,3.31,-0.5,7.88
+4,Peter Ladhams,Sydney,Ruck,14.0,7.0,7.0,0.5,0.5,4.0,1.0,1.0,3.3,1.4,1.9,1.9
+4,Riley Bice,Sydney,Gen. Defender,26.0,20.0,6.0,0.77,0.23,15.0,0.0,2.0,12.19,11.19,1.0,10.5
+4,Sam Wicks,Sydney,Gen. Defender,14.0,12.0,2.0,0.86,0.14,2.0,0.0,3.0,-0.62,2.05,-2.67,-0.43
+4,Tom Hanily,Sydney,Gen. Forward,13.0,6.0,7.0,0.46,0.54,5.0,2.0,1.0,5.88,2.88,3.0,3.0
+4,Tom McCartin,Sydney,Key Defender,12.0,10.0,2.0,0.83,0.17,9.0,0.0,0.0,-1.25,0.95,-2.2,2.7
+4,Will Hayward,Sydney,Gen. Forward,15.0,12.0,3.0,0.8,0.2,6.0,4.0,3.0,3.71,5.43,-1.71,2.76
+5,Angus Sheldrick,Sydney,Midfielder,,,,,,,,,,,,
+5,Braeden Campbell,Sydney,Gen. Forward,15.0,8.0,7.0,0.53,0.47,4.0,1.0,2.0,2.65,0.52,2.13,0.87
+5,Brodie Grundy,Sydney,Ruck,23.0,3.0,20.0,0.13,0.87,2.0,0.0,5.0,3.55,-4.27,7.82,-1.36
+5,Caiden Cleary,Sydney,Gen. Forward,18.0,7.0,11.0,0.39,0.61,4.0,0.0,7.0,7.0,3.0,4.0,1.5
+5,Chad Warner,Sydney,Midfielder,24.0,15.0,9.0,0.62,0.38,4.0,0.0,3.0,1.83,0.65,1.17,0.04
+5,Corey Warner,Sydney,Mid-Forward,13.0,10.0,3.0,0.77,0.23,2.0,2.0,2.0,1.0,2.5,-1.5,-1.0
+5,Dane Rampe,Sydney,Gen. Defender,16.0,10.0,6.0,0.62,0.38,4.0,0.0,1.0,2.62,0.9,1.71,-0.33
+5,Hayden McLean,Sydney,Key Forward,10.0,7.0,3.0,0.7,0.3,6.0,3.0,1.0,0.68,1.42,-0.74,2.42
+5,Isaac Heeney,Sydney,Midfielder,28.0,14.0,14.0,0.5,0.5,4.0,2.0,2.0,4.43,1.04,3.39,0.22
+5,Jake Lloyd,Sydney,Midfielder,18.0,13.0,5.0,0.72,0.28,7.0,0.0,1.0,-2.05,0.41,-2.46,-0.14
+5,James Jordon,Sydney,Midfielder,16.0,6.0,10.0,0.38,0.62,1.0,0.0,4.0,1.48,-0.78,2.26,-1.0
+5,James Rowbottom,Sydney,Midfielder,22.0,11.0,11.0,0.5,0.5,1.0,0.0,10.0,5.96,1.52,4.43,-1.35
+5,Joel Amartey,Sydney,Key Forward,,,,,,,,,,,,
+5,Joel Hamling,Sydney,Key Defender,9.0,3.0,6.0,0.33,0.67,2.0,0.0,0.0,1.43,-1.07,2.5,-0.57
+5,Matt Roberts,Sydney,Gen. Defender,24.0,17.0,7.0,0.71,0.29,5.0,0.0,2.0,2.78,2.39,0.39,-1.0
+5,Nick Blakey,Sydney,Gen. Defender,18.0,13.0,5.0,0.72,0.28,5.0,0.0,1.0,-3.39,-4.39,1.0,-0.48
+5,Oliver Florent,Sydney,Midfielder,23.0,14.0,9.0,0.61,0.39,7.0,0.0,1.0,7.81,5.31,2.5,2.88
+5,Peter Ladhams,Sydney,Ruck,15.0,4.0,11.0,0.27,0.73,1.0,0.0,0.0,4.3,-1.6,5.9,-1.1
+5,Riley Bice,Sydney,Gen. Defender,21.0,17.0,4.0,0.81,0.19,7.0,0.0,4.0,7.19,8.19,-1.0,2.5
+5,Sam Wicks,Sydney,Gen. Defender,13.0,9.0,4.0,0.69,0.31,3.0,0.0,4.0,-1.62,-0.95,-0.67,0.57
+5,Tom Hanily,Sydney,Gen. Forward,11.0,4.0,7.0,0.36,0.64,2.0,2.0,2.0,3.88,0.88,3.0,0.0
+5,Tom McCartin,Sydney,Key Defender,11.0,8.0,3.0,0.73,0.27,6.0,0.0,0.0,-2.25,-1.05,-1.2,-0.3
+5,Will Hayward,Sydney,Gen. Forward,13.0,7.0,6.0,0.54,0.46,2.0,1.0,2.0,1.71,0.43,1.29,-1.24
+6,Aaron Francis,Sydney,Key Forward,,,,,,,,,,,,
+6,Braeden Campbell,Sydney,Gen. Forward,16.0,5.0,11.0,0.31,0.69,1.0,0.0,3.0,3.65,-2.48,6.13,-2.13
+6,Brodie Grundy,Sydney,Ruck,26.0,5.0,21.0,0.19,0.81,1.0,0.0,3.0,6.55,-2.27,8.82,-2.36
+6,Caiden Cleary,Sydney,Gen. Forward,13.0,4.0,9.0,0.31,0.69,1.0,0.0,0.0,2.0,0.0,2.0,-1.5
+6,Chad Warner,Sydney,Midfielder,21.0,16.0,5.0,0.76,0.24,2.0,0.0,1.0,-1.17,1.65,-2.83,-1.96
+6,Corey Warner,Sydney,Mid-Forward,9.0,6.0,3.0,0.67,0.33,1.0,0.0,0.0,-3.0,-1.5,-1.5,-2.0
+6,Dane Rampe,Sydney,Gen. Defender,19.0,15.0,4.0,0.79,0.21,2.0,0.0,2.0,5.62,5.9,-0.29,-2.33
+6,Hayden McLean,Sydney,Key Forward,16.0,13.0,3.0,0.81,0.19,9.0,2.0,3.0,6.68,7.42,-0.74,5.42
+6,Isaac Heeney,Sydney,Midfielder,22.0,10.0,12.0,0.45,0.55,2.0,2.0,4.0,-1.57,-2.96,1.39,-1.78
+6,Jake Lloyd,Sydney,Midfielder,22.0,12.0,10.0,0.55,0.45,6.0,0.0,1.0,1.95,-0.59,2.54,-1.14
+6,James Jordon,Sydney,Midfielder,17.0,5.0,12.0,0.29,0.71,0.0,0.0,1.0,2.48,-1.78,4.26,-2.0
+6,James Rowbottom,Sydney,Midfielder,23.0,12.0,11.0,0.52,0.48,1.0,1.0,8.0,6.96,2.52,4.43,-1.35
+6,Joel Hamling,Sydney,Key Defender,7.0,5.0,2.0,0.71,0.29,1.0,0.0,1.0,-0.57,0.93,-1.5,-1.57
+6,Justin McInerney,Sydney,Mid-Forward,17.0,7.0,10.0,0.41,0.59,5.0,0.0,2.0,-4.47,-4.29,-0.18,-0.24
+6,Lewis Melican,Sydney,Key Defender,5.0,4.0,1.0,0.8,0.2,4.0,0.0,2.0,-4.71,-2.88,-1.82,-0.41
+6,Matt Roberts,Sydney,Gen. Defender,30.0,15.0,15.0,0.5,0.5,6.0,0.0,2.0,8.78,0.39,8.39,0.0
+6,Nick Blakey,Sydney,Gen. Defender,27.0,20.0,7.0,0.74,0.26,3.0,0.0,1.0,5.61,2.61,3.0,-2.48
+6,Oliver Florent,Sydney,Midfielder,18.0,4.0,14.0,0.22,0.78,2.0,0.0,2.0,2.81,-4.69,7.5,-2.12
+6,Riley Bice,Sydney,Gen. Defender,22.0,9.0,13.0,0.41,0.59,5.0,0.0,1.0,8.19,0.19,8.0,0.5
+6,Sam Wicks,Sydney,Gen. Defender,19.0,15.0,4.0,0.79,0.21,3.0,0.0,2.0,4.38,5.05,-0.67,0.57
+6,Tom Hanily,Sydney,Gen. Forward,,,,,,,,,,,,
+6,Tom McCartin,Sydney,Key Defender,7.0,4.0,3.0,0.57,0.43,1.0,0.0,0.0,-6.25,-5.05,-1.2,-5.3
+6,Will Hayward,Sydney,Gen. Forward,9.0,7.0,2.0,0.78,0.22,1.0,2.0,3.0,-2.29,0.43,-2.71,-2.24
+7,Aaron Francis,Sydney,Key Forward,15.0,11.0,4.0,0.73,0.27,7.0,0.0,1.0,6.2,5.5,0.7,3.7
+7,Ben Paton,Sydney,Gen. Defender,,,,,,,,,,,,
+7,Braeden Campbell,Sydney,Gen. Forward,15.0,6.0,9.0,0.4,0.6,2.0,2.0,3.0,2.65,-1.48,4.13,-1.13
+7,Brodie Grundy,Sydney,Ruck,9.0,1.0,8.0,0.11,0.89,0.0,0.0,5.0,-10.45,-6.27,-4.18,-3.36
+7,Caiden Cleary,Sydney,Gen. Forward,17.0,9.0,8.0,0.53,0.47,5.0,0.0,5.0,6.0,5.0,1.0,2.5
+7,Chad Warner,Sydney,Midfielder,24.0,20.0,4.0,0.83,0.17,5.0,2.0,6.0,1.83,5.65,-3.83,1.04
+7,Corey Warner,Sydney,Mid-Forward,18.0,10.0,8.0,0.56,0.44,5.0,1.0,2.0,6.0,2.5,3.5,2.0
+7,Dane Rampe,Sydney,Gen. Defender,15.0,11.0,4.0,0.73,0.27,5.0,0.0,3.0,1.62,1.9,-0.29,0.67
+7,Hayden McLean,Sydney,Key Forward,11.0,3.0,8.0,0.27,0.73,1.0,1.0,1.0,1.68,-2.58,4.26,-2.58
+7,Isaac Heeney,Sydney,Midfielder,20.0,8.0,12.0,0.4,0.6,3.0,1.0,2.0,-3.57,-4.96,1.39,-0.78
+7,Jake Lloyd,Sydney,Midfielder,28.0,18.0,10.0,0.64,0.36,10.0,0.0,1.0,7.95,5.41,2.54,2.86
+7,James Jordon,Sydney,Midfielder,11.0,5.0,6.0,0.45,0.55,3.0,1.0,2.0,-3.52,-1.78,-1.74,1.0
+7,James Rowbottom,Sydney,Midfielder,20.0,13.0,7.0,0.65,0.35,5.0,0.0,6.0,3.96,3.52,0.43,2.65
+7,Justin McInerney,Sydney,Mid-Forward,29.0,17.0,12.0,0.59,0.41,6.0,0.0,1.0,7.53,5.71,1.82,0.76
+7,Lewis Melican,Sydney,Key Defender,12.0,8.0,4.0,0.67,0.33,5.0,0.0,1.0,2.29,1.12,1.18,0.59
+7,Matt Roberts,Sydney,Gen. Defender,28.0,20.0,8.0,0.71,0.29,7.0,0.0,4.0,6.78,5.39,1.39,1.0
+7,Nick Blakey,Sydney,Gen. Defender,17.0,16.0,1.0,0.94,0.06,5.0,3.0,1.0,-4.39,-1.39,-3.0,-0.48
+7,Oliver Florent,Sydney,Midfielder,10.0,7.0,3.0,0.7,0.3,3.0,0.0,0.0,-5.19,-1.69,-3.5,-1.12
+7,Peter Ladhams,Sydney,Ruck,9.0,6.0,3.0,0.67,0.33,4.0,1.0,1.0,-1.7,0.4,-2.1,1.9
+7,Riley Bice,Sydney,Gen. Defender,20.0,14.0,6.0,0.7,0.3,7.0,0.0,2.0,6.19,5.19,1.0,2.5
+7,Tom Hanily,Sydney,Gen. Forward,,,,,,,,,,,,
+7,Tom McCartin,Sydney,Key Defender,10.0,6.0,4.0,0.6,0.4,3.0,0.0,0.0,-3.25,-3.05,-0.2,-3.3
+7,Will Hayward,Sydney,Gen. Forward,6.0,3.0,3.0,0.5,0.5,2.0,0.0,1.0,-5.29,-3.57,-1.71,-1.24
+8,Aaron Francis,Sydney,Key Forward,11.0,8.0,3.0,0.73,0.27,5.0,1.0,1.0,2.2,2.5,-0.3,1.7
+8,Angus Sheldrick,Sydney,Midfielder,,,,,,,,,,,,
+8,Braeden Campbell,Sydney,Gen. Forward,11.0,9.0,2.0,0.82,0.18,4.0,0.0,1.0,-1.35,1.52,-2.87,0.87
+8,Brodie Grundy,Sydney,Ruck,8.0,4.0,4.0,0.5,0.5,0.0,0.0,4.0,-11.45,-3.27,-8.18,-3.36
+8,Caiden Cleary,Sydney,Gen. Forward,8.0,4.0,4.0,0.5,0.5,2.0,1.0,7.0,-3.0,0.0,-3.0,-0.5
+8,Chad Warner,Sydney,Midfielder,24.0,14.0,10.0,0.58,0.42,2.0,0.0,4.0,1.83,-0.35,2.17,-1.96
+8,Corey Warner,Sydney,Mid-Forward,10.0,8.0,2.0,0.8,0.2,2.0,1.0,2.0,-2.0,0.5,-2.5,-1.0
+8,Dane Rampe,Sydney,Gen. Defender,12.0,6.0,6.0,0.5,0.5,2.0,0.0,8.0,-1.38,-3.1,1.71,-2.33
+8,Hayden McLean,Sydney,Key Forward,10.0,4.0,6.0,0.4,0.6,2.0,1.0,1.0,0.68,-1.58,2.26,-1.58
+8,Isaac Heeney,Sydney,Midfielder,22.0,11.0,11.0,0.5,0.5,5.0,1.0,3.0,-1.57,-1.96,0.39,1.22
+8,Jake Lloyd,Sydney,Midfielder,15.0,10.0,5.0,0.67,0.33,6.0,0.0,0.0,-5.05,-2.59,-2.46,-1.14
+8,James Jordon,Sydney,Midfielder,18.0,8.0,10.0,0.44,0.56,6.0,2.0,3.0,3.48,1.22,2.26,4.0
+8,James Rowbottom,Sydney,Midfielder,14.0,10.0,4.0,0.71,0.29,2.0,1.0,7.0,-2.04,0.52,-2.57,-0.35
+8,Joel Hamling,Sydney,Key Defender,8.0,6.0,2.0,0.75,0.25,4.0,1.0,0.0,0.43,1.93,-1.5,1.43
+8,Justin McInerney,Sydney,Mid-Forward,24.0,12.0,12.0,0.5,0.5,4.0,0.0,2.0,2.53,0.71,1.82,-1.24
+8,Lewis Melican,Sydney,Key Defender,8.0,7.0,1.0,0.88,0.12,3.0,0.0,1.0,-1.71,0.12,-1.82,-1.41
+8,Matt Roberts,Sydney,Gen. Defender,25.0,21.0,4.0,0.84,0.16,6.0,0.0,0.0,3.78,6.39,-2.61,0.0
+8,Nick Blakey,Sydney,Gen. Defender,18.0,14.0,4.0,0.78,0.22,4.0,1.0,2.0,-3.39,-3.39,0.0,-1.48
+8,Oliver Florent,Sydney,Midfielder,16.0,10.0,6.0,0.62,0.38,5.0,0.0,3.0,0.81,1.31,-0.5,0.88
+8,Riley Bice,Sydney,Gen. Defender,12.0,6.0,6.0,0.5,0.5,3.0,0.0,2.0,-1.81,-2.81,1.0,-1.5
+8,Sam Wicks,Sydney,Gen. Defender,18.0,14.0,4.0,0.78,0.22,4.0,0.0,3.0,3.38,4.05,-0.67,1.57
+8,Tom McCartin,Sydney,Key Defender,10.0,6.0,4.0,0.6,0.4,5.0,0.0,0.0,-3.25,-3.05,-0.2,-1.3
+8,Will Hayward,Sydney,Gen. Forward,10.0,5.0,5.0,0.5,0.5,4.0,1.0,2.0,-1.29,-1.57,0.29,0.76
+9,Aaron Francis,Sydney,Key Forward,8.0,4.0,4.0,0.5,0.5,3.0,0.0,0.0,-0.8,-1.5,0.7,-0.3
+9,Angus Sheldrick,Sydney,Midfielder,,,,,,,,,,,,
+9,Ben Paton,Sydney,Gen. Defender,,,,,,,,,,,,
+9,Braeden Campbell,Sydney,Gen. Forward,15.0,11.0,4.0,0.73,0.27,7.0,1.0,2.0,2.65,3.52,-0.87,3.87
+9,Brodie Grundy,Sydney,Ruck,23.0,10.0,13.0,0.43,0.57,2.0,1.0,5.0,3.55,2.73,0.82,-1.36
+9,Caiden Cleary,Sydney,Gen. Forward,10.0,2.0,8.0,0.2,0.8,2.0,0.0,3.0,-1.0,-2.0,1.0,-0.5
+9,Chad Warner,Sydney,Midfielder,25.0,13.0,12.0,0.52,0.48,3.0,0.0,4.0,2.83,-1.35,4.17,-0.96
+9,Corey Warner,Sydney,Mid-Forward,11.0,7.0,4.0,0.64,0.36,4.0,1.0,0.0,-1.0,-0.5,-0.5,1.0
+9,Dane Rampe,Sydney,Gen. Defender,10.0,6.0,4.0,0.6,0.4,3.0,0.0,0.0,-3.38,-3.1,-0.29,-1.33
+9,Hayden McLean,Sydney,Key Forward,7.0,4.0,3.0,0.57,0.43,2.0,1.0,2.0,-2.32,-1.58,-0.74,-1.58
+9,Isaac Heeney,Sydney,Midfielder,19.0,11.0,8.0,0.58,0.42,3.0,0.0,6.0,-4.57,-1.96,-2.61,-0.78
+9,Jake Lloyd,Sydney,Midfielder,22.0,10.0,12.0,0.45,0.55,5.0,0.0,1.0,1.95,-2.59,4.54,-2.14
+9,James Jordon,Sydney,Midfielder,9.0,6.0,3.0,0.67,0.33,2.0,0.0,8.0,-5.52,-0.78,-4.74,0.0
+9,James Rowbottom,Sydney,Midfielder,21.0,14.0,7.0,0.67,0.33,4.0,0.0,4.0,4.96,4.52,0.43,1.65
+9,Joel Hamling,Sydney,Key Defender,6.0,3.0,3.0,0.5,0.5,0.0,0.0,1.0,-1.57,-1.07,-0.5,-2.57
+9,Justin McInerney,Sydney,Mid-Forward,22.0,15.0,7.0,0.68,0.32,5.0,1.0,0.0,0.53,3.71,-3.18,-0.24
+9,Matt Roberts,Sydney,Gen. Defender,26.0,17.0,9.0,0.65,0.35,8.0,0.0,0.0,4.78,2.39,2.39,2.0
+9,Nick Blakey,Sydney,Gen. Defender,22.0,21.0,1.0,0.95,0.05,13.0,0.0,3.0,0.61,3.61,-3.0,7.52
+9,Oliver Florent,Sydney,Midfielder,17.0,13.0,4.0,0.76,0.24,5.0,0.0,1.0,1.81,4.31,-2.5,0.88
+9,Riley Bice,Sydney,Gen. Defender,17.0,8.0,9.0,0.47,0.53,4.0,0.0,3.0,3.19,-0.81,4.0,-0.5
+9,Sam Wicks,Sydney,Gen. Defender,13.0,5.0,8.0,0.38,0.62,1.0,0.0,0.0,-1.62,-4.95,3.33,-1.43
+9,Tom McCartin,Sydney,Key Defender,15.0,10.0,5.0,0.67,0.33,8.0,0.0,0.0,1.75,0.95,0.8,1.7
+9,Will Hayward,Sydney,Gen. Forward,14.0,9.0,5.0,0.64,0.36,2.0,2.0,2.0,2.71,2.43,0.29,-1.24
+10,Aaron Francis,Sydney,Key Forward,,,,,,,,,,,,
+10,Angus Sheldrick,Sydney,Midfielder,21.0,13.0,8.0,0.62,0.38,0.0,0.0,7.0,4.95,4.15,0.8,-1.9
+10,Braeden Campbell,Sydney,Gen. Forward,15.0,10.0,5.0,0.67,0.33,1.0,1.0,6.0,2.65,2.52,0.13,-2.13
+10,Brodie Grundy,Sydney,Ruck,19.0,5.0,14.0,0.26,0.74,1.0,1.0,3.0,-0.45,-2.27,1.82,-2.36
+10,Caiden Cleary,Sydney,Gen. Forward,14.0,2.0,12.0,0.14,0.86,0.0,0.0,2.0,3.0,-2.0,5.0,-2.5
+10,Chad Warner,Sydney,Midfielder,30.0,22.0,8.0,0.73,0.27,4.0,2.0,3.0,7.83,7.65,0.17,0.04
+10,Corey Warner,Sydney,Mid-Forward,13.0,3.0,10.0,0.23,0.77,0.0,0.0,1.0,1.0,-4.5,5.5,-3.0
+10,Dane Rampe,Sydney,Gen. Defender,8.0,6.0,2.0,0.75,0.25,0.0,0.0,1.0,-5.38,-3.1,-2.29,-4.33
+10,Isaac Heeney,Sydney,Midfielder,38.0,21.0,17.0,0.55,0.45,2.0,2.0,1.0,14.43,8.04,6.39,-1.78
+10,Jake Lloyd,Sydney,Midfielder,23.0,15.0,8.0,0.65,0.35,8.0,0.0,2.0,2.95,2.41,0.54,0.86
+10,James Jordon,Sydney,Midfielder,14.0,7.0,7.0,0.5,0.5,0.0,0.0,5.0,-0.52,0.22,-0.74,-2.0
+10,James Rowbottom,Sydney,Midfielder,19.0,10.0,9.0,0.53,0.47,1.0,0.0,6.0,2.96,0.52,2.43,-1.35
+10,Joel Amartey,Sydney,Key Forward,10.0,8.0,2.0,0.8,0.2,4.0,2.0,1.0,1.12,1.88,-0.75,-0.25
+10,Joel Hamling,Sydney,Key Defender,3.0,1.0,2.0,0.33,0.67,0.0,1.0,2.0,-4.57,-3.07,-1.5,-2.57
+10,Justin McInerney,Sydney,Mid-Forward,24.0,12.0,12.0,0.5,0.5,5.0,1.0,2.0,2.53,0.71,1.82,-0.24
+10,Matt Roberts,Sydney,Gen. Defender,20.0,13.0,7.0,0.65,0.35,4.0,0.0,2.0,-1.22,-1.61,0.39,-2.0
+10,Nick Blakey,Sydney,Gen. Defender,13.0,9.0,4.0,0.69,0.31,1.0,0.0,2.0,-8.39,-8.39,0.0,-4.48
+10,Oliver Florent,Sydney,Midfielder,,,,,,,,,,,,
+10,Peter Ladhams,Sydney,Ruck,,,,,,,,,,,,
+10,Riley Bice,Sydney,Gen. Defender,11.0,10.0,1.0,0.91,0.09,7.0,0.0,2.0,-2.81,1.19,-4.0,2.5
+10,Sam Wicks,Sydney,Gen. Defender,20.0,15.0,5.0,0.75,0.25,3.0,0.0,6.0,5.38,5.05,0.33,0.57
+10,Tom McCartin,Sydney,Key Defender,14.0,10.0,4.0,0.71,0.29,5.0,0.0,2.0,0.75,0.95,-0.2,-1.3
+10,Will Hayward,Sydney,Gen. Forward,18.0,5.0,13.0,0.28,0.72,3.0,1.0,3.0,6.71,-1.57,8.29,-0.24
+11,Angus Sheldrick,Sydney,Midfielder,26.0,19.0,7.0,0.73,0.27,0.0,0.0,5.0,9.95,10.15,-0.2,-1.9
+11,Braeden Campbell,Sydney,Gen. Forward,9.0,6.0,3.0,0.67,0.33,3.0,1.0,7.0,-3.35,-1.48,-1.87,-0.13
+11,Brodie Grundy,Sydney,Ruck,23.0,7.0,16.0,0.3,0.7,2.0,0.0,9.0,3.55,-0.27,3.82,-1.36
+11,Caiden Cleary,Sydney,Gen. Forward,13.0,4.0,9.0,0.31,0.69,4.0,0.0,3.0,2.0,0.0,2.0,1.5
+11,Callum Mills,Sydney,Gen. Defender,17.0,9.0,8.0,0.53,0.47,5.0,1.0,1.0,-6.75,-4.5,-2.25,-1.58
+11,Chad Warner,Sydney,Midfielder,27.0,18.0,9.0,0.67,0.33,4.0,1.0,5.0,4.83,3.65,1.17,0.04
+11,Corey Warner,Sydney,Mid-Forward,14.0,8.0,6.0,0.57,0.43,3.0,0.0,4.0,2.0,0.5,1.5,0.0
+11,Dane Rampe,Sydney,Gen. Defender,8.0,5.0,3.0,0.62,0.38,1.0,0.0,4.0,-5.38,-4.1,-1.29,-3.33
+11,Hayden McLean,Sydney,Key Forward,7.0,2.0,5.0,0.29,0.71,4.0,1.0,0.0,-2.32,-3.58,1.26,0.42
+11,Isaac Heeney,Sydney,Midfielder,22.0,8.0,14.0,0.36,0.64,4.0,3.0,6.0,-1.57,-4.96,3.39,0.22
+11,Jake Lloyd,Sydney,Midfielder,17.0,10.0,7.0,0.59,0.41,8.0,0.0,4.0,-3.05,-2.59,-0.46,0.86
+11,James Jordon,Sydney,Midfielder,10.0,7.0,3.0,0.7,0.3,1.0,0.0,2.0,-4.52,0.22,-4.74,-1.0
+11,James Rowbottom,Sydney,Midfielder,12.0,4.0,8.0,0.33,0.67,0.0,0.0,9.0,-4.04,-5.48,1.43,-2.35
+11,Joel Hamling,Sydney,Key Defender,5.0,2.0,3.0,0.4,0.6,2.0,1.0,2.0,-2.57,-2.07,-0.5,-0.57
+11,Matt Roberts,Sydney,Gen. Defender,23.0,16.0,7.0,0.7,0.3,8.0,0.0,2.0,1.78,1.39,0.39,2.0
+11,Nick Blakey,Sydney,Gen. Defender,19.0,15.0,4.0,0.79,0.21,6.0,1.0,1.0,-2.39,-2.39,0.0,0.52
+11,Oliver Florent,Sydney,Midfielder,13.0,7.0,6.0,0.54,0.46,3.0,0.0,4.0,-2.19,-1.69,-0.5,-1.12
+11,Peter Ladhams,Sydney,Ruck,9.0,5.0,4.0,0.56,0.44,2.0,2.0,3.0,-1.7,-0.6,-1.1,-0.1
+11,Riley Bice,Sydney,Gen. Defender,16.0,12.0,4.0,0.75,0.25,3.0,0.0,4.0,2.19,3.19,-1.0,-1.5
+11,Sam Wicks,Sydney,Gen. Defender,,,,,,,,,,,,
+11,Taylor Adams,Sydney,Gen. Forward,,,,,,,,,,,,
+11,Tom McCartin,Sydney,Key Defender,11.0,7.0,4.0,0.64,0.36,4.0,0.0,1.0,-2.25,-2.05,-0.2,-2.3
+11,Will Hayward,Sydney,Gen. Forward,12.0,7.0,5.0,0.58,0.42,3.0,1.0,1.0,0.71,0.43,0.29,-0.24
+12,Angus Sheldrick,Sydney,Midfielder,22.0,15.0,7.0,0.68,0.32,2.0,0.0,6.0,5.95,6.15,-0.2,0.1
+12,Braeden Campbell,Sydney,Gen. Forward,8.0,6.0,2.0,0.75,0.25,2.0,1.0,3.0,-4.35,-1.48,-2.87,-1.13
+12,Brodie Grundy,Sydney,Ruck,23.0,11.0,12.0,0.48,0.52,6.0,0.0,5.0,3.55,3.73,-0.18,2.64
+12,Caiden Cleary,Sydney,Gen. Forward,,,,,,,,,,,,
+12,Caleb Mitchell,Sydney,Gen. Defender,13.0,8.0,5.0,0.62,0.38,4.0,0.0,2.0,0.0,0.0,0.0,0.0
+12,Chad Warner,Sydney,Midfielder,19.0,16.0,3.0,0.84,0.16,1.0,0.0,4.0,-3.17,1.65,-4.83,-2.96
+12,Corey Warner,Sydney,Mid-Forward,10.0,4.0,6.0,0.4,0.6,0.0,0.0,1.0,-2.0,-3.5,1.5,-3.0
+12,Dane Rampe,Sydney,Gen. Defender,13.0,12.0,1.0,0.92,0.08,6.0,0.0,4.0,-0.38,2.9,-3.29,1.67
+12,Hayden McLean,Sydney,Key Forward,11.0,7.0,4.0,0.64,0.36,1.0,2.0,0.0,1.68,1.42,0.26,-2.58
+12,Isaac Heeney,Sydney,Midfielder,23.0,13.0,10.0,0.57,0.43,0.0,1.0,4.0,-0.57,0.04,-0.61,-3.78
+12,Jake Lloyd,Sydney,Midfielder,11.0,8.0,3.0,0.73,0.27,3.0,0.0,5.0,-9.05,-4.59,-4.46,-4.14
+12,James Jordon,Sydney,Midfielder,11.0,7.0,4.0,0.64,0.36,1.0,0.0,3.0,-3.52,0.22,-3.74,-1.0
+12,James Rowbottom,Sydney,Midfielder,20.0,12.0,8.0,0.6,0.4,1.0,0.0,9.0,3.96,2.52,1.43,-1.35
+12,Joel Hamling,Sydney,Key Defender,9.0,4.0,5.0,0.44,0.56,2.0,0.0,3.0,1.43,-0.07,1.5,-0.57
+12,Justin McInerney,Sydney,Mid-Forward,27.0,12.0,15.0,0.44,0.56,4.0,0.0,2.0,5.53,0.71,4.82,-1.24
+12,Lewis Melican,Sydney,Key Defender,12.0,9.0,3.0,0.75,0.25,3.0,0.0,6.0,2.29,2.12,0.18,-1.41
+12,Matt Roberts,Sydney,Gen. Defender,21.0,18.0,3.0,0.86,0.14,8.0,0.0,3.0,-0.22,3.39,-3.61,2.0
+12,Nick Blakey,Sydney,Gen. Defender,11.0,5.0,6.0,0.45,0.55,0.0,0.0,3.0,-10.39,-12.39,2.0,-5.48
+12,Peter Ladhams,Sydney,Ruck,11.0,6.0,5.0,0.55,0.45,2.0,0.0,0.0,0.3,0.4,-0.1,-0.1
+12,Riley Bice,Sydney,Gen. Defender,,,,,,,,,,,,
+12,Taylor Adams,Sydney,Gen. Forward,11.0,5.0,6.0,0.45,0.55,2.0,0.0,9.0,1.75,1.25,0.5,0.5
+12,Tom McCartin,Sydney,Key Defender,20.0,18.0,2.0,0.9,0.1,11.0,0.0,3.0,6.75,8.95,-2.2,4.7
+12,Will Hayward,Sydney,Gen. Forward,10.0,6.0,4.0,0.6,0.4,2.0,1.0,7.0,-1.29,-0.57,-0.71,-1.24
+13,Aaron Francis,Sydney,Key Forward,10.0,7.0,3.0,0.7,0.3,6.0,1.0,1.0,1.2,1.5,-0.3,2.7
+13,Angus Sheldrick,Sydney,Midfielder,19.0,9.0,10.0,0.47,0.53,1.0,0.0,7.0,2.95,0.15,2.8,-0.9
+13,Braeden Campbell,Sydney,Gen. Forward,12.0,7.0,5.0,0.58,0.42,2.0,0.0,7.0,-0.35,-0.48,0.13,-1.13
+13,Brodie Grundy,Sydney,Ruck,19.0,12.0,7.0,0.63,0.37,5.0,1.0,6.0,-0.45,4.73,-5.18,1.64
+13,Callum Mills,Sydney,Gen. Defender,25.0,16.0,9.0,0.64,0.36,9.0,0.0,4.0,1.25,2.5,-1.25,2.42
+13,Chad Warner,Sydney,Midfielder,22.0,15.0,7.0,0.68,0.32,3.0,2.0,3.0,-0.17,0.65,-0.83,-0.96
+13,Corey Warner,Sydney,Mid-Forward,6.0,6.0,0.0,1.0,0.0,2.0,1.0,1.0,-6.0,-1.5,-4.5,-1.0
+13,Dane Rampe,Sydney,Gen. Defender,18.0,12.0,6.0,0.67,0.33,6.0,0.0,0.0,4.62,2.9,1.71,1.67
+13,Harry Cunningham,Sydney,Gen. Defender,20.0,14.0,6.0,0.7,0.3,11.0,0.0,4.0,6.36,5.91,0.46,5.73
+13,Hayden McLean,Sydney,Key Forward,14.0,6.0,8.0,0.43,0.57,5.0,1.0,2.0,4.68,0.42,4.26,1.42
+13,Isaac Heeney,Sydney,Midfielder,25.0,16.0,9.0,0.64,0.36,4.0,1.0,4.0,1.43,3.04,-1.61,0.22
+13,Jake Lloyd,Sydney,Midfielder,22.0,14.0,8.0,0.64,0.36,6.0,0.0,2.0,1.95,1.41,0.54,-1.14
+13,James Jordon,Sydney,Midfielder,17.0,11.0,6.0,0.65,0.35,7.0,3.0,1.0,2.48,4.22,-1.74,5.0
+13,James Rowbottom,Sydney,Midfielder,15.0,7.0,8.0,0.47,0.53,3.0,0.0,14.0,-1.04,-2.48,1.43,0.65
+13,Justin McInerney,Sydney,Mid-Forward,23.0,13.0,10.0,0.57,0.43,6.0,0.0,5.0,1.53,1.71,-0.18,0.76
+13,Lewis Melican,Sydney,Key Defender,10.0,7.0,3.0,0.7,0.3,5.0,0.0,2.0,0.29,0.12,0.18,0.59
+13,Nick Blakey,Sydney,Gen. Defender,34.0,31.0,3.0,0.91,0.09,10.0,0.0,2.0,12.61,13.61,-1.0,4.52
+13,Riley Bice,Sydney,Gen. Defender,22.0,13.0,9.0,0.59,0.41,9.0,0.0,2.0,8.19,4.19,4.0,4.5
+13,Sam Wicks,Sydney,Gen. Defender,13.0,10.0,3.0,0.77,0.23,4.0,0.0,2.0,-1.62,0.05,-1.67,1.57
+13,Taylor Adams,Sydney,Gen. Forward,,,,,,,,,,,,
+13,Tom Hanily,Sydney,Gen. Forward,,,,,,,,,,,,
+13,Tom McCartin,Sydney,Key Defender,19.0,13.0,6.0,0.68,0.32,14.0,0.0,0.0,5.75,3.95,1.8,7.7
+13,Will Hayward,Sydney,Gen. Forward,16.0,11.0,5.0,0.69,0.31,7.0,1.0,4.0,4.71,4.43,0.29,3.76
+15,Aaron Francis,Sydney,Key Forward,,,,,,,,,,,,
+15,Angus Sheldrick,Sydney,Midfielder,21.0,9.0,12.0,0.43,0.57,3.0,0.0,2.0,4.95,0.15,4.8,1.1
+15,Braeden Campbell,Sydney,Gen. Forward,15.0,9.0,6.0,0.6,0.4,6.0,1.0,0.0,2.65,1.52,1.13,2.87
+15,Brodie Grundy,Sydney,Ruck,22.0,11.0,11.0,0.5,0.5,8.0,0.0,4.0,2.55,3.73,-1.18,4.64
+15,Callum Mills,Sydney,Gen. Defender,27.0,16.0,11.0,0.59,0.41,8.0,0.0,1.0,3.25,2.5,0.75,1.42
+15,Chad Warner,Sydney,Midfielder,17.0,12.0,5.0,0.71,0.29,5.0,0.0,2.0,-5.17,-2.35,-2.83,1.04
+15,Dane Rampe,Sydney,Gen. Defender,9.0,5.0,4.0,0.56,0.44,4.0,0.0,2.0,-4.38,-4.1,-0.29,-0.33
+15,Errol Gulden,Sydney,Midfielder,18.0,17.0,1.0,0.94,0.06,0.0,0.0,5.0,-8.6,0.6,-9.2,-5.3
+15,Harry Cunningham,Sydney,Gen. Defender,10.0,7.0,3.0,0.7,0.3,3.0,0.0,3.0,-3.64,-1.09,-2.54,-2.27
+15,Hayden McLean,Sydney,Key Forward,6.0,3.0,3.0,0.5,0.5,3.0,1.0,1.0,-3.32,-2.58,-0.74,-0.58
+15,Isaac Heeney,Sydney,Midfielder,28.0,12.0,16.0,0.43,0.57,4.0,2.0,4.0,4.43,-0.96,5.39,0.22
+15,James Jordon,Sydney,Midfielder,16.0,5.0,11.0,0.31,0.69,0.0,0.0,5.0,1.48,-1.78,3.26,-2.0
+15,James Rowbottom,Sydney,Midfielder,14.0,5.0,9.0,0.36,0.64,1.0,0.0,5.0,-2.04,-4.48,2.43,-1.35
+15,Joel Amartey,Sydney,Key Forward,15.0,11.0,4.0,0.73,0.27,8.0,0.0,3.0,6.12,4.88,1.25,3.75
+15,Justin McInerney,Sydney,Mid-Forward,22.0,10.0,12.0,0.45,0.55,5.0,1.0,4.0,0.53,-1.29,1.82,-0.24
+15,Lewis Melican,Sydney,Key Defender,11.0,9.0,2.0,0.82,0.18,7.0,0.0,1.0,1.29,2.12,-0.82,2.59
+15,Matt Roberts,Sydney,Gen. Defender,19.0,14.0,5.0,0.74,0.26,6.0,0.0,2.0,-2.22,-0.61,-1.61,0.0
+15,Nick Blakey,Sydney,Gen. Defender,22.0,19.0,3.0,0.86,0.14,5.0,1.0,1.0,0.61,1.61,-1.0,-0.48
+15,Riley Bice,Sydney,Gen. Defender,,,,,,,,,,,,
+15,Sam Wicks,Sydney,Gen. Defender,7.0,5.0,2.0,0.71,0.29,1.0,0.0,0.0,-7.62,-4.95,-2.67,-1.43
+15,Tom McCartin,Sydney,Key Defender,11.0,6.0,5.0,0.55,0.45,6.0,0.0,0.0,-2.25,-3.05,0.8,-0.3
+15,Tom Papley,Sydney,Gen. Forward,16.0,14.0,2.0,0.88,0.12,5.0,0.0,1.0,1.0,3.82,-2.82,1.09
+15,Will Hayward,Sydney,Gen. Forward,11.0,7.0,4.0,0.64,0.36,4.0,3.0,2.0,-0.29,0.43,-0.71,0.76
+16,Aaron Francis,Sydney,Key Forward,7.0,1.0,6.0,0.14,0.86,0.0,0.0,4.0,-1.8,-4.5,2.7,-3.3
+16,Angus Sheldrick,Sydney,Midfielder,16.0,9.0,7.0,0.56,0.44,2.0,0.0,7.0,-0.05,0.15,-0.2,0.1
+16,Braeden Campbell,Sydney,Gen. Forward,8.0,4.0,4.0,0.5,0.5,1.0,0.0,6.0,-4.35,-3.48,-0.87,-2.13
+16,Brodie Grundy,Sydney,Ruck,23.0,11.0,12.0,0.48,0.52,6.0,1.0,4.0,3.55,3.73,-0.18,2.64
+16,Callum Mills,Sydney,Gen. Defender,22.0,11.0,11.0,0.5,0.5,4.0,0.0,0.0,-1.75,-2.5,0.75,-2.58
+16,Chad Warner,Sydney,Midfielder,19.0,10.0,9.0,0.53,0.47,3.0,1.0,6.0,-3.17,-4.35,1.17,-0.96
+16,Dane Rampe,Sydney,Gen. Defender,,,,,,,,,,,,
+16,Errol Gulden,Sydney,Midfielder,30.0,21.0,9.0,0.7,0.3,6.0,0.0,7.0,3.4,4.6,-1.2,0.7
+16,Harry Cunningham,Sydney,Gen. Defender,16.0,7.0,9.0,0.44,0.56,5.0,0.0,0.0,2.36,-1.09,3.46,-0.27
+16,Hayden McLean,Sydney,Key Forward,10.0,7.0,3.0,0.7,0.3,4.0,0.0,6.0,0.68,1.42,-0.74,0.42
+16,Isaac Heeney,Sydney,Midfielder,21.0,13.0,8.0,0.62,0.38,3.0,5.0,5.0,-2.57,0.04,-2.61,-0.78
+16,Jack Buller,Sydney,Key Forward,6.0,4.0,2.0,0.67,0.33,3.0,1.0,1.0,-3.11,-0.33,-2.78,-0.89
+16,Jake Lloyd,Sydney,Midfielder,22.0,19.0,3.0,0.86,0.14,14.0,1.0,1.0,1.95,6.41,-4.46,6.86
+16,James Jordon,Sydney,Midfielder,11.0,5.0,6.0,0.45,0.55,0.0,1.0,10.0,-3.52,-1.78,-1.74,-2.0
+16,James Rowbottom,Sydney,Midfielder,14.0,8.0,6.0,0.57,0.43,2.0,1.0,7.0,-2.04,-1.48,-0.57,-0.35
+16,Justin McInerney,Sydney,Mid-Forward,17.0,10.0,7.0,0.59,0.41,6.0,1.0,1.0,-4.47,-1.29,-3.18,0.76
+16,Lewis Melican,Sydney,Key Defender,17.0,11.0,6.0,0.65,0.35,8.0,0.0,0.0,7.29,4.12,3.18,3.59
+16,Matt Roberts,Sydney,Gen. Defender,13.0,6.0,7.0,0.46,0.54,5.0,0.0,0.0,-8.22,-8.61,0.39,-1.0
+16,Nick Blakey,Sydney,Gen. Defender,24.0,20.0,4.0,0.83,0.17,6.0,0.0,3.0,2.61,2.61,0.0,0.52
+16,Oliver Florent,Sydney,Midfielder,,,,,,,,,,,,
+16,Sam Wicks,Sydney,Gen. Defender,18.0,9.0,9.0,0.5,0.5,2.0,0.0,4.0,3.38,-0.95,4.33,-0.43
+16,Tom Papley,Sydney,Gen. Forward,17.0,14.0,3.0,0.82,0.18,8.0,2.0,3.0,2.0,3.82,-1.82,4.09
+16,Will Hayward,Sydney,Gen. Forward,12.0,6.0,6.0,0.5,0.5,2.0,0.0,2.0,0.71,-0.57,1.29,-1.24
+17,Angus Sheldrick,Sydney,Midfielder,12.0,6.0,6.0,0.5,0.5,1.0,0.0,6.0,-4.05,-2.85,-1.2,-0.9
+17,Braeden Campbell,Sydney,Gen. Forward,12.0,9.0,3.0,0.75,0.25,7.0,0.0,4.0,-0.35,1.52,-1.87,3.87
+17,Brodie Grundy,Sydney,Ruck,20.0,9.0,11.0,0.45,0.55,3.0,1.0,5.0,0.55,1.73,-1.18,-0.36
+17,Callum Mills,Sydney,Gen. Defender,26.0,18.0,8.0,0.69,0.31,5.0,0.0,2.0,2.25,4.5,-2.25,-1.58
+17,Chad Warner,Sydney,Midfielder,24.0,18.0,6.0,0.75,0.25,2.0,1.0,6.0,1.83,3.65,-1.83,-1.96
+17,Errol Gulden,Sydney,Midfielder,25.0,19.0,6.0,0.76,0.24,7.0,1.0,8.0,-1.6,2.6,-4.2,1.7
+17,Harry Cunningham,Sydney,Gen. Defender,16.0,10.0,6.0,0.62,0.38,6.0,0.0,2.0,2.36,1.91,0.46,0.73
+17,Hayden McLean,Sydney,Key Forward,11.0,9.0,2.0,0.82,0.18,6.0,3.0,2.0,1.68,3.42,-1.74,2.42
+17,Isaac Heeney,Sydney,Midfielder,21.0,14.0,7.0,0.67,0.33,3.0,0.0,7.0,-2.57,1.04,-3.61,-0.78
+17,Jack Buller,Sydney,Key Forward,5.0,3.0,2.0,0.6,0.4,3.0,0.0,1.0,-4.11,-1.33,-2.78,-0.89
+17,Jake Lloyd,Sydney,Midfielder,20.0,14.0,6.0,0.7,0.3,9.0,2.0,4.0,-0.05,1.41,-1.46,1.86
+17,James Jordon,Sydney,Midfielder,9.0,5.0,4.0,0.56,0.44,0.0,2.0,6.0,-5.52,-1.78,-3.74,-2.0
+17,James Rowbottom,Sydney,Midfielder,11.0,7.0,4.0,0.64,0.36,5.0,0.0,6.0,-5.04,-2.48,-2.57,2.65
+17,Joel Amartey,Sydney,Key Forward,8.0,5.0,3.0,0.62,0.38,4.0,2.0,3.0,-0.88,-1.12,0.25,-0.25
+17,Joel Hamling,Sydney,Key Defender,11.0,7.0,4.0,0.64,0.36,6.0,0.0,1.0,3.43,2.93,0.5,3.43
+17,Justin McInerney,Sydney,Mid-Forward,20.0,11.0,9.0,0.55,0.45,4.0,0.0,1.0,-1.47,-0.29,-1.18,-1.24
+17,Lewis Melican,Sydney,Key Defender,12.0,8.0,4.0,0.67,0.33,7.0,0.0,1.0,2.29,1.12,1.18,2.59
+17,Matt Roberts,Sydney,Gen. Defender,,,,,,,,,,,,
+17,Nick Blakey,Sydney,Gen. Defender,19.0,17.0,2.0,0.89,0.11,7.0,1.0,2.0,-2.39,-0.39,-2.0,1.52
+17,Sam Wicks,Sydney,Gen. Defender,14.0,12.0,2.0,0.86,0.14,4.0,0.0,2.0,-0.62,2.05,-2.67,1.57
+17,Tom McCartin,Sydney,Key Defender,15.0,11.0,4.0,0.73,0.27,8.0,0.0,2.0,1.75,1.95,-0.2,1.7
+17,Tom Papley,Sydney,Gen. Forward,,,,,,,,,,,,
+17,Will Hayward,Sydney,Gen. Forward,12.0,5.0,7.0,0.42,0.58,1.0,1.0,8.0,0.71,-1.57,2.29,-2.24
+18,Aaron Francis,Sydney,Key Forward,,,,,,,,,,,,
+18,Angus Sheldrick,Sydney,Midfielder,18.0,11.0,7.0,0.61,0.39,2.0,1.0,4.0,1.95,2.15,-0.2,0.1
+18,Braeden Campbell,Sydney,Gen. Forward,11.0,9.0,2.0,0.82,0.18,4.0,0.0,2.0,-1.35,1.52,-2.87,0.87
+18,Brodie Grundy,Sydney,Ruck,20.0,7.0,13.0,0.35,0.65,2.0,0.0,6.0,0.55,-0.27,0.82,-1.36
+18,Callum Mills,Sydney,Gen. Defender,19.0,9.0,10.0,0.47,0.53,4.0,0.0,3.0,-4.75,-4.5,-0.25,-2.58
+18,Chad Warner,Sydney,Midfielder,20.0,15.0,5.0,0.75,0.25,4.0,0.0,4.0,-2.17,0.65,-2.83,0.04
+18,Errol Gulden,Sydney,Midfielder,23.0,14.0,9.0,0.61,0.39,4.0,1.0,3.0,-3.6,-2.4,-1.2,-1.3
+18,Harry Cunningham,Sydney,Gen. Defender,8.0,5.0,3.0,0.62,0.38,3.0,0.0,2.0,-5.64,-3.09,-2.54,-2.27
+18,Hayden McLean,Sydney,Key Forward,6.0,4.0,2.0,0.67,0.33,2.0,1.0,3.0,-3.32,-1.58,-1.74,-1.58
+18,Isaac Heeney,Sydney,Midfielder,21.0,11.0,10.0,0.52,0.48,1.0,1.0,3.0,-2.57,-1.96,-0.61,-2.78
+18,Jack Buller,Sydney,Key Forward,7.0,3.0,4.0,0.43,0.57,2.0,2.0,1.0,-2.11,-1.33,-0.78,-1.89
+18,Jake Lloyd,Sydney,Midfielder,15.0,10.0,5.0,0.67,0.33,8.0,3.0,2.0,-5.05,-2.59,-2.46,0.86
+18,James Jordon,Sydney,Midfielder,11.0,7.0,4.0,0.64,0.36,3.0,1.0,3.0,-3.52,0.22,-3.74,1.0
+18,James Rowbottom,Sydney,Midfielder,15.0,8.0,7.0,0.53,0.47,1.0,1.0,15.0,-1.04,-1.48,0.43,-1.35
+18,Joel Hamling,Sydney,Key Defender,5.0,1.0,4.0,0.2,0.8,1.0,0.0,4.0,-2.57,-3.07,0.5,-1.57
+18,Justin McInerney,Sydney,Mid-Forward,20.0,13.0,7.0,0.65,0.35,7.0,0.0,1.0,-1.47,1.71,-3.18,1.76
+18,Lewis Melican,Sydney,Key Defender,6.0,4.0,2.0,0.67,0.33,3.0,0.0,3.0,-3.71,-2.88,-0.82,-1.41
+18,Matt Roberts,Sydney,Gen. Defender,18.0,12.0,6.0,0.67,0.33,7.0,0.0,4.0,-3.22,-2.61,-0.61,1.0
+18,Nick Blakey,Sydney,Gen. Defender,23.0,14.0,9.0,0.61,0.39,3.0,0.0,1.0,1.61,-3.39,5.0,-2.48
+18,Riley Bice,Sydney,Gen. Defender,,,,,,,,,,,,
+18,Sam Wicks,Sydney,Gen. Defender,11.0,10.0,1.0,0.91,0.09,1.0,0.0,2.0,-3.62,0.05,-3.67,-1.43
+18,Tom McCartin,Sydney,Key Defender,12.0,7.0,5.0,0.58,0.42,6.0,0.0,1.0,-1.25,-2.05,0.8,-0.3
+18,Will Hayward,Sydney,Gen. Forward,13.0,7.0,6.0,0.54,0.46,7.0,3.0,0.0,1.71,0.43,1.29,3.76
+19,Angus Sheldrick,Sydney,Midfielder,19.0,4.0,15.0,0.21,0.79,0.0,0.0,5.0,2.95,-4.85,7.8,-1.9
+19,Braeden Campbell,Sydney,Gen. Forward,12.0,5.0,7.0,0.42,0.58,6.0,1.0,1.0,-0.35,-2.48,2.13,2.87
+19,Brodie Grundy,Sydney,Ruck,22.0,10.0,12.0,0.45,0.55,2.0,0.0,3.0,2.55,2.73,-0.18,-1.36
+19,Callum Mills,Sydney,Gen. Defender,28.0,14.0,14.0,0.5,0.5,10.0,0.0,1.0,4.25,0.5,3.75,3.42
+19,Chad Warner,Sydney,Midfielder,26.0,11.0,15.0,0.42,0.58,6.0,1.0,4.0,3.83,-3.35,7.17,2.04
+19,Dane Rampe,Sydney,Gen. Defender,9.0,4.0,5.0,0.44,0.56,4.0,0.0,4.0,-4.38,-5.1,0.71,-0.33
+19,Errol Gulden,Sydney,Midfielder,20.0,12.0,8.0,0.6,0.4,6.0,1.0,4.0,-6.6,-4.4,-2.2,0.7
+19,Harry Cunningham,Sydney,Gen. Defender,12.0,6.0,6.0,0.5,0.5,5.0,0.0,2.0,-1.64,-2.09,0.46,-0.27
+19,Hayden McLean,Sydney,Key Forward,12.0,9.0,3.0,0.75,0.25,6.0,1.0,0.0,2.68,3.42,-0.74,2.42
+19,Isaac Heeney,Sydney,Midfielder,34.0,22.0,12.0,0.65,0.35,8.0,5.0,5.0,10.43,9.04,1.39,4.22
+19,Jack Buller,Sydney,Key Forward,10.0,7.0,3.0,0.7,0.3,5.0,2.0,3.0,0.89,2.67,-1.78,1.11
+19,Jake Lloyd,Sydney,Midfielder,14.0,8.0,6.0,0.57,0.43,7.0,0.0,3.0,-6.05,-4.59,-1.46,-0.14
+19,James Jordon,Sydney,Midfielder,13.0,8.0,5.0,0.62,0.38,3.0,0.0,3.0,-1.52,1.22,-2.74,1.0
+19,James Rowbottom,Sydney,Midfielder,17.0,10.0,7.0,0.59,0.41,2.0,0.0,7.0,0.96,0.52,0.43,-0.35
+19,Joel Hamling,Sydney,Key Defender,7.0,6.0,1.0,0.86,0.14,5.0,0.0,1.0,-0.57,1.93,-2.5,2.43
+19,Justin McInerney,Sydney,Mid-Forward,22.0,15.0,7.0,0.68,0.32,6.0,1.0,4.0,0.53,3.71,-3.18,0.76
+19,Lewis Melican,Sydney,Key Defender,11.0,8.0,3.0,0.73,0.27,5.0,0.0,3.0,1.29,1.12,0.18,0.59
+19,Matt Roberts,Sydney,Gen. Defender,17.0,14.0,3.0,0.82,0.18,6.0,0.0,1.0,-4.22,-0.61,-3.61,0.0
+19,Nick Blakey,Sydney,Gen. Defender,29.0,24.0,5.0,0.83,0.17,8.0,0.0,1.0,7.61,6.61,1.0,2.52
+19,Peter Ladhams,Sydney,Ruck,,,,,,,,,,,,
+19,Riley Bice,Sydney,Gen. Defender,,,,,,,,,,,,
+19,Sam Wicks,Sydney,Gen. Defender,12.0,10.0,2.0,0.83,0.17,4.0,0.0,3.0,-2.62,0.05,-2.67,1.57
+19,Will Hayward,Sydney,Gen. Forward,15.0,10.0,5.0,0.67,0.33,6.0,0.0,2.0,3.71,3.43,0.29,2.76
+20,Aaron Francis,Sydney,Key Forward,10.0,6.0,4.0,0.6,0.4,4.0,0.0,1.0,1.2,0.5,0.7,0.7
+20,Angus Sheldrick,Sydney,Midfielder,12.0,9.0,3.0,0.75,0.25,2.0,0.0,6.0,-4.05,0.15,-4.2,0.1
+20,Braeden Campbell,Sydney,Gen. Forward,7.0,2.0,5.0,0.29,0.71,1.0,0.0,0.0,-5.35,-5.48,0.13,-2.13
+20,Brodie Grundy,Sydney,Ruck,24.0,9.0,15.0,0.38,0.62,7.0,1.0,5.0,4.55,1.73,2.82,3.64
+20,Callum Mills,Sydney,Gen. Defender,22.0,14.0,8.0,0.64,0.36,7.0,1.0,3.0,-1.75,0.5,-2.25,0.42
+20,Chad Warner,Sydney,Midfielder,19.0,8.0,11.0,0.42,0.58,2.0,0.0,5.0,-3.17,-6.35,3.17,-1.96
+20,Dane Rampe,Sydney,Gen. Defender,13.0,8.0,5.0,0.62,0.38,3.0,0.0,0.0,-0.38,-1.1,0.71,-1.33
+20,Errol Gulden,Sydney,Midfielder,32.0,16.0,16.0,0.5,0.5,8.0,0.0,1.0,5.4,-0.4,5.8,2.7
+20,Harry Cunningham,Sydney,Gen. Defender,9.0,5.0,4.0,0.56,0.44,4.0,0.0,3.0,-4.64,-3.09,-1.54,-1.27
+20,Hayden McLean,Sydney,Key Forward,,,,,,,,,,,,
+20,Isaac Heeney,Sydney,Midfielder,22.0,12.0,10.0,0.55,0.45,4.0,1.0,5.0,-1.57,-0.96,-0.61,0.22
+20,Jack Buller,Sydney,Key Forward,10.0,3.0,7.0,0.3,0.7,1.0,0.0,3.0,0.89,-1.33,2.22,-2.89
+20,Jake Lloyd,Sydney,Midfielder,25.0,13.0,12.0,0.52,0.48,9.0,0.0,2.0,4.95,0.41,4.54,1.86
+20,James Jordon,Sydney,Midfielder,14.0,9.0,5.0,0.64,0.36,0.0,0.0,2.0,-0.52,2.22,-2.74,-2.0
+20,James Rowbottom,Sydney,Midfielder,9.0,6.0,3.0,0.67,0.33,0.0,0.0,9.0,-7.04,-3.48,-3.57,-2.35
+20,Joel Hamling,Sydney,Key Defender,,,,,,,,,,,,
+20,Justin McInerney,Sydney,Mid-Forward,13.0,8.0,5.0,0.62,0.38,3.0,1.0,1.0,-8.47,-3.29,-5.18,-2.24
+20,Lewis Melican,Sydney,Key Defender,5.0,4.0,1.0,0.8,0.2,3.0,0.0,4.0,-4.71,-2.88,-1.82,-1.41
+20,Matt Roberts,Sydney,Gen. Defender,20.0,9.0,11.0,0.45,0.55,4.0,0.0,5.0,-1.22,-5.61,4.39,-2.0
+20,Nick Blakey,Sydney,Gen. Defender,21.0,16.0,5.0,0.76,0.24,2.0,0.0,0.0,-0.39,-1.39,1.0,-3.48
+20,Sam Wicks,Sydney,Gen. Defender,18.0,10.0,8.0,0.56,0.44,3.0,0.0,5.0,3.38,0.05,3.33,0.57
+20,Tom Papley,Sydney,Gen. Forward,14.0,9.0,5.0,0.64,0.36,0.0,1.0,1.0,-1.0,-1.18,0.18,-3.91
+20,Will Hayward,Sydney,Gen. Forward,9.0,5.0,4.0,0.56,0.44,5.0,3.0,3.0,-2.29,-1.57,-0.71,1.76
+21,Angus Sheldrick,Sydney,Midfielder,24.0,14.0,10.0,0.58,0.42,7.0,0.0,0.0,7.95,5.15,2.8,5.1
+21,Braeden Campbell,Sydney,Gen. Forward,17.0,9.0,8.0,0.53,0.47,4.0,2.0,1.0,4.65,1.52,3.13,0.87
+21,Brodie Grundy,Sydney,Ruck,39.0,11.0,28.0,0.28,0.72,8.0,0.0,1.0,19.55,3.73,15.82,4.64
+21,Caiden Cleary,Sydney,Gen. Forward,,,,,,,,,,,,
+21,Callum Mills,Sydney,Gen. Defender,23.0,16.0,7.0,0.7,0.3,7.0,0.0,4.0,-0.75,2.5,-3.25,0.42
+21,Chad Warner,Sydney,Midfielder,26.0,18.0,8.0,0.69,0.31,5.0,0.0,2.0,3.83,3.65,0.17,1.04
+21,Dane Rampe,Sydney,Gen. Defender,25.0,18.0,7.0,0.72,0.28,12.0,0.0,1.0,11.62,8.9,2.71,7.67
+21,Errol Gulden,Sydney,Midfielder,30.0,17.0,13.0,0.57,0.43,7.0,1.0,4.0,3.4,0.6,2.8,1.7
+21,Harry Cunningham,Sydney,Gen. Defender,14.0,11.0,3.0,0.79,0.21,7.0,0.0,1.0,0.36,2.91,-2.54,1.73
+21,Isaac Heeney,Sydney,Midfielder,28.0,19.0,9.0,0.68,0.32,7.0,1.0,0.0,4.43,6.04,-1.61,3.22
+21,Jack Buller,Sydney,Key Forward,12.0,5.0,7.0,0.42,0.58,7.0,1.0,2.0,2.89,0.67,2.22,3.11
+21,Jake Lloyd,Sydney,Midfielder,17.0,9.0,8.0,0.53,0.47,7.0,0.0,1.0,-3.05,-3.59,0.54,-0.14
+21,James Jordon,Sydney,Midfielder,12.0,6.0,6.0,0.5,0.5,3.0,0.0,3.0,-2.52,-0.78,-1.74,1.0
+21,James Rowbottom,Sydney,Midfielder,12.0,8.0,4.0,0.67,0.33,5.0,1.0,6.0,-4.04,-1.48,-2.57,2.65
+21,Jesse Dattoli,Sydney,Gen. Forward,13.0,5.0,8.0,0.38,0.62,5.0,0.0,1.0,4.0,2.33,1.67,3.0
+21,Justin McInerney,Sydney,Mid-Forward,27.0,11.0,16.0,0.41,0.59,8.0,2.0,1.0,5.53,-0.29,5.82,2.76
+21,Lewis Melican,Sydney,Key Defender,10.0,9.0,1.0,0.9,0.1,5.0,0.0,1.0,0.29,2.12,-1.82,0.59
+21,Nick Blakey,Sydney,Gen. Defender,28.0,23.0,5.0,0.82,0.18,10.0,0.0,3.0,6.61,5.61,1.0,4.52
+21,Oliver Florent,Sydney,Midfielder,12.0,7.0,5.0,0.58,0.42,4.0,0.0,4.0,-3.19,-1.69,-1.5,-0.12
+21,Peter Ladhams,Sydney,Ruck,,,,,,,,,,,,
+21,Sam Wicks,Sydney,Gen. Defender,9.0,6.0,3.0,0.67,0.33,3.0,0.0,2.0,-5.62,-3.95,-1.67,0.57
+21,Tom McCartin,Sydney,Key Defender,11.0,7.0,4.0,0.64,0.36,6.0,0.0,0.0,-2.25,-2.05,-0.2,-0.3
+21,Tom Papley,Sydney,Gen. Forward,13.0,7.0,6.0,0.54,0.46,4.0,1.0,3.0,-2.0,-3.18,1.18,0.09
+22,Angus Sheldrick,Sydney,Midfielder,26.0,18.0,8.0,0.69,0.31,5.0,1.0,2.0,9.95,9.15,0.8,3.1
+22,Braeden Campbell,Sydney,Gen. Forward,9.0,8.0,1.0,0.89,0.11,3.0,1.0,0.0,-3.35,0.52,-3.87,-0.13
+22,Brodie Grundy,Sydney,Ruck,14.0,6.0,8.0,0.43,0.57,4.0,1.0,0.0,-5.45,-1.27,-4.18,0.64
+22,Caiden Cleary,Sydney,Gen. Forward,,,,,,,,,,,,
+22,Callum Mills,Sydney,Gen. Defender,22.0,11.0,11.0,0.5,0.5,4.0,0.0,2.0,-1.75,-2.5,0.75,-2.58
+22,Chad Warner,Sydney,Midfielder,26.0,13.0,13.0,0.5,0.5,6.0,2.0,1.0,3.83,-1.35,5.17,2.04
+22,Dane Rampe,Sydney,Gen. Defender,16.0,12.0,4.0,0.75,0.25,7.0,0.0,2.0,2.62,2.9,-0.29,2.67
+22,Errol Gulden,Sydney,Midfielder,29.0,14.0,15.0,0.48,0.52,3.0,0.0,4.0,2.4,-2.4,4.8,-2.3
+22,Harry Cunningham,Sydney,Gen. Defender,16.0,7.0,9.0,0.44,0.56,4.0,0.0,1.0,2.36,-1.09,3.46,-1.27
+22,Hayden McLean,Sydney,Key Forward,10.0,3.0,7.0,0.3,0.7,3.0,0.0,1.0,0.68,-2.58,3.26,-0.58
+22,Isaac Heeney,Sydney,Midfielder,23.0,14.0,9.0,0.61,0.39,6.0,5.0,1.0,-0.57,1.04,-1.61,2.22
+22,Jack Buller,Sydney,Key Forward,10.0,3.0,7.0,0.3,0.7,2.0,1.0,2.0,0.89,-1.33,2.22,-1.89
+22,Jake Lloyd,Sydney,Midfielder,20.0,13.0,7.0,0.65,0.35,4.0,0.0,1.0,-0.05,0.41,-0.46,-3.14
+22,James Jordon,Sydney,Midfielder,20.0,8.0,12.0,0.4,0.6,4.0,0.0,2.0,5.48,1.22,4.26,2.0
+22,James Rowbottom,Sydney,Midfielder,17.0,10.0,7.0,0.59,0.41,6.0,1.0,3.0,0.96,0.52,0.43,3.65
+22,Jesse Dattoli,Sydney,Gen. Forward,,,,,,,,,,,,
+22,Justin McInerney,Sydney,Mid-Forward,19.0,7.0,12.0,0.37,0.63,5.0,0.0,0.0,-2.47,-4.29,1.82,-0.24
+22,Lewis Melican,Sydney,Key Defender,10.0,7.0,3.0,0.7,0.3,3.0,0.0,4.0,0.29,0.12,0.18,-1.41
+22,Nick Blakey,Sydney,Gen. Defender,20.0,17.0,3.0,0.85,0.15,6.0,0.0,2.0,-1.39,-0.39,-1.0,0.52
+22,Oliver Florent,Sydney,Midfielder,19.0,10.0,9.0,0.53,0.47,5.0,1.0,1.0,3.81,1.31,2.5,0.88
+22,Sam Wicks,Sydney,Gen. Defender,18.0,13.0,5.0,0.72,0.28,3.0,0.0,1.0,3.38,3.05,0.33,0.57
+22,Tom McCartin,Sydney,Key Defender,18.0,8.0,10.0,0.44,0.56,1.0,0.0,1.0,4.75,-1.05,5.8,-5.3
+22,Tom Papley,Sydney,Gen. Forward,10.0,6.0,4.0,0.6,0.4,3.0,0.0,0.0,-5.0,-4.18,-0.82,-0.91
+23,Angus Sheldrick,Sydney,Midfielder,21.0,5.0,16.0,0.24,0.76,2.0,0.0,5.0,4.95,-3.85,8.8,0.1
+23,Braeden Campbell,Sydney,Gen. Forward,12.0,6.0,6.0,0.5,0.5,1.0,1.0,1.0,-0.35,-1.48,1.13,-2.13
+23,Caiden Cleary,Sydney,Gen. Forward,,,,,,,,,,,,
+23,Callum Mills,Sydney,Gen. Defender,25.0,10.0,15.0,0.4,0.6,7.0,0.0,4.0,1.25,-3.5,4.75,0.42
+23,Chad Warner,Sydney,Midfielder,23.0,13.0,10.0,0.57,0.43,5.0,0.0,6.0,0.83,-1.35,2.17,1.04
+23,Dane Rampe,Sydney,Gen. Defender,13.0,9.0,4.0,0.69,0.31,4.0,0.0,3.0,-0.38,-0.1,-0.29,-0.33
+23,Errol Gulden,Sydney,Midfielder,23.0,13.0,10.0,0.57,0.43,2.0,0.0,7.0,-3.6,-3.4,-0.2,-3.3
+23,Harry Cunningham,Sydney,Gen. Defender,15.0,9.0,6.0,0.6,0.4,5.0,0.0,4.0,1.36,0.91,0.46,-0.27
+23,Hayden McLean,Sydney,Key Forward,9.0,8.0,1.0,0.89,0.11,6.0,2.0,1.0,-0.32,2.42,-2.74,2.42
+23,Isaac Heeney,Sydney,Midfielder,15.0,9.0,6.0,0.6,0.4,4.0,1.0,5.0,-8.57,-3.96,-4.61,0.22
+23,Jack Buller,Sydney,Key Forward,8.0,4.0,4.0,0.5,0.5,4.0,1.0,3.0,-1.11,-0.33,-0.78,0.11
+23,Jake Lloyd,Sydney,Midfielder,21.0,12.0,9.0,0.57,0.43,5.0,0.0,2.0,0.95,-0.59,1.54,-2.14
+23,James Jordon,Sydney,Midfielder,9.0,4.0,5.0,0.44,0.56,1.0,0.0,2.0,-5.52,-2.78,-2.74,-1.0
+23,James Rowbottom,Sydney,Midfielder,14.0,10.0,4.0,0.71,0.29,4.0,0.0,3.0,-2.04,0.52,-2.57,1.65
+23,Jesse Dattoli,Sydney,Gen. Forward,,,,,,,,,,,,
+23,Lewis Melican,Sydney,Key Defender,6.0,3.0,3.0,0.5,0.5,1.0,0.0,1.0,-3.71,-3.88,0.18,-3.41
+23,Nick Blakey,Sydney,Gen. Defender,23.0,20.0,3.0,0.87,0.13,6.0,0.0,0.0,1.61,2.61,-1.0,0.52
+23,Oliver Florent,Sydney,Midfielder,18.0,7.0,11.0,0.39,0.61,4.0,0.0,3.0,2.81,-1.69,4.5,-0.12
+23,Peter Ladhams,Sydney,Ruck,17.0,10.0,7.0,0.59,0.41,1.0,2.0,3.0,6.3,4.4,1.9,-1.1
+23,Sam Wicks,Sydney,Gen. Defender,21.0,14.0,7.0,0.67,0.33,1.0,0.0,3.0,6.38,4.05,2.33,-1.43
+23,Tom McCartin,Sydney,Key Defender,13.0,11.0,2.0,0.85,0.15,7.0,1.0,1.0,-0.25,1.95,-2.2,0.7
+23,Tom Papley,Sydney,Gen. Forward,20.0,11.0,9.0,0.55,0.45,6.0,2.0,1.0,5.0,0.82,4.18,2.09
+23,Will Hayward,Sydney,Gen. Forward,8.0,2.0,6.0,0.25,0.75,1.0,0.0,1.0,-3.29,-4.57,1.29,-2.24
