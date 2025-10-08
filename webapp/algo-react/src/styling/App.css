@@ -1,0 +1,26 @@
+.app-container {
+  padding: 16px;
+}
+
+.app-title {
+  margin-bottom: 12px;
+}
+
+.app-controls {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.app-controls label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 500;
+}
+
+.app-controls select {
+  padding: 4px 6px;
+}

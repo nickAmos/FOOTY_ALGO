@@ -1,36 +1,12 @@
 import { useEffect, useMemo, useState } from "react";
 import Papa from "papaparse";
+import "../styling/PlotPlayers.css";
 
 const STAT_TO_COLUMN = {
   DispDiff: "Disposals",
   KickDiff: "Kicks",
   HbDiff: "Handballs",
   MarkDiff: "Marks",
-};
-
-const PLAYER_CONTAINER_STYLE = {
-  padding: 24,
-  border: "1px solid #e5e7eb",
-  borderRadius: 8,
-  background: "#f9fafb",
-};
-
-const TABLE_STYLE = {
-  width: "100%",
-  borderCollapse: "collapse",
-  fontSize: 14,
-};
-
-const HEADER_CELL_STYLE = {
-  textAlign: "left",
-  padding: "6px 8px",
-  borderBottom: "1px solid #d1d5db",
-  background: "#eef2ff",
-};
-
-const CELL_STYLE = {
-  padding: "6px 8px",
-  borderBottom: "1px solid #e5e7eb",
 };
 
 function statToColumn(stat) {
@@ -143,50 +119,41 @@ export default function PlotPlayers({ rowPlayer, colPlayer, team, stat1, stat2, 
   }, [stat1, stat2]);
 
   return (
-    <div style={PLAYER_CONTAINER_STYLE}>
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 12 }}>
-        <h3 style={{ margin: 0 }}>Player Rounds</h3>
+    <div className="player-container">
+      <div className="player-header">
+        <h3>Player Rounds</h3>
         {onBack && (
-          <button
-            onClick={onBack}
-            style={{
-              padding: "8px 12px",
-              borderRadius: 4,
-              border: "1px solid #d1d5db",
-              background: "white",
-              cursor: "pointer",
-            }}
-          >
+          <button onClick={onBack} className="player-back-button">
             Back to heatmap
           </button>
         )}
       </div>
 
-      <div style={{ marginBottom: 10, color: "#4b5563", fontSize: 14 }}>
+      <div className="player-meta">
         {rowPlayer} × {colPlayer} | Team: {normaliseTeamName(team)}
       </div>
 
       {loading && <div>Loading round data…</div>}
-      {error && <div style={{ color: "#b91c1c" }}>{error}</div>}
+      {error && <div className="player-alert">{error}</div>}
 
       {!loading && !error && (!playerRows || rounds.length === 0) && (
         <div>No round data found for the selected players.</div>
       )}
 
       {!loading && !error && playerRows && rounds.length > 0 && (
-        <div style={{ display: "flex", flexDirection: "column", gap: 24 }}>
+        <div className="player-sections">
           {statsToDisplay.map(({ stat, column }) => (
             <div key={column}>
-              <h4 style={{ margin: "0 0 8px" }}>
+              <h4 className="player-section-title">
                 {column}
                 {column !== stat ? ` (from ${stat})` : ""}
               </h4>
-              <table style={TABLE_STYLE}>
+              <table className="player-table">
                 <thead>
                   <tr>
-                    <th style={HEADER_CELL_STYLE}>Round</th>
-                    <th style={HEADER_CELL_STYLE}>{rowPlayer}</th>
-                    <th style={HEADER_CELL_STYLE}>{colPlayer}</th>
+                    <th>Round</th>
+                    <th>{rowPlayer}</th>
+                    <th>{colPlayer}</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -195,9 +162,9 @@ export default function PlotPlayers({ rowPlayer, colPlayer, team, stat1, stat2, 
                     const colEntry = playerRows[colPlayer]?.find((r) => r.Round === round);
                     return (
                       <tr key={`${column}-${round}`}>
-                        <td style={CELL_STYLE}>{round}</td>
-                        <td style={CELL_STYLE}>{formatValue(rowEntry, column)}</td>
-                        <td style={CELL_STYLE}>{formatValue(colEntry, column)}</td>
+                        <td>{round}</td>
+                        <td>{formatValue(rowEntry, column)}</td>
+                        <td>{formatValue(colEntry, column)}</td>
                       </tr>
                     );
                   })}

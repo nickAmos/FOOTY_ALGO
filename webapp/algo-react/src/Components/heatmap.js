@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import Papa from "papaparse";
+import "../styling/Heatmap.css";
 
 /** Convert hex to rgb for color mixing */
 function hexToRgb(hex) {
@@ -88,42 +89,29 @@ export default function Heatmap({
     return `${Math.max(140, cellSize * 5)}px repeat(${data.cols.length}, ${cellSize}px)`;
   }, [data, cellSize]);
 
-  if (err) return <div style={{ padding: 12, color: "#b91c1c" }}>Error: {err}</div>;
-  if (!data) return <div style={{ padding: 12 }}>Loading heatmap…</div>;
+  const containerStyle = useMemo(
+    () => ({
+      "--hm-grid-columns": gridCols,
+      "--hm-cell-size": `${cellSize}px`,
+    }),
+    [gridCols, cellSize],
+  );
+
+  if (err) return <div className="hm-message hm-message--error">Error: {err}</div>;
+  if (!data) return <div className="hm-message">Loading heatmap…</div>;
 
   return (
-    <div style={{ maxHeight: "75vh", overflow: "auto", border: "1px solid #e5e7eb", borderRadius: 8 }}>
-      {title && <div style={{ padding: 10, fontWeight: 600 }}>{title}</div>}
+    <div className="heatmap-container" style={containerStyle}>
+      {title && <div className="heatmap-title">{title}</div>}
 
       {/* Header row */}
-      <div
-        className="hm-header"
-        style={{
-          display: "grid",
-          gridTemplateColumns: gridCols,
-          position: "sticky",
-          top: 0,
-          background: "white",
-          zIndex: 2,
-          borderBottom: "1px solid #e5e7eb",
-        }}
-      >
-        <div style={{ padding: 8, fontWeight: 600 }}>Players</div>
+      <div className="hm-header">
+        <div className="hm-header-label">Players</div>
         {data.cols.map((c, j) => (
           <div
             key={`h-${j}`}
             title={c}
-            style={{
-              padding: 4,
-              fontSize: 11,
-              textAlign: "center",
-              writingMode: "vertical-rl",
-              transform: "rotate(180deg)",
-              whiteSpace: "nowrap",
-              overflow: "hidden",
-              textOverflow: "ellipsis",
-              borderLeft: "1px solid #f3f4f6",
-            }}
+            className="hm-header-cell"
           >
             {c}
           </div>
@@ -133,25 +121,11 @@ export default function Heatmap({
       {/* Body rows */}
       <div>
         {data.rows.map((rName, i) => (
-          <div
-            key={`r-${i}`}
-            style={{ display: "grid", gridTemplateColumns: gridCols, borderBottom: "1px solid #f3f4f6" }}
-          >
+          <div key={`r-${i}`} className="hm-row">
             {/* Row label */}
             <div
               title={rName}
-              style={{
-                position: "sticky",
-                left: 0,
-                zIndex: 1,
-                background: "white",
-                padding: 6,
-                borderRight: "1px solid #f3f4f6",
-                fontSize: 13,
-                whiteSpace: "nowrap",
-                overflow: "hidden",
-                textOverflow: "ellipsis",
-              }}
+              className="hm-row-label"
             >
               {rName}
             </div>
@@ -170,17 +144,10 @@ export default function Heatmap({
                   onClick={() =>
                     onCellClick?.({ rowIndex: i, colIndex: j, rowPlayer: rName, colPlayer: cName, value: v })
                   }
+                  className="hm-cell-button"
                   style={{
-                    width: cellSize,
-                    height: cellSize,
                     background: bg,
                     color: labelColor(v, isDiag),
-                    border: "1px solid #ffffff",
-                    display: "flex",
-                    alignItems: "center",
-                    justifyContent: "center",
-                    fontSize: 11,
-                    cursor: "pointer",
                   }}
                 >
                   {label}
@@ -192,19 +159,11 @@ export default function Heatmap({
       </div>
 
       {/* Legend */}
-      <div style={{ display: "flex", alignItems: "center", gap: 8, padding: 8, fontSize: 12 }}>
+      <div className="hm-legend">
         <span>−1</span>
-        <div
-          style={{
-            height: 10,
-            width: 160,
-            background: "linear-gradient(90deg, #2b6cb0 0%, #ffffff 50%, #c53030 100%)",
-            borderRadius: 4,
-            border: "1px solid #e5e7eb",
-          }}
-        />
+        <div className="hm-legend-scale" />
         <span>+1</span>
-        <span style={{ marginLeft: 12, color: "#6b7280" }}>grey = diagonal / missing</span>
+        <span className="hm-legend-note">grey = diagonal / missing</span>
       </div>
     </div>
   );

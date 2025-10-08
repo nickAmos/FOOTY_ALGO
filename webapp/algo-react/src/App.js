@@ -2,6 +2,7 @@
 import { useMemo, useState } from "react";
 import Heatmap from "./Components/heatmap";
 import PlotPlayers from "./Components/plotplayers";
+import "./styling/App.css";
 
 // Keep these in sync with your folder/filename casing
 const TEAMS = [
@@ -11,7 +12,7 @@ const TEAMS = [
   "Greater-Western-Sydney","Gold-Coast","North-Melbourne","West-Coast"
 ];
 
-const STATS = ["DispDiff","KickDiff","HbDiff","MarkDiff","Disposals","Kicks","Handballs","Marks","K%","H%"];
+const STATS = ["DispDiff","KickDiff","HbDiff","MarkDiff"];
 
 // helper to safely build file/paths
 const slug = (s) => s.toLowerCase().replace(/\s+/g, "-"); // team file part
@@ -32,12 +33,12 @@ export default function App() {
 
 
   return (
-    <div style={{ padding: 16 }}>
-      <h2 style={{ marginBottom: 12 }}>AFL Heatmaps</h2>
+    <div className="app-container">
+      <h2 className="app-title">AFL Heatmaps</h2>
 
       {/* Controls */}
       {!selectedPlayers && (
-        <div style={{ display: "flex", gap: 12, alignItems: "center", marginBottom: 12 }}>
+        <div className="app-controls">
           <label>
             Team{" "}
             <select value={team} onChange={(e)=>setTeam(e.target.value)}>
