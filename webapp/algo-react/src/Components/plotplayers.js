@@ -24,6 +24,24 @@ function formatValue(record, column) {
   return raw;
 }
 
+function formatValueWithDiff(record, valueColumn, diffColumn) {
+  const base = formatValue(record, valueColumn);
+  if (base === "—") return base;
+  if (!record || !diffColumn) return base;
+  const diffRaw = record[diffColumn];
+  if (diffRaw === undefined || diffRaw === null || diffRaw === "") return base;
+  const diffNum = Number(diffRaw);
+  let diff;
+  if (Number.isFinite(diffNum)) {
+    diff = Number.isInteger(diffNum) ? diffNum.toString() : diffNum.toFixed(2);
+  } else if (typeof diffRaw === "string" && diffRaw.trim()) {
+    diff = diffRaw.trim();
+  } else {
+    return base;
+  }
+  return `${base} (${diff})`;
+}
+
 function normaliseTeamName(team) {
   return team.replace(/-/g, " ");
 }
@@ -142,36 +160,39 @@ export default function PlotPlayers({ rowPlayer, colPlayer, team, stat1, stat2, 
 
       {!loading && !error && playerRows && rounds.length > 0 && (
         <div className="player-sections">
-          {statsToDisplay.map(({ stat, column }) => (
-            <div key={column}>
-              <h4 className="player-section-title">
-                {column}
-                {column !== stat ? ` (from ${stat})` : ""}
-              </h4>
-              <table className="player-table">
-                <thead>
-                  <tr>
-                    <th>Round</th>
-                    <th>{rowPlayer}</th>
-                    <th>{colPlayer}</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {rounds.map((round) => {
-                    const rowEntry = playerRows[rowPlayer]?.find((r) => r.Round === round);
-                    const colEntry = playerRows[colPlayer]?.find((r) => r.Round === round);
-                    return (
-                      <tr key={`${column}-${round}`}>
-                        <td>{round}</td>
-                        <td>{formatValue(rowEntry, column)}</td>
-                        <td>{formatValue(colEntry, column)}</td>
-                      </tr>
-                    );
-                  })}
-                </tbody>
-              </table>
-            </div>
-          ))}
+          {statsToDisplay.map(({ stat, column }) => {
+            const diffColumn = stat !== column ? stat : null;
+            return (
+              <div key={column}>
+                <h4 className="player-section-title">
+                  {column}
+                  {column !== stat ? ` (from ${stat})` : ""}
+                </h4>
+                <table className="player-table">
+                  <thead>
+                    <tr>
+                      <th>Round</th>
+                      <th>{rowPlayer}</th>
+                      <th>{colPlayer}</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {rounds.map((round) => {
+                      const rowEntry = playerRows[rowPlayer]?.find((r) => r.Round === round);
+                      const colEntry = playerRows[colPlayer]?.find((r) => r.Round === round);
+                      return (
+                        <tr key={`${column}-${round}`}>
+                          <td>{round}</td>
+                          <td>{formatValueWithDiff(rowEntry, column, diffColumn)}</td>
+                          <td>{formatValueWithDiff(colEntry, column, diffColumn)}</td>
+                        </tr>
+                      );
+                    })}
+                  </tbody>
+                </table>
+              </div>
+            );
+          })}
         </div>
       )}
     </div>

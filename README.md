@@ -1,5 +1,5 @@
 # FOOTY_ALGO ideas tab
 
--> investigate heat map cells, look into important values, print out a plot of their stat over the rounds.
+-> make heatmap triangle for same stat comparisons.
+-> un-grey the player-player diagonal for dif stat comparisons.
 -> if players dont produced >= 10 games together maybe void the cell.
--> remove handball,kick,disposal total comparisons from stat selection
